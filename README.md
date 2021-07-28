@@ -18,6 +18,7 @@ This entity category refers to persons. It may refer to both individuals as well
 Persons have three kinds of attributes: Gender, Role and Legal Status
 
 #### Gender
+is categorised as:
 * Man
 * Woman
 * Group
@@ -25,4 +26,14 @@ Persons have three kinds of attributes: Gender, Role and Legal Status
 
 In general we are interested in tagging persons with the mentioned proper name. If the name is followed or led by an identifier which reveals their gender, we shall mark the identifier and the name. Consider these examples:
 
-![woman](images/person_slavinneclara)
+![woman](images/person_slavinneclara.png) 
+
+
+The exception is made only in the case of enslaved or formerly enslaved persons — tag such references to persons even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
+
+
+
+When the leading identifier is not mentioned and only the name of a person is mentioned, we do not need to guess the gender but can leave it unspecified. 
+
+![unspecifiedgender](images/person_unspecifiedgender.png)
+
