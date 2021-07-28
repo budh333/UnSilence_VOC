@@ -26,7 +26,7 @@ is categorised as:
 
 In general we are interested in tagging persons with the mentioned proper name. If the name is followed or led by an identifier which reveals their gender, we shall mark the identifier and the name. Consider these examples:
 
-![woman](images/person_slavinneclara.png) 
+![woman](images/person_slavinneclara.png | width=100) 
 
 
 The exception is made only in the case of enslaved or formerly enslaved persons — tag such references to persons even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
@@ -35,5 +35,5 @@ The exception is made only in the case of enslaved or formerly enslaved persons 
 
 When the leading identifier is not mentioned and only the name of a person is mentioned, we do not need to guess the gender but can leave it unspecified. 
 
-![unspecifiedgender](images/person_unspecifiedgender.png)
+![unspecifiedgender](images/person_unspecifiedgender.png | width=100)
 
