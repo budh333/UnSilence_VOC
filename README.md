@@ -41,3 +41,23 @@ When the leading identifier is not mentioned and only the name of a person is me
 However, in such a situation where a leading identifier does mark the gender of a person, we can continue tagging them with that gender elsewhere on the page even when it occurs without the leading identifier. For instance consider the two mentions of “Jan Hendrik van der Laan”:
 
 ![repeatedrefs](images/JanHendrik.png)
+
+#### Legal Status
+
+* Enslaved
+* Freed
+* Unspecified
+
+#### Role
+
+* Notary
+* Acting_Notary
+* Testator
+* Beneficiary
+* Testator_Beneficiary
+* Witness
+* Other
+
+### ProperName
+Proper names apply for places, organizations and persons. For instance, when the name of the person is mentioned, please annotate that as well. Proper names are nested within the “Person” entity. And similarly for places and organizations.
+
