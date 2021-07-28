@@ -18,4 +18,11 @@ This entity category refers to persons. It may refer to both individuals as well
 Persons have three kinds of attributes: Gender, Role and Legal Status
 
 #### Gender
-..* Man
+* Man
+* Woman
+* Group
+* Unspecified
+
+In general we are interested in tagging persons with the mentioned proper name. If the name is followed or led by an identifier which reveals their gender, we shall mark the identifier and the name. Consider these examples:
+
+![alt text]
