@@ -7,7 +7,7 @@ The collection in which we work is largely built up in the VOC establishments, i
 
 
 ## Data
-This project is concerned with [testaments of those employed by the VOC now with the National Archives](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/voc-oost-indische-testamenten). These handwritten wills were recorded in Dutch in the XVII and XVIII century. These wills have been recently automatically transcribed using handwritten text recognition (HTR) technology, therefore the transcriptions might contain errors. The transcriptions have been loaded into the annotation software: BRAT, which were annotated.
+This project is concerned with [testaments of those employed by the VOC](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/voc-oost-indische-testamenten) now with the National Archives. These handwritten wills were recorded in Dutch in the XVII and XVIII century. These wills have been recently automatically transcribed using handwritten text recognition (HTR) technology, therefore the transcriptions might contain errors. The transcriptions have been loaded into the annotation software: BRAT, which were annotated.
 
 ## Annotation Schema
 The BRAT annotation tool was used for the task of collaborative annotations. While performing annotations on BRAT, the annotators compared the transcribed documents with the actual scans which can be found on the website of the Nationaal Archief (link) due to the errors in the transcription. Find below a brief explanation of the kind of named entities used in the annotation schema. 
@@ -18,3 +18,4 @@ This entity category refers to persons. It may refer to both individuals as well
 Persons have three kinds of attributes: Gender, Role and Legal Status
 
 #### Gender
+..* Man
