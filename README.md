@@ -40,4 +40,4 @@ When the leading identifier is not mentioned and only the name of a person is me
 
 However, in such a situation where a leading identifier does mark the gender of a person, we can continue tagging them with that gender elsewhere on the page even when it occurs without the leading identifier. For instance consider the two mentions of “Jan Hendrik van der Laan”:
 
-
+![repeatedrefs](images/JanHendrik.png)
