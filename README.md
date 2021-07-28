@@ -27,6 +27,7 @@ is categorised as:
 In general we are interested in tagging persons with the mentioned proper name. If the name is followed or led by an identifier which reveals their gender, we shall mark the identifier and the name. Consider these examples:
 
 ![woman](images/person_slavinneclara.png)
+![man](images/person_man.png)
 
 
 The exception is made only in the case of enslaved or formerly enslaved persons — tag such references to persons even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
