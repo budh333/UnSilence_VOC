@@ -25,4 +25,4 @@ Persons have three kinds of attributes: Gender, Role and Legal Status
 
 In general we are interested in tagging persons with the mentioned proper name. If the name is followed or led by an identifier which reveals their gender, we shall mark the identifier and the name. Consider these examples:
 
-![alt text]
+![alt text](https://github.com/[budh333]/[UnSilence_VOC]/blob/[images]/person_slavinneclara?raw=true)
