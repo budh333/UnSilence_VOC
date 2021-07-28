@@ -32,7 +32,7 @@ In general we are interested in tagging persons with the mentioned proper name. 
 
 The exception is made only in the case of enslaved or formerly enslaved persons — tag such references to persons even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
 
-![slave]()
+![slave](images/person_nonname.png)
 
 When the leading identifier is not mentioned and only the name of a person is mentioned, we do not need to guess the gender but can leave it unspecified. 
 
