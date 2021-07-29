@@ -81,7 +81,7 @@ Consider these examples:
 ### Organization 
 Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, that is annotated as well. 
 
-Organizations have an attribute: **beneficiary**.
+Organizations have an attribute: **beneficiary** depending on whether the testator decides to leave money to the organization.
 
 Consider this frequent example:
 
