@@ -68,7 +68,8 @@ When role of the person in the testament is one of the six stated roles, it is a
 
 
 ### ProperName
-Proper names apply for places, organizations and persons. For instance, when the name of the person is mentioned, please annotate that as well. Proper names are nested within the “Person” entity. And similarly for places and organizations.
+Proper names apply for places, organizations and persons. 
+
 
 ### Organization 
 Examples: Vereenigde Oost Indische Compagnie, Lutherse Kerk
