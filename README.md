@@ -72,6 +72,9 @@ Proper names apply for places, organizations and persons.
 
 <img src="images/propername_notary.png" width=20% height=20%> 
 
+### Place 
+
+<img src="images/propernames_place.png" width=10% height=10%> 
 
 ### Organization 
 Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, that is annotated as well. 
@@ -80,9 +83,7 @@ Organizations have an attribute: **beneficiary**.
 
 Consider this frequent example:
 
-### Place 
 
-<img src="images/propernames_place.png" width=10% height=10%> 
 
 ### Noteworthy
  
