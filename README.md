@@ -74,6 +74,8 @@ Proper names apply for places, organizations and persons.
 
 ### Place 
 
+Consider these examples:
+
 <img src="images/propernames_place.png" width=10% height=10%> 
 
 ### Organization 
