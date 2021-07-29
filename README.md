@@ -83,6 +83,7 @@ Organizations have an attribute: **beneficiary**.
 
 Consider this frequent example:
 
+<img src="images/org_place.png" width=50% height=50%> 
 
 
 ### Noteworthy
