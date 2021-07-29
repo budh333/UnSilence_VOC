@@ -95,7 +95,8 @@ When annotators encounter a fragment of text that reveals some interesting infor
 <img src="images/noteworthy.png" width=50% height=50%> 
 
 
-### TranscriptionError
+### TranscriptionError_Document
+Sometimes certain documents are scanned with overlaps, thus leading to incorrect transcriptions. All entities are annotated on such pages, and a single "TranscriptionError_Document" entity is annotated on such pages. 
 
 ### DuplicatePage 
-
+Sometimes certain documents are scanned with overlaps or multiple times, thus leading to incorrect transcriptions and duplicate pages. All entities are annotated on such pages, and a single "DuplicatePage" entity is annotated on such pages. 
