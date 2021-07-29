@@ -90,9 +90,9 @@ Consider this frequent example:
 
 ### Noteworthy
  
-When annotators encounter across a fragment of text that reveals some interesting information, it is tagged under this entity. 
- 
-Additionally a comment is left under the “Note” section of any annotation. For instance the note left for the noteworthy annotation may state the correct spelling, and why the annotator found the phrase noteworthy.
+When annotators encounter across a fragment of text that reveals some interesting information, it is tagged under this entity. Additionally a comment may be left under the “Note” section of any annotation. For instance the note left for the noteworthy annotation may state the correct spelling, and why the annotator found the phrase noteworthy.
+
+
 
 
 
