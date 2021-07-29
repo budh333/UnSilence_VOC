@@ -70,6 +70,8 @@ When role of the person in the testament is one of the six stated roles, it is a
 ### ProperName
 Proper names apply for places, organizations and persons. 
 
+<img src="images/propername_notary.png" width=20% height=20%> 
+
 
 ### Organization 
 Examples: Vereenigde Oost Indische Compagnie, Lutherse Kerk
@@ -77,11 +79,13 @@ Organizations refer to companies, schools, universities but also the branches of
 
 ### Place 
 
- ### Noteworthy
+<img src="images/propernames_place.png" width=10% height=10%> 
+
+### Noteworthy
  
- In case annotators encounter across a fragment of text that reveals some interesting information, please tag it under this entity. 
+When annotators encounter across a fragment of text that reveals some interesting information, it is tagged under this entity. 
  
- You can additionally leave a comment under the “Note” section of any annotation. For instance the note left for the noteworthy annotation states the correct spelling, and why the annotator found the phrase noteworthy.
+Additionally a comment is left under the “Note” section of any annotation. For instance the note left for the noteworthy annotation may state the correct spelling, and why the annotator found the phrase noteworthy.
 
 
 
