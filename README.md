@@ -26,17 +26,17 @@ In general we are interested in tagging persons with the mentioned proper name. 
 
 ![woman](images/person_slavinneclara.png)
 ![man](images/person_man.png)
+<img src="images/person_Group.png" width=21.25% height=21.25%>
 
-
-The exception is made only in the case of enslaved or formerly enslaved persons — tag such references to persons even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
+The exception is made only in the case of enslaved or formerly enslaved persons — such references to persons are tagged even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
 
 ![slave](images/person_nonname.png)
 
-When the leading identifier is not mentioned and only the name of a person is mentioned, we do not need to guess the gender but can leave it unspecified. 
+When the leading identifier is not mentioned and only the name of a person is mentioned, gender is left as unspecified. 
 
 <img src="images/person_unspecifiedgender.png" width=33% height=33%>
 
-However, in such a situation where a leading identifier does mark the gender of a person, we can continue tagging them with that gender elsewhere on the page even when it occurs without the leading identifier. For instance consider the two mentions of “Jan Hendrik van der Laan”:
+However, in a situation where a leading identifier does mark the gender of a person, we continue tagging them with that gender elsewhere on the page even when it occurs without the leading identifier. For instance consider the two mentions of “Jan Hendrik van der Laan”:
 
 <img src="images/JanHendrik.png" width=45% height=45%>
 
@@ -48,6 +48,7 @@ However, in such a situation where a leading identifier does mark the gender of 
 
 When legal status of the person is specified, that is annotated as an attribute to the person otherwise legal status is marked as unspecified. Consider these examples:
 
+<img src="person_enslaved.png" width=45% height=45%>
 
 
 #### Role
