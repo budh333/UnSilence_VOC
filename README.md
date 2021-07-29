@@ -74,8 +74,11 @@ Proper names apply for places, organizations and persons.
 
 
 ### Organization 
-Examples: Vereenigde Oost Indische Compagnie, Lutherse Kerk
-Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, please annotate that as well.
+Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, that is annotated as well. 
+
+Organizations have an attribute: **beneficiary**.
+
+Consider this frequent example:
 
 ### Place 
 
