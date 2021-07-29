@@ -46,6 +46,10 @@ However, in such a situation where a leading identifier does mark the gender of 
 * Freed
 * Unspecified
 
+When legal status of the person is specified, that is annotated as an attribute to the person otherwise legal status is marked as unspecified. Consider these examples:
+
+
+
 #### Role
 
 * Notary
