@@ -18,7 +18,6 @@ This entity category refers to persons. It may refer to both individuals as well
 Persons have three kinds of attributes: **Gender**, **Role** and **Legal Status**
 
 #### Gender
-is categorised as:
 * Man
 * Woman
 * Group
