@@ -76,7 +76,7 @@ Proper names apply for places, organizations and persons.
 
 Consider these examples:
 
-<img src="images/propernames_place.png" width=10% height=10%> <img src="images/place.png" width=60% height=60%> 
+<img src="images/propernames_place.png" width=8% height=8%> <img src="images/place.png" width=60% height=60%> 
 
 ### Organization 
 Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, that is annotated as well. 
