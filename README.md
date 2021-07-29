@@ -5,9 +5,8 @@ The VOC wills in the National Archives are a small part of a much larger collect
 
 The collection in which we work is largely built up in the VOC establishments, in particular Batavia. A copy of each will was sent to the VOC headquarters in Amsterdam. After the disintegration of the VOC at the end of the 18th century, part of these copy wills have been preserved and probably only much later merged into volumes (in Dutch: banden) that are now in the custody of the National Archives. In the 19th century, archivists produced an index to these testaments indexing the name of the male testator. A few years ago these testaments were digitized and can be accessed online but the 19th century index was still the main tool to be used to access the wills.  
 
-
 ## Data
-This project is concerned with [testaments of those employed by the VOC](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/voc-oost-indische-testamenten) now with the National Archives. These handwritten wills were recorded in Dutch in the XVII and XVIII century. These wills have been recently automatically transcribed using handwritten text recognition (HTR) technology, therefore the transcriptions might contain errors. Part of the transcriptions were annotated using the brat rapid annotation tool (BRAT). 
+This project is concerned with [testaments of those employed by the VOC](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/voc-oost-indische-testamenten) now with the National Archives. These handwritten wills were recorded in Dutch in the XVII and XVIII century. These wills have been recently automatically transcribed using handwritten text recognition (HTR) technology, therefore the transcriptions might contain errors. Part of the transcriptions (**percentage of total**) were annotated using the brat rapid annotation tool (BRAT). 
 
 ## Annotation Schema
 The BRAT annotation tool was used for the task of collaborative annotations. While performing annotations on BRAT, the annotators compared the transcribed documents with the actual scans which can be found on the website of the Nationaal Archief due to the errors in the transcription. Find below an explanation ofthe annotation schema. 
@@ -35,11 +34,11 @@ The exception is made only in the case of enslaved or formerly enslaved persons 
 
 When the leading identifier is not mentioned and only the name of a person is mentioned, we do not need to guess the gender but can leave it unspecified. 
 
-![unspecifiedgender](images/person_unspecifiedgender.png)
+<img src="images/person_unspecifiedgender.png" width=33% height=33%>
 
 However, in such a situation where a leading identifier does mark the gender of a person, we can continue tagging them with that gender elsewhere on the page even when it occurs without the leading identifier. For instance consider the two mentions of “Jan Hendrik van der Laan”:
 
-![repeatedrefs](images/JanHendrik.png)
+<img src="images/JanHendrik.png" width=45% height=45%>
 
 #### Legal Status
 
