@@ -61,7 +61,10 @@ When legal status of the person is specified, that is annotated as an attribute 
 * Witness
 * Other
 
-When role of the person in the testament is stated, it is annotated and otherwise annotated as other.
+When role of the person in the testament is one of the six stated roles, it is annotated and otherwise annotated as other.
+
+<img src="images/person_notary.png" width=20% height=20%> 
+<img src="images/person_witness.png" width=50% height=50%>
 
 
 ### ProperName
