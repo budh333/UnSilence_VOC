@@ -95,5 +95,7 @@ When annotators encounter a fragment of text that reveals some interesting infor
 <img src="images/noteworthy.png" width=50% height=50%> 
 
 
+### TranscriptionError
 
+### DuplicatePage 
 
