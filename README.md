@@ -26,7 +26,7 @@ In general we are interested in tagging persons with the mentioned proper name. 
 
 ![woman](images/person_slavinneclara.png)
 ![man](images/person_man.png)
-<img src="images/person_Group.png" width=21.25% height=21.25%>
+<img src="images/person_Group.png" width=21% height=21.25%>
 
 The exception is made only in the case of enslaved or formerly enslaved persons — such references to persons are tagged even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
 
@@ -48,7 +48,7 @@ However, in a situation where a leading identifier does mark the gender of a per
 
 When legal status of the person is specified, that is annotated as an attribute to the person otherwise legal status is marked as unspecified. Consider these examples:
 
-<img src="images/person_enslaved.png" width=18% height=15%>
+<img src="images/person_enslaved.png" width=17% height=15%> <img src="images/person_unspecleg.png" width=18% height=15%>
 
 
 #### Role
