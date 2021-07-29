@@ -61,3 +61,17 @@ However, in such a situation where a leading identifier does mark the gender of 
 ### ProperName
 Proper names apply for places, organizations and persons. For instance, when the name of the person is mentioned, please annotate that as well. Proper names are nested within the “Person” entity. And similarly for places and organizations.
 
+### Organization 
+Examples: Vereenigde Oost Indische Compagnie, Lutherse Kerk
+Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, please annotate that as well.
+
+### Place 
+
+ ### Noteworthy
+ 
+ In case annotators encounter across a fragment of text that reveals some interesting information, please tag it under this entity. 
+ 
+ You can additionally leave a comment under the “Note” section of any annotation. For instance the note left for the noteworthy annotation states the correct spelling, and why the annotator found the phrase noteworthy.
+
+
+
