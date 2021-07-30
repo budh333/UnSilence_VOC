@@ -79,9 +79,7 @@ Consider these examples:
 <img src="images/propernames_place.png" width=7.5% height=7.5%> <img src="images/place.png" width=60% height=60%> 
 
 ### Organization 
-Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, that is annotated as well. 
-
-Organizations have an attribute: **beneficiary** depending on whether the testator decides to leave money to the organization.
+Organizations refer to companies, schools, universities but also the branches of the church. In case the proper name of the organization is mentioned, that is annotated as well. Organizations have an attribute: **beneficiary** with values "yes" and "no" depending on whether the testator decides an organization to be a beneficiary.
 
 Consider this frequent example:
 
