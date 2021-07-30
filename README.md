@@ -26,7 +26,7 @@ In general we are interested in tagging persons with the mentioned proper name. 
 
 ![woman](images/person_slavinneclara.png)
 ![man](images/person_man.png)
-<img src="images/person_Group.png" width=21.5% height=21.25%>
+<img src="images/person_Group.png" width=21.75% height=21.25%>
 
 The exception is made only in the case of enslaved or formerly enslaved persons — such references to persons are tagged even when not followed by proper name. This is because such persons are often mentioned without name in these documents — a silencing mechanism — and are of particular interest for this research. For example:
 
