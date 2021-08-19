@@ -23,8 +23,8 @@ def get_optimizer(arguments_service: ArgumentsServiceBase):
     challenge = arguments_service.challenge
     configuration = arguments_service.configuration
     if challenge == Challenge.NamedEntityRecognition:
-        if configuration == Configuration.BERT:
-            result = 'transformer'
+        if configuration == Configuration.BiLSTMCRF:
+            result = 'adam'
 
     return result
 
@@ -35,8 +35,8 @@ def get_loss_function(arguments_service: ArgumentsServiceBase):
     configuration = arguments_service.configuration
 
     if challenge == Challenge.NamedEntityRecognition:
-        if configuration == Configuration.BERT:
-            return 'transformer'
+        if configuration == Configuration.BiLSTMCRF:
+            return 'ner'
 
     return loss_function
 
@@ -61,7 +61,7 @@ def get_process_service(arguments_service: ArgumentsServiceBase):
     challenge = arguments_service.challenge
 
     if challenge == Challenge.NamedEntityRecognition:
-        result = 'transformer'
+        result = 'ner'
 
     return result
 
@@ -92,14 +92,3 @@ def include_train_service(arguments_service: ArgumentsServiceBase):
         return 'exclude'
 
     return 'include'
-
-def get_dataset_type(arguments_service: ArgumentsServiceBase):
-    joint_model: bool = arguments_service.joint_model
-    challenge: Challenge = arguments_service.challenge
-    result = 'base'
-
-    if not joint_model:
-        if challenge == Challenge.NamedEntityRecognition:
-            result = 'transformer'
-
-    return result

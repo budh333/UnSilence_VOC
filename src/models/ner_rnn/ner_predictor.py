@@ -1,3 +1,4 @@
+from logging import log
 import torch
 import torch.nn as nn
 import numpy as np
@@ -14,6 +15,7 @@ from entities.options.pretrained_representations_options import PretrainedRepres
 
 from enums.metric_type import MetricType
 from enums.tag_metric import TagMetric
+from enums.tag_measure_type import TagMeasureType
 from enums.entity_tag_type import EntityTagType
 from enums.word_feature import WordFeature
 # from enums.text_sequence_split_type import TextSequenceSplitType
@@ -44,7 +46,7 @@ class NERPredictor(ModelBase):
             file_service: FileService,
             tag_metrics_service: TagMetricsService,
             log_service: LogService):
-        super().__init__(data_service, arguments_service)
+        super().__init__(data_service, arguments_service, log_service)
 
         self._metrics_service = metrics_service
         self._process_service = process_service
@@ -92,6 +94,9 @@ class NERPredictor(ModelBase):
             manual_features_count=len(WordFeature))
 
         self.rnn_encoder = RNNEncoder(
+            data_service,
+            arguments_service,
+            log_service,
             file_service,
             rnn_encoder_options)
 
@@ -101,6 +106,9 @@ class NERPredictor(ModelBase):
 
         self._crf_layers = nn.ModuleList([
             ConditionalRandomField(
+                data_service,
+                arguments_service,
+                log_service,
                 num_of_tags=number_of_tags,
                 device=arguments_service.device,
                 context_emb=arguments_service.hidden_dimension,
@@ -115,6 +123,7 @@ class NERPredictor(ModelBase):
 
         self.metric_log_key = self._create_measure_key(
             TagMetric.F1ScoreMicro,
+            TagMeasureType.Partial,
             EntityTagType.Main if EntityTagType.Main in self._entity_tag_types else self._entity_tag_types[
                 0],
             'all')
@@ -247,6 +256,7 @@ class NERPredictor(ModelBase):
         keys = [
             self._create_measure_key(
                 TagMetric.F1ScoreMicro,
+                TagMeasureType.Partial,
                 entity_tag_type,
                 'all')
             for entity_tag_type in self._entity_tag_types
@@ -270,9 +280,10 @@ class NERPredictor(ModelBase):
     def _create_measure_key(
             self,
             metric_type: TagMetric,
+            tag_measure_type: TagMeasureType,
             entity_tag_type: EntityTagType,
             entity_str: str):
-        key = f'{metric_type.value}-{entity_str}-{entity_tag_type.value}'
+        key = f'{metric_type.value}-{tag_measure_type.value}-{entity_str}-{entity_tag_type.value}'
         return key
 
     def _create_mask(self, rnn_outputs: torch.Tensor, lengths: torch.Tensor):

@@ -1,10 +1,12 @@
+from services.log_service import LogService
+from services.arguments.arguments_service_base import ArgumentsServiceBase
+from services.data_service import DataService
 import torch
 from torch import nn
 
 from typing import List
 
 from overrides import overrides
-import fasttext
 
 from entities.batch_representation import BatchRepresentation
 from entities.options.embedding_layer_options import EmbeddingLayerOptions
@@ -23,9 +25,12 @@ from services.file_service import FileService
 class EmbeddingLayer(ModelBase):
     def __init__(
             self,
+            data_service: DataService,
+            arguments_service: ArgumentsServiceBase,
+            log_service: LogService,
             file_service: FileService,
             embedding_layer_options: EmbeddingLayerOptions):
-        super().__init__()
+        super().__init__(data_service, arguments_service, log_service)
 
         self._output_embedding_type = embedding_layer_options.output_embedding_type
         self._merge_subword_embeddings = embedding_layer_options.merge_subword_embeddings
@@ -36,6 +41,9 @@ class EmbeddingLayer(ModelBase):
         self._output_size = 0
         if self._include_pretrained or self._include_fasttext_model:
             self._pretrained_layer = PretrainedRepresentationsLayer(
+                data_service=data_service,
+                arguments_service=arguments_service,
+                log_service=log_service,
                 file_service=file_service,
                 device=embedding_layer_options.device,
                 pretrained_representations_options=embedding_layer_options.pretrained_representations_options)

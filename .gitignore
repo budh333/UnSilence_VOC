@@ -1,2 +1,4 @@
 /src/.logs
 __pycache__/
+/src/.cache/
+/src/data/

@@ -47,12 +47,13 @@ class DatasetService:
             pass
 
         if not joint_model:
-            if challenge == Challenge.OCREvaluation:
+            if challenge == Challenge.NamedEntityRecognition:
                 self._log_service.log_debug('Initializing NER dataset')
                 result = NERDataset(
                     arguments_service=self._arguments_service,
                     vocabulary_service=self._vocabulary_service,
                     process_service=self._process_service,
-                    log_service=self._log_service)
+                    log_service=self._log_service,
+                    run_type=run_type)
 
         return result

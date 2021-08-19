@@ -43,11 +43,11 @@ class TestService:
 
             outputs = self._model.forward(batch)
 
-            batch_evaluation = self._evaluation_service.evaluate_batch(
-                outputs,
-                batch,
-                self._arguments_service.evaluation_type,
-                i)
+            # batch_evaluation = self._evaluation_service.evaluate_batch(
+            #     outputs,
+            #     batch,
+            #     self._arguments_service.evaluation_type,
+            #     i)
 
             update_dictionaries(evaluation, batch_evaluation)
 

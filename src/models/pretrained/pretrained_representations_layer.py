@@ -1,6 +1,8 @@
 import os
+from services.log_service import LogService
+from services.arguments.arguments_service_base import ArgumentsServiceBase
+from services.data_service import DataService
 from transformers import PreTrainedModel, BertModel, CamembertModel
-import fasttext
 
 import torch
 from torch import nn
@@ -18,10 +20,13 @@ from models.model_base import ModelBase
 class PretrainedRepresentationsLayer(ModelBase):
     def __init__(
             self,
+            data_service: DataService,
+            arguments_service: ArgumentsServiceBase,
+            log_service: LogService,
             file_service: FileService,
             device: str,
             pretrained_representations_options: PretrainedRepresentationsOptions):
-        super().__init__()
+        super().__init__(data_service, arguments_service, log_service)
 
         self._device = device
         self.do_not_save: bool = (not pretrained_representations_options.fine_tune_pretrained and
@@ -41,9 +46,6 @@ class PretrainedRepresentationsLayer(ModelBase):
         if self._include_pretrained and self._pretrained_model_size and self._pretrained_weights:
             if pretrained_representations_options.pretrained_model == PretrainedModel.BERT:
                 self._pretrained_model = BertModel.from_pretrained(
-                    pretrained_representations_options.pretrained_weights)
-            elif pretrained_representations_options.pretrained_model == PretrainedModel.CamemBERT:
-                self._pretrained_model = CamembertModel.from_pretrained(
                     pretrained_representations_options.pretrained_weights)
 
             if pretrained_representations_options.fine_tune_pretrained:
@@ -79,12 +81,12 @@ class PretrainedRepresentationsLayer(ModelBase):
                 current_representations = current_output[0]
 
                 if start_offset > 0:
-                    result_tensor[:, start_offset+overlap_size:end_offset] = current_representations[:, overlap_size:]
+                    result_tensor[:, start_offset:end_offset] = current_representations#[:, overlap_size:]
                     # we get the mean of the overlapping representations
-                    result_tensor[:, start_offset:start_offset+overlap_size] = torch.mean(
-                        torch.stack([
-                            result_tensor[:, start_offset:start_offset+overlap_size],
-                            current_representations[:, :overlap_size]]))
+                    # result_tensor[:, start_offset:start_offset+overlap_size] = torch.mean(
+                    #     torch.stack([
+                    #         result_tensor[:, start_offset:start_offset+overlap_size],
+                    #         current_representations[:, :overlap_size]]))
                 else:
                     result_tensor[:, :end_offset] = current_representations
 

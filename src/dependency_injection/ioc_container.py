@@ -1,9 +1,10 @@
+from losses.ner_loss import NERLoss
+from services.tag_metrics_service import TagMetricsService
+from models.transformers.bert_model import BertModel
 from services.process.ner_process_service import NERProcessService
-from losses.skip_gram_loss import SkipGramLoss
 from optimizers.sparse_adam_optimizer import SparseAdamOptimizer
 from services.fit_transformation_service import FitTransformationService
 from services.tagging_service import TaggingService
-from losses.simple_loss import SimpleLoss
 
 import dependency_injector.containers as containers
 import dependency_injector.providers as providers
@@ -12,13 +13,10 @@ from dependency_injection.selector_utils import *
 
 import main
 
-
 from losses.loss_base import LossBase
-from losses.transformer_loss_base import TransformerLossBase
-from losses.cross_entropy_loss import CrossEntropyLoss
 
 from models.model_base import ModelBase
-from models.transformers.bert import BERT
+from models.ner_rnn.ner_predictor import NERPredictor
 
 from optimizers.optimizer_base import OptimizerBase
 from optimizers.sgd_optimizer import SGDOptimizer
@@ -137,7 +135,7 @@ class IocContainer(containers.DeclarativeContainer):
 
     process_service: providers.Provider[ProcessServiceBase] = providers.Selector(
         process_service_selector,
-        transformer=providers.Singleton(
+        ner=providers.Singleton(
             NERProcessService,
             arguments_service=arguments_service,
             vocabulary_service=vocabulary_service,
@@ -152,6 +150,7 @@ class IocContainer(containers.DeclarativeContainer):
         arguments_service=arguments_service,
         mask_service=mask_service,
         process_service=process_service,
+        vocabulary_service=vocabulary_service,
         log_service=log_service)
 
     dataloader_service = providers.Factory(
@@ -160,18 +159,32 @@ class IocContainer(containers.DeclarativeContainer):
         dataset_service=dataset_service,
         log_service=log_service)
 
+    tag_metrics_service = providers.Factory(
+        TagMetricsService
+    )
+
     model_selector = providers.Callable(
         get_model_type,
         arguments_service=arguments_service)
 
     model: providers.Provider[ModelBase] = providers.Selector(
         model_selector,
-        bert=providers.Singleton(
-            BERT,
+        bi_lstm_crf=providers.Singleton(
+            NERPredictor,
             arguments_service=arguments_service,
             data_service=data_service,
-            log_service=log_service,
-            tokenize_service=tokenize_service))
+            metrics_service=metrics_service,
+            process_service=process_service,
+            tokenize_service=tokenize_service,
+            file_service=file_service,
+            tag_metrics_service=tag_metrics_service,
+            log_service=log_service))
+    # bert=providers.Singleton(
+    #     BERT,
+    #     arguments_service=arguments_service,
+    #     data_service=data_service,
+    #     log_service=log_service,
+    #     tokenize_service=tokenize_service))
 
     loss_selector = providers.Callable(
         get_loss_function,
@@ -180,10 +193,7 @@ class IocContainer(containers.DeclarativeContainer):
     loss_function: providers.Provider[LossBase] = providers.Selector(
         loss_selector,
         base=providers.Singleton(LossBase),
-        cross_entropy=providers.Singleton(CrossEntropyLoss),
-        simple=providers.Singleton(SimpleLoss),
-        skip_gram=providers.Singleton(SkipGramLoss),
-        transformer=providers.Singleton(TransformerLossBase))
+        ner=providers.Singleton(NERLoss))
 
     optimizer_selector = providers.Callable(
         get_optimizer,
@@ -212,8 +222,6 @@ class IocContainer(containers.DeclarativeContainer):
             arguments_service=arguments_service,
             model=model))
 
-    evaluation_service = None
-
     fit_transformation_service = providers.Factory(
         FitTransformationService)
 
@@ -221,7 +229,6 @@ class IocContainer(containers.DeclarativeContainer):
         TestService,
         arguments_service=arguments_service,
         dataloader_service=dataloader_service,
-        evaluation_service=evaluation_service,
         file_service=file_service,
         model=model
     )

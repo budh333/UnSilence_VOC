@@ -1,3 +1,6 @@
+from services.log_service import LogService
+from services.arguments.arguments_service_base import ArgumentsServiceBase
+from services.data_service import DataService
 import numpy as np
 
 import torch
@@ -26,9 +29,12 @@ from models.model_base import ModelBase
 class RNNEncoder(ModelBase):
     def __init__(
             self,
+            data_service: DataService,
+            arguments_service: ArgumentsServiceBase,
+            log_service: LogService,
             file_service: FileService,
             rnn_encoder_options: RNNEncoderOptions):
-        super().__init__()
+        super().__init__(data_service, arguments_service, log_service)
 
         self._device = rnn_encoder_options.device
 
@@ -49,6 +55,9 @@ class RNNEncoder(ModelBase):
             manual_features_count=rnn_encoder_options.manual_features_count)
 
         self._embedding_layer = EmbeddingLayer(
+            data_service,
+            arguments_service,
+            log_service,
             file_service,
             embedding_layer_options)
 
@@ -67,7 +76,10 @@ class RNNEncoder(ModelBase):
         if rnn_encoder_options.use_attention:
             attention_dimension = rnn_encoder_options.hidden_dimension * multiplier
             self.attention = RNNAttention(
-                attention_dimension, attention_dimension, attention_dimension)
+                data_service,
+                arguments_service,
+                log_service,
+                attention_dimension)
 
         self._output_layers = nn.ModuleList([
             nn.Linear(rnn_encoder_options.hidden_dimension *
@@ -90,7 +102,7 @@ class RNNEncoder(ModelBase):
         embedded = self._embedding_layer.forward(batch_representation)
 
         x_packed = pack_padded_sequence(
-            embedded, batch_representation.subword_lengths, batch_first=True)
+            embedded, batch_representation.subword_lengths.cpu(), batch_first=True)
 
         packed_output, hidden = self.rnn.forward(x_packed)
 

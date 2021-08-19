@@ -1,11 +1,11 @@
 from enums.argument_enum import ArgumentEnum
 
 class Configuration(ArgumentEnum):
-    BERT = 'bert'
+    BiLSTMCRF = 'bi_lstm_crf'
 
     @staticmethod
     def get_friendly_name(configuration) -> str:
-        if configuration == Configuration.BERT:
-            return 'BERT'
+        if configuration == Configuration.BiLSTMCRF:
+            return 'bi_lstm_crf'
 
         return None

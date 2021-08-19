@@ -1,4 +1,5 @@
 import os
+from services.log_service import LogService
 import numpy as np
 
 import random
@@ -26,18 +27,20 @@ class NERDataset(DatasetBase):
             self,
             arguments_service: NERArgumentsService,
             vocabulary_service: VocabularyService,
-            ner_process_service: NERProcessService,
+            process_service: NERProcessService,
+            log_service: LogService,
             run_type: RunType):
         super().__init__()
 
-        self._ner_process_service = ner_process_service
+        self._process_service = process_service
         self._vocabulary_service = vocabulary_service
         self._arguments_service = arguments_service
+        self._log_service = log_service
 
         self._device = arguments_service.device
         self._include_pretrained = arguments_service.include_pretrained_model
 
-        self.ne_collection = ner_process_service.get_processed_data(run_type)
+        self.ne_collection = process_service.get_processed_data(run_type)
 
         self._run_type = run_type
 
@@ -53,7 +56,7 @@ class NERDataset(DatasetBase):
 
         entity_labels = []
         if self._arguments_service.evaluate or self._run_type != RunType.Test:
-            entity_labels = self._ner_process_service.get_entity_labels(item, ignore_unknown=(self._run_type == RunType.Test))
+            entity_labels = self._process_service.get_entity_labels(item, ignore_unknown=(self._run_type == RunType.Test))
 
         filtered_tokens = [token.replace('#', '') for token in item.tokens]
         character_sequence = [self._vocabulary_service.string_to_ids(
@@ -73,8 +76,7 @@ class NERDataset(DatasetBase):
             character_sequence,
             token_characters,
             features,
-            item.document_id,
-            item.segment_idx)
+            item.document_id)
 
     @overrides
     def use_collate_function(self) -> bool:
@@ -95,13 +97,12 @@ class NERDataset(DatasetBase):
          character_sequences,
          token_characters_count,
          feature_set,
-         document_ids,
-         segment_ids) = batch_split
+         document_ids) = batch_split
 
         if not self._arguments_service.evaluate and self._run_type == RunType.Test:
             targets = None
 
-        pad_idx = self._ner_process_service.pad_idx
+        pad_idx = self._process_service.pad_idx
         batch_representation = BatchRepresentation(
             device=self._device,
             batch_size=batch_size,
@@ -112,7 +113,7 @@ class NERDataset(DatasetBase):
             tokens=tokens,
             position_changes=position_changes,
             manual_features=feature_set,
-            additional_information=[(doc_id, seg_id) for doc_id, seg_id in zip(document_ids, segment_ids)],
+            additional_information=document_ids,
             pad_idx=pad_idx)
 
         batch_representation.sort_batch()

@@ -1,3 +1,6 @@
+from services.log_service import LogService
+from services.arguments.arguments_service_base import ArgumentsServiceBase
+from services.data_service import DataService
 import torch
 import torch.autograd as autograd
 import torch.nn as nn
@@ -11,6 +14,9 @@ from models.model_base import ModelBase
 class ConditionalRandomField(ModelBase):
     def __init__(
             self,
+            data_service: DataService,
+            arguments_service: ArgumentsServiceBase,
+            log_service: LogService,
             num_of_tags: int,
             device,
             context_emb: int,
@@ -19,7 +25,7 @@ class ConditionalRandomField(ModelBase):
             pad_token_id: int,
             none_id: int,
             use_weighted_loss: bool):
-        super().__init__()
+        super().__init__(data_service, arguments_service, log_service)
 
         self._number_of_tags = num_of_tags
         self._device = device
