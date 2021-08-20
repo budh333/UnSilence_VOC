@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BERT",
+            "type": "python",
+            "request": "launch",
+            "program": "run.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--configuration", "bi_lstm_crf",
+                "--challenge", "named-entity-recognition",
+
+                "--epochs", "500000",
+
+                "--device", "cpu",
+                "--eval-freq", "10",
+                "--seed", "13",
+                "--learning-rate", "1e-4",
+
+                "--skip-validation",
+
+                "--metric-types", "levenshtein-distance", "jaccard-similarity",
+                "--language", "dutch",
+
+                "--checkpoint-name", "local",
+
+                "--batch-size", "2",
+                // "--resume-training",
+                // "--enable-external-logging",
+
+                "--pretrained-weights", "wietsedv/bert-base-dutch-cased",
+
+                "--include-pretrained-model",
+                "--pretrained-model-size", "768",
+                "--pretrained-max-length", "512",
+
+                "--pretrained-model", "bert",
+
+                "--train-dataset-limit-size", "4",
+                "--patience", "1000",
+
+                "--entity-tag-types", "main", "gender", "legal-status", "role",
+                "--merge-subwords",
+
+                "--overwrite-previous-model",
+            ]
+        }
+    ]
+}
