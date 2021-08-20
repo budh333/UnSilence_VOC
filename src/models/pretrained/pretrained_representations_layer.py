@@ -81,12 +81,12 @@ class PretrainedRepresentationsLayer(ModelBase):
                 current_representations = current_output[0]
 
                 if start_offset > 0:
-                    result_tensor[:, start_offset:end_offset] = current_representations#[:, overlap_size:]
+                    result_tensor[:, start_offset+overlap_size:end_offset] = current_representations[:, overlap_size:]
                     # we get the mean of the overlapping representations
-                    # result_tensor[:, start_offset:start_offset+overlap_size] = torch.mean(
-                    #     torch.stack([
-                    #         result_tensor[:, start_offset:start_offset+overlap_size],
-                    #         current_representations[:, :overlap_size]]))
+                    result_tensor[:, start_offset:start_offset+overlap_size] = torch.mean(
+                        torch.stack([
+                            result_tensor[:, start_offset:start_offset+overlap_size].clone(),
+                            current_representations[:, :overlap_size]]))
                 else:
                     result_tensor[:, :end_offset] = current_representations
 
