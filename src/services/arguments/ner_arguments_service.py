@@ -13,10 +13,6 @@ class NERArgumentsService(PretrainedArgumentsService):
         super().__init__()
 
     @overrides
-    def get_configuration_name(self, overwrite_args: Dict[str, object] = None) -> str:
-        pass
-
-    @overrides
     def _add_specific_arguments(self, parser: argparse.ArgumentParser):
         super()._add_specific_arguments(parser)
 

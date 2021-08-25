@@ -35,9 +35,6 @@ class ArgumentsServiceBase:
 
         result += f'-s{seed_value}'
 
-        if config_value != Configuration.PPMI.value:
-            result += f'-lr{lr_value}'
-
         return result
 
     def _parse_arguments(self):
