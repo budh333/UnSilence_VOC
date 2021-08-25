@@ -96,16 +96,10 @@ class NERProcessService(ProcessServiceBase):
 
         collection = NECollection()
 
-        multi_segments_count = []
-        average_segments = []
-
         with open(file_path, 'r', encoding='utf-8') as tsv_file:
             reader = csv.DictReader(
                 tsv_file, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
             current_sentence = NELine()
-            # self._arguments_service.split_type == TextSequenceSplitType.Segments
-            split_documents = False
-            ignore_segmentation = self._arguments_service.language == Language.English and not self._arguments_service.evaluate
 
             for row in reader:
                 if row['TOKEN'] == '':
@@ -121,7 +115,7 @@ class NERProcessService(ProcessServiceBase):
                     if len(current_sentence.tokens) == 0:
                         current_sentence.document_id = document_id
 
-                if ((split_documents and (is_comment and ignore_segmentation)) or is_new_document):
+                if is_new_document:
                     if len(current_sentence.tokens) > 0:
                         current_sentence.tokenize_text(
                             self._tokenize_service,
@@ -129,13 +123,6 @@ class NERProcessService(ProcessServiceBase):
                             replace_all_numbers=self._arguments_service.replace_all_numbers,
                             expand_targets=not self._arguments_service.merge_subwords)
 
-                        # if self._arguments_service.split_type == TextSequenceSplitType.MultiSegment:
-                        #     multi_segment_documents, ms_count, s_avg = self._split_sentence_to_multi_segments(
-                        #         current_sentence)
-                        #     multi_segments_count.append(ms_count)
-                        #     average_segments.append(s_avg)
-                        #     collection.add_lines(multi_segment_documents)
-                        # else:
                         collection.add_line(current_sentence)
 
                         current_sentence = NELine()
@@ -158,10 +145,6 @@ class NERProcessService(ProcessServiceBase):
                 expand_targets=not self._arguments_service.merge_subwords)
 
             collection.add_line(current_sentence)
-
-        # if self._arguments_service.split_type == TextSequenceSplitType.MultiSegment:
-        #     print(
-        #         f'Average multi segments per document: {np.mean(multi_segments_count)}\nAverage segments per multi segment:{np.mean(average_segments)}')
 
         return collection
 

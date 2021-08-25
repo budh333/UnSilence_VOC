@@ -6,7 +6,6 @@ import argparse
 from services.arguments.pretrained_arguments_service import PretrainedArgumentsService
 
 from enums.entity_tag_type import EntityTagType
-# from enums.text_sequence_split_type import TextSequenceSplitType
 
 
 class NERArgumentsService(PretrainedArgumentsService):

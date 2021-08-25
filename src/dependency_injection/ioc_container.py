@@ -178,12 +178,6 @@ class IocContainer(containers.DeclarativeContainer):
             file_service=file_service,
             tag_metrics_service=tag_metrics_service,
             log_service=log_service))
-    # bert=providers.Singleton(
-    #     BERT,
-    #     arguments_service=arguments_service,
-    #     data_service=data_service,
-    #     log_service=log_service,
-    #     tokenize_service=tokenize_service))
 
     loss_selector = providers.Callable(
         get_loss_function,

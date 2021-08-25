@@ -33,6 +33,5 @@ class RNNAttention(ModelBase):
     energy = torch.bmm(query, keys) # [Bx1xQ]x[BxKxT] -> [Bx1xT]
     energy = F.softmax(energy.mul_(self.scale), dim=2) # scale, normalize
 
-    # values = values.transpose(0,1) # [TxBxV] -> [BxTxV]
     linear_combination = torch.bmm(energy, values) #[Bx1xT]x[BxTxV] -> [BxV]
     return energy, linear_combination

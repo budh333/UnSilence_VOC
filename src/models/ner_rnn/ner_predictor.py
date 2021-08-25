@@ -18,7 +18,6 @@ from enums.tag_metric import TagMetric
 from enums.tag_measure_type import TagMeasureType
 from enums.entity_tag_type import EntityTagType
 from enums.word_feature import WordFeature
-# from enums.text_sequence_split_type import TextSequenceSplitType
 
 from models.ner_rnn.rnn_encoder import RNNEncoder
 from models.ner_rnn.conditional_random_field import ConditionalRandomField
@@ -336,9 +335,6 @@ class NERPredictor(ModelBase):
 
     @overrides
     def calculate_evaluation_metrics(self) -> Dict[str, float]:
-        # if self._arguments_service.split_type != TextSequenceSplitType.Documents:
-        #     self._compute_multi_segment_eval_metrics()
-
         metrics: Dict[str, float] = {}
         overall_stats = self._tag_metrics_service.calculate_overall_stats()
         for entity_tag_type, (results, results_per_type) in overall_stats.items():

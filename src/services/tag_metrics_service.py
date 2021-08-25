@@ -118,11 +118,6 @@ class TagMetricsService:
                 doc_results = self._compute_precision_recall_wrapper(doc_results)
                 results = self._accumulate_doc_scores(results, doc_results)
 
-        # results = self._compute_precision_recall_wrapper(results)
-        # for e_type in results_per_type:
-        #     results_per_type[e_type] = self._compute_precision_recall_wrapper(
-        #         results_per_type[e_type])
-
         return results, results_per_type
 
     def _accumulate_doc_scores(self, results, doc_results):

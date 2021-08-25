@@ -451,16 +451,9 @@ class PlotService:
         self,
         x_values: List[float],
         y_values: List[List[float]],
-        plot_options: PlotOptions,
-        labels: List[str] = None):
+        plot_options: PlotOptions):
         ax = self.create_plot(plot_options)
 
-        # if labels is not None:
-        #     for value_list, label in zip(y_values, labels):
-        #         ax.plot(x_values, value_list, label=label)
-        # else:
-        # label = plot_options.label
-        # ax.plot(x_values, y_values, label=label)
         sns.lineplot(x_values, y_values)
 
         self._add_properties(ax, plot_options)

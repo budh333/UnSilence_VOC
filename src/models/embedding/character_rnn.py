@@ -60,12 +60,7 @@ class CharacterRNN(ModelBase):
             sorted_seq_len,
              batch_first=True)
 
-        rnn_output, hidden = self._character_rnn.forward(pack_input, None)
-        ## char_hidden = (h_t, c_t)
-        #  char_hidden[0] = h_t = (2, batch_size, lstm_dimension)
-        # char_rnn_out, _ = pad_packed_sequence(char_rnn_out)
-        # transpose because the first dimension is num_direction x num-layer
-        # before view, the size is ( batch_size * sent_len, 2, lstm_dimension) 2 means 2 direciton..
+        _, hidden = self._character_rnn.forward(pack_input, None)
         hidden = hidden[0].transpose(1, 0).contiguous().view(batch_size * sent_len, 1, -1)
 
         result = hidden[recover_idx].view(batch_size, sent_len, -1)
