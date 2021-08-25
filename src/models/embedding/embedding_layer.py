@@ -75,6 +75,9 @@ class EmbeddingLayer(ModelBase):
                 self._output_size += embedding_layer_options.character_embeddings_size
             else:
                 self._character_embedding = CharacterRNN(
+                    data_service=data_service,
+                    arguments_service=arguments_service,
+                    log_service=log_service,
                     vocabulary_size=embedding_layer_options.vocabulary_size,
                     character_embedding_size=embedding_layer_options.character_embeddings_size,
                     hidden_size=embedding_layer_options.character_rnn_hidden_size,

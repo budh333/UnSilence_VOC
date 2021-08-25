@@ -1,6 +1,5 @@
 from losses.ner_loss import NERLoss
 from services.tag_metrics_service import TagMetricsService
-from models.transformers.bert_model import BertModel
 from services.process.ner_process_service import NERProcessService
 from optimizers.sparse_adam_optimizer import SparseAdamOptimizer
 from services.fit_transformation_service import FitTransformationService

@@ -134,9 +134,6 @@ class NERPredictor(ModelBase):
             for entity_tag_type in self._entity_tag_types
         }
 
-        # if self._arguments_service.split_type != TextSequenceSplitType.Documents:
-        #     self._eval_outputs_per_tag = {}
-
     @overrides
     def forward(self, batch_representation: BatchRepresentation):
         rnn_outputs, lengths = self.rnn_encoder.forward(
@@ -197,18 +194,6 @@ class NERPredictor(ModelBase):
                 self.update_metrics(results, results_per_type,
                                     metrics, entity_tag_type)
             else:
-                # if self._arguments_service.split_type != TextSequenceSplitType.Documents:
-                #     if entity_tag_type not in self._eval_outputs_per_tag.keys():
-                #         self._eval_outputs_per_tag[entity_tag_type] = []
-
-                #     for b in range(batch.batch_size):
-                #         self._eval_outputs_per_tag[entity_tag_type].append((
-                #             prediction_tags[b],
-                #             target_tags[b],
-                #             batch.additional_information[b][0],  # document id
-                #             batch.additional_information[b][1],  # segment idx
-                #         ))
-                # else:
                 self._tag_metrics_service.add_predictions(
                     prediction_tags,
                     target_tags,

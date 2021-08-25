@@ -1,3 +1,6 @@
+from services.log_service import LogService
+from services.arguments.arguments_service_base import ArgumentsServiceBase
+from services.data_service import DataService
 import torch
 import torch.nn as nn
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
@@ -9,13 +12,16 @@ class CharacterRNN(ModelBase):
 
     def __init__(
         self,
+        data_service: DataService,
+        arguments_service: ArgumentsServiceBase,
+        log_service: LogService,
         vocabulary_size: int,
         character_embedding_size: int,
         hidden_size: int,
         number_of_layers: int,
         bidirectional_rnn: bool = True,
         dropout: float = 0.0):
-        super().__init__()
+        super().__init__(data_service, arguments_service, log_service)
 
         self._dropout = nn.Dropout(dropout)
         self._embedding_layer = nn.Embedding(vocabulary_size, character_embedding_size)
