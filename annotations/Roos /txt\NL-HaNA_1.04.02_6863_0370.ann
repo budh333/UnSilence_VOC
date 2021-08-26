@@ -1,8 +1,0 @@
-T1	Organization 152 171;172 206	de Edele hoog agtb: bewindhebberen ter kamer Amsterdam
-T2	Place 197 206	Amsterdam
-T3	ProperName 197 206	Amsterdam
-T4	Place 261 274	schip Haarlem
-T5	ProperName 267 274	Haarlem
-T6	Organization 348 357	d’ E: Con
-A1	Beneficiary T1 No
-A2	Beneficiary T6 No
