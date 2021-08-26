@@ -1,0 +1,10 @@
+T1	Person 15 23;24 30	Godfried Ludike
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 15 23;24 30	Godfried Ludike
+T3	ProperName 85 89;90 99	Andr Jan Zalle
+T4	Person 85 89;90 99	Andr Jan Zalle
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary

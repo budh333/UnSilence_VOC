@@ -1,0 +1,23 @@
+T1	DuplicatePage 0 3	ons
+T2	Organization 1162 1193;1194 1211	de gereformeerde diaconij aamen deser hooftsteede
+A1	Beneficiary T2 Yes
+T3	Place 1200 1211	hooftsteede
+T4	Organization 1476 1485	godshuijs
+A2	Beneficiary T4 No
+T5	Person 1714 1721	slaaven
+A3	Gender T5 Group
+A4	LegalStatus T5 Enslaved
+A5	Role T5 Other
+T6	Person 1725 1734	Slavinnen
+A6	Gender T6 Group
+A7	LegalStatus T6 Enslaved
+A8	Role T6 Other
+T7	Person 2252 2271;2272 2279	Juff=m Cornelia van Batavia
+A9	Gender T7 Woman
+A10	LegalStatus T7 Unspecified
+A11	Role T7 Beneficiary
+T8	ProperName 2259 2271;2272 2279	Cornelia van Batavia
+T9	Place 2272 2279	Batavia
+T10	ProperName 2272 2279	Batavia
+T11	Place 2534 2541	Batavia
+T12	ProperName 2534 2541	Batavia

@@ -1,0 +1,26 @@
+T1	Place 81 92	hiedeschoun
+#1	AnnotatorNotes T1	Hildesheim
+T2	ProperName 81 92	hiedeschoun
+T3	Person 61 76	Jurriaan Plurke
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 61 76	Jurriaan Plurke
+T5	Organization 220 246;247 266	E Agtb=r Raad van Iustitie deses Gouvernements
+A4	Beneficiary T5 No
+T6	ProperName 220 246;247 266	E Agtb=r Raad van Iustitie deses Gouvernements
+T7	Person 342 365	burger Jasper Maartensz
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Other
+T8	ProperName 349 365	Jasper Maartensz
+T9	Person 380 397;398 405	schoonmoeder Anna Heijlon
+A8	Gender T9 Woman
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Other
+T10	ProperName 393 397;398 405	Anna Heijlon
+T11	ProperName 412 429	Dirk van den berg
+T12	Person 412 429	Dirk van den berg
+A11	Gender T12 Man
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Other

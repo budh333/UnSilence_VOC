@@ -1,0 +1,5 @@
+T1	ProperName 23 34	aniel Koene
+T2	Person 23 34	aniel Koene
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator

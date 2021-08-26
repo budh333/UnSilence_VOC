@@ -1,0 +1,33 @@
+T1	Person 14 26	Jan de Vries
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 14 26	Jan de Vries
+T3	Place 156 164	samarang
+T4	ProperName 156 164	samarang
+T5	Person 193 205;206 216	Jan Van Nieu Wenhuijsen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 193 205;206 216	Jan Van Nieu Wenhuijsen
+T7	Person 252 256;257 292	Heer Rudolph Florentius van der Niepoort
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 257 292	Rudolph Florentius van der Niepoort
+T9	Place 522 525;526 541	aan 'toude kerkhoff
+T10	Person 611 622;623 633	Jan Van Nie Wekhuijsen
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator
+T11	ProperName 611 622;623 633	Jan Van Nie Wekhuijsen
+T12	Person 709 723	zoldaat George
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 717 723	George
+T14	Person 919 931	Capt„n Rasch
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 926 931	Rasch

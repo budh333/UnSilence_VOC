@@ -1,0 +1,60 @@
+T1	TranscriptionError_Document 0 1	2
+T2	Person 65 95;96 106	gem: Christen vrouw Wilhelmina Sara Ardns
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 85 95;96 106	Wilhelmina Sara Ardns
+T5	ProperName 401 416	Clamer Huijskes
+T7	ProperName 443 448	Maart
+T8	Place 454 461	Malacca
+T9	ProperName 454 461	Malacca
+T11	ProperName 588 611	Leendert Albert Vermeer
+T13	ProperName 736 762	Johan Hendrik fredrik Neef
+T14	Person 772 785	Johan fredrik
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Beneficiary
+T15	ProperName 772 785	Johan fredrik
+T16	Person 939 943;944 981	mans Plaafse genaamt Februarij van Amboina
+A19	Gender T16 Man
+A20	LegalStatus T16 Enslaved
+A21	Role T16 Other
+#1	AnnotatorNotes T16	Mansslaafje
+T17	Noteworthy 939 943;944 951	mans Plaafse
+#2	AnnotatorNotes T17	mansslaafje
+T18	ProperName 960 981	Februarij van Amboina
+T19	Place 974 981	Amboina
+T20	ProperName 974 981	Amboina
+T21	Person 1075 1079;1080 1102	heer Joh: Hendk fred„k Negf
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary
+T22	ProperName 1080 1102	Joh: Hendk fred„k Negf
+T23	Person 1239 1244	slaaf
+A25	Gender T23 Man
+A26	LegalStatus T23 Enslaved
+A27	Role T23 Other
+T24	Person 1458 1463	slaaf
+A28	Gender T24 Man
+A29	LegalStatus T24 Enslaved
+A30	Role T24 Other
+T4	Person 401 416	Clamer Huijskes
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T10	Person 588 611	Leendert Albert Vermeer
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T12	Person 736 762	Johan Hendrik fredrik Neef
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T6	Person 422 434	slave Jongen
+A7	Gender T6 Man
+A8	LegalStatus T6 Enslaved
+A9	Role T6 Other
+T25	Person 443 448	Maart
+A31	Gender T25 Man
+A32	LegalStatus T25 Enslaved
+A33	Role T25 Other

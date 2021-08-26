@@ -1,0 +1,30 @@
+T1	Person 124 129;130 153	vader Jan Christoffel Swendel
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 130 152	Jan Christoffel Swende
+T3	Person 278 290	Johan Samuel
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	Person 291 305	Lijse Borethea
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Beneficiary
+T5	Person 308 318	Anna Maria
+A10	Gender T5 Woman
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Beneficiary
+T6	Person 324 327;328 345	Sop Catharina Swendel
+A13	Gender T6 Woman
+A14	LegalStatus T6 Unspecified
+A15	Role T6 Beneficiary
+T7	ProperName 278 290	Johan Samuel
+T8	ProperName 291 305	Lijse Borethea
+T9	ProperName 308 318	Anna Maria
+T10	ProperName 324 327;328 345	Sop Catharina Swendel
+T11	Person 1068 1081;1082 1115	soldaat in op „melte dienst Johan Michiel Moosh
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 1096 1115	Johan Michiel Moosh

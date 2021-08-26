@@ -1,0 +1,24 @@
+T2	ProperName 72 78	Cochim
+T1	Place 58 101;102 111	binnen destad Cochim, ten woonhuijse van de testateur
+T3	Person 180 206	Johannes Coenraad dekrouse
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 180 206	Johannes Coenraad dekrouse
+T5	Person 211 225	Johannes Wolff
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 211 225	Johannes Wolff
+T7	Person 392 414	Damichen: E: q: Clercq
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 392 414	Damichen: E: q: Clercq
+T9	Place 496 505	Palembang
+T10	ProperName 496 505	Palembang
+T11	Person 543 553	Dorstelman
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 543 553	Dorstelman

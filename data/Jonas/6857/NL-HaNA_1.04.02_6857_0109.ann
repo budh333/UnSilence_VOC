@@ -1,0 +1,72 @@
+T1	Person 117 140	Marinus van Leeuwendaal
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 117 140	Marinus van Leeuwendaal
+T3	Person 266 289	M=r Willem van der Beke
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 270 289	Willem van der Beke
+T5	Place 315 330	deses Comptoirs
+T6	Person 397 404	Lorsius
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	TranscriptionError_Document 0 2	12
+T8	Person 436 446	alex ander
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	Person 544 548	jdem
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	Person 653 659	rijper
+A16	Gender T10 Unspecified
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	Person 730 734	idem
+A19	Gender T11 Unspecified
+A20	LegalStatus T11 Unspecified
+A21	Role T11 Other
+T12	Person 837 846	alexander
+A22	Gender T12 Unspecified
+A23	LegalStatus T12 Unspecified
+A24	Role T12 Other
+T13	Person 905 909	idem
+A25	Gender T13 Unspecified
+A26	LegalStatus T13 Unspecified
+A27	Role T13 Other
+T14	Person 1052 1057	klein
+A28	Gender T14 Unspecified
+A29	LegalStatus T14 Unspecified
+A30	Role T14 Other
+T15	Person 1191 1201	al exander
+A31	Gender T15 Unspecified
+A32	LegalStatus T15 Unspecified
+A33	Role T15 Other
+T16	Person 1293 1301	tanhapko
+A34	Gender T16 Unspecified
+A35	LegalStatus T16 Unspecified
+A36	Role T16 Other
+T17	Person 1378 1384	gouijn
+A37	Gender T17 Unspecified
+A38	LegalStatus T17 Unspecified
+A39	Role T17 Other
+T18	Person 1460 1467	Lorsins
+A40	Gender T18 Unspecified
+A41	LegalStatus T18 Unspecified
+A42	Role T18 Other
+T19	Person 1524 1533	alexander
+A43	Gender T19 Unspecified
+A44	LegalStatus T19 Unspecified
+A45	Role T19 Other
+T20	Person 1610 1619	Kok Johan
+A46	Gender T20 Unspecified
+A47	LegalStatus T20 Unspecified
+A48	Role T20 Other
+T21	Person 1721 1732	H: Rijnnagh
+A49	Gender T21 Man
+A50	LegalStatus T21 Unspecified
+A51	Role T21 Notary

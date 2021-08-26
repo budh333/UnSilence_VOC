@@ -1,0 +1,10 @@
+T2	ProperName 36 45;46 60	Christiad Hendrik Hubner
+T4	ProperName 790 807;808 815	Christiaan Riend„ Hubner,
+T1	Person 36 45;46 60	Christiad Hendrik Hubner
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T3	Person 790 807;808 815	Christiaan Riend„ Hubner,
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary

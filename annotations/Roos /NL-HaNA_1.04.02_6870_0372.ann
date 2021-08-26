@@ -1,0 +1,43 @@
+T1	Person 66 80	Clara Jacobsz:
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 66 80	Clara Jacobsz:
+T3	Person 164 171	slaaven
+A4	Gender T3 Group
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	Person 182 199	welkoms van arouw
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Other
+T5	ProperName 182 199	welkoms van arouw
+T6	Place 194 199	arouw
+T7	Person 203 213;214 220	boenga van papoea
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Enslaved
+A12	Role T7 Other
+T8	ProperName 203 213;214 220	boenga van papoea
+T9	Place 214 220	papoea
+T10	Organization 636 651	de diaconjarmen
+A13	Beneficiary T10 Yes
+T11	Person 657 663	slaven
+A14	Gender T11 Group
+A15	LegalStatus T11 Enslaved
+A16	Role T11 Other
+T12	Person 824 856	de vrije vrouw wellemina manrijs
+A17	Gender T12 Woman
+A18	LegalStatus T12 Freed
+A19	Role T12 Beneficiary
+T13	ProperName 839 856	wellemina manrijs
+T14	Person 1240 1279	Jnlands leermeester Matthij 's hendriks
+A20	Gender T14 Man
+A21	LegalStatus T14 Unspecified
+A22	Role T14 Other
+T15	ProperName 1260 1279	Matthij 's hendriks
+T16	Organization 1610 1617;1618 1663;1664 1671	d: Edel hoog Agtbare heeren bewind hebberen ter Comer Zeeland
+A23	Beneficiary T16 No
+T17	Place 1664 1671	Zeeland
+T18	ProperName 1664 1671	Zeeland
+T19	Place 1717 1734	schip seutlourens
+T20	ProperName 1723 1734	seutlourens

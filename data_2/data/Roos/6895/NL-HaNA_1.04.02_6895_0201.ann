@@ -1,0 +1,14 @@
+T1	TranscriptionError_Document 0 9	Stellende
+T2	DuplicatePage 0 9	Stellende
+T3	Organization 848 857	dE: Comp:
+T4	Organization 943 949;950 1004;1005 1051;1052 1055	de wel Edele groot agtb: heeren bewindhebberen der geoftroij„ eerde oostindische Compagnie ter kamer Amster„ dam
+T5	Place 1044 1051;1052 1055	Amster„ dam
+T6	ProperName 1044 1051;1052 1055	Amster„ dam
+T7	Organization 1459 1502;1503 1563	d'’Edele groot agtb: Heeren bewind hebberen der geoctroijeerde oost-Indische Comp:e, ter hamer Amsterdam
+T8	Place 1554 1563	Amsterdam
+T9	ProperName 1554 1563	Amsterdam
+T10	Organization 1834 1847	der E. Comp:e
+A1	Beneficiary T3 No
+A2	Beneficiary T4 No
+A3	Beneficiary T7 No
+A4	Beneficiary T10 No

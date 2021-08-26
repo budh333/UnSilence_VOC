@@ -1,0 +1,9 @@
+T1	Place 15 22	Zeeland
+T2	ProperName 15 22	Zeeland
+T3	Organization 35 44	E D EComp
+A1	Beneficiary T3 No
+T4	Person 166 180	Cornelis Gilre
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Testator
+T5	ProperName 166 180	Cornelis Gilre

@@ -1,0 +1,23 @@
+T1	ProperName 0 14	Ernst: Eckardt
+T2	Person 0 14	Ernst: Eckardt
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 37 47	Sourabaija
+T4	Place 37 47	Sourabaija
+T5	Organization 99 103	Comp
+T6	Person 339 345;346 356	H„n G„ „ke Sarets
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 350 356	Sarets
+T8	Person 396 416	R: F: v: d: Niepoort
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 408 416	Niepoort
+T10	Person 441 455	P: V:E: Huegen
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 449 455	Huegen

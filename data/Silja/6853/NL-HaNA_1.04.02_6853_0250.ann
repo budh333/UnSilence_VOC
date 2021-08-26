@@ -1,0 +1,42 @@
+T1	ProperName 345 370;371 380	Leen bij wesen van PTitus Hambalsz:
+T2	Person 345 370;371 380	Leen bij wesen van PTitus Hambalsz:
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T3	ProperName 384 400	Johannes damelsz
+T4	Person 384 400	Johannes damelsz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	Person 501 529	Bosua Ceonardus Gousset nats
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	ProperName 501 524	Bosua Ceonardus Gousset
+T7	Person 586 608	Iacob levier nots pubh
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Notary
+T8	ProperName 586 598	Iacob levier
+T9	Organization 613 657	de Edele hoogeregeringe van nederlands Jndia
+T10	ProperName 613 657	de Edele hoogeregeringe van nederlands Jndia
+T11	ProperName 641 657	nederlands Jndia
+T12	Place 641 657	nederlands Jndia
+T13	Place 678 692	destad batavia
+T14	ProperName 685 692	batavia
+T15	ProperName 734 745;746 754	Christia an Wergland
+T16	Organization 793 797	Comp
+T17	Place 798 809	paarde stal
+T18	Place 816 831	int binnan hoff
+T19	ProperName 793 797	Comp
+T22	Person 734 745;746 754	Christia an Wergland
+A16	Gender T22 Unspecified
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Testator
+T23	ProperName 1251 1281	Christiaan raspagmede zadelint
+T24	Person 1251 1281	Christiaan raspagmede zadelint
+A19	Gender T24 Unspecified
+A20	LegalStatus T24 Unspecified
+A21	Role T24 Beneficiary
+A13	Beneficiary T9 No
+A14	Beneficiary T16 No

@@ -1,0 +1,29 @@
+T1	Person 9 34	Fredrik August De Durfeld
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 9 34	Fredrik August De Durfeld
+T3	Person 58 73	Amelia Fredriks
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 58 73	Amelia Fredriks
+T5	Person 138 164;165 171	Rudolph Floventius van ver „poort
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 138 164;165 171	Rudolph Floventius van ver „poort
+T7	Person 539 549	I: G: Helm
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	Place 596 613	Camer te Samarang
+T9	ProperName 605 613	Samarang
+T10	Person 647 660	I: G: Helinke
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	Person 703 722	Ioan Adriaan Dreier
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Acting_Notary

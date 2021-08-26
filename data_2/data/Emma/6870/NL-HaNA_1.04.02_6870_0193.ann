@@ -1,0 +1,26 @@
+T3	Place 201 215	ten woonhuijse
+T4	Person 224 231;232 258	coopman en fiscaal Jeranimus Crase
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 243 258	Jeranimus Crase
+T6	Person 633 636	God
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 633 636	God
+T8	Person 733 736	God
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 733 736	God
+T10	Person 1260 1280;1281 1295	huijs vrouw Bastiana Teodora Leboek
+A13	Gender T10 Woman
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Beneficiary
+T11	ProperName 1272 1280;1281 1295	Bastiana Teodora Leboek
+T1	Person 137 145;146 156	cornelis Jan Bogaar
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 137 145;146 156	cornelis Jan Bogaar

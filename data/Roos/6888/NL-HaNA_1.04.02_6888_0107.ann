@@ -1,0 +1,82 @@
+T1	TranscriptionError_Document 0 1	2
+T2	DuplicatePage 0 1	2
+T3	Person 2 21	Salomon van batavia
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T4	Place 14 21	batavia
+T5	ProperName 14 21	batavia
+T6	ProperName 2 9	Salomon
+T7	Person 22 36	Titus van bima
+A4	Gender T7 Man
+A5	LegalStatus T7 Enslaved
+A6	Role T7 Other
+T8	ProperName 22 27	Titus
+T9	Place 32 36	bima
+T10	ProperName 32 36	bima
+T11	Person 60 65	Frans
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Enslaved
+A9	Role T11 Other
+T12	ProperName 60 65	Frans
+T13	Person 69 75	Mentor
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Enslaved
+A12	Role T13 Other
+T14	ProperName 69 75	Mentor
+T15	Place 90 97	batavia
+T16	ProperName 90 97	batavia
+T17	Person 98 120	Susanna van Sourabaija
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Enslaved
+A15	Role T17 Other
+T18	ProperName 98 105	Susanna
+T19	Place 110 120	Sourabaija
+T20	ProperName 110 120	Sourabaija
+T21	Person 121 138	Maria van batavia
+A16	Gender T21 Woman
+A17	LegalStatus T21 Enslaved
+A18	Role T21 Other
+T22	ProperName 121 126	Maria
+T23	Place 131 138	batavia
+T24	ProperName 131 138	batavia
+T25	Person 162 167	Moses
+A19	Gender T25 Unspecified
+A20	LegalStatus T25 Enslaved
+A21	Role T25 Other
+T26	ProperName 162 167	Moses
+T27	Person 171 178	Leentje
+A22	Gender T27 Unspecified
+A23	LegalStatus T27 Enslaved
+A24	Role T27 Other
+T28	ProperName 171 178	Leentje
+T29	Person 307 323	Anthonij victor:
+A25	Gender T29 Man
+A26	LegalStatus T29 Unspecified
+A27	Role T29 Beneficiary
+T30	ProperName 307 322	Anthonij victor
+T31	Person 747 771	man matthijs: hagenbergh
+A28	Gender T31 Man
+A29	LegalStatus T31 Unspecified
+A30	Role T31 Beneficiary
+T32	ProperName 751 771	matthijs: hagenbergh
+T33	Person 882 898	Anthonij victor:
+A31	Gender T33 Man
+A32	LegalStatus T33 Unspecified
+A33	Role T33 Beneficiary
+T34	ProperName 882 897	Anthonij victor
+T35	Person 1021 1029;1030 1036	matthijs victor
+A34	Gender T35 Man
+A35	LegalStatus T35 Unspecified
+A36	Role T35 Beneficiary
+T36	ProperName 1021 1029;1030 1036	matthijs victor
+T38	ProperName 1180 1193	Agatha Amberg
+T39	Person 1615 1630	Willem Iacobsz:
+A40	Gender T39 Unspecified
+A41	LegalStatus T39 Unspecified
+A42	Role T39 Other
+T40	ProperName 1615 1630	Willem Iacobsz:
+T37	Person 1171 1179;1180 1194	Juffrouw Agatha Amberg:
+A37	Gender T37 Woman
+A38	LegalStatus T37 Unspecified
+A39	Role T37 Beneficiary

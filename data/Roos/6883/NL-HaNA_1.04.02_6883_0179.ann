@@ -1,0 +1,52 @@
+T1	TranscriptionError_Document 0 6	Adolft
+T2	DuplicatePage 0 6	Adolft
+T3	Person 0 14	Adolft Gerrard
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 14	Adolft Gerrard
+T6	ProperName 108 121	Barend Reijke
+T7	Organization 144 156	DoE „ Comp„s
+T8	Place 168 198	op ’t schip genaamd Tols duijn
+T9	Place 212 219	Batavia
+T10	ProperName 212 219	Batavia
+T11	Place 224 230	Patria
+T12	Person 266 280	Adolf Geerrard
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T13	ProperName 266 280	Adolf Geerrard
+T14	Place 285 298	Chravan hagen
+T15	ProperName 285 298	Chravan hagen
+T16	Place 498 507	vaderland
+T17	Organization 692 701	d’ SComp:
+T18	Person 773 788	Heeren Verduijn
+A10	Gender T18 Man
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Other
+T19	ProperName 780 788	Verduijn
+T20	Person 793 798	Parre
+A13	Gender T20 Man
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Other
+T21	ProperName 793 798	Parre
+T22	Organization 911 953;954 965	de Edel„ Agtb=re Heeren Bewindhebberen den Camer Delft
+T23	Place 960 965	Delft
+T24	ProperName 960 965	Delft
+T25	Person 2462 2474	David Jaquet
+A16	Gender T25 Unspecified
+A17	LegalStatus T25 Unspecified
+A18	Role T25 Other
+T26	ProperName 2462 2474	David Jaquet
+T27	Person 2480 2491	van Ruijven
+A19	Gender T27 Unspecified
+A20	LegalStatus T27 Unspecified
+A21	Role T27 Other
+T28	ProperName 2480 2491	van Ruijven
+T29	ProperName 188 198	Tols duijn
+T5	Person 108 132	Barend Reijke boekhouder
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+A22	Beneficiary T17 No
+A23	Beneficiary T22 No

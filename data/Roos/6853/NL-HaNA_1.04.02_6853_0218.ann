@@ -1,0 +1,20 @@
+T1	Person 364 378	Jacob franszen
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 364 378	Jacob franszen
+T3	Person 379 403	cobus govertsz: Clengven
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 379 394	cobus govertsz:
+T5	Person 509 537	Abraham van Dinter N„ts Pulf
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	ProperName 509 527	Abraham van Dinter
+T7	Person 550 557	MBammer
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 550 557	MBammer

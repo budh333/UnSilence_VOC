@@ -1,0 +1,42 @@
+T1	Person 0 23	Johan Hendriik Vyrminke
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 23	Johan Hendriik Vyrminke
+T3	Person 140 175	Abraham van Denter notaris jublijcq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 140 158	Abraham van Denter
+T5	Organization 180 206	d’ Edele hoven van holland
+T6	Place 199 206	holland
+T7	ProperName 199 206	holland
+T8	Organization 215 239;240 260	de Edele hoge regeeringe van Nederlands India
+T9	Place 244 260	Nederlands India
+T10	ProperName 244 260	Nederlands India
+T11	Place 275 297	binnen de stad Batavia
+T12	ProperName 290 297	Batavia
+T13	Place 824 840	binnen dese stad
+T14	Organization 852 864	S. E. Comp:s
+T15	ProperName 852 864	S. E. Comp:s
+T16	Place 841 874	tegen over S. E. Comp:s hospitaal
+T17	Person 893 906	Daniel Fransz
+A7	Gender T17 Man
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Witness
+T18	ProperName 893 906	Daniel Fransz
+T19	Person 911 949;950 963	Pieter Karons de Moor De Ionge clercq: als getuijgen
+A10	Gender T19 Man
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Witness
+T20	ProperName 911 941	Pieter Karons de Moor De Ionge
+T21	Person 1118 1122;1123 1131	J. V visvliet
+A13	Gender T21 Unspecified
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Other
+T22	ProperName 1118 1122;1123 1131	J. V visvliet
+T23	ProperName 1144 1151	Jrunieh
+T24	Person 1144 1151	Jrunieh
+A16	Gender T24 Unspecified
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Other

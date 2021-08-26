@@ -1,0 +1,75 @@
+T1	Organization 111 121	des Comp:s
+T4	Organization 817 823	Comp:s
+T5	Organization 847 855	dE Comp:
+T6	Organization 982 1015	Geoctraoyeerde oost indische Comp
+T7	ProperName 982 1015	Geoctraoyeerde oost indische Comp
+T8	Place 1026 1035	ansterdam
+T9	ProperName 1026 1035	ansterdam
+T10	Organization 1170 1179	den Comp:
+T11	Person 1278 1292	Caral Francois
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+T14	Person 1401 1403;1404 1411;1412 1420	C: slader/ Francois
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+T15	ProperName 1401 1403;1404 1411;1412 1420	C: slader/ Francois
+T16	Person 1368 1378	E: Schultz
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+T17	ProperName 1368 1378	E: Schultz
+T18	Person 1446 1456	Iurriaantz
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+T19	ProperName 1446 1456	Iurriaantz
+T20	Person 1457 1471	L: Ralff Not:s
+A22	Gender T20 Man
+A23	LegalStatus T20 Unspecified
+T21	ProperName 1457 1465	L: Ralff
+T23	Place 1644 1651	Batavia
+T24	ProperName 1644 1651	Batavia
+T25	Person 1703 1720	B. J. V: der Meil
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+T26	ProperName 1703 1720	B. J. V: der Meil
+T27	Person 1775 1782;1783 1827	d’ heer Luitenant Ingenieur Banzamin y: v: Der Meijl
+A31	Gender T27 Man
+A32	LegalStatus T27 Unspecified
+T28	ProperName 1803 1827	Banzamin y: v: Der Meijl
+T29	Place 1842 1852	gelderland
+T30	ProperName 1842 1852	gelderland
+T31	Place 1963 1980	Solloch Catavpang
+T32	ProperName 1963 1980	Solloch Catavpang
+T34	ProperName 1887 1900	C: M: D: With
+T35	Place 2018 2026	Hallacca
+T36	ProperName 2018 2026	Hallacca
+T37	Person 2038 2062	Heer Liou:s van Der Meyl
+A37	Gender T37 Man
+A38	LegalStatus T37 Unspecified
+T38	ProperName 2050 2062	van Der Meyl
+T39	ProperName 111 121	des Comp:s
+T2	ProperName 817 823	Comp:s
+T3	ProperName 847 855	dE Comp:
+T40	ProperName 1170 1179	den Comp:
+A1	Role T11 Witness
+A3	Role T20 Notary
+A4	Role T18 Witness
+A5	Role T14 Other
+A6	Role T16 Testator
+T22	ProperName 1278 1292	Caral Francois
+T12	ProperName 1299 1328	Iohannes Lambertus Jurriaanz:
+T13	Person 1299 1328	Iohannes Lambertus Jurriaanz:
+A2	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Witness
+A11	Role T25 Other
+T33	Person 1871 1886;1887 1900	Heeren capitain C: M: D: With
+A12	Gender T33 Man
+A15	LegalStatus T33 Unspecified
+A18	Role T33 Other
+A21	Role T27 Other
+A24	Role T37 Other
+A25	Beneficiary T1 No
+A26	Beneficiary T4 No
+A27	Beneficiary T5 No
+A30	Beneficiary T10 No
+A33	Beneficiary T6 No

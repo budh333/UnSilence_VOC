@@ -1,0 +1,15 @@
+T1	Person 359 392	Posephus de Grandpreesz: secret:s
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 359 383	Posephus de Grandpreesz:
+T3	Organization 400 449	E Agtb:ren Raad van Justitie deeses Gouvernements
+A4	Beneficiary T3 No
+T4	ProperName 400 449	E Agtb:ren Raad van Justitie deeses Gouvernements
+T5	ProperName 550 559;560 572	Gristiaan Riga van ham
+T6	Person 550 559;560 572	Gristiaan Riga van ham
+A5	Gender T6 Unspecified
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Testator
+T7	ProperName 584 594	drakenstin
+T8	Place 584 594	drakenstin

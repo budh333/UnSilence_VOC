@@ -1,0 +1,47 @@
+T1	Person 125 143	Abraham van Dinter
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 125 143	Abraham van Dinter
+T3	Organization 169 192	Edelen Hose van Holland
+T4	ProperName 169 192	Edelen Hose van Holland
+T5	Place 185 192	Holland
+T6	ProperName 185 192	Holland
+T7	Organization 204 235	Edele Hoge regeeringe van Ned„s
+T8	Place 230 235	Ned„s
+T9	Person 236 254	Jan Henderik Ramph
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 236 254	Jan Henderik Ramph
+T11	Person 381 399	Abraham Van dinter
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T12	ProperName 381 399	Abraham Van dinter
+T13	Organization 425 446	Ed: hove van hollandt
+T14	Place 438 446	hollandt
+T15	ProperName 438 446	hollandt
+T16	Organization 459 502	Edele hooge regeeringe van nederlands india
+T17	ProperName 459 502	Edele hooge regeeringe van nederlands india
+T18	Place 486 502	nederlands india
+T19	ProperName 486 502	nederlands india
+T20	Place 517 540	binnen de stad bataavaa
+T21	ProperName 532 540	bataavaa
+T22	Person 592 609	Jan Hendrik Ramps
+A10	Gender T22 Unspecified
+A11	LegalStatus T22 Unspecified
+A12	Role T22 Testator
+T23	ProperName 592 609	Jan Hendrik Ramps
+T24	Place 614 619	Lippe
+T25	ProperName 614 619	Lippe
+T26	Organization 645 652	E: Comp
+T27	Place 697 709	D'regterland
+T28	ProperName 697 709	D'regterland
+T29	Organization 718 729	kamer Hoorn
+T30	Place 724 729	Hoorn
+T31	ProperName 724 729	Hoorn
+T32	Person 1792 1808	Jan Iusius Kroon
+A13	Gender T32 Unspecified
+A14	LegalStatus T32 Unspecified
+A15	Role T32 Other

@@ -1,0 +1,16 @@
+T1	Organization 6 70	Heeren Bewindhebberen der gecotroijeerde oost Indische Compagnie
+T2	ProperName 47 70	oost Indische Compagnie
+T3	ProperName 81 90	Amsterdam
+T4	Place 81 90	Amsterdam
+T5	Person 586 602	Christene Slaven
+A1	Gender T5 Group
+A2	LegalStatus T5 Enslaved
+T6	Person 606 614	slavinne
+A4	Gender T6 Woman
+A5	LegalStatus T6 Enslaved
+T7	Person 635 643	kinderen
+A7	Gender T7 Group
+A8	LegalStatus T7 Unspecified
+A3	Role T5 Other
+A6	Role T6 Other
+A9	Role T7 Other

@@ -1,0 +1,87 @@
+T1	DuplicatePage 0 5	Inver
+T2	TranscriptionError_Document 6 9	Den
+T3	Person 10 49	WelEdele Heer I: C: Heijning als Curato
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 24 38	I: C: Heijning
+T5	Person 110 125	tent Wm van Hal
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 115 126	Wm van Hall
+T7	Person 127 141	toffel Heijnse
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 127 141	toffel Heijnse
+T9	Place 223 231	Chinsura
+T10	ProperName 223 231	Chinsura
+T11	Person 331 351	Heer: S: C: Heijning
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 337 351	S: C: Heijning
+T13	Organization 353 359	Comp„s
+T14	ProperName 353 359	Comp„s
+T15	Person 458 490	Boekhouder Johan Wullem van Halt
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Testator
+T16	ProperName 469 488	Johan Wullem van Ha
+T17	Person 884 912	WelEdele Heer J: C: Heijning
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 898 911	J: C: Heijnin
+T19	Person 936 957	Fistaal Parels Willem
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 944 957	Parels Willem
+T21	Person 1004 1009;1032 1054	Boek„ „houder J: W: van Hall
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Testator
+T22	Organization 1056 1078	aan ’t fonds der armen
+A25	Beneficiary T22 Yes
+T23	Person 1358 1369;1370 1374	J„s van den Berg
+A26	Gender T23 Unspecified
+A27	LegalStatus T23 Unspecified
+A28	Role T23 Other
+T24	ProperName 1358 1369;1370 1374	J„s van den Berg
+T25	Place 1785 1807	te Houglij in Bengalen
+T26	ProperName 1788 1795	Houglij
+T27	ProperName 1799 1807	Bengalen
+T28	Person 1826 1829;1830 1836	Jan JJanze
+A29	Gender T28 Man
+A30	LegalStatus T28 Unspecified
+A31	Role T28 Witness
+T29	ProperName 1826 1829;1830 1836	Jan JJanze
+T30	Person 1840 1876	Pieter De Hoog klerken als getuijgen
+A32	Gender T30 Man
+A33	LegalStatus T30 Unspecified
+A34	Role T30 Witness
+T31	ProperName 1840 1853	Pieter De Hoo
+T32	Person 2078 2087	F: Wieman
+A35	Gender T32 Unspecified
+A36	LegalStatus T32 Unspecified
+A37	Role T32 Other
+T33	Person 2013 2025	I: A: Guerin
+A38	Gender T33 Unspecified
+A39	LegalStatus T33 Unspecified
+A40	Role T33 Other
+T34	ProperName 2013 2025	I: A: Guerin
+T35	ProperName 2078 2087	F: Wieman
+T36	Person 2088 2094	G: Wan
+A41	Gender T36 Unspecified
+A42	LegalStatus T36 Unspecified
+A43	Role T36 Other
+T37	ProperName 2088 2094	G: Wan
+T38	Person 1394 1408	D: A: Overbeek
+A44	Gender T38 Unspecified
+A45	LegalStatus T38 Unspecified
+A46	Role T38 Other
+T39	ProperName 1394 1408	D: A: Overbeek
+T40	Place 1313 1320	Sinsura
+T41	ProperName 1313 1320	Sinsura

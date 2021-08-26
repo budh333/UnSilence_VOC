@@ -1,0 +1,23 @@
+T1	TranscriptionError_Document 0 2	en
+T2	Person 6 16	heer stork
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 11 16	stork
+T4	Person 78 108	heer Kollonel Jan Jurger Feber
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 92 108	Jan Jurger Feber
+T6	Place 601 615	De stad Kandia
+T7	ProperName 609 615	Kandia
+T8	ProperName 673 679	Muller
+T9	Person 668 679	J h: Muller
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 692 700	Danielde
+T11	Person 692 700	Danielde
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other

@@ -1,0 +1,56 @@
+T1	Person 7 22	Johannus Ebelie
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	DuplicatePage 2 5	:S:
+T3	Person 88 108;109 117	Matthijs Kuijper As„ „sistent
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	Organization 132 141	E: Comp:e
+T5	ProperName 132 141	E: Comp:e
+T6	ProperName 7 22	Johannus Ebelie
+T7	ProperName 88 104	Matthijs Kuijper
+T8	Person 255 294;295 303	Heer Jan de Vries, present de naten ge„ „tuijgen
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	ProperName 260 272	Jan de Vries
+T10	Person 304 333	Johannes Ebelie J=o Assistent
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 304 319	Johannes Ebelie
+T12	Person 381 421	Adriana van de Waele, beijde Egte lieden
+A13	Gender T12 Woman
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 381 401	Adriana van de Waele
+T14	Person 511 548;549 561	Maurits Ian Pieter Cornelis Hasselaer onderkoopman
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Acting_Notary
+T15	Place 578 592;593 600	ter residentie Cherbon
+T16	ProperName 593 600	Cherbon
+T17	Organization 796 802	E Comp
+T18	ProperName 796 802	E Comp
+T19	Person 775 803;804 834	ergeant indienst den E Comp: Nicolaas Diederich van fleepen
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Testator
+T20	ProperName 804 834	Nicolaas Diederich van fleepen
+T21	Person 1571 1606;1607 1615	broeden den sergeant Johan Nicolaas Diederic
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary
+T22	ProperName 1592 1606;1607 1616	Johan Nicolaas Diederich
+T23	Person 1935 1942	Ritslof
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	ProperName 1935 1943	Ritsloff
+T25	Person 1947 1955	der Wolt
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	ProperName 1947 1955	der Wolt

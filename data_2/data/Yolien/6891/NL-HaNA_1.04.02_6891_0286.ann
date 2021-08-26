@@ -1,0 +1,26 @@
+T1	Person 61 67	slaven
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 71 80	slavinnen
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 752 772	Anthonij Boresloskij
+T4	ProperName 776 791	Jsaae van duijn
+T5	Person 752 772	Anthonij Boresloskij
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	Person 776 791	Jsaae van duijn
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	Organization 1177 1210	Collegie van heeren Weermeerteren
+T8	ProperName 1177 1210	Collegie van heeren Weermeerteren
+T9	Place 1301 1312	Sterffhuijs
+T10	Organization 1550 1554	Comp
+T11	Organization 1648 1705	heeren bewindhebberen der g’ortreyjeerde Ont Jndische Com
+T12	ProperName 1674 1705	g’ortreyjeerde Ont Jndische Com
+T13	Place 1716 1721	hoorn
+T14	ProperName 1716 1721	hoorn

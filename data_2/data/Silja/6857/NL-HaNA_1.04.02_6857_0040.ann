@@ -1,0 +1,28 @@
+T3	Place 220 237	Cabo d Goede Hoop
+T4	ProperName 220 237	Cabo d Goede Hoop
+T5	Place 312 319	Amsterd
+T6	ProperName 312 319	Amsterd
+#1	AnnotatorNotes T6	Amsterdam
+T7	Person 552 585	Een slaven Ionge genaamt Fortuijn
+A3	Gender T7 Man
+A4	LegalStatus T7 Enslaved
+T8	ProperName 577 585	Fortuijn
+T9	Place 617 631	Canton n China
+T10	ProperName 617 631	Canton n China
+T11	Person 649 662	M. Nolthenius
+A5	Gender T11 Unspecified
+A6	LegalStatus T11 Unspecified
+T12	ProperName 649 662	M. Nolthenius
+T13	Person 663 681	J= A„r de Melander
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+T14	ProperName 663 681	J= A„r de Melander
+T15	DuplicatePage 0 1	N
+A10	Role T7 Other
+A11	Role T11 Other
+A12	Role T13 Other
+T1	Person 76 87;88 100	de Heer Jan George Boode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A9	Role T1 Other
+T2	ProperName 84 87;88 100	Jan George Boode

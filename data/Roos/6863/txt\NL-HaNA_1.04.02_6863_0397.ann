@@ -1,0 +1,109 @@
+T1	Person 75 91	DE:s Franchimont
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 80 91	Franchimont
+T3	Person 93 100	De Lij,
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 93 100	De Lij,
+T5	Person 104 112	Overbeek
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 104 112	Overbeek
+T7	Person 202 234	dE: Johannes Bartholomeus Pijken
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 206 234	Johannes Bartholomeus Pijken
+T9	Person 317 334	d'E: van der hoff
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Acting_Notary
+T10	ProperName 322 334	van der hoff
+T11	Place 518 539	het schip Ghiesenburg
+T12	ProperName 528 539	Ghiesenburg
+T13	Person 564 569;570 586	Carel Fredrik Leijnits
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Testator
+T14	ProperName 564 569;570 586	Carel Fredrik Leijnits
+T15	Person 823 832	E: Pijken
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 823 832	E: Pijken
+T17	Person 857 878	DE: Dirk, Ioan Potken
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 861 878	Dirk, Ioan Potken
+T19	Person 919 923;924 935	heer Jan Lolings
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Beneficiary
+T20	ProperName 924 935	Jan Lolings
+T21	Place 939 948	amsterdam
+T22	ProperName 939 948	amsterdam
+T23	Person 1029 1038	Liebniets
+A28	Gender T23 Man
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Testator
+T24	ProperName 1029 1038	Liebniets
+T25	Person 1060 1072	heer Lolings
+A31	Gender T25 Man
+A32	LegalStatus T25 Unspecified
+A33	Role T25 Beneficiary
+T26	ProperName 1065 1072	Lolings
+T27	Person 1180 1204	I: A: van der voortseC:s
+A34	Gender T27 Man
+A35	LegalStatus T27 Unspecified
+A36	Role T27 Acting_Notary
+T28	ProperName 1180 1199	I: A: van der voort
+T29	Person 1332 1357	J: A: van der voort sec=s
+A37	Gender T29 Unspecified
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Acting_Notary
+T30	ProperName 1332 1351	J: A: van der voort
+T31	Person 1384 1406	Carel Fredrik Liebnits
+A40	Gender T31 Man
+A41	LegalStatus T31 Unspecified
+A42	Role T31 Testator
+T32	ProperName 1384 1406	Carel Fredrik Liebnits
+T33	Place 1448 1471	op ’t schip Phiesenburg
+T34	ProperName 1460 1471	Phiesenburg
+T35	Place 1488 1495	Ceijlon
+T36	ProperName 1488 1495	Ceijlon
+T37	Organization 1542 1564	de Oost Indische Comp:
+T38	Person 1614 1622;1623 1630	Nicolaas Obrenan
+A43	Gender T38 Unspecified
+A44	LegalStatus T38 Unspecified
+A45	Role T38 Other
+T39	ProperName 1614 1622;1623 1630	Nicolaas Obrenan
+T40	Person 1903 1915	heeren Prins
+A46	Gender T40 Man
+A47	LegalStatus T40 Unspecified
+A48	Role T40 Beneficiary
+T41	ProperName 1910 1915	Prins
+T42	Person 1917 1925	Blankert
+A49	Gender T42 Man
+A50	LegalStatus T42 Unspecified
+A51	Role T42 Beneficiary
+T43	ProperName 1917 1925	Blankert
+T44	Person 1929 1935	sijken
+A52	Gender T44 Man
+A53	LegalStatus T44 Unspecified
+A54	Role T44 Beneficiary
+T45	ProperName 1929 1935	sijken
+T46	Place 1938 1945	Colombo
+T47	ProperName 1938 1945	Colombo
+T48	Place 2432 2441	amsterdam
+T49	ProperName 2432 2441	amsterdam
+T50	Person 2477 2491	F: F: Leipnits
+A55	Gender T50 Unspecified
+A56	LegalStatus T50 Unspecified
+A57	Role T50 Other
+T51	ProperName 2477 2491	F: F: Leipnits
+A58	Beneficiary T37 No

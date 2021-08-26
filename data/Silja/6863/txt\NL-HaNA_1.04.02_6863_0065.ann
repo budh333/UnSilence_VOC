@@ -1,0 +1,27 @@
+T1	DuplicatePage 0 3	Jan
+T2	Person 0 18	Jan Willem Harmsst
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 0 18	Jan Willem Harmsst
+T4	Organization 99 104	Comp:
+T5	ProperName 99 104	Comp:
+T6	Person 129 144;145 164	geweesene slaaf Jan Francieo Havier
+A4	Gender T6 Man
+A5	LegalStatus T6 Freed
+A6	Role T6 Beneficiary
+T7	Person 168 186;187 197	geweesenen Savinne Anna Maria
+A7	Gender T7 Woman
+A8	LegalStatus T7 Freed
+A9	Role T7 Beneficiary
+T8	Person 201 207	Ioanne
+A10	Gender T8 Woman
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Beneficiary
+T9	ProperName 201 207	Ioanne
+T10	ProperName 187 197	Anna Maria
+T11	Place 278 292	steene Huijsie
+T12	ProperName 145 164	Jan Francieo Havier
+T13	Place 309 318;319 334	op de ba„ zaar Merziapoek
+T14	ProperName 315 318;319 334	ba„ zaar Merziapoek
+A13	Beneficiary T4 No

@@ -1,0 +1,42 @@
+T1	Person 0 21	Jurgen Paulus Jkerman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 21	Jurgen Paulus Jkerman
+T4	ProperName 74 95	M=r Jan van der voort
+T5	Organization 117 157;158 163	de Edele hooge reegeringe van nederlande India
+T6	Place 147 157;158 163	nederlande India
+T7	ProperName 147 157;158 163	nederlande India
+T8	Place 177 199	binnen de stad batavia
+T9	ProperName 192 199	batavia
+T10	Organization 313 322	d’ EComp:
+T12	ProperName 249 262;263 272	Iurgen paul=o „3 kerman
+T13	Place 277 285	angtburg
+T14	ProperName 277 285	angtburg
+T15	Organization 340 349	’s EComp:
+T16	Organization 1134 1144	’s EComp:s
+T18	ProperName 1103 1120	Christiaan Burien
+T19	Organization 1314 1322	dE Comp:
+T20	Organization 1654 1663	d’ EComp:
+T21	Organization 1683 1689;1690 1730;1731 1771	D'Wel„ Edele Agtbaare Heeren bewindhebberen der „oost Jndische Comp: ter kamen amsterdam
+T22	Place 1762 1771	amsterdam
+T23	ProperName 1762 1771	amsterdam
+T3	Person 74 102;103 112	M=r Jan van der voortnotaris ppublicq:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T11	Person 249 262;263 272	Iurgen paul=o „3 kerman
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T17	Person 1103 1120	Christiaan Burien
+A10	Gender T17 Man
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Beneficiary
+A13	Beneficiary T5 No
+A14	Beneficiary T10 No
+A15	Beneficiary T15 No
+A16	Beneficiary T16 No
+A17	Beneficiary T19 No
+A18	Beneficiary T20 No
+A19	Beneficiary T21 No

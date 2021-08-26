@@ -1,0 +1,73 @@
+T1	TranscriptionError_Document 0 3	P„r
+T2	ProperName 26 31	Suzan
+T3	Person 26 31	Suzan
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 61 69	Hokseeng
+T5	Person 61 69	Hokseeng
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 89 94	Suzan
+T7	Person 89 94	Suzan
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 118 123	mulle
+T9	Person 118 124	muller
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	Person 130 140	DE: Elling
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Beneficiary
+T11	ProperName 134 140	Elling
+T12	ProperName 171 176	Twzan
+#1	AnnotatorNotes T12	Suzan
+T13	Person 171 176	Twzan
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Beneficiary
+T14	ProperName 237 244	beukers
+T15	Person 237 244	beukers
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Beneficiary
+T16	ProperName 320 334	Jan van Zeijst
+T17	ProperName 345 351	Willem
+T19	Person 320 334	Jan van Zeijst
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	Person 345 351	Willem
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T18	ProperName 364 371	Beukers
+T21	Person 364 371	Beukers
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Other
+T22	Person 398 407	J Herstad
+A31	Gender T22 Unspecified
+A32	LegalStatus T22 Unspecified
+A33	Role T22 Other
+T23	ProperName 400 407	Herstad
+T24	DuplicatePage 408 412	Gesw
+T25	Person 471 488	M: V: Lieuwendaal
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Other
+T26	ProperName 477 488	Lieuwendaal
+T27	ProperName 493 506	will: Beukers
+T28	Person 493 506	will: Beukers
+A37	Gender T28 Unspecified
+A38	LegalStatus T28 Unspecified
+A39	Role T28 Other
+T29	ProperName 518 526	HHerstad
+T30	Person 518 526	HHerstad
+A40	Gender T30 Man
+A41	LegalStatus T30 Unspecified
+A42	Role T30 Notary

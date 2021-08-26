@@ -1,0 +1,49 @@
+T1	TranscriptionError_Document 0 2	12
+T3	ProperName 598 617	Steven hendrik Kaun
+T5	ProperName 638 653	Willem van Lier
+T6	Person 753 768	hermanus worrel
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T7	ProperName 753 768	hermanus worrel
+T8	Person 809 824	I: I: hoogkerch
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Acting_Notary
+#1	AnnotatorNotes T8	clercq acting as notary
+T9	ProperName 809 824	I: I: hoogkerch
+T10	Person 873 883	W: V: Lier
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 873 883	W: V: Lier
+T12	Person 884 892	L Stev„n
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Witness
+T13	ProperName 884 892	L Stev„n
+T14	Person 893 905	Hend„k heijm
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 893 905	Hend„k heijm
+T16	Person 927 937	B: Hloradé
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 927 937	B: Hloradé
+T18	Place 999 1005	Padang
+T19	ProperName 999 1005	Padang
+T20	Person 1031 1040	JM Smitte
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T21	ProperName 1031 1040	JM Smitte
+T2	Person 598 617	Steven hendrik Kaun
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T4	Person 638 653	Willem van Lier
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness

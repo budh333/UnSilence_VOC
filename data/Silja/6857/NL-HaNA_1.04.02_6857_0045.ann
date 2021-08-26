@@ -1,0 +1,43 @@
+T1	Place 254 260	Europa
+T2	ProperName 254 260	Europa
+T3	Person 361 377	Koopman Tsjongua
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+T4	ProperName 369 377	Tsjongua
+T5	Person 697 703	Conjak
+A3	Gender T5 Man
+A4	LegalStatus T5 Unspecified
+T6	ProperName 697 703	Conjak
+T7	Person 1030 1044	koopman Conjak
+A5	Gender T7 Man
+A6	LegalStatus T7 Unspecified
+T8	ProperName 1038 1044	Conjak
+T9	Person 1273 1288;1289 1305	Secretaris Mar„ tinus Nolthenius
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 1284 1288;1289 1305	Mar„ tinus Nolthenius
+T11	Place 1330 1345	Canton in China
+T12	ProperName 1330 1345	Canton in China
+T13	Person 1371 1384	J: J: Jdemans
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+T14	ProperName 1371 1384	J: J: Jdemans
+T15	Place 219 241	het schip voorschooten
+T16	Place 157 178	het schip de Admiraal
+T17	Place 298 306	Comptoir
+A12	Role T3 Other
+A13	Role T5 Other
+A14	Role T7 Other
+A15	Role T13 Other
+T18	ProperName 1414 1419	Johan
+T19	Person 1414 1419	Johan
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	Person 1527 1538	C: Rijnnagh
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	ProperName 1527 1538	C: Rijnnagh
+T22	DuplicatePage 0 3	16¼

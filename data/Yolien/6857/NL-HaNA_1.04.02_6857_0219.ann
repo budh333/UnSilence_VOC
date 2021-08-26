@@ -1,0 +1,47 @@
+T1	TranscriptionError_Document 0 4	2.32
+T2	DuplicatePage 299 306	Soekoer
+T3	DuplicatePage 592 604	naagelaatene
+T4	Person 29 51	DE: Johannes Garrelman
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 33 51	Johannes Garrelman
+T6	Person 329 358	wijf de verpandeling Jientang
+A4	Gender T6 Woman
+A5	LegalStatus T6 Enslaved
+A6	Role T6 Other
+T7	Noteworthy 337 349	verpandeling
+T8	ProperName 350 358	Jientang
+T9	Person 382 390	slavinne
+A7	Gender T9 Woman
+A8	LegalStatus T9 Enslaved
+A9	Role T9 Other
+T10	Person 424 456	nngt Iohanna Catharina Steuphaas
+A10	Gender T10 Woman
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 429 456	Iohanna Catharina Steuphaas
+T12	ProperName 492 501;502 511	Rokie van maccasser
+T13	Person 492 501;502 511	Rokie van maccasser
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	Person 462 470	slavinne
+A16	Gender T14 Group
+A17	LegalStatus T14 Enslaved
+A18	Role T14 Other
+T15	ProperName 574 581	Montong
+T16	Person 574 581	Montong
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	Person 585 591	Pindik
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 585 591	Pindik
+T19	ProperName 620 628	Hoogland
+T20	Person 620 628	Hoogland
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Testator

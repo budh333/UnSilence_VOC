@@ -1,0 +1,13 @@
+T1	DuplicatePage 0 1	A
+T2	Place 69 78	Amsterdam
+T3	ProperName 69 78	Amsterdam
+T4	ProperName 1168 1179	P„ Ceijsler
+T5	ProperName 1186 1193	Plusker
+T6	Person 1186 1193	Plusker
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	Person 1168 1179	P„ Ceijsler
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other

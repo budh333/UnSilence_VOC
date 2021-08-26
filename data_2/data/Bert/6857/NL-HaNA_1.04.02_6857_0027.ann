@@ -1,0 +1,16 @@
+T1	Person 349 383;384 397	Oppermeester deeser Factorij Jonan George Boode,
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 378 383;384 396	Jonan George Boode
+T3	Place 427 445	Cabo de Goedesloop
+T4	ProperName 427 445	Cabo de Goedesloop
+T5	Person 490 520;521 526	Oppermeester Iohannes Henricus Reijs
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 503 520;521 526	Iohannes Henricus Reijs
+T7	Place 558 566	Te Macao
+T8	ProperName 561 566	Macao
+T9	Place 1055 1064	De Canton
+T10	ProperName 1058 1064	Canton

@@ -1,0 +1,20 @@
+T1	Person 862 876	Bernardus dias
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T3	Person 880 894;895 918	Willem van der Clercquen als getuijgen
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 880 894	Willem van der
+T5	Person 1002 1019	L: Van den Briele
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 1002 1019	L: Van den Briele
+T7	Person 1031 1039	JVVemmer
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 1031 1039	JVVemmer
+T2	ProperName 862 876	Bernardus dias

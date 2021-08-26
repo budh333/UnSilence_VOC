@@ -1,0 +1,13 @@
+T1	TranscriptionError_Document 0 4	vnde
+T2	DuplicatePage 5 8	bij
+T3	Organization 244 280	Eedese hooge overheeden deser landen
+T4	Person 566 574;575 600	landsman Jacob Kerkhoff, metselaan
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Beneficiary
+T5	ProperName 575 589	Jacob Kerkhoff
+T6	Place 601 620	in ’t ambagts quart
+T7	Organization 1478 1517;1518 1540	de Edele: groot agtb: heeren bewind hel „ren ter Camer Zeeland
+T8	ProperName 1478 1517;1518 1540	de Edele: groot agtb: heeren bewind hel „ren ter Camer Zeeland
+T9	Place 1523 1540	ter Camer Zeeland
+T10	ProperName 1533 1540	Zeeland

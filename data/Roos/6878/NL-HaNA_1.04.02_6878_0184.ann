@@ -1,0 +1,19 @@
+T1	Person 56 76;77 95	’t Vrye jongetje jan Hend:k van de Caap
+A1	Gender T1 Man
+A2	LegalStatus T1 Freed
+A3	Role T1 Other
+T2	ProperName 73 76;77 95	jan Hend:k van de Caap
+T3	Organization 120 145	der Christelikke gemeynte
+T4	Organization 241 249	's Ebomp
+T5	Person 601 621	pieter van der Hyden
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 601 621	pieter van der Hyden
+T8	ProperName 639 649	Jan Hartog
+T7	Person 639 649	Jan Hartog
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+A10	Beneficiary T3 No
+A11	Beneficiary T4 No

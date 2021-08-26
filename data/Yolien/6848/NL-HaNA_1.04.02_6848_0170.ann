@@ -1,0 +1,40 @@
+T1	Person 447 453	slaaff
+A1	Gender T1 Man
+A2	LegalStatus T1 Enslaved
+T2	Person 462 472;473 481	Junij, van sumbauwa
+A4	Gender T2 Man
+A5	LegalStatus T2 Enslaved
+T3	ProperName 462 472;473 481	Junij, van sumbauwa
+T4	Person 490 516	wijff Hestria van Mandhaer
+A7	Gender T4 Woman
+A8	LegalStatus T4 Enslaved
+T5	ProperName 496 516	Hestria van Mandhaer
+T6	Person 562 568	slaven
+A10	Gender T6 Group
+A11	LegalStatus T6 Enslaved
+T13	Person 1770 1783;1784 1799	D' Heeren An„ thonij Beijvank
+A31	Gender T13 Unspecified
+A32	LegalStatus T13 Unspecified
+T14	ProperName 1780 1783;1784 1799	An„ thonij Beijvank
+T15	Organization 1840 1844	Comp
+T16	Person 1875 1898	Christianus Hollenhagen
+A34	Gender T16 Unspecified
+A35	LegalStatus T16 Unspecified
+T17	ProperName 1875 1898	Christianus Hollenhagen
+T18	Organization 1937 1941	Comp
+T19	Person 2452 2456	kind
+A37	Gender T19 Unspecified
+A38	LegalStatus T19 Unspecified
+T20	Person 2461 2469	kinderen
+A40	Gender T20 Group
+A41	LegalStatus T20 Unspecified
+T21	Organization 2782 2807;2808 2818	Colleghe van heeren wees„ „meesteren
+T22	ProperName 2782 2807;2808 2818	Colleghe van heeren wees„ „meesteren
+A3	Role T1 Other
+A12	Role T6 Other
+A6	Role T2 Other
+A9	Role T4 Other
+A13	Role T13 Beneficiary
+A14	Role T16 Beneficiary
+A15	Role T19 Beneficiary
+A16	Role T20 Beneficiary

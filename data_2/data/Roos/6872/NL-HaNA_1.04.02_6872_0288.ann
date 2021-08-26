@@ -1,0 +1,22 @@
+T1	Place 174 184	Swellendam
+T2	ProperName 174 184	Swellendam
+T3	Person 253 273	Mons=r Willem Bosman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 260 273	Willem Bosman
+T5	Person 288 305	Anthonij Lombaard
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 288 305	Anthonij Lombaard
+T7	Person 522 532	I F. Mentz
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 522 532	I F. Mentz
+T9	Person 599 609	PWesterhof
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 599 609	PWesterhof

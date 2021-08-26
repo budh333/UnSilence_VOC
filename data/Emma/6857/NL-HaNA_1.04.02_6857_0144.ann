@@ -1,0 +1,24 @@
+T1	Place 2 21	Der tamer Amsterdam
+T2	ProperName 12 21	Amsterdam
+T3	Organization 130 149;150 159	Eerw=e heeren wees„ meesteren
+T4	Place 160 177	ter stede Batavia
+T5	ProperName 170 177	Batavia
+T6	Place 784 792;793 808	ten Comp „toire Cheribon
+T7	ProperName 800 808	Cheribon
+T8	Person 887 896;897 898;899 908	Simon Erw P Crijoskij
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Other
+T9	ProperName 887 896;897 898;899 908	Simon Erw P Crijoskij
+T10	Person 1014 1025	I=n Herstad
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	ProperName 1014 1025	I=n Herstad
+T12	Person 1033 1047	J=n V„n Zeijst
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	ProperName 1033 1047	J=n V„n Zeijst
+T14	Place 1077 1085	Cheribon
+T15	ProperName 1077 1085	Cheribon

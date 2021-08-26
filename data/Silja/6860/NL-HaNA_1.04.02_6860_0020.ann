@@ -1,0 +1,65 @@
+T1	Organization 237 241	Comp
+A1	Beneficiary T1 No
+T2	ProperName 237 241	Comp
+T3	Person 299 314	Jan wijnand Pan
+A2	Gender T3 Unspecified
+A3	LegalStatus T3 Unspecified
+A4	Role T3 Witness
+T4	ProperName 299 314	Jan wijnand Pan
+T5	Person 332 335;336 349	Jan Adriaan Bosch
+A5	Gender T5 Unspecified
+A6	LegalStatus T5 Unspecified
+A7	Role T5 Witness
+T6	ProperName 332 335;336 349	Jan Adriaan Bosch
+T7	ProperName 498 513	T: J:s Hartingh
+T8	Person 498 513	T: J:s Hartingh
+A8	Gender T8 Unspecified
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Other
+T9	ProperName 552 561	Jan Lapro
+T10	Person 552 561	Jan Lapro
+A11	Gender T10 Unspecified
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Other
+T11	Person 616 629	C: E: Echardt
+A14	Gender T11 Unspecified
+A15	LegalStatus T11 Unspecified
+A16	Role T11 Other
+T12	ProperName 616 629	C: E: Echardt
+T13	ProperName 652 663	C: EEchardt
+T14	Person 652 663	C: EEchardt
+A17	Gender T14 Unspecified
+A18	LegalStatus T14 Unspecified
+A19	Role T14 Other
+T15	ProperName 722 730	Samarang
+T16	Place 722 730	Samarang
+T17	Organization 700 718	Raade van Justitie
+A20	Beneficiary T17 No
+T18	Place 841 851	Bancallang
+T19	ProperName 841 851	Bancallang
+T20	Person 863 895	Europees burger Johannes Jacobus
+A21	Gender T20 Unspecified
+A22	LegalStatus T20 Unspecified
+A23	Role T20 Other
+T21	ProperName 879 895	Johannes Jacobus
+T22	ProperName 914 921	Grissee
+T23	Place 914 921	Grissee
+T24	Person 945 963	Pieter de Lahaijse
+A24	Gender T24 Unspecified
+A25	LegalStatus T24 Unspecified
+A26	Role T24 Other
+T25	ProperName 945 963	Pieter de Lahaijse
+T26	Place 1035 1045	Bancallang
+T27	ProperName 1035 1045	Bancallang
+T28	Person 995 1009;1010 1031	Maria Dorothea Phesserkorn de Eerste
+A27	Gender T28 Woman
+A28	LegalStatus T28 Unspecified
+A29	Role T28 Other
+T29	ProperName 995 1009;1010 1031	Maria Dorothea Phesserkorn de Eerste
+T30	Place 1093 1104	Sourabaijas
+T31	ProperName 1093 1104	Sourabaijas
+T32	Person 1118 1142	Christiaan Ernst Eckardt
+A30	Gender T32 Unspecified
+A31	LegalStatus T32 Unspecified
+A32	Role T32 Other
+T33	ProperName 1118 1142	Christiaan Ernst Eckardt

@@ -1,0 +1,43 @@
+T1	Person 360 373;374 381	heer bentamin Weijnen
+A1	Gender T1 Man
+T2	ProperName 365 373;374 381	bentamin Weijnen
+T4	Person 884 893	Aornolans
+A6	Gender T4 Man
+A8	Notary T4 No
+T5	ProperName 884 893	Aornolans
+T6	ProperName 909 929	Anna magteld Heijnen
+T7	Person 909 929	Anna magteld Heijnen
+A9	Gender T7 Woman
+A11	Notary T7 No
+A2	LegalStatus T1 Unspecified
+A10	LegalStatus T7 Unspecified
+T8	Place 250 266	nederlands Jonra
+T9	ProperName 261 266	Jonra
+T10	Person 90 105	Benjamin Heynen
+A12	Gender T10 Unspecified
+A13	LegalStatus T10 Unspecified
+A14	Notary T10 No
+T11	Person 2320 2339	dE: bernardu Cramer
+A15	Gender T11 Man
+A16	LegalStatus T11 Unspecified
+A17	Notary T11 No
+A18	LegalStatus T4 Unspecified
+T12	Person 894 897	Ian
+A19	Gender T12 Man
+A20	LegalStatus T12 Unspecified
+A21	Notary T12 No
+T13	ProperName 894 897	Ian
+T14	Person 898 905	Hendrik
+A22	Gender T14 Man
+A23	LegalStatus T14 Unspecified
+A24	Notary T14 No
+T15	Person 1274 1302	dE: Leendert goossen Coopman
+A25	Gender T15 Man
+A26	LegalStatus T15 Unspecified
+A27	Notary T15 No
+T16	ProperName 1278 1302	Leendert goossen Coopman
+T17	Person 2358 2381	hendrik Johan Madelanst
+A28	Gender T17 Unspecified
+A29	LegalStatus T17 Unspecified
+A30	Notary T17 No
+A3	Role T1 Testator

@@ -1,0 +1,16 @@
+T1	DuplicatePage 0 1	„
+T2	ProperName 131 136	Comp:
+T3	Organization 131 136	Comp:
+T4	ProperName 467 474	Colombo
+T5	Place 467 474	Colombo
+T6	ProperName 573 585	J: B: Sijker
+T7	ProperName 589 601	A: Martensz:
+T8	Person 573 585	J: B: Sijker
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Other
+T9	Person 589 601	A: Martensz:
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+A7	Beneficiary T3 No

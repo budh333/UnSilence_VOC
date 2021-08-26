@@ -1,0 +1,29 @@
+T2	ProperName 31 58	Johan hendrik fredrik Neeff
+T3	Organization 179 215;216 242	Eerwaarden Collegie van Heeren Weism „steren ter stelde Batavia
+T4	Place 235 242	Batavia
+T5	ProperName 235 242	Batavia
+T6	Organization 548 553;554 560	de E: Comp:s
+T7	Organization 632 639;640 675;676 696	de welh „le Groot Agtbare Heeren bewundhebb ter kamer middelburg
+T8	Place 686 696	middelburg
+T9	ProperName 686 696	middelburg
+T10	Person 835 860	Heer vader m„r Jacob Wils
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	ProperName 846 860	m„r Jacob Wils
+T12	Person 1118 1124	slaven
+A7	Gender T12 Group
+A8	LegalStatus T12 Enslaved
+A9	Role T12 Other
+T13	Person 1154 1168;1169 1190	Christen vrouw Wilhelmina Sara Arons
+A10	Gender T13 Woman
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Beneficiary
+T14	ProperName 1169 1190	Wilhelmina Sara Arons
+T1	Person 31 58	Johan hendrik fredrik Neeff
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+A13	Beneficiary T3 No
+A14	Beneficiary T6 No
+A15	Beneficiary T7 No

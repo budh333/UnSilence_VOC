@@ -1,0 +1,20 @@
+T1	DuplicatePage 0 1	„
+T2	ProperName 193 202	de Vreede
+T3	Person 193 202	de Vreede
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 879 903;904 908	huijsvrouw Maria van der biel
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 890 903;904 908	Maria van der biel
+T6	Person 845 866	zoon Jan Ernst Meijer
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 850 866	Jan Ernst Meijer
+T8	ProperName 1201 1209	Samarang
+T9	Place 1201 1209	Samarang
+T10	Organization 1190 1197	Politie
+A10	Beneficiary T10 No

@@ -1,0 +1,19 @@
+T1	ProperName 617 635	geen truida balser
+T2	Person 603 616;617 635	huijs vrouwen geen truida balser
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 651 661	heer staat
+T4	Place 651 661	heer staat
+T5	ProperName 666 675	amsterdam
+T6	Place 666 675	amsterdam
+T7	ProperName 1157 1177	heeren weesmeesteren
+T8	Organization 1284 1288	Comp
+T9	Organization 1681 1720;1721 1726	bewind hebbenen der geoctraijeerde oost comp:
+T10	Organization 1672 1680	indische
+T11	ProperName 1672 1680	indische
+T12	ProperName 1701 1720;1721 1725	geoctraijeerde oost comp
+T13	ProperName 1737 1747	amsterdaem
+T14	Place 1737 1747	amsterdaem
+T15	Organization 1762 1766	Comp
+T16	Organization 1937 1941	Comp

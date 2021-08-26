@@ -1,0 +1,44 @@
+T1	Place 228 244;245 255	Nederlands Compa Sourabaija
+T2	ProperName 245 255	Sourabaija
+T3	Person 315 338	R:s F„ V:k D:k Niepoort
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 315 338	R:s F„ V:k D:k Niepoort
+T5	ProperName 392 410	I„r H„k Leijdekker
+T6	ProperName 414 429	R„s Geldernisse
+T7	Person 414 429	R„s Geldernisse
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	Person 392 410	I„r H„k Leijdekker
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 441 457	F: V: V: Wspoort
+T10	Person 441 457	F: V: V: Wspoort
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	Place 504 521	Post Passourouang
+T12	ProperName 509 521	Passourouang
+T13	ProperName 572 606	Jan godloff Kamp van Koningsbergen
+T14	Person 572 606	Jan godloff Kamp van Koningsbergen
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 844 852	: EComp:
+T16	Organization 844 852	: EComp:
+A16	Beneficiary T16 No
+T17	Place 938 948	Sourabaija
+T18	ProperName 938 948	Sourabaija
+T19	ProperName 991 1011	R: F: V: D: Niepoort
+T20	ProperName 1023 1038	J: V: V: Wupoot
+T21	Person 991 1011	R: F: V: D: Niepoort
+A17	Gender T21 Unspecified
+A18	LegalStatus T21 Unspecified
+A19	Role T21 Other
+T22	Person 1023 1038	J: V: V: Wupoot
+A20	Gender T22 Unspecified
+A21	LegalStatus T22 Unspecified
+A22	Role T22 Other

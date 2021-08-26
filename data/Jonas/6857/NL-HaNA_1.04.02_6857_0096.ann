@@ -1,0 +1,30 @@
+T1	Person 106 121	ged=e Anna Hein
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 439 454	fredrik Bannier
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Testator
+T3	Person 689 704	fredrik Banmier
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Testator
+T4	Person 708 717	Anna Heyn
+A10	Gender T4 Woman
+A11	LegalStatus T4 Unspecified
+A12	Role T4 Other
+T5	ProperName 708 717	Anna Heyn
+T6	ProperName 439 454	fredrik Bannier
+T7	ProperName 689 704	fredrik Banmier
+T8	ProperName 112 121	Anna Hein
+T9	Person 773 783	Anna Heijn
+A13	Gender T9 Woman
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 773 783	Anna Heijn
+T11	Person 194 203	Anna Heyn
+A16	Gender T11 Woman
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 194 203	Anna Heyn

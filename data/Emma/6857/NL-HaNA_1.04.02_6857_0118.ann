@@ -1,0 +1,41 @@
+T1	Person 195 199	Anna
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 195 199	Anna
+T3	Person 203 213	Anna Maria
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 203 213	Anna Maria
+T5	Person 301 324	de Javaense vrouw Sajem
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 319 324	Sajem
+T7	Organization 950 976;977 983	neederlandsche oostidische Comp=e
+T8	ProperName 950 976;977 983	neederlandsche oostidische Comp=e
+T9	Organization 1083 1089;1090 1124	Heeren Bewindhebberen ter kamer Amsterdam
+T10	Place 1115 1124	Amsterdam
+T11	ProperName 1115 1124	Amsterdam
+T12	Person 1321 1337;1338 1356	Comp: alhier Ian vanden wildenbergh
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 1334 1337;1338 1356	Ian vanden wildenbergh
+T14	Person 1360 1383	Johan Lodewijk Hendriks
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 1360 1383	Johan Lodewijk Hendriks
+T16	Person 1860 1864	Anna
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Beneficiary
+T17	Person 1868 1880	Anna s Maria
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Beneficiary
+T18	ProperName 1860 1864	Anna
+T19	ProperName 1868 1880	Anna s Maria
+T20	Organization 1988 2016;2017 2023	collegie van Heeren weesmier „teren

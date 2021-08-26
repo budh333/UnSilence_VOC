@@ -1,0 +1,73 @@
+T1	Person 0 15	Henderik Mulder
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 15	Henderik Mulder
+T3	Person 84 101;102 115	Andries Jan Balle notaris publ:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 84 101	Andries Jan Balle
+T5	Organization 121 148	den Edelenhoove van holland
+T6	ProperName 121 149	den Edelenhoove van holland;
+T7	Organization 153 161;162 199	de Edele hooge regeeringe van Nederlands India
+T8	Place 137 148	van holland
+T9	ProperName 141 148	holland
+T10	Organization 156 161;162 199	Edele hooge regeeringe van Nederlands India
+T11	Place 183 199	Nederlands India
+T12	ProperName 156 161;162 199	Edele hooge regeeringe van Nederlands India
+T13	ProperName 183 199	Nederlands India
+T14	Place 214 235	binnen destad Batavia
+T15	ProperName 228 235	Batavia
+T16	Person 309 313;314 328	Heer Hendrik Mulder
+A7	Gender T16 Man
+A8	LegalStatus T16 Unspecified
+A9	Role T16 Testator
+T17	ProperName 314 328	Hendrik Mulder
+T18	Organization 362 371	E: Comp:e
+T19	Person 375 395	Mejuffrouw Anna Kemp
+A10	Gender T19 Woman
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Other
+T20	ProperName 386 395	Anna Kemp
+T21	Person 509 528;529 544	M:r Egbert Blomhert Notaris publicq
+A13	Gender T21 Man
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Notary
+T22	ProperName 513 528	Egbert Blomhert
+T23	Organization 549 584;585 597	de Edele hooge Regeering van neder„ „lands India
+T24	Place 578 584;585 597	neder„ „lands India
+T25	ProperName 578 584;585 597	neder„ „lands India
+T26	Place 612 634	binnen de stad Batavia
+T27	ProperName 627 634	Batavia
+T28	Person 688 697;698 714	D E: Lau„ „rens Molkenboer
+A16	Gender T28 Man
+A17	LegalStatus T28 Unspecified
+A18	Role T28 Testator
+T29	Organization 741 748	E: Comp
+T30	Person 936 938;939 951	E„ Ie Schildman
+A19	Gender T30 Man
+A20	LegalStatus T30 Unspecified
+A21	Role T30 Witness
+T31	Place 978 990	dezen steede
+T32	Person 994 1015	Jan Iacob Swanevelder
+A22	Gender T32 Unspecified
+A23	LegalStatus T32 Unspecified
+A24	Role T32 Witness
+T33	ProperName 994 1015	Jan Iacob Swanevelder
+T34	Person 1152 1155;1156 1169	Ian Adam Sponoldt
+A25	Gender T34 Man
+A26	LegalStatus T34 Unspecified
+A27	Role T34 Other
+T35	ProperName 1152 1155;1156 1169	Ian Adam Sponoldt
+T36	Person 1196 1203;1204 1221	d’E Jan Iacob Swanevelder
+A28	Gender T36 Man
+A29	LegalStatus T36 Unspecified
+A30	Role T36 Other
+T37	ProperName 1200 1203;1204 1221	Jan Iacob Swanevelder
+T38	Person 1641 1654	vijffeijgenen
+A31	Gender T38 Group
+A32	LegalStatus T38 Enslaved
+A33	Role T38 Other
+T39	Place 1808 1821	van den lande
+T40	TranscriptionError_Document 2237 2243	scriba

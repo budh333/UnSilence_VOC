@@ -1,0 +1,73 @@
+T1	Person 12 35	Jan Christoffel Groeber
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 12 35	Jan Christoffel Groeber
+T3	Person 36 43	Groever
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 36 43	Groever
+T6	ProperName 132 151	galsaiel van giasen
+T7	Organization 166 182;183 229	haar hoog Edelen w de Edele hoogeregeringe van nederlonds india
+T8	Place 213 229	nederlonds india
+T9	ProperName 213 229	nederlonds india
+T10	Place 243 257;258 266	binnen verstad „batavia
+T11	ProperName 259 266	batavia
+T13	ProperName 316 318;319 340	M: Jan Christoffel groet
+T14	Organization 349 357	’s Comp:
+T15	ProperName 372 391	Christoffel groever
+T16	Place 396 405	baarswijk
+T17	ProperName 396 405	baarswijk
+T18	Organization 430 436	sComp:
+T19	Place 449 470	op d. poste der fluyt
+T20	Person 993 1015;1016 1030	de vaije Christe vrouw Popia van Java
+A13	Gender T20 Woman
+A14	LegalStatus T20 Freed
+A15	Role T20 Beneficiary
+T21	ProperName 1016 1030	Popia van Java
+T22	Place 1026 1030	Java
+T23	Person 1147 1152	Sopia
+A16	Gender T23 Woman
+A17	LegalStatus T23 Freed
+A18	Role T23 Beneficiary
+T24	ProperName 1147 1152	Sopia
+T25	Person 1153 1159;1160 1176	dogter anna van batavia
+A19	Gender T25 Woman
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Beneficiary
+T26	ProperName 1160 1176	anna van batavia
+T27	Place 1169 1176	batavia
+T28	Person 1398 1414	anna ven batovia
+A22	Gender T28 Woman
+A23	LegalStatus T28 Unspecified
+A24	Role T28 Beneficiary
+T29	ProperName 1398 1414	anna ven batovia
+T30	Place 1407 1414	batovia
+T31	Person 1434 1453	dE Fredrik Sehouder
+A25	Gender T31 Man
+A26	LegalStatus T31 Unspecified
+A27	Role T31 Other
+T32	ProperName 1437 1453	Fredrik Sehouder
+T34	ProperName 1495 1521	Magneus hermanus Scherping
+T35	Organization 1737 1770;1771 1782	d’ Eerwaarde heeren weesMeesteren deser stede
+T36	Organization 1942 2004;2005 2039	d’ Edele„ agtb: heeren bewind hebberen den geoctroijeerde oost indische Comp: ter komen omsterdam
+T37	Place 2030 2039	omsterdam
+T38	ProperName 2030 2039	omsterdam
+T5	Person 132 161	galsaiel van giasen nets pub:
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T12	Person 316 318;319 340	M: Jan Christoffel groet
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T33	Person 1495 1532	Magneus hermanus Scherping baekhouder
+A28	Gender T33 Man
+A29	LegalStatus T33 Unspecified
+A30	Role T33 Other
+A31	Beneficiary T7 No
+A32	Beneficiary T14 No
+A33	Beneficiary T18 No
+A34	Beneficiary T35 No
+A35	Beneficiary T36 No

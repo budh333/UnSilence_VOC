@@ -1,0 +1,17 @@
+T1	Person 78 96	Jacob Kleijneijsen
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 78 96	Jacob Kleijneijsen
+T3	Organization 120 126	EComp:
+A4	Beneficiary T3 No
+T4	Person 217 221;222 237	Hen„ drik s Chophoff
+A5	Gender T4 Man
+A6	LegalStatus T4 Unspecified
+A7	Role T4 Other
+T5	ProperName 217 221;222 237	Hen„ drik s Chophoff
+T6	Person 342 354	Samuel Faber
+A8	Gender T6 Man
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Testator
+T7	ProperName 342 354	Samuel Faber

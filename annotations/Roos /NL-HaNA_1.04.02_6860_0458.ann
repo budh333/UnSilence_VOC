@@ -1,0 +1,28 @@
+T1	Organization 94 133;134 172;173 192	de welEdele groot agt„t huren Bewind ho van de Gevetroyeerde OOstindische Com„ nie ter kamer Hoorn
+A1	Beneficiary T1 No
+T2	Place 187 192	Hoorn
+T3	ProperName 187 192	Hoorn
+T4	ProperName 247 263	De Getrouwigheyd
+#1	AnnotatorNotes T4	name ship
+T5	TranscriptionError_Document 0 1	7
+T6	DuplicatePage 0 1	7
+T7	Person 966 971	Manus
+A2	Gender T7 Woman
+A3	LegalStatus T7 Unspecified
+A4	Role T7 Beneficiary
+T8	ProperName 966 971	Manus
+T9	Person 1014 1019	Marie
+A5	Gender T9 Woman
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Beneficiary
+T10	ProperName 1014 1019	Marie
+T11	Person 1064 1071	Siebing
+A8	Gender T11 Woman
+A9	LegalStatus T11 Unspecified
+A10	Role T11 Other
+T12	ProperName 1064 1071	Siebing
+T13	Person 1109 1117	siebroek
+A11	Gender T13 Woman
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Beneficiary
+T14	ProperName 1109 1117	siebroek

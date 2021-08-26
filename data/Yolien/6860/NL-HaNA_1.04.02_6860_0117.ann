@@ -1,0 +1,5 @@
+T1	Person 38 72	Soldaat, Frans Langer van Allemuts
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 47 72	Frans Langer van Allemuts

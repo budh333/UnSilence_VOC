@@ -1,0 +1,26 @@
+T1	Person 0 35	Johannes Barthohomeus van der Grijp
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 35	Johannes Barthohomeus van der Grijp
+T4	ProperName 225 240	Ian vander Laer
+T5	Person 279 294	Pieter Sterstad
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 279 294	Pieter Sterstad
+T7	Noteworthy 189 203;204 205;206 240	den boekhouder — en Pachuijsmeester Ian vander Laer
+#1	AnnotatorNotes T7	Boekhouder acting as notary
+T8	Noteworthy 266 294	Gesw: Scriba Pieter Sterstad
+#2	AnnotatorNotes T8	Scriba acting as notary
+T9	Person 430 438	Coogland
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+#3	AnnotatorNotes T9	hoogland
+T10	ProperName 430 438	Coogland
+T11	TranscriptionError_Document 0 8	Johannes
+T3	Person 225 240	Ian vander Laer
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary

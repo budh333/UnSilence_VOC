@@ -1,0 +1,37 @@
+T1	ProperName 57 70	Jan Timmerman
+T2	Person 57 70	Jan Timmerman
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	Place 86 104	t schip„ Landhorst
+T4	ProperName 95 104	Landhorst
+T5	Place 127 139	’t vaderland
+T6	Person 188 210	Herenin= Cristiaen pit
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 197 210	Cristiaen pit
+T8	Place 237 250	nederl= Jndia
+T9	ProperName 237 250	nederl= Jndia
+T10	ProperName 558 571	d’ Landherst,
+T11	Person 558 571	d’ Landherst,
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Acting_Notary
+T12	Person 593 620	Cornelis pietersz van Regun
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 593 620	Cornelis pietersz van Regun
+T14	DuplicatePage 1197 1200	aan
+T15	ProperName 1233 1247;1248 1250	Ian Jansen van Es
+T16	Person 1233 1247;1248 1251	Ian Jansen van Es,
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Beneficiary
+T17	ProperName 1255 1277	Jan gerritsz„ de graaf
+T18	Person 1255 1277	Jan gerritsz„ de graaf
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Beneficiary
+T19	DuplicatePage 1568 1572	1775

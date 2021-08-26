@@ -1,0 +1,22 @@
+T1	Person 106 135	Hermanus Strakke, van Duurbag
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	Place 124 135	van Duurbag
+T3	ProperName 128 135	Duurbag
+T4	ProperName 106 122	Hermanus Strakke
+T5	Person 910 920	Heer Smith
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Notary T5 No
+T6	Person 946 980	Christoffel Schroder, van Loumdorp
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Notary T6 No
+T7	ProperName 946 966	Christoffel Schroder
+T8	Place 968 980	van Loumdorp
+T9	ProperName 972 980	Loumdorp
+T10	Person 1319 1326	Laurens
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Notary T10 No

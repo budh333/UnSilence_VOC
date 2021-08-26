@@ -1,0 +1,64 @@
+T1	Organization 486 520	nederduijtsche gereformeerde armen
+T2	Place 525 538	t dorp groede
+T3	ProperName 532 538	groede
+T4	Place 547 564	instads planderen
+T5	ProperName 555 564	planderen
+T6	ProperName 621 633	Michiel faro
+T7	Person 621 633	Michiel faro
+A1	Gender T7 Unspecified
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Beneficiary
+T8	ProperName 717 726	Sara faro
+T9	Person 717 727	Sara faro,
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Beneficiary
+T10	Person 817 835	weduwe van der Net
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 824 835	van der Net
+T12	Place 860 869	rotterdam
+T13	ProperName 860 869	rotterdam
+T14	ProperName 935 941	Dijken
+T15	ProperName 945 951	Mulder
+T16	Person 935 941	Dijken
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Beneficiary
+T17	Person 945 951	Mulder
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Beneficiary
+T18	Place 956 965	amsterdam
+T19	ProperName 956 965	amsterdam
+T20	Person 1039 1053	weduwe Laurens
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 1046 1053	Laurens
+T22	ProperName 1114 1124	vlissingen
+T23	Place 1114 1124	vlissingen
+T24	ProperName 1216 1229	Simon Iasephe
+T25	Person 1216 1229	Simon Iasephe
+A19	Gender T25 Man
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Beneficiary
+T26	Organization 1298 1326	gereformeerde diaconij armen
+T27	Person 1403 1432	vrije vrouw Tima van Mandhaer
+A22	Gender T27 Woman
+A23	LegalStatus T27 Freed
+A24	Role T27 Beneficiary
+T28	ProperName 1415 1432	Tima van Mandhaer
+T29	ProperName 1731 1745	paternel Iacob
+T30	Person 1731 1745	paternel Iacob
+A25	Gender T30 Man
+A26	LegalStatus T30 Unspecified
+A27	Role T30 Beneficiary
+T31	Person 1749 1756;1757 1764	Godocus claeijs
+A28	Gender T31 Man
+A29	LegalStatus T31 Unspecified
+A30	Role T31 Beneficiary
+T32	ProperName 1749 1756;1757 1764	Godocus claeijs
+T33	Place 1786 1802	’t dorp Landegan
+T34	ProperName 1794 1802	Landegan

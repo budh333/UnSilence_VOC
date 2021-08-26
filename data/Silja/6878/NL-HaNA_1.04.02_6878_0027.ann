@@ -1,0 +1,59 @@
+T1	DuplicatePage 0 7	Jacobus
+T2	ProperName 0 17	Jacobus Syblairas
+T3	Person 0 17	Jacobus Syblairas
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 66 79	L: A: Haltman
+T5	ProperName 110 126	Oost Jnd„e Comp:
+T6	Organization 110 126	Oost Jnd„e Comp:
+A4	Beneficiary T6 No
+T7	Place 127 140	Schip De Bott
+T8	ProperName 133 140	De Bott
+T9	Person 66 79	L: A: Haltman
+A5	Gender T9 Man
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Acting_Notary
+T10	ProperName 176 184;185 194	Jacjobus Siblairas
+T11	Person 176 184;185 194	Jacjobus Siblairas
+A8	Gender T11 Unspecified
+A9	LegalStatus T11 Unspecified
+A10	Role T11 Testator
+T12	ProperName 332 337	EComp
+T13	Organization 332 337	EComp
+A11	Beneficiary T13 No
+T14	ProperName 281 306	Nicolaas Cornelis Twinsz:
+T15	Person 281 306	Nicolaas Cornelis Twinsz:
+A12	Gender T15 Man
+A13	LegalStatus T15 Unspecified
+A14	Role T15 Acting_Notary
+T16	Place 444 454	Ten huijse
+T17	Person 463 490	E Heer Walter Marcus Stuart
+A15	Gender T17 Man
+A16	LegalStatus T17 Unspecified
+A17	Role T17 Testator
+T18	Place 526 535	Comptoirs
+T19	Person 1008 1028	Notaris Jan de windt
+A18	Gender T19 Man
+A19	LegalStatus T19 Unspecified
+A20	Role T19 Notary
+T20	ProperName 1016 1028	Jan de windt
+T21	Organization 1293 1299;1300 1324	de dia „Conij armen te samarang
+A21	Beneficiary T21 Yes
+T22	ProperName 1316 1324	samarang
+T23	Place 1316 1324	samarang
+T24	Person 2017 2023	slaven
+A22	Gender T24 Group
+A23	LegalStatus T24 Enslaved
+A24	Role T24 Other
+T25	ProperName 1959 1974	Agnita Schouten
+T26	Person 1959 1974	Agnita Schouten
+A25	Gender T26 Unspecified
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Other
+T27	ProperName 1510 1522	Jan Schouten
+T28	Person 1510 1522	Jan Schouten
+A28	Gender T28 Unspecified
+A29	LegalStatus T28 Unspecified
+A30	Role T28 Other
+T29	ProperName 477 490	Marcus Stuart

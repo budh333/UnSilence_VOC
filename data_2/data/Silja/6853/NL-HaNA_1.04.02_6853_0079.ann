@@ -1,0 +1,61 @@
+T1	Person 0 8	Jan Kreb
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 8	Jan Kreb
+T3	Person 9 24	Jacob de Koning
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 9 24	Jacob de Koning
+T5	ProperName 79 100	Guilliam Gerard Frant
+T6	Person 79 100	Guilliam Gerard Frant
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 103 118	Coenraad Kngest
+T8	Person 103 118	Coenraad Kngest
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	DuplicatePage 0 3	Jan
+T10	ProperName 231 240;241 274	het Eerw„ Callegis van heeren weesmeesteren
+T11	Organization 231 240;241 274	het Eerw„ Callegis van heeren weesmeesteren
+T12	Place 306 345;346 354	te deeser als en alle andere steeden en plaatzen
+T13	Place 376 388	sterf heuijs
+T14	ProperName 756 771;772 788	geactroijdeerde oostindise Comp:
+T15	Organization 756 771;772 788	geactroijdeerde oostindise Comp:
+T16	ProperName 799 808	Amsterdam
+T17	Place 799 808	Amsterdam
+T18	Place 1557 1567	ten huijse
+T19	Person 1572 1584	Frans Adinck
+A13	Gender T19 Unspecified
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Witness
+T20	ProperName 1572 1584	Frans Adinck
+T21	ProperName 1633 1649	freedrick amboos
+T22	Person 1633 1649	freedrick amboos
+A16	Gender T22 Unspecified
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Witness
+T23	Person 1596 1601;1602 1616	Johan tisvan vooren:
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Witness
+T24	Person 1617 1628	mansz udink
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Witness
+T25	ProperName 1596 1601;1602 1616	Johan tisvan vooren:
+T26	ProperName 1617 1628	mansz udink
+T27	Person 1772 1790	A van Dinter Nots:
+A25	Gender T27 Man
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Notary
+T28	ProperName 1801 1813	A„ BGertting
+T29	Person 1801 1813	A„ BGertting
+A28	Gender T29 Unspecified
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Other
+A31	Beneficiary T11 No
+A32	Beneficiary T15 No

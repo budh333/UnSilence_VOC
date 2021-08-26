@@ -1,0 +1,192 @@
+T1	Person 99 111	leyffeygenen
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 287 305	Elias Jacob Beynon
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Beneficiary
+T3	ProperName 287 305	Elias Jacob Beynon
+T4	Person 318 326	Manslave
+A7	Gender T4 Group
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Other
+T5	Person 335 340	Teffa
+A10	Gender T5 Man
+A11	LegalStatus T5 Enslaved
+A12	Role T5 Other
+T6	ProperName 335 340	Teffa
+T7	Person 342 347	Timor
+A13	Gender T7 Man
+A14	LegalStatus T7 Enslaved
+A15	Role T7 Other
+T8	ProperName 342 347	Timor
+T9	Person 352 360	Achilles
+A16	Gender T9 Man
+A17	LegalStatus T9 Enslaved
+A18	Role T9 Other
+T10	ProperName 352 360	Achilles
+T11	Person 366 371	Simon
+A19	Gender T11 Man
+A20	LegalStatus T11 Enslaved
+A21	Role T11 Other
+T12	ProperName 366 371	Simon
+T13	Person 375 381	Castor
+A22	Gender T13 Man
+A23	LegalStatus T13 Enslaved
+A24	Role T13 Other
+T14	ProperName 375 381	Castor
+T15	Place 386 395	Mangaraij
+T16	ProperName 386 395	Mangaraij
+T17	Noteworthy 307 311	Vier
+#1	AnnotatorNotes T17	It says 4 but then 5 names are mentioned, weird
+T18	Person 427 442	Fredrik Hendrik
+A25	Gender T18 Man
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Beneficiary
+T19	ProperName 427 442	Fredrik Hendrik
+T20	Person 446 463	Jan daniel Beyhon
+A28	Gender T20 Man
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Beneficiary
+T21	ProperName 446 463	Jan daniel Beyhon
+T22	Person 464 474;475 482	Palaso van saleien
+A31	Gender T22 Man
+A32	LegalStatus T22 Enslaved
+A33	Role T22 Other
+T23	ProperName 464 474;475 482	Palaso van saleien
+T24	Place 475 482	saleien
+T25	Person 492 514	Wijff Plora van boegis
+A34	Gender T25 Woman
+A35	LegalStatus T25 Enslaved
+A36	Role T25 Other
+T26	ProperName 498 514	Plora van boegis
+T27	Place 508 514	boegis
+T28	Person 516 529	Cato van Paly
+A37	Gender T28 Man
+A38	LegalStatus T28 Enslaved
+A39	Role T28 Other
+T29	ProperName 516 529	Cato van Paly
+T30	Place 525 529	Paly
+T31	Person 539 552;553 561	wyff Amaranta van Nias
+A40	Gender T31 Woman
+A41	LegalStatus T31 Enslaved
+A42	Role T31 Other
+T32	ProperName 544 552;553 561	Amaranta van Nias
+T33	Place 557 561	Nias
+T34	Person 563 578	Pakko van Timor
+A43	Gender T34 Man
+A44	LegalStatus T34 Enslaved
+A45	Role T34 Other
+T35	ProperName 563 579	Pakko van Timor,
+T36	Place 573 578	Timor
+T37	Person 587 608	vijff Boenga van ende
+A46	Gender T37 Woman
+A47	LegalStatus T37 Enslaved
+A48	Role T37 Other
+T38	ProperName 593 608	Boenga van ende
+T39	Place 604 608	ende
+T40	Person 619 627;628 645	slavinne Halla, van rottie
+A49	Gender T40 Woman
+A50	LegalStatus T40 Enslaved
+A51	Role T40 Other
+T41	ProperName 628 645	Halla, van rottie
+T42	Place 639 645	rottie
+T43	Person 650 664	Paha van Solor
+A52	Gender T43 Woman
+A53	LegalStatus T43 Enslaved
+A54	Role T43 Other
+T44	ProperName 650 664	Paha van Solor
+T45	Place 659 664	Solor
+T46	Person 686 713	dogten Maria Barbara Beynon
+A55	Gender T46 Woman
+A56	LegalStatus T46 Unspecified
+A57	Role T46 Beneficiary
+T47	ProperName 693 713	Maria Barbara Beynon
+T48	Person 720 729	Manslaven
+A58	Gender T48 Group
+A59	LegalStatus T48 Enslaved
+A60	Role T48 Other
+T49	Person 736 751	Salon van Simor
+A61	Gender T49 Man
+A62	LegalStatus T49 Enslaved
+A63	Role T49 Other
+T50	ProperName 736 751	Salon van Simor
+T51	Place 746 751	Simor
+T52	Person 752 771	Batje van Sum bauwa
+A64	Gender T52 Man
+A65	LegalStatus T52 Enslaved
+A66	Role T52 Other
+T53	ProperName 752 771	Batje van Sum bauwa
+T54	Place 762 771	Sum bauwa
+T55	Person 776 793	Laboeang Van baly
+A67	Gender T55 Man
+A68	LegalStatus T55 Enslaved
+A69	Role T55 Other
+T56	ProperName 776 793	Laboeang Van baly
+T57	Place 789 793	baly
+T58	Person 805 813;814 820	slavinne Catjar
+A70	Gender T58 Woman
+A71	LegalStatus T58 Enslaved
+A72	Role T58 Other
+T59	ProperName 814 820	Catjar
+T60	Person 825 846	Jatmina van Mangoraij
+A73	Gender T60 Woman
+A74	LegalStatus T60 Enslaved
+A75	Role T60 Other
+T61	ProperName 825 846	Jatmina van Mangoraij
+T62	Place 837 846	Mangoraij
+T63	Person 876 911	dogsten Adriana, Elisabeth, Paulina
+A76	Gender T63 Woman
+A77	LegalStatus T63 Unspecified
+A78	Role T63 Beneficiary
+T64	ProperName 884 911	Adriana, Elisabeth, Paulina
+T65	Person 916 925	Manslaaff
+A79	Gender T65 Man
+A80	LegalStatus T65 Enslaved
+A81	Role T65 Other
+T66	Person 936 955	September van Timor
+A82	Gender T66 Man
+A83	LegalStatus T66 Enslaved
+A84	Role T66 Other
+T67	ProperName 936 955	September van Timor
+T68	Place 950 955	Timor
+T69	Person 966 979	slavinne Jlia
+A85	Gender T69 Woman
+A86	LegalStatus T69 Enslaved
+A87	Role T69 Other
+T70	ProperName 975 979	Jlia
+T71	Person 984 1003	Aspasia van Boeghes
+A88	Gender T71 Woman
+A89	LegalStatus T71 Enslaved
+A90	Role T71 Other
+T72	ProperName 984 1003	Aspasia van Boeghes
+T73	Place 996 1003	Boeghes
+T74	Person 1005 1009;1010 1019	Neno van Cimor
+A91	Gender T74 Woman
+A92	LegalStatus T74 Enslaved
+A93	Role T74 Other
+T75	ProperName 1005 1009;1010 1019	Neno van Cimor
+T76	Place 1014 1019	Cimor
+T77	Person 1023 1040	Modica van Chotty
+A94	Gender T77 Woman
+A95	LegalStatus T77 Enslaved
+A96	Role T77 Other
+T78	ProperName 1023 1040	Modica van Chotty
+T79	Place 1034 1040	Chotty
+T80	Person 1740 1755	Fredrik Hendrik
+A97	Gender T80 Man
+A98	LegalStatus T80 Unspecified
+A99	Role T80 Beneficiary
+T81	ProperName 1740 1755	Fredrik Hendrik
+T82	Person 1759 1777	Jan daniel Beijnon
+A100	Gender T82 Man
+A101	LegalStatus T82 Unspecified
+A102	Role T82 Beneficiary
+T83	ProperName 1759 1777	Jan daniel Beijnon
+T84	Organization 2266 2315;2316 2331	de Edele Hooge Achtb=re Heeren Bewindhebberen ter kamer Amsterdam
+A103	Beneficiary T84 No
+T85	Place 2322 2331	Amsterdam
+T86	ProperName 2322 2331	Amsterdam
+T87	Place 2373 2394;2395 2404	het schip d’ Adiiraal d’ Ruyter
+T88	ProperName 2383 2394;2395 2404	d’ Adiiraal d’ Ruyter

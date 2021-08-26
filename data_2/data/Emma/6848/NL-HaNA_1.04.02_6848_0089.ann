@@ -1,0 +1,11 @@
+T15	Organization 666 675;676 683	de E Com„ „pagnie
+T21	Place 850 869	ter kamer Amsterdam
+T22	ProperName 860 869	Amsterdam
+T24	Person 1298 1310	lijffeigenen
+A52	Gender T24 Group
+A53	LegalStatus T24 Enslaved
+T1	Organization 437 479	Eerwarde Collegie van Heeren Wuesmeesteren
+A1	Role T24 Beneficiary
+T4	ProperName 666 675;676 683	de E Com„ „pagnie
+T5	Organization 814 842;843 869	Geoftroijeerde oost Jndische Comp:e ter kamer Amsterdam
+T6	ProperName 814 842;843 869	Geoftroijeerde oost Jndische Comp:e ter kamer Amsterdam

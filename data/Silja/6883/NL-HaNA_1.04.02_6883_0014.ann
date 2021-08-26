@@ -1,0 +1,19 @@
+T1	Organization 265 309	de diacorij -armen van de gereformeerde Kerk
+A1	Beneficiary T1 Yes
+T2	Person 1105 1109	kine
+A2	Gender T2 Unspecified
+A3	LegalStatus T2 Unspecified
+A4	Role T2 Beneficiary
+T3	Person 1115 1123	kinderen
+A5	Gender T3 Group
+A6	LegalStatus T3 Unspecified
+A7	Role T3 Beneficiary
+T4	Person 1518 1522	Kine
+A8	Gender T4 Unspecified
+A9	LegalStatus T4 Unspecified
+A10	Role T4 Beneficiary
+T5	Person 1526 1534	Kinderen
+A11	Gender T5 Group
+A12	LegalStatus T5 Unspecified
+A13	Role T5 Beneficiary
+T6	ProperName 265 309	de diacorij -armen van de gereformeerde Kerk

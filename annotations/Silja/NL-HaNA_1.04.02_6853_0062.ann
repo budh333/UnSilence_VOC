@@ -1,0 +1,46 @@
+T1	Person 0 27	huijsvrouw Elisabeth Asmoes
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 11 27	Elisabeth Asmoes
+T3	ProperName 61 66	fried
+T4	Person 47 52;60 66	sonen „fried
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	Person 47 52;85 114	sonen Iurgen Jan Oostwald Eijsenach
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 85 114	Iurgen Jan Oostwald Eijsenach
+T7	Place 143 150	komburg
+T8	ProperName 143 150	komburg
+T9	Person 420 426	slaven
+A10	Gender T9 Group
+A11	LegalStatus T9 Enslaved
+A12	Role T9 Other
+T10	Person 430 433;435 441	sla winnen
+A13	Gender T10 Group
+A14	LegalStatus T10 Enslaved
+A15	Role T10 Other
+#1	AnnotatorNotes T10	Slavinnen
+T11	ProperName 1079 1092	fedrik Campen
+T12	Person 1079 1092	fedrik Campen
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 1096 1115	hendrik hassenploeq
+T14	Person 1096 1115	hendrik hassenploeq
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 1165 1178	fredrik Campe
+T16	Person 1165 1178	fredrik Campe
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 1681 1693	fredrik Camp
+T18	Person 1681 1693	fredrik Camp
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Other

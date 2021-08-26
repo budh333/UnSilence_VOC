@@ -1,0 +1,46 @@
+T1	TranscriptionError_Document 0 2	In
+T2	DuplicatePage 0 2	In
+T3	Person 80 109	Johan ruijslander; onderkoopm
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 80 97	Johan ruijslander
+T5	Organization 118 128	Der Comp=e
+A4	Beneficiary T5 No
+T6	Place 144 163;164 170	op het schip oude — naarde
+T7	ProperName 157 163;164 170	oude — naarde
+T8	Person 185 200	Cornelis sincke
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 185 200	Cornelis sincke
+T10	Person 859 872	Lyntje tuijsl
+A8	Gender T10 Woman
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Beneficiary
+T11	ProperName 859 872	Lyntje tuijsl
+T12	Place 885 896	middelburgh
+T13	ProperName 885 896	middelburgh
+T14	Person 921 937	Heer N: Keijser:
+A11	Gender T14 Man
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Other
+T15	ProperName 926 937	N: Keijser:
+T16	Organization 950 953;954 980	den hoogen raad van Vlaenderen
+A14	Beneficiary T16 No
+T17	Place 970 980	Vlaenderen
+T18	ProperName 970 980	Vlaenderen
+T19	Person 1016 1032	Heer N: Reijser:
+A15	Gender T19 Man
+A16	LegalStatus T19 Unspecified
+A17	Role T19 Beneficiary
+T20	ProperName 1021 1032	N: Reijser:
+T21	Person 1111 1132	Leendet Ewanth trooft
+A18	Gender T21 Man
+A19	LegalStatus T21 Unspecified
+A20	Role T21 Other
+T22	ProperName 1111 1132	Leendet Ewanth trooft
+T23	Place 1137 1148	middelburgh
+T24	ProperName 1137 1148	middelburgh
+T25	Place 2493 2502	purmerent
+T26	ProperName 2493 2502	purmerent

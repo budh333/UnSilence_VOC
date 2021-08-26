@@ -1,0 +1,14 @@
+T2	ProperName 71 90	Thomas Van Spreeken
+T3	Organization 338 344	Comp„s
+T4	Place 887 908	Batavia In ’t Casteel
+T5	ProperName 887 894	Batavia
+T6	Person 934 949	I: P: Schaagher
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 934 949	I: P: Schaagher
+T1	Person 71 90	Thomas Van Spreeken
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+A7	Beneficiary T3 No

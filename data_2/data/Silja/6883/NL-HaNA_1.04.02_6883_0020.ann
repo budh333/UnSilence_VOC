@@ -1,0 +1,24 @@
+T1	Person 148 164;165 169	broeder Everhand bers
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 156 164;165 169	Everhand bers
+T3	Place 173 180	bassing
+T4	ProperName 173 180	bassing
+T5	Person 403 423	heer Abraham Mijlens
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 408 423	Abraham Mijlens
+T7	Place 451 468	kampemente silauw
+T8	ProperName 462 468	silauw
+T9	Person 488 493;494 500	serve Jansz:
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 488 493;494 500	serve Jansz:
+T11	Place 913 934	kamer van seventienen
+T12	ProperName 923 934	seventienen
+T13	Place 1933 1943;1944 1950	Campemente silauw
+T14	ProperName 1944 1950	silauw
+T15	Place 1980 1994	ten woonhuijse

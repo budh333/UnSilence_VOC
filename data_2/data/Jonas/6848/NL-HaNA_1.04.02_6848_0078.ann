@@ -1,0 +1,8 @@
+T1	Person 130 150;151 156;157 170	nk paurens Landstroo M van Noord Copping
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 130 150;151 152	nk paurens Landstroo M
+#1	AnnotatorNotes T2	Proper name: Erik Laurens Landstroom
+T3	Place 153 156;157 170	van Noord Copping
+T4	ProperName 157 170	Noord Copping

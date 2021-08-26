@@ -1,0 +1,23 @@
+T1	ProperName 512 527	Jan van banchem
+T2	Person 512 527	Jan van banchem
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 848 865	Hendrik Steenkamp
+T4	Person 848 865	Hendrik Steenkamp
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 882 896	Zirk sijmonsz:
+T6	Person 882 895	Zirk sijmonsz
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 900 918	Gossel bruijnereus
+T8	Person 900 919	Gossel bruijnereus,
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Beneficiary
+T9	Organization 1152 1156	Comp
+T10	Organization 1415 1447	Colegie van heeren weesmeesteren
+T11	ProperName 1415 1447	Colegie van heeren weesmeesteren

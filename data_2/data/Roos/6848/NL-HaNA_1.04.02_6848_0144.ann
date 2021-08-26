@@ -1,0 +1,10 @@
+T1	Person 272 300;301 319	Casparus Gerhardus de Coste. Colomba boekhouder
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 272 299	Casparus Gerhardus de Coste
+T3	Place 301 308	Colomba
+T4	Person 301 308	Colomba
+#1	AnnotatorNotes T4	Colombo
+T5	ProperName 301 308	Colomba
+#2	AnnotatorNotes T5	Colombo
+A3	Role T1 Other

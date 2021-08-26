@@ -1,0 +1,15 @@
+T1	Person 94 112	P=r van der Petten
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 94 112	P=r van der Petten
+T3	Place 330 358	Ternaten in’t Casteel orange
+T4	ProperName 330 338	Ternaten
+T5	ProperName 352 358	orange
+T6	Person 422 434	F=ks Veltman
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 422 434	F=ks Veltman
+T8	Place 527 546	Batavia in't Cappel
+T9	ProperName 527 534	Batavia

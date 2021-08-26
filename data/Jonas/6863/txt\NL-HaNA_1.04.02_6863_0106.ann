@@ -1,0 +1,17 @@
+T1	Place 223 234	Fort Gustan
+T2	Person 235 254	Johan Willem van Ma
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Organization 271 277	Comp„e
+T4	Person 318 331	J: C: Heijmin
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 343 358	B: C: D: Bouman
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	TranscriptionError_Document 3 8	Pafel
+T7	Place 212 219	Roeglij
+T8	ProperName 212 219	Roeglij

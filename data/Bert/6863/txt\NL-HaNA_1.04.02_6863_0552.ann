@@ -1,0 +1,7 @@
+T1	Person 457 467	Wer Spijck
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+#1	AnnotatorNotes T1	Verspijck
+T2	ProperName 457 467	Wer Spijck
+#2	AnnotatorNotes T2	Verspijck

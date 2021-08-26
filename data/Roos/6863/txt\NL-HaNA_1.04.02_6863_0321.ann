@@ -1,0 +1,48 @@
+T1	Person 392 407	D„k Kloppenburg
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 392 407	D„k Kloppenburg
+T3	Person 632 645;646 655	Heer Adrianus Dingshoff
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 637 645;646 655	Adrianus Dingshoff
+T5	Person 670 686	Heer Pieter Hoff
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 675 686	Pieter Hoff
+T7	Person 730 744	Heeren Seenlin
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 737 744	Seenlin
+T9	Person 748 752	Hoff
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 748 752	Hoff
+T11	Place 948 966	Houglij in Bengale
+T12	ProperName 948 955	Houglij
+T13	ProperName 959 966	Bengale
+T14	Person 1000 1006;1007 1013	Pieter Forman
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Witness
+T15	ProperName 1000 1006;1007 1013	Pieter Forman
+T16	Person 1017 1040	Jan Hendrik Anthonijsz:
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Witness
+T17	ProperName 1017 1040	Jan Hendrik Anthonijsz:
+T18	Person 1124 1127;1128 1143	Fk„ wieman Prointh:
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Acting_Notary
+T19	ProperName 1124 1127;1128 1143	Fk„ wieman Prointh:
+T20	Person 1192 1205	J: van Nierop
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T21	ProperName 1192 1205	J: van Nierop

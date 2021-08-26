@@ -1,0 +1,18 @@
+T1	Organization 53 72;73 97	’t Eerwaarde Colleg Van heeren Weesmeesteren
+A1	Beneficiary T1 No
+T2	ProperName 53 72;73 97	’t Eerwaarde Colleg Van heeren Weesmeesteren
+T3	Place 98 114	ter steede Matar
+T4	ProperName 109 114	Matar
+T5	ProperName 483 497	Coenraad Renne
+T6	ProperName 456 462;463 472	Arnout Gerritsz:
+T7	Person 483 497	Coenraad Renne
+A2	Gender T7 Unspecified
+A3	LegalStatus T7 Unspecified
+A4	Role T7 Witness
+T8	Person 456 462;463 472	Arnout Gerritsz:
+A5	Gender T8 Unspecified
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Witness
+T9	Organization 931 938	DE Comp
+A8	Beneficiary T9 No
+T10	ProperName 931 939	DE Comp:

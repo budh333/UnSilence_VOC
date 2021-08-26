@@ -1,0 +1,35 @@
+T1	TranscriptionError_Document 0 1	N
+T2	DuplicatePage 11 16	Slaat
+T3	Organization 201 223	E: Comp: den manhaften
+T4	ProperName 224 239	Iacobus Claeijs
+T5	Person 224 239	Iacobus Claeijs
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Organization 355 364	burgerije
+T7	Person 325 343	heer Simon Josephe
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Beneficiary
+T8	ProperName 330 343	Simon Josephe
+T9	ProperName 422 437	Iacobus claeijs
+T10	Person 422 437	Iacobus claeijs
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	DuplicatePage 1814 1818	Amen
+T12	Place 1886 1893	Batavia
+T13	ProperName 1886 1893	Batavia
+T14	Organization 1993 1997	Comp
+T15	Person 728 746	Heer Simon Josepre
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Beneficiary
+T16	ProperName 733 746	Simon Josepre
+T17	Organization 757 766	burgerije
+T18	Organization 1154 1171	Heeren Weesmeesen
+T19	ProperName 1154 1171	Heeren Weesmeesen
+T20	Organization 1465 1491;1492 1525	Heeren Bewind hebbenen der geoctroijeerde Oost Jndische Comp
+T21	ProperName 1507 1525	Oost Jndische Comp
+T22	Place 1527 1544	ter Camen Rotth=m
+T23	ProperName 1537 1544	Rotth=m

@@ -1,0 +1,38 @@
+T1	Organization 282 326	t Eerwaerde Collegi van heeren Weesmeesteren
+A1	Beneficiary T1 No
+T2	Place 489 492;493 498	Rem „bang
+T3	ProperName 489 492;493 498	Rem „bang
+T4	ProperName 537 554	P: Van Ossenbrung
+T5	Person 537 554	P: Van Ossenbrung
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Other
+T6	ProperName 570 584	Abr: Van Hrmer
+T7	Person 570 584	Abr: Van Hrmer
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Other
+T8	Organization 646 665	Braele van justitie
+A8	Beneficiary T8 No
+T9	Place 693 715	gouvernefente Samarang
+T10	ProperName 707 715	Samarang
+T11	ProperName 779 786	Rembang
+T12	Place 779 786	Rembang
+T13	ProperName 817 823;824 840	Pieter van Ossenbruggen
+T14	Person 817 823;824 840	Pieter van Ossenbruggen
+A9	Gender T14 Unspecified
+A10	LegalStatus T14 Unspecified
+A11	Role T14 Other
+T15	ProperName 879 898	Wijllem Adrian Palm
+T16	Person 879 898	Wijllem Adrian Palm
+A12	Gender T16 Unspecified
+A13	LegalStatus T16 Unspecified
+A14	Role T16 Other
+T17	ProperName 1022 1028	EComp=
+T18	Organization 1022 1028	EComp=
+A15	Beneficiary T18 No
+T19	ProperName 1224 1238	Abr: Van Hlmen
+T20	Person 1224 1238	Abr: Van Hlmen
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other

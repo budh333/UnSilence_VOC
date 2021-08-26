@@ -1,0 +1,22 @@
+T1	Place 11 17	Bantam
+T2	ProperName 11 17	Bantam
+T3	Person 83 95	Willem kroon
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 83 95	Willem kroon
+T5	Person 99 131	Constapes Jacobus van der vijver
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 99 131	Constapes Jacobus van der vijver
+T7	Person 270 291	Jan kip gest: schriba
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 270 277	Jan kip
+T9	Person 303 309	Jan Ke
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Acting_Notary
+T10	ProperName 303 309	Jan Ke

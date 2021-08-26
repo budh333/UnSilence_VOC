@@ -1,0 +1,78 @@
+T1	Organization 395 398	Com
+T2	ProperName 408 423	Gustaaff Willem
+T3	ProperName 509 526	Jan baltus meijer
+T4	Person 509 526	Jan baltus meijer
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T7	ProperName 625 639	Jacob Een drik
+T8	Person 625 639	Jacob Een drik
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	Person 654 675	Jan Christoffel Helli
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	Person 692 708	andriees Iougman
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Witness
+T11	ProperName 692 708	andriees Iougman
+T12	ProperName 654 676	Jan Christoffel Hellij
+T13	Person 771 792	Ian Gabriel Lagerblom
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Testator
+T14	ProperName 771 792	Ian Gabriel Lagerblom
+T15	Person 818 834	Tanbaltus meejer
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 818 834	Tanbaltus meejer
+T21	ProperName 879 892	acob Hendriks
+T22	Person 879 892	acob Hendriks
+A28	Gender T22 Unspecified
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Other
+T23	Person 1174 1188	Lucas Luydland
+A31	Gender T23 Man
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 1174 1188	Lucas Luydland
+T25	ProperName 1252 1265	Jlink Qualter
+T26	Person 1252 1265	Jlink Qualter
+A34	Gender T26 Unspecified
+A35	LegalStatus T26 Unspecified
+A36	Role T26 Other
+T27	Place 400 423	schip d Gustaaff Willem
+T28	ProperName 541 565	Carel an gust van Steuwe
+T5	Person 541 565	Carel an gust van Steuwe
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 580 587;588 601	abraham Surerij Cadet
+T29	Person 580 587;588 601	abraham Surerij Cadet
+A37	Gender T29 Man
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Witness
+T30	ProperName 841 847;848 855	Ctuben abraham
+T31	Person 841 847;848 855	Ctuben abraham
+A40	Gender T31 Unspecified
+A41	LegalStatus T31 Unspecified
+A42	Role T31 Other
+T17	ProperName 918 933	andries Iougman
+T18	Person 918 933	andries Iougman
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Witness
+T32	ProperName 893 917	Jan Christoffer Perliein
+T20	Person 893 917	Jan Christoffer Perliein
+A43	Gender T20 Unspecified
+A44	LegalStatus T20 Unspecified
+A45	Role T20 Witness
+T19	ProperName 1144 1156	Carel Pheijl
+T33	Person 1144 1156	Carel Pheijl
+A25	Gender T33 Man
+A26	LegalStatus T33 Unspecified
+A27	Role T33 Other

@@ -1,0 +1,38 @@
+T1	ProperName 27 41	Jelles Mellema
+T2	DuplicatePage 1 3	De
+T3	Person 27 41	Jelles Mellema
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	Person 178 188	Jan La Pro
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 178 188	Jan La Pro
+T6	Place 221 230	Comptoirs
+T7	Place 265 274	Ten huize
+T8	Person 346 361	Jelles, Nellema
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator_Beneficiary
+T9	ProperName 346 361	Jelles, Nellema
+T10	Place 369 377	scheemda
+T11	ProperName 369 377	scheemda
+T12	ProperName 381 408	Dorothea Elisabeth Abrahams
+T13	Place 413 421	Samarang
+T14	ProperName 413 421	Samarang
+T15	Person 381 408	Dorothea Elisabeth Abrahams
+A10	Gender T15 Woman
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator_Beneficiary
+T16	Person 1111 1117	slaven
+A13	Gender T16 Group
+A14	LegalStatus T16 Enslaved
+A15	Role T16 Other
+T17	Person 1124 1133	slavinnen
+A16	Gender T17 Group
+A17	LegalStatus T17 Enslaved
+A18	Role T17 Other
+T18	ProperName 1201 1205;1206 1211	d’E, Comp:
+T19	Organization 1201 1205;1206 1211	d’E, Comp:
+A19	Beneficiary T19 No

@@ -1,0 +1,69 @@
+T1	Place 580 605;606 623	te Houglij N:s hoofd Comp „toir in Bengalen
+T2	ProperName 583 589	Hougli
+T3	ProperName 615 623	Bengalen
+T4	Person 659 667;668 676	Cornelis Brengman
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 659 667;668 676	Cornelis Brengman
+T6	Person 681 705	Ian van Hoorn, Clercquen
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 681 694	Ian van Hoorn
+T8	Person 941 967	Jacob Eilbracht Eg: flerag
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+#1	AnnotatorNotes T8	clercq acting as notary
+T9	ProperName 941 956	Jacob Eilbracht
+T10	Noteworthy 941 967	Jacob Eilbracht Eg: flerag
+#2	AnnotatorNotes T10	There is no notary in this testament drawn up in Houglij te Bengalen
+T11	Person 1077 1094	luijtenant zinner
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1088 1094	zinner
+T13	Place 1111 1116	patna
+T14	ProperName 1111 1116	patna
+#3	AnnotatorNotes T14	city in India 
+T16	ProperName 1143 1157	verbeek dewijs
+T17	Organization 1188 1195	’sComps
+T19	ProperName 1281 1306	Ian Christosses weydemans
+T21	ProperName 1323 1331;1332 1338	Jan Aldo dewijs
+T23	ProperName 1351 1366	Marten Pietersz
+T25	ProperName 1608 1629	Andris Iurgen schultz
+T26	Person 1897 1923	Jacob Eilbracht secretaris
+A28	Gender T26 Unspecified
+A29	LegalStatus T26 Unspecified
+A30	Role T26 Other
+T27	ProperName 1897 1912	Jacob Eilbracht
+T28	Organization 1986 1993	sComp:s
+T29	Person 2053 2078	I=s Eijlbracht secretaris
+A31	Gender T29 Unspecified
+A32	LegalStatus T29 Unspecified
+A33	Role T29 Acting_Notary
+#6	AnnotatorNotes T29	Secretaris acting as notary in Houglij
+T30	ProperName 2053 2067	I=s Eijlbracht
+T15	Person 1143 1157	verbeek dewijs
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T18	Person 1281 1306	Ian Christosses weydemans
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T20	Person 1323 1331;1332 1338	Jan Aldo dewijs
+A19	Gender T20 Man
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T22	Person 1351 1366	Marten Pietersz
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T24	Person 1601 1629	Clercq Andris Iurgen schultz
+A25	Gender T24 Unspecified
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Other
+A34	Beneficiary T17 No
+A35	Beneficiary T28 No

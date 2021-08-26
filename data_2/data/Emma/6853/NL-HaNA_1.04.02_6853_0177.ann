@@ -1,0 +1,49 @@
+T1	Person 0 23	Johan Hendriik Vyrminke
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 140 175	Abraham van Denter nataris publijcq
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Notary
+T3	ProperName 140 157	Abraham van Dente
+T4	Organization 180 206	d’ Edele hoven van holland
+T5	ProperName 199 206	holland
+T6	Place 199 206	holland
+T8	Place 244 260	Nederlands India
+T9	ProperName 244 260	Nederlands India
+T10	Place 275 297	binnen de stad Batavia
+T11	ProperName 290 297	Batavia
+T13	Person 298 314	Jacobus de Vries
+A8	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Other
+T14	Person 446 479	M„r Ioan van der Voort Nob„s publ
+A11	Gender T14 Man
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Notary
+T15	ProperName 450 468	Ioan van der Voort
+T16	Place 481 503	binnen de stad Batavia
+T17	ProperName 496 503	Batavia
+T18	Person 504 559	Frans Hendrik Sieman, van Vlooten in brandenburg soldaa
+A14	Gender T18 Man
+A15	LegalStatus T18 Unspecified
+A16	Role T18 Testator
+T19	ProperName 504 537	Frans Hendrik Sieman, van Vlooten
+T21	ProperName 541 552	brandenburg
+T20	Place 538 552	in brandenburg
+T22	Organization 575 581	E Comp
+T23	ProperName 575 581	E Comp
+T24	Person 1467 1504;1505 1529	Vriend Christoffel Hendrik Muller van brandenburg, kruijtmaker
+A17	Gender T24 Man
+A18	LegalStatus T24 Unspecified
+A19	Role T24 Beneficiary
+T25	ProperName 1474 1504;1505 1516	Christoffel Hendrik Muller van brandenburg
+T26	Place 1560 1591	in ’s Comp„s kruijtmolen alhier
+T27	Organization 1566 1572	Comp„s
+T29	Place 2085 2095	ter wezeld
+T7	Organization 218 239;240 260	Edele hoge regeeringe van Nederlands India
+T12	ProperName 298 314	Jacobus de Vries
+T30	ProperName 1753 1760	dE Comp
+T28	Organization 1753 1760	dE Comp
+T31	ProperName 1566 1572	Comp„s

@@ -1,0 +1,71 @@
+T1	Person 19 36	anna maria reizer
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 19 36	anna maria reizer
+T3	Person 93 105	Johan Gerard
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 93 105	Johan Gerard
+T5	ProperName 107 125	Gernardus Connieis
+T6	Person 107 125	Gernardus Connieis
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	Person 131 137	helena
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 131 137	helena
+T9	Person 76 91	Godfried Gerard
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 76 91	Godfried Gerard
+T11	Person 62 67;68 74	Giili pieter
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 62 67;68 74	Giili pieter
+T13	Person 443 457	Guiliam Pieter
+A19	Gender T13 Group
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Beneficiary
+T14	ProperName 443 457	Guiliam Pieter
+T15	Person 461 473	Goesried Ger
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Beneficiary
+T16	ProperName 461 473	Goesried Ger
+T17	Place 504 513	nederland
+T18	ProperName 504 513	nederland
+T19	Organization 549 567	Ceilonsch regering
+T20	ProperName 549 567	Ceilonsch regering
+T21	Place 844 850	Ceilon
+T22	ProperName 844 850	Ceilon
+T23	Place 1559 1565	Europa
+T24	ProperName 1559 1565	Europa
+T25	Person 2206 2224	Gernardus Cornelis
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	ProperName 2206 2224	Gernardus Cornelis
+T27	ProperName 2228 2239	Anna helena
+T28	Person 2228 2239	Anna helena
+A28	Gender T28 Unspecified
+A29	LegalStatus T28 Unspecified
+A30	Role T28 Other
+T29	Person 1395 1407	Johan Gerard
+A31	Gender T29 Unspecified
+A32	LegalStatus T29 Unspecified
+A33	Role T29 Testator
+T30	Person 1441 1467	Johan Gerard van angelbeek
+A34	Gender T30 Unspecified
+A35	LegalStatus T30 Unspecified
+A36	Role T30 Testator
+T31	ProperName 1395 1407	Johan Gerard
+T32	ProperName 1441 1467	Johan Gerard van angelbeek
+T33	Place 1499 1515	madureesche kust
+T34	ProperName 1499 1515	madureesche kust
+A37	Beneficiary T19 No

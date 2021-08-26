@@ -1,0 +1,50 @@
+T1	Person 723 746	Bavid Ians Johannes zoo
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 723 746	Bavid Ians Johannes zoo
+T3	Person 750 770	Moses Jans Davidzoon
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 750 770	Moses Jans Davidzoon
+T5	Person 811 820	L:l Ernst
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 811 820	L:l Ernst
+T7	Person 846 860;861 869	D: Ians Johan„ „neszoon
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Witness
+T8	ProperName 846 860;861 869	D: Ians Johan„ „neszoon
+T9	Person 874 892	M„s Ians Davidzoon
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Witness
+T10	ProperName 874 892	M„s Ians Davidzoon
+T11	Person 904 919	P„ I„ Bert Note
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Notary
+T12	ProperName 904 919	P„ I„ Bert Note
+T14	ProperName 1026 1031;1032 1050	Thoma Fredrik Wannemaker
+T15	Place 1119 1126	Batavia
+T16	ProperName 1119 1126	Batavia
+T17	TranscriptionError_Document 0 4	gene
+T18	DuplicatePage 1 2	e
+T19	Person 1190 1195;1196 1213	Alida Maria van Batavia
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	ProperName 1190 1195;1196 1213	Alida Maria van Batavia
+T21	Place 1206 1213	Batavia
+T22	Person 1265 1287	Ian Anthoni Bosschaard
+A25	Gender T22 Unspecified
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Other
+T23	ProperName 1265 1287	Ian Anthoni Bosschaard
+T13	Person 1021 1031;1032 1050	Heer Thoma Fredrik Wannemaker
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other

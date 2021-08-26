@@ -1,0 +1,54 @@
+T1	Person 793 800;801 809	Abraham Salomons
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 793 800;801 809	Abraham Salomons
+T3	Person 813 839	Fredrik Ignalius Gerritsz:
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+T4	ProperName 813 839	Fredrik Ignalius Gerritsz:
+T6	Person 980 997	I:s Greving Not:s
+A10	Gender T6 Man
+A11	LegalStatus T6 Unspecified
+T7	ProperName 980 991	I:s Greving
+T8	Place 1120 1127	Batavia
+T9	ProperName 1120 1127	Batavia
+T10	Person 1170 1189	H N: Lacle Secret:s
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+T11	ProperName 1170 1180	H N: Lacle
+T12	Person 1190 1202	Dirk Moetert
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+T13	ProperName 1190 1202	Dirk Moetert
+T14	Person 1260 1280;1281 1282;1283 1288	Iohannes Greving Not 1 Publ:
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+T15	ProperName 1260 1276	Iohannes Greving
+T16	Organization 1292 1337	d’ Edeele hooge regering van nederlands Indra
+T17	ProperName 1292 1337	d’ Edeele hooge regering van nederlands Indra
+T18	Place 1321 1337	nederlands Indra
+T19	ProperName 1321 1337	nederlands Indra
+T20	Place 1361 1373	stad Batavia
+T21	ProperName 1366 1373	Batavia
+T22	Organization 1458 1464	E Comp
+T23	Person 1420 1438	d’ E: Dirk Mostert
+A22	Gender T23 Unspecified
+A23	LegalStatus T23 Unspecified
+T24	ProperName 1426 1438	Dirk Mostert
+T25	Person 1467 1488	Iuf=r Martha Adriaans
+A25	Gender T25 Woman
+A26	LegalStatus T25 Unspecified
+T26	ProperName 1473 1488	Martha Adriaans
+T27	Place 1511 1520	deze stad
+A3	Role T1 Witness
+A6	Role T3 Witness
+A7	Role T6 Notary
+T5	Place 1132 1137	wersk
+A8	Role T10 Other
+A9	Role T12 Testator
+A12	Role T14 Notary
+A15	Role T23 Testator_Beneficiary
+T28	ProperName 1458 1464	E Comp
+A18	Role T25 Testator_Beneficiary
+A21	Beneficiary T16 No
+A24	Beneficiary T22 No

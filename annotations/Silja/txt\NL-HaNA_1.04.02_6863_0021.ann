@@ -1,0 +1,37 @@
+T1	Place 27 43;44 50	ten Toraij Comp„ „toire
+T2	DuplicatePage 0 1	f
+T3	Place 276 299	op ’t schip Ameliswaerd
+T4	ProperName 288 299	Ameliswaerd
+T5	ProperName 308 323	Bruijn Harberts
+T6	Person 308 323	Bruijn Harberts
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	Person 686 698	Joan hugonis
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator_Beneficiary
+T8	ProperName 686 698	Joan hugonis
+T9	Person 703 724;725 742	Juff=r arnoldina wil„ „helmina Fabricus
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator_Beneficiary
+T10	ProperName 710 724;725 742	arnoldina wil„ „helmina Fabricus
+T11	Organization 650 667	raad van Justitie
+T12	ProperName 650 667	raad van Justitie
+T13	Person 425 437	Ioan Hugonis
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Testator_Beneficiary
+T14	ProperName 425 437	Ioan Hugonis
+T15	Organization 570 577	politie
+T16	Person 528 544;545 565	Justinus van Der spar, geswaare Clerq
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Acting_Notary
+T17	ProperName 528 544;545 549	Justinus van Der spar
+T18	Organization 1222 1226;1227 1239	dia„ „canij armen
+T19	Place 1271 1281	sterfhuijs
+A16	Beneficiary T15 No
+A17	Beneficiary T11 No
+A18	Beneficiary T18 Yes

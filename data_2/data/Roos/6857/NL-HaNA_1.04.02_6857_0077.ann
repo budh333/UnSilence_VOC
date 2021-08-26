@@ -1,0 +1,6 @@
+T1	Person 160 171	C: Rijnnagh
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 160 171	C: Rijnnagh
+T3	TranscriptionError_Document 0 1	C
+A3	Role T1 Other

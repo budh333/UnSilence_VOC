@@ -1,0 +1,13 @@
+T1	ProperName 124 142	Cornelis dekretser
+T2	ProperName 147 164;165 171	Johannes adrianus Tituus
+T3	Person 124 142	Cornelis dekretser
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 147 164;165 171	Johannes adrianus Tituus
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Organization 472 476	Comp
+T6	Place 555 562	Colombo
+T7	ProperName 555 562	Colombo

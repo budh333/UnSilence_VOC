@@ -1,0 +1,27 @@
+T1	Place 16 31	Java's Oosthoek
+T2	ProperName 16 31	Java's Oosthoek
+T3	ProperName 42 47;48 52	Sama„ rang
+T4	Place 42 47;48 52	Sama„ rang
+T5	Person 130 137;138 172	Fredrik Carel Hans Bruno Baron van Polsits
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 165 172	Polsits
+#1	AnnotatorNotes T6	Poelnitz
+T7	Place 165 172	Polsits
+T8	ProperName 130 137;138 154	Fredrik Carel Hans Bruno
+T9	ProperName 380 395	Abraham Vermaas
+T10	Person 380 395	Abraham Vermaas
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Beneficiary
+T11	Person 465 479;480 493	Javasche vrouw genaamt Rakam
+A7	Gender T11 Woman
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Beneficiary
+T12	ProperName 488 493	Rakam
+T13	Person 972 990	Heer Frans Vermaas
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Beneficiary
+T14	ProperName 977 990	Frans Vermaas

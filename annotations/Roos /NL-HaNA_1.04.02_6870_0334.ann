@@ -1,0 +1,69 @@
+T1	Person 13 37	mons=r Casparus ’t hoofd
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 20 37	Casparus ’t hoofd
+T3	Person 626 643	Cornelis van Riel
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 626 643	Cornelis van Riel
+T5	Person 648 663	Daniel Nolthens
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 648 663	Daniel Nolthens
+T7	Place 803 810	Malccca
+T8	ProperName 803 810	Malccca
+T9	Person 842 864	F„s I„s van den heuvel
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 842 864	F„s I„s van den heuvel
+T11	Person 983 997;998 1004	D'E: Pieter au quesne
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 988 997;998 1004	Pieter au quesne
+T13	Person 1037 1051	Isaac Cottiere
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 1037 1051	Isaac Cottiere
+T15	Person 1106 1118;1119 1123	Cornelis van Riel
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 1106 1118;1119 1123	Cornelis van Riel
+T17	Person 1213 1230	Cornelis van Riel
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 1213 1230	Cornelis van Riel
+T19	Person 1235 1252	Daniel Nolthenius
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 1235 1252	Daniel Nolthenius
+T21	Person 1344 1376	Juff=r hermanna Cornelia mijleus
+A28	Gender T21 Woman
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Testator_Beneficiary
+T22	ProperName 1351 1376	hermanna Cornelia mijleus
+T23	Person 1431 1439;1440 1448	Casparu„ ’t hoofd
+A31	Gender T23 Man
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Testator_Beneficiary
+T24	ProperName 1431 1439;1440 1448	Casparu„ ’t hoofd
+T25	Person 1588 1598	Jan onneke
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Other
+T26	ProperName 1588 1598	Jan onneke
+T27	Place 2090 2097	Malacca
+T28	ProperName 2090 2097	Malacca
+T29	Person 2139 2146;2147 2161	J„s Ibs van den heuvel
+A37	Gender T29 Unspecified
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Other
+T30	ProperName 2139 2146;2147 2161	J„s Ibs van den heuvel

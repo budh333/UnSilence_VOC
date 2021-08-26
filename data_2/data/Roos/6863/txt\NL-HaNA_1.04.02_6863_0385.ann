@@ -1,0 +1,28 @@
+T1	Organization 445 453;454 498;499 508	de Edele Hoog agtbare Heeren Bewinthebberen ter Kamer Amsterdam
+T2	ProperName 499 508	Amsterdam
+T3	Place 499 508	Amsterdam
+T4	Place 542 545;546 560	het schip Kerkwijk
+T5	ProperName 552 560	Kerkwijk
+T6	Person 761 796	heeren Philifpus Jacobus van houten
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	ProperName 768 796	Philifpus Jacobus van houten
+T8	Person 815 830	Johannes Prange
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	ProperName 815 830	Johannes Prange
+T10	Organization 860 867	E Comp:
+T11	Person 1695 1708	Daniel de Bok
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 1695 1708	Daniel de Bok
+T13	Person 1719 1729	J Bererden
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 1719 1729	J Bererden
+A13	Beneficiary T1 No
+A14	Beneficiary T10 No

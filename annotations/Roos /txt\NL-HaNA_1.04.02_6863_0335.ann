@@ -1,0 +1,98 @@
+T1	Person 11 25	Willem Kerkman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 11 25	Willem Kerkman
+T3	Person 69 91	Izaak Huijbregh querin
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 69 91	Izaak Huijbregh querin
+T5	Person 202 225	Heer Paulus van Grieken
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 207 225	Paulus van Grieken
+T7	Organization 242 250	s'Comp„s
+T8	Person 321 325;326 340	Heer Willem Kerkman
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 326 340	Willem Kerkman
+T10	Place 375 381	Dhaccu
+T11	ProperName 375 381	Dhaccu
+T13	ProperName 493 499	Dhacca
+T14	Place 493 499	Dhacca
+T12	Person 500 516	Daniel Lankheeft
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T15	ProperName 500 516	Daniel Lankheeft
+T16	Person 826 840	Willem Kerkman
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Testator
+T17	ProperName 826 840	Willem Kerkman
+T18	Place 845 854	oudewater
+T19	ProperName 845 854	oudewater
+T20	Place 882 887	Dacca
+T21	ProperName 882 887	Dacca
+T22	Organization 902 958;959 967	de vereenigde nederlandsche g’octrooijeerde oostjndische Companie
+T23	Person 1478 1497;1498 1510	huijsrouw Elisabeth Anna Crombou
+A19	Gender T23 Woman
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Other
+T24	ProperName 1488 1497;1498 1510	Elisabeth Anna Crombou
+T25	Person 1645 1648;1649 1653	P=t hott
+A22	Gender T25 Unspecified
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Acting_Notary
+T26	ProperName 1645 1648;1649 1653	P=t hott
+T27	Place 1700 1707	Houglij
+T28	ProperName 1700 1707	Houglij
+T29	Person 2010 2031	zuster Helena kerkman
+A25	Gender T29 Woman
+A26	LegalStatus T29 Unspecified
+A27	Role T29 Beneficiary
+T30	ProperName 2017 2031	Helena kerkman
+T31	Person 2047 2066	Jacobus heijsterkam
+A28	Gender T31 Unspecified
+A29	LegalStatus T31 Unspecified
+A30	Role T31 Other
+T32	ProperName 2047 2066	Jacobus heijsterkam
+T33	Place 2080 2089	amsterdam
+T34	ProperName 2080 2089	amsterdam
+T35	Person 2155 2182	Pasquella d’ Almeida weduwe
+A31	Gender T35 Woman
+A32	LegalStatus T35 Unspecified
+A33	Role T35 Beneficiary
+T36	ProperName 2155 2175	Pasquella d’ Almeida
+T37	Person 2239 2250	Carel Pijhl
+A34	Gender T37 Man
+A35	LegalStatus T37 Unspecified
+A36	Role T37 Other
+T38	ProperName 2239 2250	Carel Pijhl
+T39	Person 2397 2418	Broeder Samuel Cromba
+A37	Gender T39 Man
+A38	LegalStatus T39 Unspecified
+A39	Role T39 Beneficiary
+T40	ProperName 2405 2418	Samuel Cromba
+T41	Place 2432 2442	oostzaamen
+T42	ProperName 2432 2442	oostzaamen
+T43	Person 2523 2551	Pasquella d’ Almerde welEd=e
+A40	Gender T43 Woman
+A41	LegalStatus T43 Unspecified
+A42	Role T43 Beneficiary
+T44	ProperName 2523 2543	Pasquella d’ Almerde
+T45	Person 2563 2578	Heer Carl Pijhl
+A43	Gender T45 Man
+A44	LegalStatus T45 Unspecified
+A45	Role T45 Other
+T46	ProperName 2568 2578	Carl Pijhl
+T47	Person 2649 2654;2655 2676	Boeka Willem kerkman Junior
+A46	Gender T47 Man
+A47	LegalStatus T47 Unspecified
+A48	Role T47 Beneficiary
+T48	ProperName 2655 2676	Willem kerkman Junior
+A49	Beneficiary T7 No
+A50	Beneficiary T22 No

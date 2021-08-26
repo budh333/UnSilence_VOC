@@ -1,0 +1,95 @@
+T1	Person 2 14	Frans Ledulx
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Place 15 26	in Michaust
+T3	ProperName 18 26	Michaust
+T4	Person 149 175;185 202	Iohannes francissus Grati„ ren, onderkoopman
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 149 175;176 184;185 202	Iohannes francissus Grati„ Martinus ren, onderkoopman
+T6	Person 176 184	Martinus
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 282 297	Johannes Philip
+T8	Person 282 297	Johannes Philip
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	Person 299 328	d E: frans Ledulx, boekhouder
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Testator
+T10	ProperName 304 316	frans Ledulx
+T11	Place 348 354;355 362	te ma„ „napaar
+T12	ProperName 351 354;355 362	ma„ „napaar
+T13	Person 366 410	Catharina Elitabeth van Gijsel, echte lieden
+A16	Gender T13 Woman
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Testator
+T14	ProperName 366 396	Catharina Elitabeth van Gijsel
+T15	Place 416 435	ten dezen Comptoire
+T16	Organization 426 435	Comptoire
+T17	Place 987 1007	den Colombrse landen
+T18	ProperName 991 1007	Colombrse landen
+T19	Person 1014 1030	Cornilis de Cock
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 1014 1030	Cornilis de Cock
+T21	Place 1476 1483	Rolombo
+T22	ProperName 1476 1483	Rolombo
+T23	ProperName 1550 1558	A: Meyen
+T24	Person 1550 1558	A: Meyen
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other
+T26	ProperName 1640 1653	Benjamn Ritse
+T27	Person 1640 1658;1659 1665;1666 1676	Benjamn Ritse hear Rehiem boekhouden
+A28	Gender T27 Man
+A29	LegalStatus T27 Unspecified
+A30	Role T27 Other
+T25	Person 1680 1711;1712 1721	Johannes Chuestoffel, Geldestyn adsistent
+A25	Gender T25 Man
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T28	ProperName 1680 1700	Johannes Chuestoffel
+T29	Place 1726 1740	Jordij Kantoor
+T30	Person 1847 1870	Heer Geract Engel Wolst
+A31	Gender T30 Man
+A32	LegalStatus T30 Unspecified
+A33	Role T30 Other
+T31	ProperName 1852 1870	Geract Engel Wolst
+T32	Person 1949 1968	Me Juffrouw Johanna
+A34	Gender T32 Woman
+A35	LegalStatus T32 Unspecified
+A36	Role T32 Other
+T33	ProperName 1961 1968	Johanna
+T34	Place 2052 2072	schip de Doggensbank
+T35	ProperName 2061 2072	Doggensbank
+T36	Person 2121 2147	Chieniregyn Josips Zuykiig
+A37	Gender T36 Man
+A38	LegalStatus T36 Unspecified
+A39	Role T36 Other
+T37	ProperName 2133 2147	Josips Zuykiig
+T38	Organization 2362 2404	de hooge Indiasche begeering te te batacia
+T39	Place 2394 2404	te batacia
+T40	ProperName 2397 2404	batacia
+T41	Place 2493 2500	Kolombo
+T42	ProperName 2493 2500	Kolombo
+T43	Place 2527 2540	zen Comptoire
+T44	Organization 2531 2540	Comptoire
+T45	Person 2579 2593	J: C: Gederten
+A40	Gender T45 Unspecified
+A41	LegalStatus T45 Unspecified
+A42	Role T45 Other
+T46	ProperName 2579 2593	J: C: Gederten
+T47	ProperName 2608 2618	P Vurinbek
+T48	Person 2608 2618	P Vurinbek
+A43	Gender T48 Unspecified
+A44	LegalStatus T48 Unspecified
+A45	Role T48 Other
+T49	TranscriptionError_Document 40 44	n de
+T50	DuplicatePage 46 50	Naam

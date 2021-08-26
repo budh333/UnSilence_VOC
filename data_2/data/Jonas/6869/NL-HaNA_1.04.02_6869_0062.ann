@@ -1,0 +1,12 @@
+T1	Organization 372 403	sollegie van Heeren Weegmeester
+T2	Person 681 701	Johan Wernerd Keijde
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 681 701	Johan Wernerd Keijde
+T4	Organization 1145 1165	den Edele Compagnien
+T5	Organization 1241 1271;1272 1316;1317 1334	Heeren Bewindhebben der Neder„ „lands geoftroijeerde oost Indische Compagni ter hamer Leeland
+T6	Place 1265 1271;1272 1278	Neder„ „lands
+T7	Place 1294 1307	oost Indische
+T8	ProperName 1327 1334	Leeland
+T9	Place 1317 1334	ter hamer Leeland

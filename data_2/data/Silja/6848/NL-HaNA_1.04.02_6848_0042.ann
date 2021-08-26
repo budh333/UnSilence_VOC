@@ -1,0 +1,23 @@
+T1	Person 1677 1685;1686 1702	Hermanus Abraham Simontz:
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 1677 1685;1686 1702	Hermanus Abraham Simontz:
+T3	Person 1704 1717	Pieter Pattij
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+T4	ProperName 1704 1717	Pieter Pattij
+T5	Person 1860 1892	N: V:n Bergen v: d:r Grijp Not:s
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+T6	ProperName 1860 1886	N: V:n Bergen v: d:r Grijp
+T7	Place 2018 2025	Batavia
+T8	ProperName 2018 2025	Batavia
+T9	Person 2075 2099	H:k N: Lacle Seceetaais:
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+T10	ProperName 2075 2087	H:k N: Lacle
+A3	Role T1 Witness
+A6	Role T3 Witness
+A9	Role T5 Notary
+T11	Place 2032 2038	weesk:
+A12	Role T9 Other

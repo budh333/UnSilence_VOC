@@ -1,0 +1,20 @@
+T1	Organization 0 31	goctroijeerde Oostindische Comp
+T2	ProperName 14 31	Oostindische Comp
+T3	Place 42 51	Amsterdam
+T4	ProperName 42 51	Amsterdam
+T5	Place 604 613	hospitaal
+T6	ProperName 629 637;638 646	Johannes Willemsz
+T7	Person 629 637;638 646	Johannes Willemsz
+A1	Gender T7 Unspecified
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Witness
+T8	ProperName 651 671	Iacob adriaan Casier
+T9	Person 651 671	Iacob adriaan Casier
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Witness
+T10	Person 772 796	Ioan van der voort Not„s
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	ProperName 772 790	Ioan van der voort

@@ -1,0 +1,29 @@
+T1	Person 9 24	Hendrik van Els
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 9 25	Hendrik van Elst
+T4	ProperName 69 85	Cornelis Tessers
+T5	Person 1143 1163;1164 1165;1166 1171	den burger willem Bo — „kers
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Freed
+A9	Role T5 Other
+T6	ProperName 1154 1163;1164 1165;1166 1171	willem Bo — „kers
+T7	Person 1188 1203	Ioseph van balg
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Freed
+A12	Role T7 Other
+T8	ProperName 1188 1203	Ioseph van balg
+T9	Person 1293 1302	T Herstag
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Acting_Notary
+T10	ProperName 1293 1302	T Herstag
+T11	Noteworthy 1293 1302;1303 1314	T Herstag gesp: Sriba
+#1	AnnotatorNotes T11	Scriba acting as notary
+T12	Noteworthy 1175 1182	inlands
+#2	AnnotatorNotes T12	inlands burger
+T3	Person 69 86	Cornelis Tessers,
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other

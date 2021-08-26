@@ -1,0 +1,47 @@
+T1	Organization 228 244	Nederlands Compa
+T2	ProperName 228 244	Nederlands Compa
+T3	ProperName 245 255	Sourabaija
+T4	Place 245 255	Sourabaija
+T5	Person 315 338	R:s F„ V:k D:k Niepoort
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 315 338	R:s F„ V:k D:k Niepoort
+T7	Person 392 410	I„r H„k Leijdekker
+A4	Gender T7 Woman
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 392 410	I„r H„k Leijdekker
+T9	Person 414 429	R„s Geldernisse
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 414 429	R„s Geldernisse
+T11	Person 441 457	F: V: V: Wspoort
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 441 457	F: V: V: Wspoort
+T13	Place 500 503;504 521	ter Post Passourouang
+T14	ProperName 509 521	Passourouang
+T15	Person 563 606	Sergeant Jan godloff Kamp van Koningsbergen
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Testator
+T17	Organization 843 852	S: EComp:
+T18	ProperName 843 852	S: EComp:
+T19	Place 920 928	hollands
+T20	ProperName 920 928	hollands
+T21	Place 938 948	Sourabaija
+T22	ProperName 938 948	Sourabaija
+T23	Person 991 1011	R: F: V: D: Niepoort
+A16	Gender T23 Unspecified
+A17	LegalStatus T23 Unspecified
+A18	Role T23 Other
+T24	ProperName 991 1011	R: F: V: D: Niepoort
+T25	Person 1023 1038	J: V: V: Wupoot
+A19	Gender T25 Unspecified
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Other
+T26	ProperName 1023 1038	J: V: V: Wupoot
+T16	ProperName 572 606	Jan godloff Kamp van Koningsbergen

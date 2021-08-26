@@ -1,0 +1,43 @@
+T1	DuplicatePage 1 2	e
+T2	TranscriptionError_Document 1 2	e
+T3	Person 58 76	wetfelius Bertling
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 58 76	wetfelius Bertling
+T5	Organization 102 117	E: O: E: Comp=e
+T6	Place 149 166;167 171	op ’t schip nieuw stad
+T7	ProperName 161 166;167 171	nieuw stad
+T9	ProperName 202 211	Jan Ploot
+T10	Person 435 449	Jacobus Coutna
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 435 449	Jacobus Coutna
+T12	Person 462 473	Eraseus Pen
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 462 473	Eraseus Pen
+T14	Person 917 927	Anna Sloot
+A13	Gender T14 Woman
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Beneficiary
+T15	ProperName 917 927	Anna Sloot
+T16	ProperName 991 1001	Amsterdakk
+T17	Place 991 1001	Amsterdakk
+T18	Person 1458 1474	driaan Poolvliet
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 1458 1474	driaan Poolvliet
+T20	Person 1515 1526	Jan Hendrik
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	ProperName 1515 1526	Jan Hendrik
+T8	Person 202 211	Jan Ploot
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+A22	Beneficiary T5 No

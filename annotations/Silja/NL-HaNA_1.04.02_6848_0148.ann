@@ -1,0 +1,9 @@
+T1	Organization 734 777;778 784	het Eerwaarde Collegie van heeren Weesmees„ teeren
+T2	Place 1128 1138	sterfhuijs
+T3	Organization 1377 1411	geoctroijeerde Oost Indische Comp:
+T4	ProperName 1377 1411	geoctroijeerde Oost Indische Comp:
+T5	Place 1421 1430	Amsterdam
+T6	ProperName 1421 1430	Amsterdam
+T7	ProperName 734 777;778 784	het Eerwaarde Collegie van heeren Weesmees„ teeren
+A1	Beneficiary T1 No
+A2	Beneficiary T3 No

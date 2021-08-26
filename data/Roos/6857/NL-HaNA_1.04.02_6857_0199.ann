@@ -1,0 +1,30 @@
+T1	Person 1 33	de heer Samuel Constantin saffin
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 9 33	Samuel Constantin saffin
+T3	Organization 248 255;256 287;288 307	d’Edele hoog agtb: HeerenBewindhebberen ter kamer Amsterdam
+T4	Place 298 307	Amsterdam
+T5	ProperName 298 307	Amsterdam
+T7	ProperName 1170 1186	Ian van der Laer
+T8	Person 1223 1238	Pieter Sterstad
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	ProperName 1223 1238	Pieter Sterstad
+T10	Noteworthy 1136 1150;1151 1185	den boekhouder en Pachuijsmeester Ian van der Lae
+#1	AnnotatorNotes T10	Boekhouder acting as notary
+T11	Noteworthy 1210 1238	Gesw: Scriba Pieter Sterstad
+#2	AnnotatorNotes T11	Scriba acting as notary
+T12	Person 1395 1403	loogland
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+#3	AnnotatorNotes T12	hoogland
+T13	ProperName 1395 1403	loogland
+T14	TranscriptionError_Document 1 3	de
+T6	Person 1170 1186	Ian van der Laer
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Acting_Notary
+A13	Beneficiary T3 No

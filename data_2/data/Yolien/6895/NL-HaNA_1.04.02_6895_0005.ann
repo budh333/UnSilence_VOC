@@ -1,0 +1,49 @@
+T1	Person 18 29	Pieter Bino
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 18 29	Pieter Bino
+T3	ProperName 90 116	Cornelis Gerrardus Pielaat
+T4	Person 90 116	Cornelis Gerrardus Pielaat
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	Organization 160 168	Comptoir
+T6	Organization 221 226	sComp
+T7	ProperName 243 254	Pieter Bino
+T8	Person 243 254	Pieter Bino
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	TranscriptionError_Document 3 6	429
+T10	ProperName 594 608	Leindert Rolff
+T11	Person 594 608	Leindert Rolff
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Notary
+T12	Organization 649 669	Regeeringe van neder
+T13	ProperName 664 669	neder
+T14	Organization 675 686	lands india
+T15	ProperName 675 686	lands india
+T16	Place 708 723	de stad batavia
+T17	ProperName 716 723	batavia
+T18	Place 842 861	portugiese kerkhoff
+T19	ProperName 789 812	Jan Anthonij Bosschaart
+T20	Person 789 812	Jan Anthonij Bosschaart
+A13	Gender T20 Man
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Testator
+T21	ProperName 1680 1687	Cananga
+T22	Person 1638 1670	slavinne genaemd Rosia van balij
+A16	Gender T22 Woman
+A17	LegalStatus T22 Enslaved
+A18	Role T22 Beneficiary
+T23	ProperName 1655 1670	Rosia van balij
+T24	ProperName 1792 1809	Joseph Bosschaart
+T25	Person 1792 1809	Joseph Bosschaart
+A19	Gender T25 Man
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Beneficiary
+T26	DuplicatePage 1987 1991	Amen
+T27	Place 2057 2064	Batavia
+T28	ProperName 2057 2064	Batavia

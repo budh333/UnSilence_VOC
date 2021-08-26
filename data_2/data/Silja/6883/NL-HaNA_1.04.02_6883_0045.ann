@@ -1,0 +1,88 @@
+T1	DuplicatePage 0 8	Ivervalt
+T2	ProperName 13 22	Besseling
+T3	Person 13 22	Besseling
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Place 239 248	amsterdam
+T5	ProperName 239 248	amsterdam
+T6	ProperName 364 382	Matthijs de Klerck
+T7	Person 364 382	Matthijs de Klerck
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	Person 616 643	vrije Iavaan genaemt Dappat
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	ProperName 637 643	Dappat
+T10	Person 645 651	Jupido
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary
+T11	ProperName 645 651	Jupido
+T12	ProperName 656 661	Alida
+T13	Place 704 757	het thuijnland op de Amanus gragt ande buffels revier
+T14	ProperName 722 737	de Amanus gragt
+T15	Place 722 737	de Amanus gragt
+T16	Place 743 757	buffels revier
+T17	ProperName 743 757	buffels revier
+T18	ProperName 885 892	Batavia
+T19	Place 885 892	Batavia
+T20	Person 1079 1126	de vrije Christen vrou Johanna Elisabeth Paulus
+A13	Gender T20 Woman
+A14	LegalStatus T20 Freed
+A15	Role T20 Beneficiary
+T21	ProperName 1102 1126	Johanna Elisabeth Paulus
+T22	Person 1054 1074	J: A: C: ingelstroom
+A16	Gender T22 Man
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Testator
+T23	ProperName 1054 1074	J: A: C: ingelstroom
+T24	ProperName 930 947	I: C: Engelstroom
+T25	Organization 949 966	De luijterse kerk
+A19	Beneficiary T25 Yes
+T26	Person 930 947	I: C: Engelstroom
+A20	Gender T26 Man
+A21	LegalStatus T26 Unspecified
+A22	Role T26 Testator
+T27	Person 801 832	inlandsen burger Nicolaas Smids
+A23	Gender T27 Unspecified
+A24	LegalStatus T27 Unspecified
+A25	Role T27 Beneficiary
+T28	ProperName 818 832	Nicolaas Smids
+T29	Person 656 661	Alida
+A26	Gender T29 Unspecified
+A27	LegalStatus T29 Unspecified
+A28	Role T29 Beneficiary
+T30	ProperName 565 580;581 584	Huijbert Bessi„ ung
+T31	Person 566 580;581 584	uijbert Bessi„ ung
+A29	Gender T31 Unspecified
+A30	LegalStatus T31 Unspecified
+A31	Role T31 Beneficiary
+T32	Organization 1152 1167	de luterse kerk
+A32	Beneficiary T32 Yes
+T33	ProperName 1289 1308	Johan Martin Reemer
+T34	ProperName 1312 1321;1322 1331	Archibala Mesterton
+T35	Organization 1638 1668	luterse weeshuijs, in den Haag
+A33	Beneficiary T35 Yes
+T36	ProperName 1660 1668	den Haag
+T37	Place 1660 1668	den Haag
+T38	ProperName 1690 1714	Johan Diederich orthling
+T39	ProperName 1732 1752	I: A: C: ingelstraom
+T40	Person 1690 1714	Johan Diederich orthling
+A34	Gender T40 Unspecified
+A35	LegalStatus T40 Unspecified
+A36	Role T40 Other
+T41	Person 1732 1752	I: A: C: ingelstraom
+A37	Gender T41 Man
+A38	LegalStatus T41 Unspecified
+A39	Role T41 Testator
+T42	Person 2553 2564	lijfeigenen
+A40	Gender T42 Group
+A41	LegalStatus T42 Enslaved
+A42	Role T42 Other
+T43	Organization 3943 3979	het luijtersche weeshuijs in 'S Hage
+A43	Beneficiary T43 Yes
+T44	Place 3972 3979	'S Hage
+T45	ProperName 3972 3979	'S Hage

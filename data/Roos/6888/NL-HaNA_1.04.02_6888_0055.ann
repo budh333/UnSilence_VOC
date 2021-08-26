@@ -1,0 +1,34 @@
+T1	TranscriptionError_Document 0 5	Copia
+T2	DuplicatePage 0 5	Copia
+T4	ProperName 380 403	Josephus de grand preez
+T5	Noteworthy 380 414	Josephus de grand preez secretaris
+#1	AnnotatorNotes T5	Secretaris as notary
+T7	ProperName 571 584;585 590	Hendrik gouts „berg
+T8	Place 595 602	schagen
+T9	ProperName 595 602	schagen
+T10	Noteworthy 660 681	brigantijn Leijenoord
+#2	AnnotatorNotes T10	https://www.delpher.nl/nl/boeken/view?objectsearch=feyenoord&coll=boeken&identifier=MMKB02:000117754:00298
+T12	ProperName 698 716	anna van den oever
+T13	Place 722 731	amsterdam
+T14	ProperName 722 731	amsterdam
+T15	Person 2828 2836	Johannes
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	ProperName 2828 2836	Johannes
+T17	Organization 2990 2996	Comp=s
+T3	Person 380 414	Josephus de grand preez secretaris
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T6	Person 571 584;585 590	Hendrik gouts „berg
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T18	Place 660 681	brigantijn Leijenoord
+T19	ProperName 671 681	Leijenoord
+T11	Person 698 716	anna van den oever
+A7	Gender T11 Woman
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+A13	Beneficiary T17 No

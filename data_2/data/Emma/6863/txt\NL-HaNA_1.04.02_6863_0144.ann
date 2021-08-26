@@ -1,0 +1,22 @@
+T1	Place 598 620	te Hoeglij in Bengalen
+T2	ProperName 612 620	Bengalen
+T3	Person 638 660	Johan Willem van Braem
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 638 660	Johan Willem van Braem
+T5	Person 664 686;687 698	Willem van Eijk Clergu als getuijg
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 664 679	Willem van Eijk
+T7	Person 845 868	L: H: Guerin Ed GClercq
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 845 857	L: H: Guerin
+T9	Person 911 928	S: H Guerin Eyeng
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 911 928	S: H Guerin Eyeng

@@ -1,0 +1,27 @@
+T1	Person 10 22	D„ D„ Knilke
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 10 22	D„ D„ Knilke
+T3	Place 118 123	banda
+T4	ProperName 118 123	banda
+T5	Person 181 191	C„s Greven
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 181 191	C„s Greven
+T7	Person 234 241	JPaweei
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 234 241	JPaweei
+T9	Person 243 254	JaV Gebrets
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 243 254	JaV Gebrets
+T11	Person 269 277	JK Thiel
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 269 277	JK Thiel

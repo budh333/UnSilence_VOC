@@ -1,0 +1,47 @@
+T1	Place 168 176;177 197	Nederlae Comptoire souracaata
+T2	ProperName 187 197	souracaata
+T3	Person 230 242	Pasper kroll
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 230 242	Pasper kroll
+T5	Person 284 298	E: M: De Wilde
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	Person 323 338	A: P: Michaelis
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T7	Person 366 379	P: J: De Blij
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Witness
+T8	Place 450 461	te samarang
+T9	ProperName 453 461	samarang
+T10	Place 549 561	te somaCasta
+T11	ProperName 552 561	somaCasta
+T12	Person 585 589;590 595	Casp krull
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Testator
+T13	ProperName 585 589;590 595	Casp krull
+T14	Person 643 664	Egbert Arend de Vilde
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Acting_Notary
+T15	ProperName 643 664	Egbert Arend de Vilde
+T16	Place 764 774	te steyden
+T17	Person 973 990	Abanam Van Hemert
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 973 990	Abanam Van Hemert
+T19	Person 1015 1028	P vanderLeij.
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	Person 1043 1048	A Hau
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Acting_Notary

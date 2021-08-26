@@ -1,0 +1,76 @@
+T1	ProperName 39 49	Kretschman
+T2	DuplicatePage 39 49	Kretschman
+T3	TranscriptionError_Document 0 2	30
+T4	ProperName 54 77	Johan Christiaan Mulher
+T5	Person 54 77	Johan Christiaan Mulher
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	ProperName 172 201	Wilhelmus Philippus Wetzelius
+T7	Person 172 201	Wilhelmus Philippus Wetzelius
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	Organization 237 248;249 260	secretaaije van politie
+T9	ProperName 296 318	Joan Christiaan Muller
+T10	ProperName 323 329	Ropein
+T11	Person 296 318	Joan Christiaan Muller
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	Organization 346 351	sComp
+T13	Place 682 689	Cdlembe
+T14	ProperName 682 689	Cdlembe
+T15	ProperName 722 732	de kretser
+T16	Person 722 732	de kretser
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 771 780	de kuster
+T18	Person 771 780	de kuster
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	ProperName 849 868	suff= van den bosch
+T20	Person 849 868	suff= van den bosch
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	Place 974 980	Cdembo
+T22	ProperName 974 980	Cdembo
+T23	Person 1017 1026	I: Cramer
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Other
+T24	ProperName 1020 1026	Cramer
+T25	Person 1065 1077	S: C: Egelin
+A22	Gender T25 Unspecified
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 1071 1077	Egelin
+T27	Place 1190 1197	Colombo
+T28	ProperName 1190 1197	Colombo
+T29	Person 1234 1243	I: Cramer
+A25	Gender T29 Unspecified
+A26	LegalStatus T29 Unspecified
+A27	Role T29 Other
+T30	ProperName 1237 1243	Cramer
+T31	Person 1283 1295	S: C: Egelin
+A28	Gender T31 Unspecified
+A29	LegalStatus T31 Unspecified
+A30	Role T31 Other
+T32	ProperName 1289 1295	Egelin
+T33	Place 1408 1415	Colombo
+T34	ProperName 1408 1415	Colombo
+T35	Person 1449 1459	I: Cramer.
+A31	Gender T35 Unspecified
+A32	LegalStatus T35 Unspecified
+A33	Role T35 Other
+T36	ProperName 1452 1458	Cramer
+T37	Person 1499 1508	De Kuster
+A34	Gender T37 Unspecified
+A35	LegalStatus T37 Unspecified
+A36	Role T37 Other
+T38	ProperName 1499 1508	De Kuster
+T39	ProperName 1528 1534	Muller
+T40	DuplicatePage 1528 1534	Muller

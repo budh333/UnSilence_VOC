@@ -1,0 +1,27 @@
+T1	Person 39 53	C„ E„s Echardt
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 39 53	C„ E„s Echardt
+T3	ProperName 80 90	C: Schardt
+T4	Person 80 90	C: Schardt
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Organization 128 145	Rade van Justitie
+A7	Beneficiary T5 No
+T6	Place 150 172	Gouvernemente Samarang
+T7	ProperName 164 172	Samarang
+T8	Place 164 172	Samarang
+T9	ProperName 276 286	Sourabaija
+T10	Place 276 286	Sourabaija
+T11	ProperName 318 334	Johannes Vermaas
+T12	Person 318 334	Johannes Vermaas
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Other
+T13	ProperName 413 423;424 437	Christiaan Ernst Echardt
+T14	Person 413 423;424 437	Christiaan Ernst Echardt
+A11	Gender T14 Man
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Acting_Notary

@@ -1,0 +1,52 @@
+T1	TranscriptionError_Document 0 3	van
+T2	DuplicatePage 0 3	van
+T3	Person 175 189	Hendrik Jansz:
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 175 189	Hendrik Jansz:
+T5	Person 196 203;204 219	Abraham Alvis Clercquen
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 196 203;204 209	Abraham Alvis
+T7	Person 360 379;380 388	C:l Schoute notaris publiecq
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 360 371	C:l Schoute
+T9	Place 551 558	batavia
+T10	ProperName 551 558	batavia
+T11	Person 598 622	D: Wannemaker Secretaris
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 598 611	D: Wannemaker
+T13	Person 635 647	H„r „n Basel
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 635 647	H„r „n Basel
+T16	ProperName 721 737;738 746	Maria Elisabetha Meurings
+T17	Person 755 772	Jacob Hoffmeister
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 755 772	Jacob Hoffmeister
+T19	Place 787 837	Roodersdorff, gelegen bij ’t vorstendom halperstad
+T20	ProperName 787 799	Roodersdorff
+T22	ProperName 888 906	Petrus Hoffmeister
+T23	Person 1114 1129	Willem Jacobsz:
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	ProperName 1114 1129	Willem Jacobsz:
+T15	Person 712 737;738 754	Iuffrouw Maria Elisabetha Meurings, weduwe
+A16	Gender T15 Woman
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary
+T25	ProperName 827 837	halperstad
+T21	Person 888 907	Petrus Hoffmeister,
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary

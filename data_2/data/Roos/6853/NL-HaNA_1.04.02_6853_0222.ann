@@ -1,0 +1,5 @@
+T1	Person 14 32;33 38	Christiaan Benderd Smith
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 14 32;33 38	Christiaan Benderd Smith

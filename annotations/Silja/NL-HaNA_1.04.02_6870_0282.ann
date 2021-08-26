@@ -1,0 +1,12 @@
+T1	Person 94 99;100 115	Mons= Michiel Fransp:
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 100 115	Michiel Fransp:
+T3	Person 907 913;914 928	Mons=r Michiel Franst
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 914 928	Michiel Franst
+T5	Organization 1213 1246;1247 1259	het Eerwaarde Collegie van heeren Weesmesteren
+A7	Beneficiary T5 No

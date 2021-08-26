@@ -1,0 +1,10 @@
+T1	DuplicatePage 0 7	Colombo
+T2	ProperName 0 7	Colombo
+T3	Place 0 7	Colombo
+T4	Place 48 71	op ’t schip Ameliswaard
+T5	ProperName 60 71	Ameliswaard
+T6	ProperName 376 389	Damel de sBok
+T7	Person 376 389	Damel de sBok
+A1	Gender T7 Unspecified
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Other

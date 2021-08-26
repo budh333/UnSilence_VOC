@@ -1,0 +1,17 @@
+T1	Organization 1 42	Heeren Bewindlibberen ter kamer Amsterdam
+T2	Place 33 42	Amsterdam
+T3	ProperName 33 42	Amsterdam
+T4	Person 235 251	Christen slaeven
+A1	Gender T4 Group
+A2	LegalStatus T4 Enslaved
+T5	Person 255 263	slavinne
+A3	Gender T5 Group
+A4	LegalStatus T5 Enslaved
+T6	Person 273 283	Lijff heer
+A5	Gender T6 Man
+A6	Role T6 Other
+T7	Person 284 292	kinderen
+A7	Gender T7 Group
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Organization 403 408;409 424	Edele hooge Regeering

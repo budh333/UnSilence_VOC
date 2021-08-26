@@ -1,0 +1,12 @@
+T1	DuplicatePage 0 2	11
+T2	TranscriptionError_Document 3 4	1
+T3	Place 27 35	in jndia
+T4	Place 30 35	jndia
+T5	Place 463 478	ter secretarije
+T6	Person 479 487	Juilliam
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	ProperName 479 487	Juilliam
+T8	Organization 570 578	'sComp=s
+T9	ProperName 571 578	sComp=s

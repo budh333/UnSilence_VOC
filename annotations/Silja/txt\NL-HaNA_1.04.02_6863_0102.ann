@@ -1,0 +1,19 @@
+T1	DuplicatePage 1 2	:
+T2	ProperName 266 270	Comp
+T3	Organization 266 270	Comp
+T4	ProperName 309 323	J: C: Heijning
+T5	Person 309 323	J: C: Heijning
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 335 350	B: C: D: Bouman
+T7	Person 335 350	B: C: D: Bouman
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 236 255	Johan Willen van Ma
+T9	Person 236 255	Johan Willen van Ma
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+A10	Beneficiary T3 No

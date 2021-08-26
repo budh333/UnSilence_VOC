@@ -1,0 +1,53 @@
+T1	TranscriptionError_Document 0 8	Henderik
+T2	DuplicatePage 0 8	Henderik
+T3	ProperName 0 15	Henderik Mulder
+T4	Person 0 15	Henderik Mulder
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 84 101	Andries Ian Balle
+T6	Person 84 101	Andries Ian Balle
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Notary
+T7	Organization 125 148	Edelenhoove van holland
+T8	ProperName 141 148	holland
+T9	Place 141 148	holland
+T10	Organization 167 198	regeeringe van Nederlands India
+T11	ProperName 182 198	Nederlands India
+T12	Place 182 198	Nederlands India
+T13	Place 219 233	destad Batavia
+T14	ProperName 226 233	Batavia
+T15	Person 306 310;311 325	Heer Hendrik Mulder
+A7	Gender T15 Man
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Testator
+T16	ProperName 311 325	Hendrik Mulder
+T17	Organization 359 366	E: Comp
+T18	Person 372 391	Mejufrouw Anna Kemp
+A10	Gender T18 Woman
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Testator
+T19	ProperName 382 391	Anna Kemp
+T20	Organization 1269 1305;1306 1332	heeren bewind hebberen der geoetroi„ „eerde oost, indische Comp
+T21	ProperName 1313 1332	oost, indische Comp
+T22	Place 1344 1353	amsterdam
+T23	ProperName 1344 1353	amsterdam
+T24	Organization 1559 1563	Comp
+T25	Person 1705 1709;1710 1722	Abra ham Pacomuns
+A13	Gender T25 Man
+A14	LegalStatus T25 Unspecified
+A15	Role T25 Witness
+T26	ProperName 1705 1709;1710 1722	Abra ham Pacomuns
+T27	ProperName 1726 1739;1740 1748	Sijmon Paulus Molencus
+T28	Person 1726 1739;1740 1748	Sijmon Paulus Molencus
+A16	Gender T28 Man
+A17	LegalStatus T28 Unspecified
+A18	Role T28 Witness
+T29	ProperName 1925 1938	Egbert Plaert
+T30	Person 1925 1938	Egbert Plaert
+A19	Gender T30 Man
+A20	LegalStatus T30 Unspecified
+A21	Role T30 Notary
+T31	Organization 961 982	heeren weesmeesteren,
+T32	ProperName 961 982	heeren weesmeesteren,

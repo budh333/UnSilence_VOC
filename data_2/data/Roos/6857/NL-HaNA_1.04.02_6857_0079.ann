@@ -1,0 +1,22 @@
+T1	Person 187 207	den Heere J: G: Brde
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 197 207	J: G: Brde
+T3	Person 341 368	VEd DW Dienr &amp;amp; Zoon
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+T4	ProperName 345 368	DW Dienr &amp;amp; Zoon
+T5	Person 378 400	Heer Jan Fredrik Rosin
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+T6	ProperName 383 400	Jan Fredrik Rosin
+T7	ProperName 401 407	Brosin
+T8	TranscriptionError_Document 0 1	t
+T9	Person 689 700	C: Rijnnagh
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 689 700	C: Rijnnagh
+A3	Role T1 Beneficiary
+A6	Role T3 Other
+A9	Role T5 Other

@@ -1,0 +1,11 @@
+T1	Person 725 742	Iohannes Edelings
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 725 742	Iohannes Edelings
+T3	Organization 1285 1292	E: Comp
+T4	ProperName 1285 1292	E: Comp
+T7	Place 1451 1459;1460 1469	ter kame Amsterdam
+T8	ProperName 1460 1469	Amsterdam
+T9	Organization 1409 1415;1416 1459;1460 1469	der ge octroieerde oostindische Compagnie ter kame Amsterdam
+T5	ProperName 1410 1415;1416 1459;1460 1469	er ge octroieerde oostindische Compagnie ter kame Amsterdam

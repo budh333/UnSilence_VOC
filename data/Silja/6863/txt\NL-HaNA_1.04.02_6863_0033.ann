@@ -1,0 +1,150 @@
+T1	ProperName 52 71	renaldus hendriksz:
+T2	ProperName 79 93	p: g: d Custer
+T3	ProperName 100 114	Cocheus relrel
+T4	ProperName 154 174	renalduse hendriksz.
+T5	ProperName 121 135	p: g: d Cusier
+T6	ProperName 191 197	Costee
+T7	ProperName 208 222	d: roogerwaart
+T8	ProperName 246 261	rendrik panneel
+T9	ProperName 265 274	fabricius
+T10	ProperName 228 236	chuljoup
+T11	ProperName 292 303	francrimone
+T12	ProperName 308 316	g: dmoor
+T13	ProperName 340 352	Jacob Cusral
+T14	ProperName 364 369	holft
+T15	ProperName 376 387	hoogerwaart
+T16	ProperName 392 397	aalet
+T17	ProperName 409 416	Viesser
+T18	ProperName 462 469	Letange
+T19	ProperName 499 506	Lelange
+T20	ProperName 478 485	fouceka
+T21	ProperName 528 546	renaldus hendriksz
+T22	ProperName 514 521	romberg
+T23	ProperName 551 558	raliaan
+T24	ProperName 646 657	d J: Ermman
+T25	ProperName 678 685	Tomberg
+T26	ProperName 663 671	Joucetra
+T27	ProperName 696 705	P Creeser
+T28	ProperName 752 761	Cadeuskri
+T29	ProperName 771 778	junousz
+T30	ProperName 802 819	abrahan fabricuwo
+T31	Person 802 819	abrahan fabricuwo
+A1	Gender T31 Unspecified
+A2	LegalStatus T31 Unspecified
+A3	Role T31 Other
+T32	Person 771 778	junousz
+A4	Gender T32 Unspecified
+A5	LegalStatus T32 Unspecified
+A6	Role T32 Other
+T33	Person 752 761	Cadeuskri
+A7	Gender T33 Unspecified
+A8	LegalStatus T33 Unspecified
+A9	Role T33 Other
+T34	Person 696 705	P Creeser
+A10	Gender T34 Unspecified
+A11	LegalStatus T34 Unspecified
+A12	Role T34 Other
+T35	Person 678 685	Tomberg
+A13	Gender T35 Unspecified
+A14	LegalStatus T35 Unspecified
+A15	Role T35 Other
+T36	Person 663 671	Joucetra
+A16	Gender T36 Unspecified
+A17	LegalStatus T36 Unspecified
+A18	Role T36 Other
+T37	Person 646 657	d J: Ermman
+A19	Gender T37 Unspecified
+A20	LegalStatus T37 Unspecified
+A21	Role T37 Other
+T38	Person 551 558	raliaan
+A22	Gender T38 Unspecified
+A23	LegalStatus T38 Unspecified
+A24	Role T38 Other
+T39	Person 514 521	romberg
+A25	Gender T39 Unspecified
+A26	LegalStatus T39 Unspecified
+A27	Role T39 Other
+T40	Person 499 506	Lelange
+A28	Gender T40 Unspecified
+A29	LegalStatus T40 Unspecified
+A30	Role T40 Other
+T41	Person 528 546	renaldus hendriksz
+A31	Gender T41 Unspecified
+A32	LegalStatus T41 Unspecified
+A33	Role T41 Other
+T42	Person 478 485	fouceka
+A34	Gender T42 Unspecified
+A35	LegalStatus T42 Unspecified
+A36	Role T42 Other
+T43	Person 462 469	Letange
+A37	Gender T43 Unspecified
+A38	LegalStatus T43 Unspecified
+A39	Role T43 Other
+T44	Person 409 416	Viesser
+A40	Gender T44 Unspecified
+A41	LegalStatus T44 Unspecified
+A42	Role T44 Other
+T45	Person 392 397	aalet
+A43	Gender T45 Unspecified
+A44	LegalStatus T45 Unspecified
+A45	Role T45 Other
+T46	Person 376 387	hoogerwaart
+A46	Gender T46 Unspecified
+A47	LegalStatus T46 Unspecified
+A48	Role T46 Other
+T47	Person 364 369	holft
+A49	Gender T47 Unspecified
+A50	LegalStatus T47 Unspecified
+A51	Role T47 Other
+T48	Person 340 352	Jacob Cusral
+A52	Gender T48 Unspecified
+A53	LegalStatus T48 Unspecified
+A54	Role T48 Other
+T49	Person 308 316	g: dmoor
+A55	Gender T49 Unspecified
+A56	LegalStatus T49 Unspecified
+A57	Role T49 Other
+T50	Person 292 303	francrimone
+A58	Gender T50 Unspecified
+A59	LegalStatus T50 Unspecified
+A60	Role T50 Other
+T51	Person 265 274	fabricius
+A61	Gender T51 Unspecified
+A62	LegalStatus T51 Unspecified
+A63	Role T51 Other
+T52	Person 228 236	chuljoup
+A64	Gender T52 Unspecified
+A65	LegalStatus T52 Unspecified
+A66	Role T52 Other
+T53	Person 191 197	Costee
+A67	Gender T53 Unspecified
+A68	LegalStatus T53 Unspecified
+A69	Role T53 Other
+T54	Person 208 222	d: roogerwaart
+A70	Gender T54 Unspecified
+A71	LegalStatus T54 Unspecified
+A72	Role T54 Other
+T55	Person 246 261	rendrik panneel
+A73	Gender T55 Unspecified
+A74	LegalStatus T55 Unspecified
+A75	Role T55 Other
+T56	Person 154 173	renalduse hendriksz
+A76	Gender T56 Unspecified
+A77	LegalStatus T56 Unspecified
+A78	Role T56 Other
+T57	Person 52 70	renaldus hendriksz
+A79	Gender T57 Unspecified
+A80	LegalStatus T57 Unspecified
+A81	Role T57 Other
+T58	Person 79 93	p: g: d Custer
+A82	Gender T58 Unspecified
+A83	LegalStatus T58 Unspecified
+A84	Role T58 Other
+T59	Person 100 114	Cocheus relrel
+A85	Gender T59 Unspecified
+A86	LegalStatus T59 Unspecified
+A87	Role T59 Other
+T60	Person 121 135	p: g: d Cusier
+A88	Gender T60 Unspecified
+A89	LegalStatus T60 Unspecified
+A90	Role T60 Other

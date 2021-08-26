@@ -1,0 +1,63 @@
+T1	TranscriptionError_Document 0 2	27
+T2	DuplicatePage 3 10	Pierter
+T3	Person 3 20	Pierter Boedeveld
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 3 20	Pierter Boedeveld
+T5	Person 139 167	M„r Ioan van der Voort not„s
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 143 161	Ioan van der Voort
+T7	Organization 195 224	regeeringe van Nederl„s Inder
+T8	ProperName 210 224	Nederl„s Inder
+T9	Place 210 223	Nederl„s Inde
+T10	Person 358 386	M„r Ioan van der Voort Not„s
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	ProperName 362 380	Ioan van der Voort
+T12	Person 463 486	Rudeljch Henderik Bosch
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 463 486	Rudeljch Henderik Bosch
+T14	Place 493 498	India
+T15	ProperName 493 498	India
+T18	Place 773 782	hollanden
+T19	ProperName 773 782	hollanden
+T20	Place 824 840	nederlands Jndia
+T21	ProperName 824 840	nederlands Jndia
+T22	ProperName 871 875	Bata
+T23	Place 871 875	Bata
+T24	ProperName 940 947	Rudoloh
+T25	Person 940 947	Rudoloh
+A16	Gender T25 Unspecified
+A17	LegalStatus T25 Unspecified
+A18	Role T25 Witness
+T26	ProperName 957 970	hendrik bosch
+T27	Person 957 970	hendrik bosch
+A19	Gender T27 Unspecified
+A20	LegalStatus T27 Unspecified
+A21	Role T27 Witness
+T28	Organization 1019 1023	Comp
+T29	Place 1054 1063	hospitaal
+T30	ProperName 2301 2309;2310 2317	Ernstom„ geseyde
+T31	Person 2301 2309;2310 2317	Ernstom„ geseyde
+A22	Gender T31 Unspecified
+A23	LegalStatus T31 Unspecified
+A24	Role T31 Beneficiary
+T32	ProperName 2334 2344	mariabosch
+T33	Person 2334 2344	mariabosch
+A25	Gender T33 Unspecified
+A26	LegalStatus T33 Unspecified
+A27	Role T33 Beneficiary
+T34	Place 2381 2390	Amsterdam
+T35	ProperName 2381 2390	Amsterdam
+T36	DuplicatePage 248 250	In
+T17	Person 698 730	Theodorus Leonardus van den buil
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Notary
+T16	ProperName 698 730	Theodorus Leonardus van den buil

@@ -1,0 +1,41 @@
+T1	Person 0 7	Bannier
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	Person 229 236;237 243	fredrik Banmer
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Testator
+T3	ProperName 229 236;237 243	fredrik Banmer
+T4	Person 247 257	Anna heijn
+A7	Gender T4 Woman
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	ProperName 247 257	Anna heijn
+T6	Person 312 314;315 323	An na heijn
+A10	Gender T6 Woman
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	ProperName 312 314;315 323	An na heijn
+T8	Person 336 339;340 344	Ba„ nier
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Testator
+T9	ProperName 336 339;340 344	Ba„ nier
+T10	Place 644 682;683 723;724 728	Eenplanken huijs met dies erve staende aen het zeestrand benoorden t fortres al hier
+T11	Person 755 775	javaense vrouw Sarie
+A16	Gender T11 Woman
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	Person 852 871	Javaense vrouw Raba
+A19	Gender T12 Woman
+A20	LegalStatus T12 Unspecified
+A21	Role T12 Other
+T13	Person 910 924	Javaen Seriema
+A22	Gender T13 Unspecified
+A23	LegalStatus T13 Unspecified
+A24	Role T13 Other
+T14	Person 959 966	Bannier
+A25	Gender T14 Unspecified
+A26	LegalStatus T14 Unspecified
+A27	Role T14 Testator

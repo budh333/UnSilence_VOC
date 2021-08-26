@@ -1,0 +1,40 @@
+T1	Person 28 49	De Heer Grootenhuysen
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 66 80	de heer Muller
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 74 80	Muller
+T4	ProperName 36 49	Grootenhuysen
+T5	ProperName 123 137	W: van ’t Hart
+T6	Person 123 137	W: van ’t Hart
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 196 209	Dheer Roselje
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 202 209	Roselje
+T9	ProperName 238 244	Porran
+T10	Person 238 244	Porran
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	Person 335 349	dheer Bloemink
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 341 349	Bloemink
+T13	ProperName 372 378	Bagman
+T14	Person 372 378	Bagman
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 425 434	Soeganend
+T16	Person 425 434	Soeganend
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other

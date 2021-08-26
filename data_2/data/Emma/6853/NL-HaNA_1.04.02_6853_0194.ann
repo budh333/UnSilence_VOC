@@ -1,0 +1,22 @@
+T1	Person 18 34	Jan van Wetteren
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 18 34	Jan van Wetteren
+T3	Place 365 390	aan de Rotterdammer poort
+T4	ProperName 369 390	de Rotterdammer poort
+T5	Person 414 434	Jan Harmensz: sold„t
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 414 426	Jan Harmensz
+T7	Person 459 501;502 520	Iacobadriaan Caster mijn Clercq als daertw versogte getuijgen
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 459 478	Iacobadriaan Caster
+T9	Person 604 627	Joan van der voort Not„
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Notary
+T10	ProperName 604 622	Joan van der voort

@@ -1,0 +1,60 @@
+T1	Person 45 53;54 66	Heer Jan George Boode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 50 53;54 66	Jan George Boode
+T3	Place 180 198	Cabo de Goede Hoop
+T4	ProperName 180 198	Cabo de Goede Hoop
+T5	Place 273 281	Amsterda
+T6	ProperName 273 281	Amsterda
+T7	Person 319 324;325 349	Heere Christiaan Daniel Hertze
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Notary T7 No
+T8	ProperName 325 349	Christiaan Daniel Hertze
+T9	Person 350 360;361 366	Jan Freeda Rosen
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Notary T9 No
+T10	ProperName 350 360;361 366	Jan Freeda Rosen
+T11	Person 400 404;405 410	Heer Boode
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Notary T11 No
+T12	ProperName 405 410	Boode
+T13	Person 700 711;712 730	Oppermeeste Jonan George Boode
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 712 730	Jonan George Boode
+T15	Place 732 749;750 788;789 808	aan boord van het Nederlands Oost Jndisch Compagnie schy Veerlands Welvaaren
+T16	ProperName 789 808	Veerlands Welvaaren
+T17	Place 828 844	ter rheede Wampo
+T18	ProperName 839 844	Wampo
+T19	Place 853 871	Kyserrys van China
+T20	ProperName 866 871	China
+T21	Person 913 923	Arikikkert
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+T22	ProperName 913 923	Arikikkert
+T23	Person 924 940	Christiaan Besen
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Other
+T24	ProperName 924 940	Christiaan Besen
+T25	Person 941 955	Laurens Caarls
+A22	Gender T25 Unspecified
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 941 955	Laurens Caarls
+T27	Person 957 977	Hendrik derrs Araans
+A25	Gender T27 Unspecified
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 957 977	Hendrik derrs Araans
+T29	Person 989 1003;1004 1015	J: J: Jdemans. Secretaris.
+A28	Gender T29 Man
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Other
+T30	ProperName 989 1002	J: J: Jdemans

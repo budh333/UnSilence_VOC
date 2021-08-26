@@ -1,0 +1,8 @@
+T1	ProperName 0 15	Theodorus Morel
+T2	Person 0 15	Theodorus Morel
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	DuplicatePage 24 28	Camp
+T4	ProperName 226 232	Muller
+T5	DuplicatePage 226 232	Muller

@@ -1,0 +1,92 @@
+T1	Person 232 238	rijper
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 278 287	Can hapko
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	Person 351 355	jdem
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Person 437 442	samla
+A10	Gender T4 Unspecified
+A11	LegalStatus T4 Unspecified
+A12	Role T4 Other
+T5	Person 471 476	Engel
+A13	Gender T5 Unspecified
+A14	LegalStatus T5 Unspecified
+A15	Role T5 Other
+T6	Person 514 523	wiegerees
+A16	Gender T6 Unspecified
+A17	LegalStatus T6 Unspecified
+A18	Role T6 Other
+T7	Person 593 604	wildenbergh
+A19	Gender T7 Unspecified
+A20	LegalStatus T7 Unspecified
+A21	Role T7 Other
+T8	Person 647 654	angelij
+A22	Gender T8 Unspecified
+A23	LegalStatus T8 Unspecified
+A24	Role T8 Other
+T9	Person 686 691	samta
+A25	Gender T9 Unspecified
+A26	LegalStatus T9 Unspecified
+A27	Role T9 Other
+T10	Person 765 770	kleyn
+A28	Gender T10 Unspecified
+A29	LegalStatus T10 Unspecified
+A30	Role T10 Other
+T11	Person 847 852	samla
+A31	Gender T11 Unspecified
+A32	LegalStatus T11 Unspecified
+A33	Role T11 Other
+T12	Person 903 910	Contant
+A34	Gender T12 Unspecified
+A35	LegalStatus T12 Unspecified
+A36	Role T12 Other
+T13	Person 940 944	noor
+A37	Gender T13 Unspecified
+A38	LegalStatus T13 Unspecified
+A39	Role T13 Other
+T14	Person 966 973	Contant
+A40	Gender T14 Unspecified
+A41	LegalStatus T14 Unspecified
+A42	Role T14 Other
+T15	Person 997 1000	dem
+A43	Gender T15 Unspecified
+A44	LegalStatus T15 Unspecified
+A45	Role T15 Other
+T16	Person 1013 1022	wiegereef
+A46	Gender T16 Unspecified
+A47	LegalStatus T16 Unspecified
+A48	Role T16 Other
+T17	Person 1057 1062	saula
+A49	Gender T17 Unspecified
+A50	LegalStatus T17 Unspecified
+A51	Role T17 Other
+T18	Person 1108 1119	wildenbergh
+A52	Gender T18 Unspecified
+A53	LegalStatus T18 Unspecified
+A54	Role T18 Other
+T19	Person 1140 1144	jdem
+A55	Gender T19 Unspecified
+A56	LegalStatus T19 Unspecified
+A57	Role T19 Other
+T20	Person 1169 1174	kleyn
+A58	Gender T20 Unspecified
+A59	LegalStatus T20 Unspecified
+A60	Role T20 Other
+T21	Person 1180 1191	wildenbergh
+A61	Gender T21 Unspecified
+A62	LegalStatus T21 Unspecified
+A63	Role T21 Other
+T22	Person 1225 1231	rijper
+A64	Gender T22 Unspecified
+A65	LegalStatus T22 Unspecified
+A66	Role T22 Other
+T23	Person 1298 1308	s: m: lebe
+A67	Gender T23 Unspecified
+A68	LegalStatus T23 Unspecified
+A69	Role T23 Other

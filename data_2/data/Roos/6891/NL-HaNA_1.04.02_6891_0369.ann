@@ -1,0 +1,27 @@
+T1	Person 741 755	Willem Beeksen
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 741 755	Willem Beeksen
+T3	Person 756 776	Pieter van Papendors
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 756 776	Pieter van Papendors
+T5	Person 848 862	Willem Beetsen
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 848 862	Willem Beetsen
+T7	Person 863 883	Pieter van Papendorp
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 863 883	Pieter van Papendorp
+T9	Person 1473 1491	Heer Carel Telkamp
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 1478 1491	Carel Telkamp
+T11	Place 1987 1996	purmerent
+T12	ProperName 1987 1996	purmerent

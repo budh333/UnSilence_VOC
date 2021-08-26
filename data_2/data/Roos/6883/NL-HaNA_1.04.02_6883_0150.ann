@@ -1,0 +1,18 @@
+T1	Place 11 16	delft
+T2	ProperName 11 16	delft
+T4	ProperName 324 341	Hendrik Westvalen
+T5	Place 355 363	hamburgh
+T6	ProperName 355 363	hamburgh
+T7	Organization 792 811;812 842	de Edele agtb: heer bewinthebberen ter Camer delft
+T8	Place 837 842	delft
+T9	ProperName 837 842	delft
+T10	Person 1289 1317	fredrik vander zint boerkhou
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	ProperName 1289 1308	fredrik vander zint
+T3	Person 324 341	Hendrik Westvalen
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+A7	Beneficiary T7 No

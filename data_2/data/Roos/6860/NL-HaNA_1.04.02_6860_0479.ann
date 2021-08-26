@@ -1,0 +1,33 @@
+T1	Person 171 176;177 183	I: A. Dreuer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 171 176;177 183	I: A. Dreuer
+T3	Person 238 250	J: A: Dreier
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 238 250	J: A: Dreier
+T5	Person 276 298	Andries Hartunch Gusus
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 276 298	Andries Hartunch Gusus
+T7	Place 362 370	Samarang
+T8	ProperName 362 370	Samarang
+T9	Place 465 475	sourabaija
+T10	ProperName 465 475	sourabaija
+T11	Person 503 520;521 525	Johan Christoffel smit
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 503 520;521 525	Johan Christoffel smit
+T13	Place 530 539	Rattinauw
+T14	ProperName 530 539	Rattinauw
+T15	Person 632 644	S: A: Dreier
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Acting_Notary
+T16	ProperName 632 644	S: A: Dreier
+T17	Organization 729 736	sEComp:
+A16	Beneficiary T17 No

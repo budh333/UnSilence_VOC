@@ -1,0 +1,39 @@
+T1	Place 912 922;923 943	Nederlands Comptoire Sourabaija
+T2	ProperName 933 943	Sourabaija
+T3	Person 975 984	J: Mulle„
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	Person 1029 1048	W: H: van Isseldijk
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	Person 1106 1122	G„t van Rijsoort
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	Person 1129 1140	H„r goldman
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	Person 1153 1167	J Hvan ysseltj
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Other
+#1	AnnotatorNotes T7	Signature
+T8	Organization 1213 1222;1223 1257	hadde van Justitie ter gouvernement samarang
+T9	Place 1249 1257	samarang
+T10	ProperName 1249 1257	samarang
+T11	Place 1350 1360	sourabaija
+T12	ProperName 1350 1360	sourabaija
+T13	Person 1390 1403	Joseph Muller
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Testator
+T14	ProperName 1390 1403	Joseph Muller
+T15	Organization 1661 1681	Samarangse weeshuijs
+A19	Beneficiary T15 Yes
+T16	Person 1779 1793	Jaraense meijd
+A20	Gender T16 Woman
+A21	LegalStatus T16 Freed
+A22	Role T16 Beneficiary

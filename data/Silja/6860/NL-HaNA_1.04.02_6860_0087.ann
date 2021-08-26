@@ -1,0 +1,14 @@
+T1	DuplicatePage 0 5	Copia
+T2	ProperName 98 122	Frans Hendrik Wolsleeben
+T3	Person 98 122	Frans Hendrik Wolsleeben
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Place 515 537	’t Campement te Banjoe
+T5	ProperName 531 537	Banjoe
+T6	Person 573 575;576 584	Da vid Tuet
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 573 575;576 584	Da vid Tuet
+T8	Place 689 741;742 758	Een half steene half bamboesse met Atap gedekte Pag: „gen ofte woning

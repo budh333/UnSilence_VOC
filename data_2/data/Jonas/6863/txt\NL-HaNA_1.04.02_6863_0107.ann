@@ -1,0 +1,19 @@
+T1	Place 69 78	Amsterdam
+T2	ProperName 69 78	Amsterdam
+T3	TranscriptionError_Document 0 1	A
+T4	Organization 145 151	AlComp
+T5	Place 260 269	Hlaeglijs
+T6	ProperName 260 269	Hlaeglijs
+T7	Organization 260 275	Hlaeglijs raads
+T8	Organization 397 405;408 413	Hoeglijs raads
+T9	Place 397 405	Hoeglijs
+T10	ProperName 397 404	Hoeglij
+T11	Organization 578 583	EComp
+T12	Person 1168 1179	P„ Ceijsler
+A1	Gender T12 Unspecified
+A2	LegalStatus T12 Unspecified
+A3	Role T12 Other
+T13	Person 1186 1193	Plusker
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Other

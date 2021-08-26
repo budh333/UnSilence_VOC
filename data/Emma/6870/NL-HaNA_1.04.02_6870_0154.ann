@@ -1,0 +1,34 @@
+T1	DuplicatePage 0 8	nagesien
+T2	TranscriptionError_Document 19 23	Ende
+T3	Person 9 17	J. Rerts
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 9 17	J. Rerts
+T5	Person 224 245;246 255	vader de heer Hendrik Castelijn
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 238 245;246 255	Hendrik Castelijn
+T7	Organization 481 489	dE: Comp
+T8	ProperName 481 489	dE: Comp
+T9	Person 595 616	moeder anna Louriswed
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Beneficiary
+T10	ProperName 602 616	anna Louriswed
+T11	Person 622 640	Ian Lourens Croon,
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 622 639	Ian Lourens Croon
+T13	Place 657 670	tot hoorhuijs
+T14	Place 1768 1778	sterfhuijs
+T15	Organization 2365 2401;2402 2457	de Ed=le agtb: heeren bewindhebberen den g’octroijeerde oostindische comp: ter Camer Zeeland
+T16	ProperName 2365 2401;2402 2457	de Ed=le agtb: heeren bewindhebberen den g’octroijeerde oostindische comp: ter Camer Zeeland
+T17	Place 2440 2457	ter Camer Zeeland
+T18	ProperName 2450 2457	Zeeland
+T19	Place 2492 2517	met het schip nederhooven
+T20	ProperName 2506 2517	nederhooven
+T21	Place 2523 2533	naar india
+T22	ProperName 2528 2533	india

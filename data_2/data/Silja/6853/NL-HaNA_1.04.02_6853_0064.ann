@@ -1,0 +1,5 @@
+T1	Person 104 133	Abraham van Sinter Nat„s pb„s
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 104 122	Abraham van Sinter

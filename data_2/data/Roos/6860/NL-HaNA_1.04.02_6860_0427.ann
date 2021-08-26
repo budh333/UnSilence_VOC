@@ -1,0 +1,24 @@
+T1	Person 33 45	Jan de Vries
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 33 45	Jan de Vries
+T3	Person 151 163	C„l Wijdkamp
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 151 163	C„l Wijdkamp
+T5	Person 197 210	J: J: Eerhard
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 197 210	J: J: Eerhard
+T7	Organization 582 600	de Samarangse arme
+A10	Beneficiary T7 Yes
+T8	Place 704 710;711 737	Neder„ lands Comptoire Courabaija
+T9	ProperName 727 737	Courabaija
+T10	Person 751 763	AWK: Wielbin
+A11	Gender T10 Unspecified
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Acting_Notary
+T11	ProperName 751 763	AWK: Wielbin

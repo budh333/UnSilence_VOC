@@ -1,0 +1,9 @@
+T1	ProperName 22 48	Geertruyda Catharina Schot
+T2	Person 22 48	Geertruyda Catharina Schot
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Organization 990 1007;1008 1012	Heeren Weesmeeste „ren
+T4	ProperName 990 1007;1008 1012	Heeren Weesmeeste „ren
+T5	Organization 1758 1778	Heeren Weesmeesteren
+T6	ProperName 1758 1778	Heeren Weesmeesteren

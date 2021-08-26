@@ -1,0 +1,35 @@
+T1	Person 37 42	Cawra
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 37 42	Cawra
+T3	Place 272 278	Europa
+T4	ProperName 272 278	Europa
+T5	Person 348 369	Geertruijderschophoff
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 348 369	Geertruijderschophoff
+T7	Person 370 389	Ervemgart schophoff
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 370 389	Ervemgart schophoff
+T9	Person 393 409;410 414	Cristiaan schop„ hoff
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 393 409;410 414	Cristiaan schop„ hoff
+T11	Place 448 455	Raeting
+T12	ProperName 448 455	Raeting
+T13	Place 459 504;505 511	onder dies Gebied geleegen onder ’t Hertogdom Bergen
+T14	ProperName 505 511	Bergen
+T15	Person 659 666	slaaven
+A13	Gender T15 Group
+A14	LegalStatus T15 Enslaved
+A15	Role T15 Other
+T16	ProperName 659 666	slaaven
+T17	Person 670 678	slavinen
+A16	Gender T17 Group
+A17	LegalStatus T17 Enslaved
+A18	Role T17 Other

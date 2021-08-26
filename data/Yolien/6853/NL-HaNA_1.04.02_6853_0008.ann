@@ -1,0 +1,23 @@
+T1	Place 110 119	weeskomen
+T2	Organization 454 487	Collegie van Heeren weesmeesteren
+T3	ProperName 454 487	Collegie van Heeren weesmeesteren
+T4	Person 576 591	Hendrik Saeijer
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Person 531 543	Iohan Iurgen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 531 543	Iohan Iurgen
+T7	ProperName 576 591	Hendrik Saeijer
+T8	ProperName 741 753	Johan Iurgen
+T9	Person 741 753	Johan Iurgen
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Organization 1458 1471	d’E Compagnie
+T11	Organization 1525 1567;1568 1591	Heeren Bewindhebberen den geoctrooijeerden oost Indische Compagnie
+T12	ProperName 1568 1591	oost Indische Compagnie
+T13	Place 1602 1611	Amsterdam
+T14	ProperName 1602 1611	Amsterdam

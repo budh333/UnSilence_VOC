@@ -1,0 +1,27 @@
+T1	Place 1280 1287;1288 1328	Casteel Colombo ten Woonhuijse van den testateur
+T2	ProperName 1288 1295	Colombo
+T3	Person 1351 1372	Gabriel Willem Botken
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 1351 1372	Gabriel Willem Botken
+T5	Person 1376 1384;1385 1397	Adrianus Van der Spar
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 1376 1384;1385 1397	Adrianus Van der Spar
+T7	Person 1589 1623	W„ P„s Van Cuijlenburg gesw: Clerq
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 1589 1611	W„ P„s Van Cuijlenburg
+T9	Person 1635 1645	W„m Visser
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 1635 1645	W„m Visser
+T11	Person 1655 1666	H„r Hannart
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 1655 1666	H„r Hannart

@@ -1,0 +1,10 @@
+T1	Organization 434 479	T: Eerwarde Collegie van Heeren Wuesmeesteren
+T2	ProperName 434 479	T: Eerwarde Collegie van Heeren Wuesmeesteren
+T3	Organization 669 675;676 683	E Com„ „pagnie
+T4	Organization 829 842;843 869	oost Jndische Comp:e ter kamer Amsterdam
+T5	Place 854 869	kamer Amsterdam
+T6	ProperName 860 869	Amsterdam
+T7	Person 1298 1310	lijffeigenen
+A1	Gender T7 Group
+A2	LegalStatus T7 Enslaved
+A3	Notary T7 No

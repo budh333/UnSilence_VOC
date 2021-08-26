@@ -1,0 +1,18 @@
+T1	DuplicatePage 0 4	Vier
+T2	ProperName 218 232	L: A: heelfman
+T3	Person 218 232	L: A: heelfman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Place 321 346	in't Casteel de goed Hoop
+T5	ProperName 323 346	't Casteel de goed Hoop
+T6	ProperName 396 401;402 414	J: P: vander Spuij
+T7	Person 396 401;402 414	J: P: vander Spuij
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 582 593;594 597	Jan Coenrad Gee
+T9	Person 582 593;594 597	Jan Coenrad Gee
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other

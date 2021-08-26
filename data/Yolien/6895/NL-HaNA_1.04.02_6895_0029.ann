@@ -1,0 +1,37 @@
+T1	TranscriptionError_Document 3 4	=
+T2	DuplicatePage 12 14	Op
+T3	DuplicatePage 1662 1666	Amen
+T4	ProperName 1728 1735	Batavia
+T5	Place 1728 1735	Batavia
+T6	ProperName 68 100	Nicolaas van Bergen vander Grijp
+T7	Person 68 100	Nicolaas van Bergen vander Grijp
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Notary
+T8	Organization 126 152;153 169	Edele hooge regeeringe van Nederlands India
+T9	ProperName 153 169	Nederlands India
+T10	Place 153 169	Nederlands India
+T11	Place 191 198;199 206	de stad Bataria
+T12	ProperName 199 206	Bataria
+T13	Person 257 275	heer Fredrik Camin
+A4	Gender T13 Man
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Testator_Beneficiary
+T14	ProperName 262 275	Fredrik Camin
+T15	Person 303 337	Mejuffrouw Anne elisabeth: vermeer
+A7	Gender T15 Woman
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Testator_Beneficiary
+T16	ProperName 314 337	Anne elisabeth: vermeer
+T17	Person 1349 1361;1362 1369	moeder susam Buisson
+A10	Gender T17 Woman
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Beneficiary
+T18	ProperName 1356 1361;1362 1369	susam Buisson
+T19	ProperName 1381 1398	george Cotterrell
+T20	Person 1381 1399	george Cotterrell,
+A13	Gender T20 Man
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Other
+T21	Place 1421 1432	stad London
+T22	ProperName 1426 1432	London

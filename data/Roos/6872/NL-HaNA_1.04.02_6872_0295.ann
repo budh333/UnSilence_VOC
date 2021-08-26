@@ -1,0 +1,17 @@
+T1	Place 184 200;201 211	in ’t Custeel de goede hoop
+T2	ProperName 198 200;201 211	de goede hoop
+T3	Person 269 275;276 293	Polhem Hendrik Borgwedel
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 269 275;276 293	Polhem Hendrik Borgwedel
+T5	Person 297 303;304 316	Johann Adolph Kuuhl
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 297 303;304 316	Johann Adolph Kuuhl
+T7	Person 498 510	L: Meethling
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 498 510	L: Meethling

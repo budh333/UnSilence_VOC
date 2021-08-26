@@ -1,0 +1,9 @@
+T1	Person 671 688	notaris Lammering
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 679 688	Lammering
+T3	Place 1598 1608	sterfhuijs
+T4	Organization 1543 1571	gereformeerde diaconij aamen
+T5	Place 1572 1585	deezer steede
+A4	Beneficiary T4 Yes

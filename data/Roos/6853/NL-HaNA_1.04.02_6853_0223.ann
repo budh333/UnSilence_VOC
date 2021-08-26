@@ -1,0 +1,29 @@
+T1	Organization 69 84	Raade van Jndia
+T2	Place 79 84	Jndia
+T3	ProperName 79 84	Jndia
+T7	ProperName 188 192;193 203	Hans Jurgen Fey
+T8	Person 253 262;263 279	de rovers van Camageangrea
+A7	Gender T8 Group
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 334 336;337 348	de Maccassaren
+A10	Gender T9 Group
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	Organization 417 426	S EComp„e
+T11	Person 528 547	M„s Otto Secretaris
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 528 536	M„s Otto
+T6	Person 188 192;193 204	Hans Jurgen Fey,
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T5	ProperName 153 158;159 171	Carel van der Mark
+T4	Person 153 158;159 171	Carel van der Mark
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+A16	Beneficiary T1 No
+A17	Beneficiary T10 No

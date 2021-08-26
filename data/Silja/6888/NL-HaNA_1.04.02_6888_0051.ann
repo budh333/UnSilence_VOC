@@ -1,0 +1,48 @@
+T1	DuplicatePage 0 1	C
+T2	Person 383 405	Josephus de grandpreez
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 383 405	Josephus de grandpreez
+T4	Organization 425 438;439 448;449 482	E: agtb: raat tenogmene van Justitie deezes gouvernements
+A4	Beneficiary T4 No
+T5	Place 469 482	gouvernements
+T6	Person 573 586	Hendrik gouts
+A5	Gender T6 Unspecified
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Testator
+T7	ProperName 573 586	Hendrik gouts
+T8	Person 699 715;716 731	Petrus dobbelaar notaris publicq
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Notary
+T9	ProperName 699 715	Petrus dobbelaar
+T10	Organization 737 761;762 783	de Edele hooge regeringe van nederlands in die
+A11	Beneficiary T10 No
+T11	ProperName 766 783	nederlands in die
+T12	Place 766 783	nederlands in die
+T13	Place 805 807;808 820	de Stad batavia
+T14	ProperName 813 820	batavia
+T15	Place 813 820	batavia
+T16	ProperName 871 886	Abraham Sockers
+T17	ProperName 891 907	s hertogen bosch
+T18	Place 891 907	s hertogen bosch
+T19	Organization 943 955	E: Compagnie
+A12	Beneficiary T19 No
+T20	ProperName 943 955	E: Compagnie
+T21	Place 996 1000	Iava
+#1	AnnotatorNotes T21	Java
+T22	ProperName 996 1000	Iava
+T23	Person 871 886	Abraham Sockers
+A13	Gender T23 Unspecified
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Testator
+T24	Person 2060 2077;2078 2090	monsieur hetmanus van Gelderen
+A16	Gender T24 Man
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Beneficiary
+T25	ProperName 2069 2077;2078 2090	hetmanus van Gelderen
+T26	ProperName 2647 2652	Comp=
+T27	Organization 2647 2652	Comp=
+A19	Beneficiary T27 No
+#2	AnnotatorNotes T6	Hendrik Goutsberg

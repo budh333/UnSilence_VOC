@@ -1,0 +1,14 @@
+T1	DuplicatePage 0 1	E
+T2	Place 347 357	’t Casteel
+T3	Person 1172 1191	Nicolaas huijselaar
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 1172 1191	Nicolaas huijselaar
+T5	ProperName 1213 1225;1226 1246	Ioan Fredrik Christoffel Tornheim
+T6	Person 1213 1225;1226 1246	Ioan Fredrik Christoffel Tornheim
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 1600 1611	Ameliswaerd
+T8	Place 1600 1611	Ameliswaerd

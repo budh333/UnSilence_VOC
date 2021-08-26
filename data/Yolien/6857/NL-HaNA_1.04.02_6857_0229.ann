@@ -1,0 +1,53 @@
+T1	TranscriptionError_Document 0 5	Copia
+T2	DuplicatePage 0 5	Copia
+T3	DuplicatePage 1934 1946	naagelaatene
+T4	ProperName 1963 1971	Hoogland
+T5	Person 1963 1971	Hoogland
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 78 105	M„r Willem Arnold velinguus
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 82 105	Willem Arnold velinguus
+T8	ProperName 152 160	Cherison
+T9	Place 152 160	Cherison
+T10	Person 197 217;218 253	Monsieur, Christiaan Gottlieb Gelsdorff van Pangerhousen
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Witness
+T11	ProperName 207 217;218 253	Christiaan Gottlieb Gelsdorff van Pangerhousen
+T12	ProperName 287 298	Jndramaijoe
+T13	Place 287 298	Jndramaijoe
+T14	Person 696 709	Jacob Wilkens
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator
+T15	ProperName 696 709	Jacob Wilkens
+T16	Organization 740 744	Comp
+T17	ProperName 906 922	Hermanus Croppen
+T18	Person 906 922	Hermanus Croppen
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Witness
+T19	Person 1536 1540	zoon
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Beneficiary
+T20	Person 1544 1550	dogter
+A19	Gender T20 Woman
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Beneficiary
+T21	ProperName 1561 1564;1565 1576	Io„ han Fredrik
+T22	Person 1561 1564;1565 1576	Io„ han Fredrik
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Beneficiary
+T23	Person 1580 1597	Johanna Christina
+A25	Gender T23 Woman
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Beneficiary
+T24	ProperName 1580 1597	Johanna Christina
+T25	Organization 1800 1813;1814 1820	oostuftigsche Comp=e
+T26	ProperName 1800 1813;1814 1820	oostuftigsche Comp=e

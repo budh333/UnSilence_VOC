@@ -1,0 +1,37 @@
+T1	Person 0 20;21 29	Magnus Sterenberg of Arenberg
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 17	Magnus Sterenberg
+T3	ProperName 21 29	Arenberg
+T4	Person 125 136;137 152	Petrus Dob„ „belaar notaris
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary
+T5	ProperName 125 136;137 144	Petrus Dob„ „belaar
+T6	Organization 166 200;201 213	de Edele hoge regeering van neder„ „lands India
+T7	Place 194 200;201 213	neder„ „lands India
+T8	ProperName 194 200;201 213	neder„ „lands India
+T9	Place 227 249	binnen de stad Batavia
+T10	ProperName 242 249	Batavia
+T11	Person 291 307;308 335	getuijgen Mons„r Magnus Arenberg, boekhouder
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 308 323	Magnus Arenberg
+T13	Organization 350 358	E: Comp:
+T14	ProperName 350 357	E: Comp
+T16	ProperName 1445 1467	februarij van bengalen
+T17	Person 1668 1671	Ian
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Beneficiary
+T18	ProperName 1668 1671	Ian
+T15	Person 1431 1436	slaaf
+A10	Gender T15 Man
+A11	LegalStatus T15 Enslaved
+A12	Role T15 Beneficiary
+T19	Person 1445 1467	februarij van bengalen
+A16	Gender T19 Man
+A17	LegalStatus T19 Enslaved
+A18	Role T19 Beneficiary

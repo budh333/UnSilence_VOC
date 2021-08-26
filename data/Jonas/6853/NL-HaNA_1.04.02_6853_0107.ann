@@ -1,0 +1,31 @@
+T1	Person 9 30	Jan Christiaan Malseh
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 9 30	Jan Christiaan Malseh
+T3	Person 89 113	Iacobus Wijnand brengman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	Place 123 133	te batavia
+T5	ProperName 126 133	batavia
+T6	Person 151 155;156 177	Joan Abraham van der voort
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T7	ProperName 151 155;156 177	Joan Abraham van der voort
+T8	Person 191 196;197 204	Moses Simonsz
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Witness
+T9	Person 311 329	Joan van der voort
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Notary
+T10	ProperName 311 329	Joan van der voort
+T11	Person 358 365	P Berta
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+#1	AnnotatorNotes T11	Signature
+T12	ProperName 89 113	Iacobus Wijnand brengman

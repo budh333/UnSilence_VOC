@@ -1,0 +1,35 @@
+T1	Person 408 432	messieurs Beneijs Stants
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 418 432	Beneijs Stants
+T3	Person 470 486	Johannes Brugman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 470 486	Johannes Brugman
+T5	Organization 502 509	's Com„
+T6	Place 1726 1741;1742 1762	Maccassar In de Negoreij Vlaardingen
+T7	ProperName 1726 1735	Maccassar
+T8	ProperName 1751 1762	Vlaardingen
+T9	Person 1835 1851	Dirk Jansz: olle
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator_Beneficiary
+T10	ProperName 1835 1851	Dirk Jansz: olle
+T11	Person 1971 1991	A=rs Fredrik Morell,
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 1971 1990	A=rs Fredrik Morell
+T13	Person 2042 2046;2047 2058	Corn „lis Bouman
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 2042 2046;2047 2058	Corn „lis Bouman
+T15	Person 2063 2073	Jacob Cops
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 2063 2073	Jacob Cops
+A19	Beneficiary T5 No

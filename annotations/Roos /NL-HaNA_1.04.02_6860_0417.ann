@@ -1,0 +1,31 @@
+T1	TranscriptionError_Document 0 9	Testament
+T2	DuplicatePage 0 9	Testament
+T3	Person 14 26	Jan de Vries
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 14 26	Jan de Vries
+T5	Person 99 132	Heer wouter Hendrik van ijseldijk
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 104 132	wouter Hendrik van ijseldijk
+T7	Place 192 200	samarang
+T8	ProperName 192 200	samarang
+T9	Person 229 252	Johannes Nieuwenhuijsen
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 229 252	Johannes Nieuwenhuijsen
+T11	Place 445 455	Sourabaija
+T12	ProperName 445 455	Sourabaija
+T13	Person 494 512	Andries Landstroom
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 494 512	Andries Landstroom
+T15	Person 524 539	WW AranysseWijk
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 524 539	WW AranysseWijk

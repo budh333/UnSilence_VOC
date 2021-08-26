@@ -1,0 +1,20 @@
+T1	Person 18 27	Gangaraan
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 18 27	Gangaraan
+T3	Person 115 129	D: Heer Guerin
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 123 129	Guerin
+T5	Person 155 161	Ouding
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 155 161	Ouding
+T7	Place 304 322	ouglij in Bengalen
+#1	AnnotatorNotes T7	Hougby in Bengalen
+T8	ProperName 314 322	Bengalen
+T9	ProperName 304 310	ouglij
+#2	AnnotatorNotes T9	Hougby

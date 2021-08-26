@@ -1,0 +1,12 @@
+T1	TranscriptionError_Document 0 8	Vendutie
+T2	DuplicatePage 0 8	Vendutie
+T3	Person 114 136	Carel Fredrik Leipnits
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 114 136	Carel Fredrik Leipnits
+T5	Person 391 404	Carel Fredrik
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 391 404	Carel Fredrik

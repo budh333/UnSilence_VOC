@@ -1,0 +1,52 @@
+T2	Person 150 176	Hendrik Willebordus Willem
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Beneficiary
+T3	ProperName 150 176	Hendrik Willebordus Willem
+T4	Person 180 210;211 220	Maria Catharina van bergen van der Grijp
+A7	Gender T4 Woman
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Beneficiary
+T5	ProperName 180 210;211 220	Maria Catharina van bergen van der Grijp
+T9	Person 365 381;382 387	mattheus hendrik Beyts
+A19	Gender T9 Man
+A20	LegalStatus T9 Unspecified
+A21	Role T9 Beneficiary
+T10	ProperName 365 381;382 387	mattheus hendrik Beyts
+T11	Person 397 420;421 427	Geertreyjda Wilhelimina Beijts
+A22	Gender T11 Unspecified
+A23	LegalStatus T11 Unspecified
+A24	Role T11 Beneficiary
+T12	ProperName 397 420;421 427	Geertreyjda Wilhelimina Beijts
+T14	Person 504 528	Samuel Constantin Saffin
+A28	Gender T14 Man
+A29	LegalStatus T14 Unspecified
+A30	Role T14 Beneficiary
+T15	ProperName 504 528	Samuel Constantin Saffin
+T16	Person 537 561	Samuel Constantin saffin
+A31	Gender T16 Man
+A32	LegalStatus T16 Unspecified
+A33	Role T16 Beneficiary
+T17	ProperName 537 561	Samuel Constantin saffin
+T18	Person 569 592	Jacobus Cornelis Saffin
+A34	Gender T18 Man
+A35	LegalStatus T18 Unspecified
+A36	Role T18 Beneficiary
+T19	ProperName 569 592	Jacobus Cornelis Saffin
+T23	Person 992 1007	Ian vander Laer
+A43	Gender T23 Man
+A44	LegalStatus T23 Unspecified
+A45	Role T23 Other
+T24	ProperName 992 1007	Ian vander Laer
+T25	Person 1046 1060	Pieter Stersta
+A46	Gender T25 Unspecified
+A47	LegalStatus T25 Unspecified
+A48	Role T25 Witness
+T26	ProperName 1046 1061	Pieter Sterstad
+T1	ProperName 664 688	Maria Barentina Slegiter
+T6	Person 653 688	huijsvrouw Maria Barentina Slegiter
+A1	Gender T6 Woman
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	TranscriptionError_Document 0 2	de
+T8	DuplicatePage 809 813	sijn

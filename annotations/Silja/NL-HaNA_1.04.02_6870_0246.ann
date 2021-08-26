@@ -1,0 +1,31 @@
+T1	DuplicatePage 0 3	den
+T2	ProperName 552 568	Anthonij van Dam
+T3	Person 552 568	Anthonij van Dam
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 765 783	Catharina van Damn
+T5	Person 765 783	Catharina van Damn
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 756 761;775 783	maria van Damn
+T7	ProperName 746 754;775 783	Cornelia van Damn
+T8	Person 746 754;775 783	Cornelia van Damn
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	Person 756 761;775 783	maria van Damn
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	Person 911 926	marines Kommers
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 911 926	marines Kommers
+T12	Place 994 1027	Maccasser in 't Casteel Rotterdam
+T13	ProperName 994 1003	Maccasser
+T14	ProperName 1007 1027	't Casteel Rotterdam
+T15	Place 994 1003	Maccasser
+T16	Place 1007 1027	't Casteel Rotterdam

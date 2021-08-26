@@ -1,0 +1,70 @@
+T1	Person 414 438	Gijsbert Iacob welgevare
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 414 438	Gijsbert Iacob welgevare
+T3	Organization 461 467;468 483	Edelen agtbaeren raede
+A4	Beneficiary T3 No
+T4	ProperName 535 547	I: M: Reemer
+T5	ProperName 551 554;555 557;558 575	Ar„ 17 Chibala Mesterton
+T6	Place 597 604	Batavia
+T7	ProperName 597 604	Batavia
+T8	Person 551 554;555 557;558 575	Ar„ 17 Chibala Mesterton
+A5	Gender T8 Unspecified
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Other
+T9	Person 535 547	I: M: Reemer
+A8	Gender T9 Unspecified
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Other
+T10	Organization 678 695	raed van Iustitie
+A11	Beneficiary T10 No
+T11	Place 700 716	Casteels Batavia
+T12	ProperName 700 716	Casteels Batavia
+T13	ProperName 862 886	Gijsbert Jacob welgevare
+T14	ProperName 980 1002;1003 1020	Fredrik Andreas Chris, tiaan Engelstroom
+T15	Person 980 1002;1003 1020	Fredrik Andreas Chris, tiaan Engelstroom
+A12	Gender T15 Man
+A13	LegalStatus T15 Unspecified
+A14	Role T15 Testator
+T16	Person 862 886	Gijsbert Jacob welgevare
+A15	Gender T16 Unspecified
+A16	LegalStatus T16 Unspecified
+A17	Role T16 Other
+T17	ProperName 1402 1412	C: Hartman
+T18	Person 1402 1412	C: Hartman
+A18	Gender T18 Unspecified
+A19	LegalStatus T18 Unspecified
+A20	Role T18 Other
+T19	Organization 1479 1506	agtbaeren raad van Iustitie
+A21	Beneficiary T19 No
+T20	Place 1513 1520	Casteel
+T21	Place 1546 1553	Batavia
+T22	ProperName 1546 1553	Batavia
+T23	ProperName 1586 1596	C: Hartman
+T24	Person 1586 1596	C: Hartman
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other
+T25	ProperName 1773 1779	Rossel
+T26	Person 1773 1779	Rossel
+A25	Gender T26 Unspecified
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Other
+T27	ProperName 2324 2341	Mattheus De Klerk
+T28	Person 2324 2341	Mattheus De Klerk
+A28	Gender T28 Group
+A29	LegalStatus T28 Unspecified
+A30	Role T28 Other
+T29	Person 2572 2595;2596 2618	de Heer Fredrik Andreas Christiaan Engelstroom
+A31	Gender T29 Man
+A32	LegalStatus T29 Unspecified
+A33	Role T29 Testator
+T30	ProperName 2580 2595;2596 2618	Fredrik Andreas Christiaan Engelstroom
+T31	ProperName 3617 3629	M:s De Klerk
+T32	Person 3617 3629	M:s De Klerk
+A34	Gender T32 Unspecified
+A35	LegalStatus T32 Unspecified
+A36	Role T32 Other
+T33	ProperName 3646 3653	Batavia
+T34	Place 3646 3653	Batavia

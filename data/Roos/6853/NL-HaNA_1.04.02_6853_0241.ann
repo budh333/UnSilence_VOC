@@ -1,0 +1,45 @@
+T1	Person 96 209	wingert Wargaaren, notaris publycx
+by de Edele hove van hollland, en d’ Edele hoogeregeering van
+nederlands India
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 96 113	wingert Wargaaren
+T3	Organization 134 160	de Edele hove van hollland
+T4	Organization 165 192;193 209	d’ Edele hoogeregeering van nederlands India
+T6	Place 193 209	nederlands India
+T7	ProperName 193 209	nederlands India
+T8	Place 224 247	binnen deeseat Battavia
+T9	ProperName 239 247	Battavia
+T11	ProperName 299 311;312 314	Cornelis van Es
+T12	Organization 341 359	de Edele compagnie
+T13	Place 378 402	op ’t schip s looterdijk
+T14	ProperName 390 402	s looterdijk
+T16	ProperName 520 541	Cornelis van der Stam
+T18	ProperName 588 603	Cornelis Leevas
+T22	ProperName 3200 3213	Johanna Cossu
+T23	Place 3229 3238	amsterdam
+T24	ProperName 3229 3238	amsterdam
+T5	Person 96 130	wingert Wargaaren, notaris publycx
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T10	Person 299 311;312 314	Cornelis van Es
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T15	Person 520 541	Cornelis van der Stam
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Beneficiary
+T17	Person 574 603	den Eersaemen Cornelis Leevas
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Beneficiary
+T20	Person 3194 3213	Iuff: Johanna Cossu
+A16	Gender T20 Woman
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Beneficiary
+A19	Beneficiary T3 No
+A20	Beneficiary T4 No
+A21	Beneficiary T12 No

@@ -1,0 +1,65 @@
+T1	Person 54 81	Lodewijk Thomassin schipper
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 54 72	Lodewijk Thomassin
+T3	Organization 100 109	E: Comp:s
+T5	ProperName 358 375	Lodwijk Thomassin
+T7	ProperName 393 395;396 404	Ie Ter Burg
+T9	ProperName 470 491	Carel Aldertse Kreeff
+T10	Person 495 506	oosthuijsen
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 495 506	oosthuijsen
+T12	Person 582 609;610 618	H:r Herman Scheltus notaris publijcq
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Notary
+T13	ProperName 582 601	H:r Herman Scheltus
+T14	Organization 623 669	de Edele hooge regeeringe van Nederlands India
+T15	ProperName 653 669	Nederlands India
+T16	Place 684 706	binnen de stad batavia
+T17	ProperName 699 706	batavia
+T19	ProperName 760 774	Albert Kikkert
+T20	Organization 798 806	E Comp:e
+T22	ProperName 895 916	Carel fredrik Severin
+T23	Organization 945 989	tEerwaarde Collegie van heeren weesmeesteren
+T25	ProperName 1007 1028	Ian hendrik Wiegerman
+T26	Organization 1063 1075	Ed:le Comp:e
+T27	Person 1478 1492	Leijf Eijgenen
+A28	Gender T27 Group
+A29	LegalStatus T27 Enslaved
+A30	Role T27 Other
+T28	TranscriptionError_Document 0 2	Op
+T4	Person 358 375	Lodwijk Thomassin
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T6	Person 393 395;396 404	Ie Ter Burg
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T8	Person 470 491	Carel Aldertse Kreeff
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Beneficiary
+T18	Person 753 774	den E: Albert Kikkert
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Witness
+T21	Person 888 916	D' E:s Carel fredrik Severin
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T24	Person 1007 1028	Ian hendrik Wiegerman
+A25	Gender T24 Man
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Other
+A31	Beneficiary T3 No
+T29	Place 110 123	schip damzigt
+T30	ProperName 116 123	damzigt
+A32	Beneficiary T14 No
+A33	Beneficiary T20 No
+A34	Beneficiary T23 No
+A35	Beneficiary T26 No

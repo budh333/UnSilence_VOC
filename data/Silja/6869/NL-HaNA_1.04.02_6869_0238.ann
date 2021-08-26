@@ -1,0 +1,60 @@
+T1	DuplicatePage 0 8	Nagezien
+T2	Person 924 947	Heeren Iohannes Rantens
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 931 947	Iohannes Rantens
+T4	ProperName 977 1008	Hendrik Diederick Diasdafenlica
+T5	Person 924 930;977 1008	Heeren Hendrik Diederick Diasdafenlica
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Place 1195 1197;1198 1205	an tterdam
+T7	ProperName 1195 1197;1198 1205	an tterdam
+T8	Place 2893 2903	woonhuijse
+T9	ProperName 2869 2882	kasteel Colam
+T10	Place 2869 2882	kasteel Colam
+T11	Place 3149 3156	kolombo
+T12	ProperName 3149 3156	kolombo
+T13	Person 3186 3207	P: H: van Cuijlenburg
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 3186 3207	P: H: van Cuijlenburg
+T15	ProperName 2952 2962	A: Mijtens
+T16	Person 2952 2962	A: Mijtens
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	Person 2966 2975	M: k: Mik
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 2966 2975	M: k: Mik
+T19	Place 3243 3258	Casteel Colombo
+T20	ProperName 3243 3258	Casteel Colombo
+T22	Place 3263 3285	secretarij van Politie
+T23	ProperName 3495 3510	G: J: fijbrands
+T24	Person 3495 3510	G: J: fijbrands
+A16	Gender T24 Unspecified
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Other
+T25	Person 3301 3310	G: Ledulx
+A19	Gender T25 Unspecified
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Witness
+T26	ProperName 3301 3310	G: Ledulx
+T27	Person 3321 3332	C: A: spaar
+A22	Gender T27 Unspecified
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Witness
+T28	ProperName 3321 3332	C: A: spaar
+T29	Organization 3382 3391	de E: Cor
+#1	AnnotatorNotes T29	Comp
+T30	ProperName 3382 3391	de E: Cor
+T31	Organization 573 603	Eerwaarde Heeren weesmeesteren
+T32	ProperName 573 603	Eerwaarde Heeren weesmeesteren
+A25	Beneficiary T31 No
+A26	Beneficiary T29 No
+T21	Organization 3278 3285	Politie
+A27	Beneficiary T21 No

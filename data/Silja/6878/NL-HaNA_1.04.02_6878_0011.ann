@@ -1,0 +1,29 @@
+T1	DuplicatePage 0 5	Copia
+T2	Person 140 150;151 156	Jan Pieter Tuure
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 140 150;151 156	Jan Pieter Tuure
+T4	Place 172 186;187 198	Stellenboschen drakenstein
+T5	ProperName 172 186;187 198	Stellenboschen drakenstein
+T6	Place 260 262;263 276	’t robben Eiland
+T7	ProperName 260 262;263 276	’t robben Eiland
+T8	ProperName 277 299	Diederik Wilhelm smits
+T9	Person 277 299	Diederik Wilhelm smits
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 420 432	Jan Schouten
+T11	Person 420 432	Jan Schouten
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	Person 919 925	slaven
+A10	Gender T12 Group
+A11	LegalStatus T12 Enslaved
+A12	Role T12 Other
+T13	ProperName 861 876	Agnita Schouten
+T14	Person 861 876	Agnita Schouten
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other

@@ -1,0 +1,21 @@
+T1	Place 296 321	s Comp„s binnen hospitaal
+T2	Organization 298 304	Comp„s
+T3	Person 352 364	Louis Lomszi
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 352 364	Louis Lomszi
+T5	Person 369 409	Pomings Salomonsz Clerquen als getuijgen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 369 386	Pomings Salomonsz
+T7	Person 492 515	C: Ab=r V: Pinter not„s
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 492 509	C: Ab=r V: Pinter
+T11	Place 575 594	ter Camer Amsterdam
+T12	ProperName 585 594	Amsterdam
+T13	ProperName 538 594	d’ g'octroieerde oost Jndische Comp: ter Camer Amsterdam
+T14	Organization 538 594	d’ g'octroieerde oost Jndische Comp: ter Camer Amsterdam

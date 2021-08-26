@@ -1,0 +1,10 @@
+T1	Person 175 193	A: M:V: Lichnousch
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 175 193	A: M:V: Lichnousch
+T3	Person 205 216	BJW. Waport
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 205 215	BJW. Wapor

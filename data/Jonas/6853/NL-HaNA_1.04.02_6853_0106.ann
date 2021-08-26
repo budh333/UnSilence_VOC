@@ -1,0 +1,12 @@
+T1	Person 177 211	heer Willem hendrik van ossenberch
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 182 211	Willem hendrik van ossenberch
+T3	Person 340 355	Menno Niettouts
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 340 355	Menno Niettouts
+T5	Organization 677 716	oost Jndische Comp: ter kamer -amsterde
+T6	Place 701 716	kamer -amsterde

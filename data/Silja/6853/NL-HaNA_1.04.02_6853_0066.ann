@@ -1,0 +1,35 @@
+T1	Organization 21 50;51 64	Eerwaarde Collegie van Heeren weesmeesteren
+T2	Place 71 75	stad
+T3	ProperName 21 50;51 64	Eerwaarde Collegie van Heeren weesmeesteren
+T4	ProperName 258 272	d’E: Compagnie
+T5	Organization 258 272	d’E: Compagnie
+T6	ProperName 375 414	geoctroijeerde oost in dische Compagnie
+T7	Organization 375 414	geoctroijeerde oost in dische Compagnie
+T8	ProperName 425 434	Amsterdam
+T9	Place 425 434	Amsterdam
+T10	Organization 1006 1016	Compagnies
+T11	ProperName 1006 1016	Compagnies
+T12	Person 1058 1072	Moses Simonsz:
+A1	Gender T12 Unspecified
+A2	LegalStatus T12 Unspecified
+A3	Role T12 Witness
+T13	Person 1076 1089;1090 1099	Joachim Andri Billekens
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Witness
+T14	ProperName 1076 1089;1090 1099	Joachim Andri Billekens
+T15	ProperName 1058 1072	Moses Simonsz:
+T16	Person 1210 1233	Joar vanden voort notar
+A7	Gender T16 Man
+A8	LegalStatus T16 Unspecified
+A9	Role T16 Notary
+T17	ProperName 1210 1227	Joar vanden voort
+T18	ProperName 1245 1255	A Vertting
+T19	Person 1245 1255	A Vertting
+A10	Gender T19 Unspecified
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Other
+A13	Beneficiary T7 No
+A14	Beneficiary T5 No
+A15	Beneficiary T1 No
+A16	Beneficiary T10 No

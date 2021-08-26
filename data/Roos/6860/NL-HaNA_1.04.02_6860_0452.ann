@@ -1,0 +1,22 @@
+T1	Person 89 96	Kerkman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 89 96	Kerkman
+T3	Person 108 117	J Hanhndr
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 108 117	J Hanhndr
+T5	Organization 807 828	’t samarangse Wegehjd
+A7	Beneficiary T5 Yes
+T6	Person 1028 1044;1045 1061	Rudolf floventie van der Niepoort
+A8	Gender T6 Man
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Beneficiary
+T7	ProperName 1028 1044;1045 1061	Rudolf floventie van der Niepoort
+T8	Person 1132 1137;1138 1153	Soura fredrik Kriegel
+A11	Gender T8 Unspecified
+A12	LegalStatus T8 Unspecified
+A13	Role T8 Beneficiary
+T9	ProperName 1132 1137;1138 1153	Soura fredrik Kriegel

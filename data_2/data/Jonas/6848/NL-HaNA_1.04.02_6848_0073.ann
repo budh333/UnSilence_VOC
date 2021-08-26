@@ -1,0 +1,12 @@
+T1	Person 66 86;87 96	Pillem van Draam van adsistent
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 66 82	Pillem van Draam
+T3	Person 1430 1438	Hermanus
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Notary T3 No
+T4	Place 83 86;87 96	van adsistent
+T5	ProperName 87 96	adsistent
+#1	AnnotatorNotes T5	Proper name: probably Aalsten

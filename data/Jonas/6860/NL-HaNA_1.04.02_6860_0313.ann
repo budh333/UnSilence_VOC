@@ -1,0 +1,31 @@
+T1	Place 22 32	Sourabaija
+T2	ProperName 22 32	Sourabaija
+T3	Person 53 69	Hendrik Wouthers
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 53 69	Hendrik Wouthers
+T5	Person 164 171;172 199	Rudolph Floventius van der Niepoort
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Organization 269 274	EComp
+T7	Person 526 550	Cornelis Coetzier Iunior
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 526 550	Cornelis Coetzier Iunior
+T9	Place 605 614;615 628	samarang„ se wees Camer
+T10	Person 662 677	J„n G„s Helinke
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	Person 718 737	Ioan Adriaan Dreier
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Acting_Notary
+T12	ProperName 718 737	Ioan Adriaan Dreier
+T13	Person 776 789	I=m A: Dreier
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Acting_Notary

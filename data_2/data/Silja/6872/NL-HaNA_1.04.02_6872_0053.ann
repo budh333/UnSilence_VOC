@@ -1,0 +1,22 @@
+T1	Person 330 369	Willem van taak Eerste geswoorne Clercq
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 330 345	Willem van taak
+T3	Place 370 378;379 427	ter poli „tique secretarije alhier aan Cabo de goede hoop
+T4	ProperName 409 427	Cabo de goede hoop
+T5	Place 409 427	Cabo de goede hoop
+T6	ProperName 499 509	Hans Roose
+T7	Person 499 509	Hans Roose
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator_Beneficiary
+T8	ProperName 527 542	Johanna Vissers
+T9	Person 527 542	Johanna Vissers
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator_Beneficiary
+T10	ProperName 1330 1334	Comp
+T11	Organization 1330 1334	Comp
+A10	Beneficiary T11 No
+T12	Place 1252 1262	de Weereld

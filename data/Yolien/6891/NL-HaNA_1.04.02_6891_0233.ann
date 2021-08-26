@@ -1,0 +1,27 @@
+T1	ProperName 57 70	Jan Timmerman
+T2	Person 57 70	Jan Timmerman
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	Place 86 106	t schip „ Landhorst.
+T4	ProperName 96 105	Landhorst
+T5	Place 132 141	vaderland
+T6	TranscriptionError_Document 0 2	Op
+T7	DuplicatePage 1362 1366	1775
+T8	ProperName 200 213	Cristiaen pit
+T9	Person 200 213	Cristiaen pit
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	Place 240 254	nederl=k Jndia
+T11	ProperName 240 254	nederl=k Jndia
+T12	ProperName 482 486	pith
+T13	Person 477 486	Heer pith
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator
+T14	Person 633 642	heer pith
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator
+T15	ProperName 638 642	pith

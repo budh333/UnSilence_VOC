@@ -1,0 +1,83 @@
+T1	Person 68 77	gesusters
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Person 441 460	vrije vrouw Dominga
+A4	Gender T2 Woman
+A5	LegalStatus T2 Freed
+A6	Role T2 Beneficiary
+T3	ProperName 453 460	Dominga
+T4	Place 798 804	Europa
+T5	ProperName 798 804	Europa
+T6	Person 890 897	Broeder
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 922 949	Heer Iacobus Hendrik Saffin
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	Place 958 963	slage
+T9	Person 958 963	slage
+#1	AnnotatorNotes T9	'shage ('s-Gravenhage)
+T10	Person 1018 1023	Nigse
+A13	Gender T10 Woman
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	Person 1018 1039;1040 1046	Nigse Maria Elisabeth Paffin
+A16	Gender T11 Woman
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 1024 1039;1040 1046	Maria Elisabeth Paffin
+T13	Person 1067 1094	Heer Jacobus Hendrik Laffen
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 1072 1094	Jacobus Hendrik Laffen
+T15	Person 1159 1178	vrouwe Maria Saffin
+A22	Gender T15 Woman
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	Person 1192 1197	Schas
+A25	Gender T16 Woman
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Other
+T18	Person 1159 1186;1187 1191;1192 1197	vrouwe Maria Saffin, geboo„ „ren Schas
+A28	Gender T18 Woman
+A29	LegalStatus T18 Unspecified
+A30	Role T18 Other
+T19	ProperName 1166 1178	Maria Saffin
+T17	ProperName 1192 1197	Schas
+T20	Person 1312 1330;1331 1345	rouwe Maria Jaffin Tebooren Schas
+A31	Gender T20 Woman
+A32	LegalStatus T20 Unspecified
+A33	Role T20 Other
+T21	ProperName 1318 1330	Maria Jaffin
+T22	ProperName 1340 1345	Schas
+T23	Person 1442 1470	Neeff: Willem Hendrik Sassin
+A34	Gender T23 Man
+A35	LegalStatus T23 Unspecified
+A36	Role T23 Beneficiary
+T24	Person 1442 1447	Neeff
+A37	Gender T24 Man
+A38	LegalStatus T24 Unspecified
+A39	Role T24 Beneficiary
+T25	ProperName 1449 1470	Willem Hendrik Sassin
+T26	Person 1494 1513	Heer Jacobus Iaffen
+A40	Gender T26 Man
+A41	LegalStatus T26 Unspecified
+A42	Role T26 Other
+T27	ProperName 1499 1513	Jacobus Iaffen
+T28	Person 1717 1737;1738 1744	Heer Jacobus Hendrik Taffin
+A43	Gender T28 Man
+A44	LegalStatus T28 Unspecified
+A45	Role T28 Beneficiary
+T29	Organization 1763 1810	Collegie de Edele Hoven van Crimineese Justitie
+T30	ProperName 1781 1810	Hoven van Crimineese Justitie
+T31	ProperName 1814 1819;1820 1825	Suri„ „name
+T32	Place 1814 1819;1820 1825	Suri„ „name
+T33	Place 1845 1850	Shage
+T34	Person 1892 1899;1900 1906	Hendrik willem
+A46	Gender T34 Unspecified
+A47	LegalStatus T34 Unspecified
+A48	Role T34 Other

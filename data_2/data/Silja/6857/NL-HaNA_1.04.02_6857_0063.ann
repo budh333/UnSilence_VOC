@@ -1,0 +1,11 @@
+T1	DuplicatePage 0 1	3
+T2	ProperName 27 32	Johan
+T3	Person 27 32	Johan
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 133 144	C: Rijnnagh
+T5	Person 133 144	C: Rijnnagh
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other

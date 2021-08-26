@@ -1,0 +1,25 @@
+T1	Person 9 19	SBatenberg
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 9 19	SBatenberg
+T3	Person 373 377;378 398	Caro Anthonij des Roeques
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 373 377;378 398	Caro Anthonij des Roeques
+T5	Person 421 434	Bernard petsa
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	ProperName 421 434	Bernard petsa
+T7	Person 569 589	R: J: Wiltens, nots:
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Notary
+T8	ProperName 569 582	R: J: Wiltens
+T9	Person 601 610	J Heenwin
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 601 610	J Heenwin

@@ -1,0 +1,38 @@
+T1	Organization 129 168;169 200	d’ E:E: agtb: heeren bewindhebberen ter Camer tot middelburg in Zeeland
+A1	Beneficiary T1 No
+T2	Place 193 200	Zeeland
+T3	ProperName 193 200	Zeeland
+T4	Place 247 271	’t schip Soetelings kerk
+T5	ProperName 256 271	Soetelings kerk
+T6	Place 899 906	Malacca
+T7	ProperName 899 906	Malacca
+T8	Person 968 983	Fredrik Hendrik
+A2	Gender T8 Unspecified
+A3	LegalStatus T8 Unspecified
+A4	Role T8 Other
+T9	ProperName 968 983	Fredrik Hendrik
+T10	Person 1003 1024	Francois Louis Poulle
+A5	Gender T10 Unspecified
+A6	LegalStatus T10 Unspecified
+A7	Role T10 Witness
+T11	ProperName 1003 1024	Francois Louis Poulle
+T12	Person 1029 1035;1036 1048	Pieter Willem binck
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Witness
+T13	ProperName 1029 1035;1036 1048	Pieter Willem binck
+T14	Person 1200 1217	Cornelis van Riel
+A11	Gender T14 Unspecified
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Acting_Notary
+T15	ProperName 1200 1217	Cornelis van Riel
+T16	Person 1334 1354	d’ E: Isaac Cottiere
+A14	Gender T16 Man
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Other
+T17	ProperName 1340 1354	Isaac Cottiere
+T18	Person 1427 1433;1434 1466	Juff=r Hermanna Cornelia mijleus, wed:e
+A17	Gender T18 Woman
+A18	LegalStatus T18 Unspecified
+A19	Role T18 Testator_Beneficiary
+T19	ProperName 1434 1459	Hermanna Cornelia mijleus

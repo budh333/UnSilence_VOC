@@ -1,0 +1,31 @@
+T1	Place 84 102	fortresse Caliture
+T2	ProperName 94 102	Caliture
+T3	Person 121 135	Andries Driver
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 121 135	Andries Driver
+T5	Person 140 152	Ian De Lange
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 140 152	Ian De Lange
+T7	Person 203 208	S: S:
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Person 248 261	Seijmen Jansz
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 248 261	Seijmen Jansz
+T10	Person 283 298	Andries Drijver
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Witness
+T11	ProperName 283 299	Andries Drijver,
+T12	TranscriptionError_Document 1 3	23
+T13	Person 386 401	Carel otta Muer
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other

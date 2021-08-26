@@ -1,0 +1,13 @@
+T1	Organization 144 153;154 159	de diacon armen
+A1	Beneficiary T1 Yes
+T2	Place 168 184	’t sterff huijss
+T3	Person 509 531	Ary Willemsz: van Wijk
+A2	Gender T3 Unspecified
+A3	LegalStatus T3 Unspecified
+A4	Role T3 Beneficiary
+T4	ProperName 509 531	Ary Willemsz: van Wijk
+T5	ProperName 1227 1250	Arij Willemsz: van Wijk
+T6	Person 1227 1250	Arij Willemsz: van Wijk
+A5	Gender T6 Unspecified
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Beneficiary

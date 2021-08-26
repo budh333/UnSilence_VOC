@@ -1,0 +1,38 @@
+T1	Place 735 766	Maccassar in ’t Casteel Rottard
+T2	ProperName 735 744	Maccassar
+T3	ProperName 751 766	Casteel Rottard
+T4	Person 861 868;869 874	Adriaen Calle
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 861 868;869 874	Adriaen Calle
+T6	Organization 1154 1163	de Comp„s
+T7	ProperName 1154 1163	de Comp„s
+T8	Place 1205 1228;1231 1244	op maccassar in ’t Cas= =teel Rotterd
+T9	ProperName 1208 1217	maccassar
+T10	ProperName 1224 1228;1231 1244	Cas= =teel Rotterd
+T11	Person 1309 1332;1333 1345	Jacob Hendrik Neederman gesw: schrib
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Acting_Notary
+T12	ProperName 1309 1332	Jacob Hendrik Neederman
+T13	Person 1388 1398;1399 1403	J„r harden berg
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 1388 1398;1399 1403	J„r harden berg
+T15	Person 1407 1428	Jan hendk Voll Junior
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	ProperName 1407 1427	Jan hendk Voll Junio
+T17	Person 1465 1501	Japob hend„k Neederman gesw: schriba
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Acting_Notary
+T18	ProperName 1465 1487	Japob hend„k Neederman
+T19	Person 1514 1535;1536 1548	Jacobhend„k Beederman Gesw: scriba
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Acting_Notary
+T20	ProperName 1514 1535	Jacobhend„k Beederman

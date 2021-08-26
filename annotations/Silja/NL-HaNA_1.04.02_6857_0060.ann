@@ -1,0 +1,11 @@
+T1	Person 179 193	J:n J= Idemans
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 179 193	J:n J= Idemans
+T3	Person 271 279	M Nott n
+A3	Gender T3 Unspecified
+A4	LegalStatus T3 Unspecified
+#1	AnnotatorNotes T3	M Nothenius Secretaris
+A5	Role T3 Other
+T4	ProperName 271 277	M Nott
+A6	Role T1 Other

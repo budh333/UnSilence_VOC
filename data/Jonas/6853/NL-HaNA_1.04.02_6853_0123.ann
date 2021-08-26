@@ -1,0 +1,43 @@
+T1	Person 2 11	Jan Rasel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 2 11	Jan Rasel
+T3	Person 69 88;89 101	Abrahdam van Dinter Notaris pgbl
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 69 88	Abrahdam van Dinter
+T5	Organization 111 134	edelen hove van holland
+T6	ProperName 111 134	edelen hove van holland
+T7	Place 127 134	holland
+T8	ProperName 127 134	holland
+T9	Organization 145 188	edele hooge regeeringe van Nederlands Jndia
+T10	ProperName 145 188	edele hooge regeeringe van Nederlands Jndia
+T11	Place 172 188	Nederlands Jndia
+T12	ProperName 172 188	Nederlands Jndia
+T13	TranscriptionError_Document 0 1	1
+T14	Person 199 216	Jan Henderik Pots
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Testator
+T15	ProperName 199 216	Jan Henderik Pots
+T16	Person 955 973	Lodewijk Abrahamsz
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Witness
+T17	ProperName 955 973	Lodewijk Abrahamsz
+T18	Person 980 985;986 999	Louis Johannes Dauw
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Witness
+T19	ProperName 980 985;986 999	Louis Johannes Dauw
+T20	Person 1110 1122	A. v. Dinter
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Notary
+T21	Person 1147 1153	Dammel
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+#1	AnnotatorNotes T21	Signature

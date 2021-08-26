@@ -1,0 +1,55 @@
+T1	Person 67 81	Weddig Beukman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 67 81	Weddig Beukman
+T3	Person 126 136;137 151	heer Johan Hendrik Maurer
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 131 136;137 151	Johan Hendrik Maurer
+T5	Person 321 344	Luijtenant Cornelis Ie„
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+#1	AnnotatorNotes T5	Cornelis Jeklis
+T6	ProperName 332 344	Cornelis Ie„
+T7	Person 669 685	Cornelis Je klis
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 669 685	Cornelis Je klis
+T9	Person 881 899;900 907	de weeskinderen te Colombo
+A13	Gender T9 Group
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	Place 900 907	Colombo
+T11	ProperName 900 907	Colombo
+T12	Person 974 978;979 1002	Luid nant Joh: Hend:k Maurer
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 984 1002	Joh: Hend:k Maurer
+T14	Person 1118 1131;1132 1139	zoldaat Joham Rijnink
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Beneficiary
+T15	ProperName 1126 1131;1132 1139	Joham Rijnink
+T16	Place 1159 1165	Candia
+T17	ProperName 1159 1165	Candia
+T18	Person 1241 1264	Juff:r Grietje Cornelis
+A22	Gender T18 Woman
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Beneficiary
+T19	ProperName 1248 1264	Grietje Cornelis
+T20	Person 1311 1315	Inke
+A25	Gender T20 Man
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Beneficiary
+#2	AnnotatorNotes T20	Inke Jeklis
+T21	ProperName 1311 1315	Inke
+T22	Person 1319 1332	Pieter Iekles
+A28	Gender T22 Man
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Beneficiary
+T23	ProperName 1319 1332	Pieter Iekles

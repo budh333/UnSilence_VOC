@@ -1,0 +1,45 @@
+T1	Person 190 208	Johan Banneliusp=l
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 190 208	Johan Banneliusp=l
+T3	ProperName 303 316	harnan muldie
+T4	Person 303 316	harnan muldie
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 344 351	Batavia
+T6	Place 344 351	Batavia
+T7	ProperName 1711 1731	Hendrik van macassas
+T8	Person 1711 1731	Hendrik van macassas
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	Place 1817 1847	hoek van de Nieuwo Negorijvlak
+T10	ProperName 1829 1847	Nieuwo Negorijvlak
+T11	Person 1987 1996	slavingen
+A10	Gender T11 Woman
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other
+T12	Place 2263 2277	Campong malijo
+T13	ProperName 2271 2277	malijo
+T14	Person 2390 2399	slavinnen
+A13	Gender T14 Group
+A14	LegalStatus T14 Enslaved
+A15	Role T14 Other
+T15	ProperName 2408 2411	tan
+T16	ProperName 2416 2422	Canaga
+T17	ProperName 2429 2439	van boegis
+T18	Person 2408 2411	tan
+A16	Gender T18 Woman
+A17	LegalStatus T18 Enslaved
+A18	Role T18 Other
+T19	Person 2416 2422	Canaga
+A19	Gender T19 Woman
+A20	LegalStatus T19 Enslaved
+A21	Role T19 Other
+T20	Person 2429 2439	van boegis
+A22	Gender T20 Group
+A23	LegalStatus T20 Enslaved
+A24	Role T20 Other
+T21	Organization 2486 2490	Comp

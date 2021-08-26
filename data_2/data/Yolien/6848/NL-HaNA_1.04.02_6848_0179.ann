@@ -1,0 +1,33 @@
+T2	ProperName 3 12	Maccasser
+T3	Organization 215 248	Collegie van Hieren Weesmeesteren
+T4	ProperName 215 248	Collegie van Hieren Weesmeesteren
+T5	Organization 530 536;537 593	Heeren Bewind hebberen der geoctroijeerde oost Indiasche Comp:e
+T6	ProperName 572 593	oost Indiasche Comp:e
+T7	Place 604 607;608 616	Am„ „sterdam
+T8	ProperName 604 607;608 616	Am„ „sterdam
+T9	Person 1181 1189;1190 1205	Hermanus Abraham Simonst
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Witness
+T10	ProperName 1181 1189;1190 1205	Hermanus Abraham Simonst
+T11	Person 1211 1230;1231 1245	Dominicus Hendricus van den Heuvel
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Witness
+T12	ProperName 1211 1230;1231 1245	Dominicus Hendricus van den Heuvel
+T13	Person 1405 1425;1426 1440	N: V: Bergen van der Grijp, Notaris
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Notary
+T14	ProperName 1411 1425;1426 1431	Bergen van der Grijp
+T15	Person 1441 1459;1460 1466	Samuel Constantijn Laffin
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 1441 1459;1460 1466	Samuel Constantijn Laffin
+T17	Person 1562 1595	Nccolaas van Bergen van der Grijs
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Notary
+T18	ProperName 1562 1595	Nccolaas van Bergen van der Grijs
+T19	Place 3 12	Maccasser

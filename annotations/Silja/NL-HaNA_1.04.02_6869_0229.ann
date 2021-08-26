@@ -1,0 +1,12 @@
+T1	Person 296 306;307 326	moeder Ag„ „nita Maria Bierens
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Person 388 392;393 405	Abra „ham samlant
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 303 306;307 326	Ag„ „nita Maria Bierens
+T4	ProperName 388 392;393 404	Abra „ham samlan
+T5	Place 934 943	sterfhuis
+T6	Place 1103 1112	sterfhuis

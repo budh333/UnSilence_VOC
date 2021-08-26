@@ -1,0 +1,61 @@
+T1	Person 40 54	Maria fernando
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 40 54	Maria fernando
+T3	Person 112 120;121 127	Nicolaas Egbers
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	Place 130 136	silauw
+T5	ProperName 130 136	silauw
+T6	ProperName 112 120;121 127	Nicolaas Egbers
+T7	ProperName 338 345	nigombo
+T8	Place 338 345	nigombo
+T9	Person 317 320;321 335	Jan godbmed boerz:
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	ProperName 317 320;321 335	Jan godbmed boerz:
+T11	ProperName 232 246	Pieter Riplina
+T12	Person 232 246	Pieter Riplina
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 1135 1156	Pieter france wijdont
+T14	Person 1135 1156	Pieter france wijdont
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	ProperName 1187 1210	wilhelm bernardus hasz:
+T16	Person 1187 1210	wilhelm bernardus hasz:
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Witness
+T17	Person 1301 1310;1311 1317	Maria per „nando
+A19	Gender T17 Woman
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Testator_Beneficiary
+T18	ProperName 1301 1310;1311 1317	Maria per „nando
+T19	ProperName 1264 1270	silauw
+T20	Place 1254 1263;1264 1270	kampenien silauw
+T21	ProperName 1370 1383	P: O: wijdout
+T22	ProperName 1388 1399	w: b: hasz:
+T23	Person 1370 1383	P: O: wijdout
+A22	Gender T23 Unspecified
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Witness
+T24	Person 1388 1399	w: b: hasz:
+A25	Gender T24 Unspecified
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Witness
+T25	Person 1469 1487	Caul fredril Ebell
+A28	Gender T25 Man
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Acting_Notary
+T26	ProperName 1469 1487	Caul fredril Ebell
+T27	ProperName 1500 1515	J„s Crirmusbeek
+T28	Person 1500 1515	J„s Crirmusbeek
+A31	Gender T28 Unspecified
+A32	LegalStatus T28 Unspecified
+A33	Role T28 Other

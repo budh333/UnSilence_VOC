@@ -1,0 +1,50 @@
+T1	ProperName 63 87	v: Bergen vanden Gewrijp
+T2	Person 63 87;88 95	v: Bergen vanden Gewrijp Notaris
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Notary
+T3	Organization 143 152	Weeskamer
+T4	ProperName 249 256	Batavia
+T5	Place 249 256	Batavia
+T6	Organization 263 268;269 275	wees„ „kamer
+T7	ProperName 315 325	W=m Kraane
+A4	Gender T7 Man
+T8	Person 315 336	W=m KraanepecCretaris
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Other
+T9	ProperName 338 359	Jacob Henderik Ruland
+T10	Person 338 359	Jacob Henderik Ruland
+A8	Gender T10 Man
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Testator
+T11	Person 422 455	Johannes Greving, Notaris Publicq
+A11	Gender T11 Man
+A12	LegalStatus T11 Unspecified
+A13	Role T11 Notary
+T12	ProperName 422 438	Johannes Greving
+T13	Organization 470 505	Hooge Regering van Nederlands India
+T14	ProperName 470 505	Hooge Regering van Nederlands India
+T15	Place 535 542	Batavia
+T16	ProperName 535 542	Batavia
+T17	Person 597 614;615 620	Jacob Hendrik Ru„ „Land
+A14	Gender T17 Man
+A15	LegalStatus T17 Unspecified
+A16	Role T17 Testator
+T18	Organization 642 663	Compagnies Wapenkamer
+T19	Place 1387 1395	Berleijn
+T20	ProperName 1387 1395	Berleijn
+T21	Person 1181 1193	drie zusters
+A17	Gender T21 Group
+A18	LegalStatus T21 Unspecified
+A19	Role T21 Beneficiary
+T22	Person 1231 1251	Hnna Cathanna Ruland
+A20	Gender T22 Woman
+A21	LegalStatus T22 Unspecified
+A22	Role T22 Beneficiary
+T23	ProperName 1231 1251	Hnna Cathanna Ruland
+T24	Person 1256 1274	Sara Eva Catharina
+A23	Gender T24 Woman
+A24	LegalStatus T24 Unspecified
+A25	Role T24 Beneficiary
+T25	ProperName 1256 1274	Sara Eva Catharina

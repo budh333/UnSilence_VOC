@@ -1,0 +1,48 @@
+T1	DuplicatePage 0 2	In
+T2	ProperName 95 112;113 135	Alexander Mafimi„ „liaan Van Lichnowskij
+T3	Person 95 112;113 135	Alexander Mafimi„ „liaan Van Lichnowskij
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 299 309	Jan Siffle
+T5	Person 299 309	Jan Siffle
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	Place 576 586	Ten huijse
+T7	ProperName 483 500	Adriaan van Reijk
+T8	Person 483 500	Adriaan van Reijk
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	Place 531 540	Comptaire
+T10	Person 649 663	Theunis staats
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator
+T11	ProperName 649 663	Theunis staats
+T12	Person 2018 2044	de arme weesen te Samarang
+A13	Gender T12 Group
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary
+T13	ProperName 2036 2044	Samarang
+T14	Place 2036 2044	Samarang
+T15	Person 2131 2162;2163 2168	de vrije Jaraense vrouw genaemt Samie
+A16	Gender T15 Woman
+A17	LegalStatus T15 Freed
+A18	Role T15 Beneficiary
+T16	ProperName 2163 2168	Samie
+T17	ProperName 2408 2420	Jan Schouten
+T18	Person 2408 2420	Jan Schouten
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	Person 2918 2924	slaven
+A22	Gender T19 Group
+A23	LegalStatus T19 Enslaved
+A24	Role T19 Other
+T20	Person 2858 2873	Agnita Schouten
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T21	ProperName 2858 2873	Agnita Schouten

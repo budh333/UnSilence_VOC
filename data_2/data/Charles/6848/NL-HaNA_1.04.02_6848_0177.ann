@@ -1,0 +1,47 @@
+T1	Person 0 14;15 23	Duderik Wouter Gempezel
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	Organization 147 167	Edele Hooge Regering
+T3	Person 235 241	slaven
+A4	Gender T3 Group
+A5	LegalStatus T3 Enslaved
+T4	Person 726 743	Cornelis Jacobsz:
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+T5	Person 747 762	Sjia Beengseing
+A10	Gender T5 Unspecified
+A11	LegalStatus T5 Unspecified
+T6	ProperName 726 742	Cornelis Jacobsz
+T7	ProperName 747 762	Sjia Beengseing
+T8	Person 922 938	N: Maas, Notaris
+A13	Gender T8 Man
+A14	LegalStatus T8 Unspecified
+T9	ProperName 922 929	N: Maas
+T10	ProperName 1096 1103	Batavia
+T11	Place 1096 1103	Batavia
+T12	Organization 1109 1118	weeskamer
+T13	Person 1164 1173	W: Kraane
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+T14	ProperName 1164 1173	W: Kraane
+T15	Person 1278 1312;1313 1328	Nicolaas van Bergen van der Prijp„ notaris publicq
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+T16	ProperName 1278 1311	Nicolaas van Bergen van der Prijp
+T17	Organization 1337 1382	Edele Hooge Reegeringe, van Neederlands India
+T18	Place 1343 1382	Hooge Reegeringe, van Neederlands India
+T19	Place 1410 1417	Batavia
+T20	ProperName 1410 1417	Batavia
+T21	Person 1475 1498	Biderik wouter Tempezel
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+T22	ProperName 1475 1498	Biderik wouter Tempezel
+T23	Place 1552 1580	oost zijde van teijgersgragt
+A3	Role T1 Testator
+A6	Role T3 Other
+A9	Role T4 Witness
+A12	Role T5 Witness
+A15	Role T8 Notary
+A18	Role T13 Other
+A21	Role T15 Notary
+A24	Role T21 Witness

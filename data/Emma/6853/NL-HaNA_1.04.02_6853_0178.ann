@@ -1,0 +1,20 @@
+T1	Organization 243 258;259 288	t Eerwaerde Cof „gie van heeren weesmaesteren
+T4	Place 814 833	ter Camer Amsterdam
+T5	ProperName 824 833	Amsterdam
+T6	Person 1595 1619;1620 1628	Christiaan Faek van Mida mattroos
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	Person 1632 1681;1682 1714	Andreas fredrik Matthijsz: van lubeck soldaat bij ten dienste voors: als getuijgen
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1632 1669	Andreas fredrik Matthijsz: van lubeck
+T9	ProperName 1595 1619	Christiaan Faek van Mida
+T10	Person 1814 1840	Ioan van der Voort Notaris
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	ProperName 1814 1832	Ioan van der Voort
+T12	Organization 779 789;790 833	der g'octi „de oost Jndische Comp: ter Camer Amsterdam
+T2	ProperName 779 789;790 833	der g'octi „de oost Jndische Comp: ter Camer Amsterdam

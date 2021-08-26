@@ -1,0 +1,10 @@
+T1	ProperName 1197 1222	Hermanus Abraham Simonsz:
+T2	ProperName 1226 1238	soseph Moses
+T3	Person 1197 1221	Hermanus Abraham Simonsz
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	Person 1226 1238	soseph Moses
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness

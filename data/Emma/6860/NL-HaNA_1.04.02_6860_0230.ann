@@ -1,0 +1,23 @@
+T1	DuplicatePage 0 6	teegen
+T2	TranscriptionError_Document 17 23	Ordres
+T3	Organization 7 16	s' Comp:s
+T4	ProperName 7 16	s' Comp:s
+T5	Person 325 347	J: G: Helmke Sireteris
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 325 337	J: G: Helmke
+T7	Person 485 492	slaaven
+A4	Gender T7 Group
+A5	LegalStatus T7 Enslaved
+A6	Role T7 Other
+T8	Person 496 505	Slavinnen
+A7	Gender T8 Group
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Place 1092 1098	Holl„s
+T10	ProperName 1092 1098	Holl„s
+T11	Place 1615 1631	ter steede Batav
+T12	ProperName 1626 1631	Batav
+T13	Place 1674 1680	Holl„s
+T14	ProperName 1674 1680	Holl„s

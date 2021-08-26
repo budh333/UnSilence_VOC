@@ -1,0 +1,9 @@
+T9	Person 826 849;850 873	moeder mejuffrouw Eliza beth van 'S Gravenweerd
+A22	Gender T9 Woman
+A23	LegalStatus T9 Unspecified
+T10	ProperName 844 849;850 873	Eliza beth van 'S Gravenweerd
+T11	Place 888 894	zeedan
+T5	Organization 1655 1663;1664 1688	Collegie van heeren Weesmeesteren
+T16	ProperName 1655 1663;1664 1688	Collegie van heeren Weesmeesteren
+A1	Role T9 Testator
+T1	ProperName 888 894	zeedan

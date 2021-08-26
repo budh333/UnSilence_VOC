@@ -1,0 +1,24 @@
+T1	Place 3 21	Capo de Goede Hoop
+T2	ProperName 3 21	Capo de Goede Hoop
+T3	Person 102 117	Heer J. G. Bode
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 107 117	J. G. Bode
+T5	Place 573 588	Canton in China
+T6	ProperName 573 588	Canton in China
+T7	Person 735 751	Jurriaan Pieters
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 735 751	Jurriaan Pieters
+T9	ProperName 900 905	Johan
+T10	Person 900 905	Johan
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	Person 1012 1023	C: Rijnnagh
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1012 1023	C: Rijnnagh

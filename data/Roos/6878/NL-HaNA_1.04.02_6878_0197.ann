@@ -1,0 +1,50 @@
+T1	TranscriptionError_Document 1 2	„
+T2	Place 10 17	Zeelant
+T3	ProperName 10 17	Zeelant
+T5	ProperName 466 483	I: I: Hoogkerchen
+T6	Place 551 564	Moara Tanjong
+T7	ProperName 557 564	Tanjong
+T8	Person 566 582;583 589	D' Heer Hermanus Worrel
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 574 582;583 589	Hermanus Worrel
+T12	ProperName 1010 1023	Dirk Stolting
+T13	Place 1044 1050	padang
+T14	ProperName 1044 1050	padang
+T15	Organization 1332 1344	d: E: Comp„e
+T17	ProperName 1636 1651	Ian Boudewinsz:
+T18	Place 1679 1691	Aijerbangies
+T19	ProperName 1679 1691	Aijerbangies
+T21	ProperName 1695 1708	Dirk stolting
+T22	Place 1727 1733	padang
+T23	ProperName 1727 1733	padang
+T24	Person 1742 1750;1751 1759	Iuffrouw Christia
+A16	Gender T24 Woman
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Other
+T25	ProperName 1751 1759	Christia
+T26	Person 1849 1855	gerrit
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Other
+T27	ProperName 1849 1855	gerrit
+T28	Noteworthy 551 564	Moara Tanjong
+#2	AnnotatorNotes T28	river
+T4	Person 466 483	I: I: Hoogkerchen
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T11	Person 1005 1023	Heer Dirk Stolting
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Beneficiary
+T16	Person 1629 1651	Heeren Ian Boudewinsz:
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T20	Person 1695 1708	Dirk stolting
+A13	Gender T20 Man
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Other
+A22	Beneficiary T15 No

@@ -1,0 +1,12 @@
+T1	DuplicatePage 174 177	den
+T2	TranscriptionError_Document 178 186	Catheter
+T3	Person 432 443	F„ Ceijsler
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 432 443	F„ Ceijsler
+T5	Person 448 458	J: Plusker
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 448 458	J: Plusker

@@ -1,0 +1,24 @@
+T1	Place 719 724;725 737	Cabo. de Goedehoop
+T2	ProperName 719 724;725 737	Cabo. de Goedehoop
+T3	Place 687 714	ter Justitieele Secretarije
+T4	ProperName 805 823;824 836	Johannes hendricus Plankenbergh
+T5	Person 805 823;824 836	Johannes hendricus Plankenbergh
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 839 866	Joachim Nicolaas van dessen
+T7	Person 839 866	Joachim Nicolaas van dessen
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	Place 1124 1143	ten zoldij Comptoir
+T9	ProperName 1154 1162	DP Ailli
+T10	Person 1154 1162	DP Ailli
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	Person 1071 1095	de Grandpreez secretaris
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 1071 1084	de Grandpreez

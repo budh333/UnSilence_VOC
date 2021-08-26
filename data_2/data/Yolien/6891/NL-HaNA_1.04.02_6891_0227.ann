@@ -1,0 +1,17 @@
+T1	TranscriptionError_Document 0 1	5
+T2	ProperName 62 75	Jan Timmerman
+T3	Person 62 75	Jan Timmerman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Place 92 111	t schip „ Landhorst
+T5	ProperName 102 111	Landhorst
+T6	Place 137 146	vaderland
+T7	Person 196 217	Herenin= Cristiaen pu
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 205 218	Cristiaen put
+T9	Place 245 258	nederl= Jndia
+T10	ProperName 245 258	nederl= Jndia
+T11	DuplicatePage 391 395	1775

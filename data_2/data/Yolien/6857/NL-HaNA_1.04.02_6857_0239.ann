@@ -1,0 +1,96 @@
+T1	ProperName 111 127	Willem de Vijfde
+T2	Noteworthy 111 127	Willem de Vijfde
+#1	AnnotatorNotes T2	Schip
+T3	Person 59 67	hoogland
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 59 67	hoogland
+T5	ProperName 106 110	Dirk
+T6	Person 106 110	Dirk
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	Person 190 207	Jan Nicolaas Mark
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 190 207	Jan Nicolaas Mark
+T9	Person 240 255	Castor Hendriks
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 240 255	Castor Hendriks
+T11	Person 309 320	Claas Koorn
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	ProperName 309 320	Claas Koorn
+T13	Person 365 377	Willem Claas
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Beneficiary
+T14	ProperName 365 377	Willem Claas
+T15	Person 400 411	Jan Le ducq
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Beneficiary
+T16	ProperName 400 411	Jan Le ducq
+T17	ProperName 456 471	Cactor hendriks
+T18	Person 456 471	Cactor hendriks
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Beneficiary
+T19	ProperName 506 520	Pieter Hissing
+T20	Person 506 520	Pieter Hissing
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Beneficiary
+T21	Person 549 561	Vel thuijzen
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Beneficiary
+T22	ProperName 549 561	Vel thuijzen
+T23	Person 638 654	Berries Scheuder
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Beneficiary
+T24	ProperName 638 654	Berries Scheuder
+T25	ProperName 700 710	van Amstel
+T26	ProperName 744 750	Visser
+T27	Person 818 828	Jan leducq
+A34	Gender T27 Unspecified
+A35	LegalStatus T27 Unspecified
+A36	Role T27 Beneficiary
+T28	ProperName 818 828	Jan leducq
+T29	Person 877 892	Castor Hendriks
+A37	Gender T29 Unspecified
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Beneficiary
+T30	ProperName 877 892	Castor Hendriks
+T31	Person 1067 1080;1081 1087	S: H Rijnnagh Vendum
+A40	Gender T31 Unspecified
+A41	LegalStatus T31 Unspecified
+A42	Role T31 Other
+T32	ProperName 1072 1080;1081 1087	Rijnnagh Vendum
+T33	Person 1089 1102	WV Limminglon
+A43	Gender T33 Unspecified
+A44	LegalStatus T33 Unspecified
+A45	Role T33 Other
+T34	ProperName 1092 1102	Limminglon
+#2	AnnotatorNotes T34	Hummington
+T35	Organization 1215 1219	Comp
+T36	Organization 1241 1271	Neederlandsche Factorij Canton
+T37	ProperName 1256 1271	Factorij Canton
+T38	Place 1275 1280	China
+T39	ProperName 1275 1280	China
+T40	Person 1328 1341	J: H Rijnnagh
+A46	Gender T40 Unspecified
+A47	LegalStatus T40 Unspecified
+A48	Role T40 Other
+T41	ProperName 1333 1341	Rijnnagh
+T42	Person 1344 1357	CGJ Bemmingto
+A49	Gender T42 Unspecified
+A50	LegalStatus T42 Unspecified
+A51	Role T42 Notary
+T43	ProperName 1348 1358	Bemmington

@@ -1,0 +1,34 @@
+T1	DuplicatePage 0 10	Eerstelijk
+T2	Organization 15 37;38 50	de diaconijs armen van wester broek
+A1	Beneficiary T2 Yes
+T3	ProperName 211 226	Jan HendrixCont
+T4	ProperName 248 264	Cornelis ameling
+T5	ProperName 228 232;233 243	hen„ drik Jansz
+T6	Person 211 226	Jan HendrixCont
+A2	Gender T6 Man
+A3	LegalStatus T6 Unspecified
+A4	Role T6 Other
+T7	Person 228 232;233 243	hen„ drik Jansz
+A5	Gender T7 Man
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Other
+T8	Person 248 264	Cornelis ameling
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Other
+T9	ProperName 318 327	d’ EE= om
+T10	Organization 318 327	d’ EE= om
+A11	Beneficiary T10 No
+T11	Person 409 416;417 427	broeder Simon Dirx
+A12	Gender T11 Man
+A13	LegalStatus T11 Unspecified
+A14	Role T11 Beneficiary
+T12	ProperName 417 427	Simon Dirx
+T13	Organization 452 458	EComp:
+A15	Beneficiary T13 No
+T14	ProperName 452 458	EComp:
+T15	ProperName 824 829	Maria
+T16	Person 824 829	Maria
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Beneficiary

@@ -1,0 +1,18 @@
+T1	Place 355 368;369 376	te Houglij in Bengale
+T2	ProperName 358 365	Houglij
+T3	ProperName 369 376	Bengale
+T4	Person 395 403;404 421	Harmanus Bloemink Juniorsz
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 395 403;404 421	Harmanus Bloemink Juniorsz
+T6	Person 424 437;438 441	Johannes Mul„ ler
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 424 437;438 441	Johannes Mul„ ler
+T8	Person 738 752	J„o van Nierop
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	ProperName 738 752	J„o van Nierop

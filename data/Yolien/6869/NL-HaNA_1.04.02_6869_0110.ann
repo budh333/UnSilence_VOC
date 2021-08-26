@@ -1,0 +1,28 @@
+T1	TranscriptionError_Document 0 1	G
+T2	DuplicatePage 2 11	Laastelyk
+T3	ProperName 105 124	Tolkert vonder Leij
+T4	Person 105 124	Tolkert vonder Leij
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 157 177	Egbert Arend Dewelde
+T6	Person 157 177	Egbert Arend Dewelde
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Organization 300 304	Comp
+T8	Person 638 649	W=m Kerkman
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 642 649	Kerkman
+T10	ProperName 762 769;770 796	Fredrik Christoffel van Stralendom
+T11	Person 762 769;770 796	Fredrik Christoffel van Stralendom
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 872 882	Vander Lij
+T13	Person 872 881	Vander Li
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other

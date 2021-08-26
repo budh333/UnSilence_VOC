@@ -1,0 +1,27 @@
+T1	ProperName 0 16	Jan Iurgen Prick
+T2	Person 0 16	Jan Iurgen Prick
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	Place 144 158	ter secretarij
+T4	ProperName 102 109;110 123	Philip„ pus Hodenpijl
+T5	Person 102 109;110 123	Philip„ pus Hodenpijl
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	Place 232 246	ten woonhuijse
+T7	ProperName 270 284	Philip Paijrak
+T8	Person 270 284	Philip Paijrak
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 335 351	Jan Jurgen friek
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 335 351	Jan Jurgen friek
+T11	ProperName 1662 1679	Jan fredriek Cool
+T12	Person 1662 1679	Jan fredriek Cool
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary

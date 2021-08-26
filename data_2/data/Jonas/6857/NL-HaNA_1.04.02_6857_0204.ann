@@ -1,0 +1,27 @@
+T1	Place 56 99;100 109	binnen destad Cochim, ten woonhuijse van de testateur
+T2	ProperName 70 76	Cochim
+T3	Person 179 205	Johannes Coenraad dekrouse
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 179 205	Johannes Coenraad dekrouse
+T5	Person 210 224	Johannes Wolff
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 210 224	Johannes Wolff
+T7	Organization 400 413;414 439	oost Indische Comp: ter kamer Amsterdam
+T8	Place 424 439	kamer Amsterdam
+T9	ProperName 430 439	Amsterdam
+T10	Person 603 606;607 617	Ian van Leijst
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	Person 631 646	Fredrik Bannier
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 603 606;607 617	Ian van Leijst
+T13	ProperName 631 646	Fredrik Bannier
+T14	Place 697 712	dezen Comptoire
+T15	Place 1102 1134	alwaar sijn testateur sterfhuijs

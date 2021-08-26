@@ -1,0 +1,13 @@
+T1	ProperName 209 219	Pieter Bos
+T2	Person 209 219	Pieter Bos
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 441 446	sComp
+T4	Organization 441 446	sComp
+A4	Beneficiary T4 No
+T5	ProperName 552 561	Maccasser
+T6	ProperName 564 582	tCasteel Rotterdam
+T7	Place 564 582	tCasteel Rotterdam
+T8	Place 552 561	Maccasser
+T9	DuplicatePage 0 3	den

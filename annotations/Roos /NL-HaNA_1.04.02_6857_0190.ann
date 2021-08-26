@@ -1,0 +1,54 @@
+T1	Person 662 674;675 680;681 689	dE Zacharias 30. — L Honore
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 665 674;675 680;681 689	Zacharias 30. — L Honore
+T3	Person 721 750;751 757	olij Boenko Capitain der Chi= „nesen
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 721 732	olij Boenko
+T5	Person 784 796	Gutta Gamber
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 784 796	Gutta Gamber
+T7	Person 870 880	fokkenberg
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 870 880	fokkenberg
+T9	Person 1045 1052	Sommard
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 1045 1052	Sommard
+T11	Place 1053 1061	Cheribon
+T12	ProperName 1053 1061	Cheribon
+T13	Place 1124 1132	Cheribon
+T14	ProperName 1124 1132	Cheribon
+T15	Person 1180 1190	P:r Hersto
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 1180 1190	P:r Hersto
+T17	Person 1258 1268	V:n Zeijst
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Witness
+T18	ProperName 1258 1268	V:n Zeijst
+T19	Person 1270 1280	W: Beukers
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Witness
+T20	ProperName 1270 1280	W: Beukers
+T21	Person 1293 1300	Serstad
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
+T22	ProperName 1293 1300	Serstad
+T23	Noteworthy 1180 1190;1191 1203	P:r Hersto Gesw: scriba
+#1	AnnotatorNotes T23	Scriba acting as notary
+T24	Noteworthy 1293 1300;1301 1313	Serstad Gesr: Scriba
+#2	AnnotatorNotes T24	Scriba acting as notary
+T25	TranscriptionError_Document 0 1	_

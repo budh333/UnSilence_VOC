@@ -1,0 +1,30 @@
+T1	TranscriptionError_Document 19 25	Leesen
+T2	Place 73 83	Sourabaija
+T3	ProperName 73 83	Sourabaija
+T4	ProperName 152 175	Christiaan Ernst Eckard
+T5	Person 152 175	Christiaan Ernst Eckard
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 213 239;240 248	Juffrouw Maria Johanna van Tongeren
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 222 239;240 248	Maria Johanna van Tongeren
+T8	Person 399 408;409 414	Jan Jacob Boonh
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	ProperName 399 408;409 414	Jan Jacob Boonh
+T10	ProperName 497 521	Christiaan Ernst Eckardt
+T11	Person 497 521	Christiaan Ernst Eckardt
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	Place 569 575;576 597	Javaas oosthoek van Beltzig,
+T13	ProperName 589 596	Beltzig
+T14	Person 601 603;604 626;627 640	Me Juffrouw Maria Johanna van Tongheren
+A13	Gender T14 Woman
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator
+T15	ProperName 613 626;627 640	Maria Johanna van Tongheren

@@ -1,0 +1,59 @@
+T1	Person 14 34	Jan Christiaa Malsch
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 14 34	Jan Christiaa Malsch
+T3	Person 90 114	Iacobus Wijnand brengman
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	TranscriptionError_Document 0 4	Amst
+T5	Person 115 135	Gosen van der Meulen
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 115 135	Gosen van der Meulen
+T7	Person 188 215;216 223	M:r Joan van der voortnot=s publicq
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Notary
+T8	ProperName 192 210	Joan van der voort
+T9	Organization 228 273	de Edele hooge regeringe van nnderlands Jndia
+T10	ProperName 231 273	Edele hooge regeringe van nnderlands Jndia
+T11	Place 257 273	nnderlands Jndia
+T12	ProperName 257 273	nnderlands Jndia
+T13	Place 293 305	stad batavia
+T14	ProperName 298 305	batavia
+T15	Person 318 333	Andrigs Linstel
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Testator
+T17	Person 386 414;415 430	Guilliam Gerard Franchimont, notaris publicq
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Notary
+T18	ProperName 386 413	Guilliam Gerard Franchimont
+T19	Organization 437 465;466 482	de Edele hooge regeringe van nederlands India
+T20	ProperName 440 465;466 482	Edele hooge regeringe van nederlands India
+T22	ProperName 466 482	nederlands India
+T21	Place 466 482	nederlands India
+T23	Place 496 515	binnen de stad bata
+T24	Place 516 519	via
+T25	ProperName 511 515;516 519	bata via
+T16	ProperName 318 333	Andrigs Linstel
+T26	Person 579 594	Andries Linstel
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Testator
+T27	ProperName 579 594	Andries Linstel
+T28	Place 599 607	stokholm
+T29	ProperName 599 607	stokholm
+T30	Organization 637 642	EComp
+T31	Person 1017 1036	Ian Godfried Croese
+A22	Gender T31 Man
+A23	LegalStatus T31 Unspecified
+A24	Role T31 Beneficiary
+T32	ProperName 1017 1036	Ian Godfried Croese
+T33	Organization 1247 1270;1271 1289	oost indische Compagnie tn namer Amsterdam
+T34	Place 1274 1289	namer Amsterdam
+T35	ProperName 1280 1289	Amsterdam

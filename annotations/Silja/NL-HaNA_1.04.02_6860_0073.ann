@@ -1,0 +1,29 @@
+T1	DuplicatePage 1 11	Inventaris
+T2	Organization 55 64	d' EComp:
+A1	Beneficiary T2 No
+T3	ProperName 55 64	d' EComp:
+T4	ProperName 105 119;84 97	van Swalenland Johannes otto
+T5	Person 105 119;84 97	van Swalenland Johannes otto
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Other
+T6	Person 342 348	slaven
+A5	Gender T6 Group
+A6	LegalStatus T6 Enslaved
+A7	Role T6 Other
+T7	Person 352 361	slavinnen
+A8	Gender T7 Group
+A9	LegalStatus T7 Enslaved
+A10	Role T7 Other
+T8	Organization 406 416	d’ E Comp:
+A11	Beneficiary T8 No
+T9	ProperName 406 416	d’ E Comp:
+T10	Organization 678 686;687 727	het Eer„ waarde Collegie van Heeren Weesmeesteren
+A12	Beneficiary T10 No
+T11	Organization 1111 1148;1149 1168	Generale Nederlandsche g Octroijeerde Oost Indische Comp:
+A13	Beneficiary T11 No
+T12	ProperName 1111 1148;1149 1168	Generale Nederlandsche g Octroijeerde Oost Indische Comp:
+T13	Place 1173 1188	Camer Amsterdam
+T14	ProperName 1179 1188	Amsterdam
+T15	ProperName 1238 1246	samarang
+T16	Place 1238 1246	samarang

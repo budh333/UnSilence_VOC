@@ -1,0 +1,61 @@
+T1	Person 109 136	Leendert Rolff nots:) publ:
+A1	Notary T1 Yes
+T3	Organization 144 186	Edele hooge regeering van nederlands Jndia
+T4	ProperName 150 186	hooge regeering van nederlands Jndia
+T5	Place 170 186	nederlands Jndia
+T6	ProperName 170 186	nederlands Jndia
+T7	Place 204 226	buijten destad Batavia
+T8	ProperName 219 226	Batavia
+T9	Person 287 306;307 314	D'E: Godofridus Van Ruijven
+A2	Gender T9 Man
+A3	LegalStatus T9 Unspecified
+A4	Notary T9 No
+T10	ProperName 292 306;307 314	Godofridus Van Ruijven
+T11	Organization 945 970	hooge jndiasche regeering
+T12	Person 1075 1114	slaaf galang van boele Combe en bontamn
+A5	Gender T12 Man
+A6	LegalStatus T12 Enslaved
+A7	Notary T12 No
+T13	ProperName 1081 1114	galang van boele Combe en bontamn
+T14	Person 1184 1222	heer Jeronimus Christoffel van Ruijven
+A8	Gender T14 Man
+A9	LegalStatus T14 Unspecified
+A10	Notary T14 No
+T15	Place 1237 1244	aarnhem
+T16	ProperName 1237 1244	aarnhem
+T17	Place 1298 1304	Europa
+T18	ProperName 1298 1304	Europa
+T19	Person 1419 1426	broeder
+A11	Gender T19 Man
+T20	Person 1172 1179	broeder
+A12	Gender T20 Man
+T21	Person 1612 1618	moeder
+A13	Gender T21 Woman
+A14	LegalStatus T21 Unspecified
+A15	Notary T21 No
+T22	Person 1660 1667	Pandang
+A16	Gender T22 Woman
+A17	LegalStatus T22 Freed
+A18	Notary T22 No
+T23	ProperName 1660 1667	Pandang
+T24	Person 1676 1724;1725 1730	Diana van boele Combe en bontam Vrije onchristen Vrouw
+A19	Gender T24 Woman
+A20	LegalStatus T24 Freed
+A21	Notary T24 No
+T25	ProperName 1676 1707	Diana van boele Combe en bontam
+T26	Person 1708 1724;1725 1730	Vrije onchristen Vrouw
+A22	Gender T26 Woman
+A23	LegalStatus T26 Enslaved
+A24	Notary T26 No
+A25	Gender T1 Man
+A26	LegalStatus T1 Unspecified
+T2	Person 2 23	Godofridus van Ruyven
+T28	ProperName 2 23	Godofridus van Ruyven
+A27	Gender T2 Unspecified
+A28	LegalStatus T2 Unspecified
+A29	Notary T2 No
+A30	LegalStatus T19 Unspecified
+A31	Notary T19 No
+A32	LegalStatus T20 Unspecified
+A33	Notary T20 No
+T27	ProperName 109 123	Leendert Rolff

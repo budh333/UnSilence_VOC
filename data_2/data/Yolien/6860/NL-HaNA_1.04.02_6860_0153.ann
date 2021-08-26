@@ -1,0 +1,25 @@
+T1	TranscriptionError_Document 0 5	Alsoo
+T2	Person 153 162;163 181	Christene vrouw Maria Helena
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 169 181	Maria Helena
+T4	ProperName 207 223	Maria Magdalenaf
+T5	Person 207 223	Maria Magdalenaf
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 248 266	Jan Martijj Vrolig
+T7	Person 248 266	Jan Martijj Vrolig
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Organization 691 695	Comp
+T9	Organization 786 800;801 841	Heeren Bewind„ „hebberen der Generaale oostjndise Comp„
+T10	ProperName 786 800;801 841	Heeren Bewind„ „hebberen der Generaale oostjndise Comp„
+T11	ProperName 853 862	amsterdam
+T12	Place 853 862	amsterdam
+T13	Place 904 922	schip de Baarsande
+T14	ProperName 910 922	de Baarsande
+T15	Place 945 950	jndia
+T16	ProperName 945 950	jndia

@@ -1,0 +1,33 @@
+T1	Place 820 827	Malacca
+T2	ProperName 820 827	Malacca
+T3	Place 847 861	ten woonluijse
+T4	ProperName 901 914	Ioannes Camel
+T5	Person 901 914	Ioannes Camel
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 918 934;935 942	Johannes Anthond Abraham
+T7	Person 918 934;935 942	Johannes Anthond Abraham
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1128 1141	J: E:V: Lucam
+T9	Person 1128 1141	J: E:V: Lucam
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	Place 1253 1266	Gouvernements
+T11	Person 1202 1224	Heen Tnancois Trierens
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1207 1224	Tnancois Trierens
+T13	Organization 1292 1322	t enwaarde Colleeie van Heeren
+A13	Beneficiary T13 No
+T14	ProperName 1422 1429	Malacca
+T15	Place 1422 1429	Malacca
+T16	ProperName 1470 1475;1476 1485	J: W: Pavenaris
+T17	Person 1470 1475;1476 1485	J: W: Pavenaris
+A14	Gender T17 Unspecified
+A15	LegalStatus T17 Unspecified
+A16	Role T17 Other

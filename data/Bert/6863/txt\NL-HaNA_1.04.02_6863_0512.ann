@@ -1,0 +1,20 @@
+T1	Person 73 96	Frertrik Willem Wissent
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 73 96	Frertrik Willem Wissent
+T3	Person 97 123	Rudolph Philip van Heijden
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 97 123	Rudolph Philip van Heijden
+T5	Person 261 275	Fredrik Wieman
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 261 275	Fredrik Wieman
+T7	Person 319 330	S: H Guerin
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 319 330	S: H Guerin

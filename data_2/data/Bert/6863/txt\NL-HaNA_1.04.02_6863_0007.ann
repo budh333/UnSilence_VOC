@@ -1,0 +1,18 @@
+T1	Person 472 491;492 493;494 502	Johannes Franciscus m Gratiaan
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 472 491;492 493;494 502	Johannes Franciscus m Gratiaan
+T3	Person 596 614	Jan Andries hilker
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 596 614	Jan Andries hilker
+T5	Place 632 651	kirchem in turingen
+T6	ProperName 632 639	kirchem
+T7	ProperName 643 651	turingen
+T8	Person 669 683	Christina Ioan
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator_Beneficiary
+T9	ProperName 669 683	Christina Ioan

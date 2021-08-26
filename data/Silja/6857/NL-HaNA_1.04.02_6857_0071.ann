@@ -1,0 +1,50 @@
+T1	Place 3 21	Cabo de Goede Hoop
+T2	ProperName 3 21	Cabo de Goede Hoop
+T3	Person 102 117	Heer J. G. Bode
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 107 117	J. G. Bode
+T5	Person 699 718	de Heer C. A. Haupt
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 707 718	C. A. Haupt
+T7	Person 722 736	H. P. Warnecke
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 722 736	H. P. Warnecke
+T9	Place 815 824	Amsterdam
+T10	ProperName 815 824	Amsterdam
+T11	Person 886 897	C. D. Sertz
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 886 897	C. D. Sertz
+T13	Person 906 917	J. F. Rosyn
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 906 917	J. F. Rosyn
+T15	Person 957 974	d’ heer J G. Bode
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 965 974	J G. Bode
+T17	Person 1053 1064;1065 1072	M Nolthenus secret:
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 1053 1064	M Nolthenus
+T19	ProperName 1097 1102	Johan
+T20	Person 1097 1102	Johan
+A22	Gender T20 Unspecified
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Other
+T21	Person 1209 1220	C: Rijnnagh
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
+T22	ProperName 1209 1220	C: Rijnnagh
+T23	DuplicatePage 0 2	ee

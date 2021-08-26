@@ -1,0 +1,41 @@
+T1	Organization 146 155	Weeskamer
+T2	Person 205 214;215 222	g'Emanci„ peerden
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Freed
+T3	Person 465 481	Anna Neffas, wed
+A3	Gender T3 Woman
+A4	LegalStatus T3 Unspecified
+A5	Role T3 Beneficiary
+T4	ProperName 465 476	Anna Neffas
+T5	Place 491 497	Cochim
+T6	ProperName 491 497	Cochim
+T7	Person 608 627	Pieternel Hesseling
+A6	Gender T7 Woman
+A7	LegalStatus T7 Unspecified
+A8	Role T7 Beneficiary
+T8	ProperName 608 627	Pieternel Hesseling
+T9	Person 638 654	zabeth Hesseling
+A9	Gender T9 Woman
+A10	LegalStatus T9 Unspecified
+A11	Role T9 Beneficiary
+T10	ProperName 638 654	zabeth Hesseling
+T11	Person 658 666	Zoontsje
+A12	Gender T11 Man
+A13	LegalStatus T11 Unspecified
+T12	Person 703 715	Diederik Pas
+A14	Gender T12 Man
+A15	LegalStatus T12 Unspecified
+T13	ProperName 703 715	Diederik Pas
+T14	Person 720 731	Anna Neffas
+A16	Gender T14 Woman
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Beneficiary
+T15	Person 772 789	Samuel Barend Das
+A19	Gender T15 Man
+A20	Role T15 Beneficiary
+T16	ProperName 772 789	Samuel Barend Das
+T17	ProperName 720 731	Anna Neffas
+T18	Person 799 808	doop kind
+A21	Gender T18 Unspecified
+A22	LegalStatus T18 Unspecified
+T19	Organization 1771 1781	SE: Comp:s

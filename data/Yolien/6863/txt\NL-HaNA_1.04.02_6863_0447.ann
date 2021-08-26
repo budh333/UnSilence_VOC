@@ -1,0 +1,12 @@
+T1	Person 86 101	Jan Jacob Meyer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 86 101	Jan Jacob Meyer
+T3	ProperName 102 118	Jan Iacob meijer
+T4	Person 102 119	Jan Iacob meijer;
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 645 651	Muller
+T6	DuplicatePage 645 651	Muller

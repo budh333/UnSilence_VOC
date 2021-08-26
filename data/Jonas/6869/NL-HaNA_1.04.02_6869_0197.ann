@@ -1,0 +1,28 @@
+T1	Person 150 158;159 160;161 175	Nicolaus „ Brahe, Notaris
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 150 158;159 160;161 166	Nicolaus „ Brahe
+T3	Organization 184 204;205 209	Edele Hovve van hol„ land
+T4	ProperName 184 204;205 209	Edele Hovve van hol„ land
+T5	Place 196 204;205 209	van hol„ land
+T6	ProperName 200 204;205 209	hol„ land
+T7	Place 224 236	te Amsterdam
+T8	ProperName 227 236	Amsterdam
+T9	Person 294 307	De. E Jan Mus
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 300 307	Jan Mus
+T11	Place 318 333;334 349	alhier, staande op zijn vertrek
+T12	Organization 383 409	het oostindisch Compagnies
+T13	Place 431 449	naar d’ oostindien
+T14	ProperName 439 449	oostindien
+T17	Place 595 601;602 612	binnen deese stad
+T15	Organization 546 558;559 583	d’ Heeren de weduwe Iacob Bethen zoon
+T18	Organization 796 820	weduwe Iacob Meth en Zon
+T19	Organization 1304 1331;1332 1339	Heeren d’ weduwe Iacob Beth en zoon
+T20	ProperName 1304 1331;1332 1339	Heeren d’ weduwe Iacob Beth en zoon
+T16	ProperName 549 558;559 583	Heeren de weduwe Iacob Bethen zoon
+T21	Place 1497 1510	hier te lande
+T22	TranscriptionError_Document 0 5	unnen

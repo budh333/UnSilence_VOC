@@ -1,0 +1,53 @@
+T1	Person 38 45;46 60	Ncolaas Cornelis Frans
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 38 45;46 60	Ncolaas Cornelis Frans
+T3	Person 83 92	Rorstomer
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 83 92	Rorstomer
+T5	Place 148 165;166 174	ten gouvernemente Samarang
+T6	ProperName 166 174	Samarang
+T7	Place 291 298	sumanap
+T8	ProperName 291 298	sumanap
+T9	Person 299 326	Maximeliaan Lambertus Paure
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 299 326	Maximeliaan Lambertus Paure
+T11	Person 330 361	ejuff„r Cornelia van der Dussen
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 338 361	Cornelia van der Dussen
+T13	Person 474 494	Nicolaas C„s Fransz:
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Acting_Notary
+T14	ProperName 474 494	Nicolaas C„s Fransz:
+T15	Organization 600 609	s Ecomp„s
+A16	Beneficiary T15 No
+T16	Person 923 934	W„m Kerkman
+A17	Gender T16 Unspecified
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Other
+T17	ProperName 923 934	W„m Kerkman
+T18	Place 1003 1011	samarang
+T19	ProperName 1003 1011	samarang
+T20	Person 1048 1060	C„ De graaff
+A20	Gender T20 Unspecified
+A21	LegalStatus T20 Unspecified
+A22	Role T20 Other
+T21	ProperName 1048 1060	C„ De graaff
+T22	Person 1114 1139	Andrices Hartsinck Junion
+A23	Gender T22 Man
+A24	LegalStatus T22 Unspecified
+A25	Role T22 Other
+T23	ProperName 1114 1139	Andrices Hartsinck Junion
+T24	Person 1151 1161	Lorfhouwer
+A26	Gender T24 Unspecified
+A27	LegalStatus T24 Unspecified
+A28	Role T24 Other
+T25	ProperName 1151 1161	Lorfhouwer

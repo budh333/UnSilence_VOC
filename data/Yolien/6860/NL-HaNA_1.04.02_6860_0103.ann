@@ -1,0 +1,44 @@
+T1	TranscriptionError_Document 0 1	5
+T2	Organization 61 65	Comp
+T3	ProperName 67 75	JMepoort
+T4	Person 67 75	JMepoort
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	Person 157 177	Soldaat Frans Langer
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 165 177	Frans Langer
+T7	ProperName 223 230;231 235	Hendrik Rogh
+T8	Person 223 230;231 235	Hendrik Rogh
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 237 252	Bernhard Leewen
+T10	Person 237 252	Bernhard Leewen
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Witness
+T15	ProperName 310 323	Paulus Philip
+T16	Person 310 323	Paulus Philip
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 462 480	Johan godloff Kamp
+T18	Person 462 480	Johan godloff Kamp
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Testator
+T19	ProperName 530 540	Sourabaija
+T20	Place 530 540	Sourabaija
+T12	ProperName 253 278;279 283	Johan Jacob Hendrik Tuur„ Kamp
+T11	Person 253 278;279 283	Johan Jacob Hendrik Tuur„ Kamp
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Witness
+T13	ProperName 187 199	Van Allemuts
+T14	Person 187 199	Van Allemuts
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Testator

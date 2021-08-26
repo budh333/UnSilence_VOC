@@ -1,0 +1,55 @@
+T2	ProperName 226 233	Batavia
+T1	Place 219 233	destad Batavia
+T3	Person 306 310;311 325	Heer Hendrik Mulder
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 311 325	Hendrik Mulder
+T5	ProperName 359 368	E: Comp:e
+T6	Organization 359 368	E: Comp:e
+T7	Person 372 391	Mejufrouw Anna Kemp
+A4	Gender T7 Woman
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 382 391	Anna Kemp
+T9	Person 84 101;102 115	Andries Ian Balle notaris publ:
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 84 101	Andries Ian Balle
+T11	ProperName 0 15	Henderik Mulder
+T12	Person 0 15	Henderik Mulder
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	Place 1344 1353	amsterdam
+T14	ProperName 1344 1353	amsterdam
+T15	Organization 1296 1305;1306 1333	geoetroi„ „eerde oost, indische Comp:
+T16	ProperName 1296 1305;1306 1333	geoetroi„ „eerde oost, indische Comp:
+T17	Person 1705 1706;1706 1709;1710 1722	A bra ham Pacomuns
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Witness
+T18	ProperName 1705 1709;1710 1722	Abra ham Pacomuns
+T19	ProperName 1726 1739;1740 1748	Sijmon Paulus Molencus
+T20	Person 1726 1739;1740 1748	Sijmon Paulus Molencus
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Witness
+T21	Person 1925 1944	Egbert Plaert nots:
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Notary
+T22	DuplicatePage 0 8	Henderik
+T23	ProperName 125 148	Edelenhoove van holland
+T24	Organization 125 148	Edelenhoove van holland
+T25	ProperName 152 160;161 198	de Edele hooge regeeringe van Nederlands India
+T26	ProperName 182 198	Nederlands India
+T27	Place 182 198	Nederlands India
+T28	Organization 152 160;161 198	de Edele hooge regeeringe van Nederlands India
+T29	Place 141 148	holland
+T30	ProperName 141 148	holland
+A22	Beneficiary T24 No
+A23	Beneficiary T28 No
+A24	Beneficiary T6 No
+A25	Beneficiary T15 No

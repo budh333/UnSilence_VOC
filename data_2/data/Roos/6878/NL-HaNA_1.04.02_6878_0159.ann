@@ -1,0 +1,19 @@
+T1	Place 1018 1047;1048 1059	te Houglij N„s hooft Comploir in Bengalen
+T2	ProperName 1021 1028	Houglij
+T3	ProperName 1051 1059	Bengalen
+T4	Person 1095 1112	Cornelis Brengman
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 1095 1112	Cornelis Brengman
+T7	ProperName 1117 1130	Jan van Hoorn
+T8	Person 1379 1394;1395 1400;1401 1407	Jacob Eilbracht E: g: Clercq
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+#1	AnnotatorNotes T8	clercq acting as notary
+T9	ProperName 1379 1394	Jacob Eilbracht
+T6	Person 1117 1141	Jan van Hoorn, Clercquen
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness

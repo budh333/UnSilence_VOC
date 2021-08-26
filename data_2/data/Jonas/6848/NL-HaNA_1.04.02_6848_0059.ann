@@ -1,0 +1,65 @@
+T1	Organization 4 35	Regeringe van Nederlands Jondia
+T2	Place 18 35	Nederlands Jondia
+T3	ProperName 18 35	Nederlands Jondia
+T4	Place 68 76	Batavran
+T5	ProperName 68 76	Batavran
+T6	Person 137 164;165 172	DE Lammoraal van Geusauonde koopman
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Notary T6 No
+T7	ProperName 140 164	Lammoraal van Geusauonde
+T8	Person 227 257;258 277	Mejuff=r Wel helmmina Hendrina Alting, Egte lieden
+A4	Gender T8 Woman
+A5	LegalStatus T8 Unspecified
+A6	Notary T8 No
+T9	ProperName 236 257;258 264	Wel helmmina Hendrina Alting
+T10	Place 295 305	ter steede
+T11	Person 861 894	de Eerststervende der testateuren
+A7	Gender T11 Unspecified
+T12	Person 998 1035	de universeele Eide name of Erfgenaam
+A8	Gender T12 Group
+A9	LegalStatus T12 Unspecified
+A10	Notary T12 No
+A11	LegalStatus T11 Unspecified
+A12	Notary T11 No
+T13	Person 1056 1073	de Eerststervende
+A13	Gender T13 Group
+A14	LegalStatus T13 Unspecified
+A15	Notary T13 No
+T14	Person 1440 1457	meede Erfgenaamen
+A16	Gender T14 Group
+A17	LegalStatus T14 Unspecified
+A18	Notary T14 No
+T15	Person 1576 1583;1584 1605	dessen„ „dent of dessendenten
+A19	Gender T15 Group
+A20	LegalStatus T15 Unspecified
+A21	Notary T15 No
+T17	Organization 1905 1921	priesche Guardes
+T18	Place 1938 1948	Slemaanden
+#1	AnnotatorNotes T18	Proper name: Leeuwarden
+T19	ProperName 1938 1948	Slemaanden
+T16	Person 1843 1847;1848 1854;1855 1897	Heer Justus van Geusau Collonel en Capitain Commandant
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Notary T16 No
+T20	ProperName 1848 1854;1855 1865	Justus van Geusau
+T21	ProperName 1905 1921	priesche Guardes
+#2	AnnotatorNotes T21	Frische guardes
+T22	Person 2051 2089;2090 2103	Heere M:r Willem Arnold Alting Gouver„ neur Generaal
+A25	Gender T22 Man
+A26	LegalStatus T22 Unspecified
+A27	Notary T22 No
+T23	Organization 2108 2124	Nederlands India
+T24	ProperName 2108 2124	Nederlands India
+T25	Person 2157 2187	Eerststervende der testateuren
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Notary T25 No
+T26	Person 2230 2253	Executrice of Executeur
+A31	Gender T26 Group
+A32	LegalStatus T26 Unspecified
+A33	Notary T26 No
+T27	Person 2304 2337	begravenis besorgster of bezorger
+A34	Gender T27 Group
+A35	LegalStatus T27 Unspecified
+A36	Notary T27 No

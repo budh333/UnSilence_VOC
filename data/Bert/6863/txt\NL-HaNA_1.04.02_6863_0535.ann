@@ -1,0 +1,17 @@
+T1	Person 65 73	musculus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 65 73	musculus
+T3	Place 102 109	hoeglij
+T4	ProperName 102 109	hoeglij
+T5	Person 415 438	pakhuijsmeester keijser
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 431 438	keijser
+T7	Person 532 542	Verspeijck
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 532 542	Verspeijck

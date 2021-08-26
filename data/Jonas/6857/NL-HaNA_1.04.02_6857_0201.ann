@@ -1,0 +1,44 @@
+T2	Person 66 81;82 85	Johannes Garrel man
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 66 81;82 85	Johannes Garrel man
+T4	Person 208 237	M„r Pieter Cornelis Hasselaer
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 212 237	Pieter Cornelis Hasselaer
+T6	Place 261 268	Batavia
+T7	ProperName 261 268	Batavia
+T8	Place 283 308	deeses Comptoirs Cheribon
+T9	ProperName 300 308	Cheribon
+T10	Person 350 368	Johannes Harzelman
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 350 368	Johannes Harzelman
+T12	Person 406 409;410 420	Ian van Leijst
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 406 409;410 420	Ian van Leijst
+T14	Person 435 450	Fredrik Bannier
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 435 450	Fredrik Bannier
+T16	Organization 482 492	ECompagnie
+T17	Person 522 540	Johannes Garrelman
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Testator
+T18	Person 841 856	Ian van derLaer
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Notary
+T19	Person 888 910	Scriba Pieter Sterstad
+A22	Gender T19 Man
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Notary
+T20	ProperName 895 910	Pieter Sterstad
+T21	ProperName 841 856	Ian van derLaer

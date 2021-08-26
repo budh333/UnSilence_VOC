@@ -1,0 +1,62 @@
+T1	TranscriptionError_Document 3 5	In
+T2	ProperName 79 92	paulus looman
+T3	Organization 128 172	secretarije van het Cormandelse gouverneuent
+T4	ProperName 218 231	Galenusmersen
+T5	ProperName 264 280	nederlands Jndia
+T6	Place 264 281	nederlands Jndia,
+T7	Person 79 93	paulus looman,
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Acting_Notary
+T8	Person 569 590	Mons:r Anthonij Antho
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator_Beneficiary
+T9	Person 596 606	nijsz: Rok
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 576 590	Anthonij Antho
+T11	ProperName 596 607	nijsz: Rok,
+T12	Organization 633 638	EComp
+T13	Person 654 662	Juffrouw
+A10	Gender T13 Woman
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Testator_Beneficiary
+T14	ProperName 666 683	Renolda De Visser
+T15	Person 666 684	Renolda De Visser,
+A13	Gender T15 Woman
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Testator
+T16	Place 767 775	casteele
+T17	Place 1860 1871	palliacatta
+T18	ProperName 1860 1871	palliacatta
+T19	ProperName 1923 1938	Iacobu Bormieus
+T20	Person 1923 1938	Iacobu Bormieus
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 2244 2251	adriana
+T22	ProperName 2261 2268	Juliana
+T23	Person 2278 2287	slavinnen
+A19	Gender T23 Group
+A20	LegalStatus T23 Enslaved
+A21	Role T23 Other
+T24	Person 2244 2251	adriana
+A22	Gender T24 Woman
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other
+T25	Person 2261 2268	Juliana
+A25	Gender T25 Woman
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	ProperName 2288 2295	Leonora
+T27	ProperName 2300 2310	WWremelina
+T28	Person 2288 2295	Leonora
+A28	Gender T28 Woman
+A29	LegalStatus T28 Enslaved
+A30	Role T28 Other
+T29	Person 2300 2310	WWremelina
+A31	Gender T29 Woman
+A32	LegalStatus T29 Enslaved
+A33	Role T29 Other

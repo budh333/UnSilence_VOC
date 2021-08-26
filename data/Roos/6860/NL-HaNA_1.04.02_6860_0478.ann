@@ -1,0 +1,12 @@
+T1	Place 1139 1151;1152 1172	ten Nerdelen Comptoire Sourabaija
+T2	ProperName 1162 1172	Sourabaija
+T3	Person 1199 1212	M: v: Leeuwen
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 1199 1212	M: v: Leeuwen
+T5	Person 1216 1233	G„t v: Reijssoort
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 1216 1233	G„t v: Reijssoort

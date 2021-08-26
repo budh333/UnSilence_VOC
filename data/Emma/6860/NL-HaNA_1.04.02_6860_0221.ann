@@ -1,0 +1,39 @@
+T1	Person 103 113	Jan Siffle
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 103 113	Jan Siffle
+T3	Place 166 181	te Passourouang
+T4	ProperName 169 181	Passourouang
+T5	Person 194 207;208 214	adsistent Ian Siffle
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 204 207;208 214	Ian Siffle
+T7	Person 279 300;301 316	Alexander Mauimiliaan Van Lichnowskij
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 279 300;301 316	Alexander Mauimiliaan Van Lichnowskij
+T9	Organization 421 433	S: E: Comp„s
+T10	ProperName 421 433	S: E: Comp„s
+T11	Person 669 695	I=n G=s Helinke, Scretaris
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 669 684	I=n G=s Helinke
+T13	Person 737 755	C:t L:r Prappannen
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 737 755	C:t L:r Prappannen
+T15	Person 803 814	PK Lambards
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 803 814	PK Lambards
+T17	Person 827 841	n H„s dan Cijn
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 827 841	n H„s dan Cijn

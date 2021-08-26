@@ -1,0 +1,23 @@
+T1	TranscriptionError_Document 59 68	in dienst
+T2	Place 329 337;338 356	zijn Com parants sterfhuijs
+T3	Place 653 670	ter kamer Zeeland
+T4	ProperName 663 670	Zeeland
+T5	Place 1096 1116	ten mijnen Comptoire
+T6	Person 1135 1151	Abraham Salomons
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	Person 1155 1172	Salomon Abrahamsz
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1135 1151	Abraham Salomons
+T9	ProperName 1155 1172	Salomon Abrahamsz
+T10	Person 1384 1400	N:s Maas Notaris
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	Person 2102 2114	lijffeigenen
+A10	Gender T11 Group
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other

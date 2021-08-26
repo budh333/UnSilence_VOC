@@ -1,0 +1,37 @@
+T1	TranscriptionError_Document 0 2	In
+T2	DuplicatePage 0 2	In
+T3	DuplicatePage 142 144	In
+T4	ProperName 262 266	Ioan
+T5	Person 258 266	M„r Ioan
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Notary
+T6	Person 323 347;348 355	M„r Johan van Deer voort Notaris
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Notary
+T7	ProperName 327 347	Johan van Deer voort
+T8	Organization 384 397;398 414	Regeringe van Nederlands India
+T9	Place 398 414	Nederlands India
+T10	ProperName 398 414	Nederlands India
+T11	Place 438 449;450 455	de stad ba„ tavia
+T12	ProperName 446 449;450 455	ba„ tavia
+T13	ProperName 503 514	Jacob C:ren
+T14	Person 503 514	Jacob C:ren
+A7	Gender T14 Man
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Witness
+T15	Organization 539 543	Comp
+T16	ProperName 561 577	Derterhoutemarkt
+T17	Place 561 577	Derterhoutemarkt
+T18	Person 1518 1535	Anthonij Wislemsz
+A10	Gender T18 Man
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Beneficiary
+T19	ProperName 1518 1535	Anthonij Wislemsz
+T20	Organization 1579 1588	Compagnie
+T21	Person 1593 1615;1616 1627	Den Capitain Houschild Jn guarnist
+A13	Gender T21 Man
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Other
+T22	ProperName 1606 1615;1616 1627	Houschild Jn guarnist

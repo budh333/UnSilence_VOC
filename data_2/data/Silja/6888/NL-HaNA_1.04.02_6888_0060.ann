@@ -1,0 +1,20 @@
+T1	Person 140 144	kind
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Person 158 166	kinderen
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Beneficiary
+T3	Organization 636 658;659 692	het Eerw: Collegie van heeren weestmeesteren tot batavia
+A7	Beneficiary T3 No
+T4	Place 685 692	batavia
+T5	ProperName 685 692	batavia
+T6	Organization 1331 1351;1352 1382	Generale Nederlandse geoctroeerde oosindische Comp:
+A8	Beneficiary T6 No
+T7	ProperName 1331 1351;1352 1382	Generale Nederlandse geoctroeerde oosindische Comp:
+T8	Place 1387 1403	kamer Enkhuijsen
+T9	ProperName 1393 1403	Enkhuijsen
+T10	Place 1491 1496	Jndia
+#1	AnnotatorNotes T10	India
+T11	ProperName 1491 1496	Jndia

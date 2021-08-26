@@ -1,0 +1,54 @@
+T1	Person 61 88	Lodewijk Thomassin schipper
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 61 79	Lodewijk Thomassin
+T3	Organization 110 119	E: Comp:s
+T4	Person 149 170	Albers dirkse ktreeft
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	Place 254 259	bat=a
+T6	Organization 351 354	Ed:
+T7	Person 365 382	Lodwijk Thomassin
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Person 400 403;404 412	Ian Ter Burg
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	Person 482 503	Carel Aldertse Kreeff
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 482 503	Carel Aldertse Kreeff
+T11	Organization 1139 1149;1150 1185	oost Jndi„ „sche Compagnie ter kamer Amsterdam
+T12	Place 1170 1185	kamer Amsterdam
+T13	ProperName 1176 1185	Amsterdam
+T14	Person 1495 1512	Jsaack Botercoper
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	Person 1516 1526	Iacob Link
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 1495 1512	Jsaack Botercoper
+T17	ProperName 1516 1526	Iacob Link
+T18	Person 1681 1694	Lucas Andries
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Witness
+T19	Person 1699 1714	Abraham Carelsz
+A25	Gender T19 Unspecified
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Witness
+T20	ProperName 1681 1694	Lucas Andries
+T21	ProperName 1699 1714	Abraham Carelsz
+T22	Person 1864 1879;1880 1887	M„r H: Scheltus Notaris
+A28	Gender T22 Man
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Notary
+T24	TranscriptionError_Document 3 7	N: 5
+T23	ProperName 365 382	Lodwijk Thomassin

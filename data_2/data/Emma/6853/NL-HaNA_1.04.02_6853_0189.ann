@@ -1,0 +1,59 @@
+T1	Person 15 31	Jan van Wetteren
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 15 31	Jan van Wetteren
+T3	Person 90 110;111 116	nicolaas Crul, nots: publ:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 90 103	nicolaas Crul
+T5	Person 157 166;167 203;204 208	getuijgen Jan van Wetteren van Ramburg, boots„ „man
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 167 183	Jan van Wetteren
+T7	Place 184 195	van Ramburg
+T8	ProperName 188 195	Ramburg
+T9	Organization 225 234	E: Comp:e
+T10	Place 285 298;299 305	n’t hospitael alhier
+T11	Person 565 584	tweebroeders Pieter
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 578 584	Pieter
+T13	Person 589 610	Abraham= van Welteren
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	ProperName 589 610	Abraham= van Welteren
+T15	Place 612 625;626 633	binnen destad hamburg
+T16	ProperName 626 633	hamburg
+T17	Person 871 893	Jan Fredrik Trimpelaar
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Beneficiary
+T18	ProperName 871 893	Jan Fredrik Trimpelaar
+T19	Place 895 905;906 918	van bergen in noorwegen
+T20	ProperName 899 905	bergen
+T21	ProperName 909 918	noorwegen
+T22	Place 932 947;948 955	ngem: hospitael alhier,
+T23	Place 1030 1034;1035 1044	in’t rospitael
+T25	ProperName 1115 1123	Fortuijn
+T26	Place 1124 1133	van banda
+T27	ProperName 1128 1133	banda
+T28	Place 1169 1183	in’t hospitael
+T29	Organization 1301 1311	den Comp:e
+T31	Place 1380 1399	ter Camer Amsterdam
+T32	ProperName 1390 1399	Amsterdam
+T33	ProperName 225 234	E: Comp:e
+T24	Person 1099 1106	slaefje
+A19	Gender T24 Man
+A20	LegalStatus T24 Enslaved
+A21	Role T24 Other
+T34	Person 1115 1123	Fortuijn
+A22	Gender T34 Man
+A23	LegalStatus T34 Enslaved
+A24	Role T34 Other
+T35	Organization 1343 1399	d’ joctraijeerde oost Jndische Comp: ter Camer Amsterdam
+T36	ProperName 1343 1399	d’ joctraijeerde oost Jndische Comp: ter Camer Amsterdam

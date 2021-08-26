@@ -1,0 +1,41 @@
+T1	TranscriptionError_Document 0 3	Het
+T2	ProperName 81 99	Engelbert. De moor
+T3	Person 81 99	Engelbert. De moor
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 210 234	Gerrardus Johannes van B
+T5	Person 210 234	Gerrardus Johannes van B
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 238 266	Johannes franciscus Gratiaan
+T7	Person 238 266	Johannes franciscus Gratiaan
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Person 281 304;305 313	proculeur Willem Benjam Charlet,
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 291 304;305 312	Willem Benjam Charlet
+T10	ProperName 355 361	Demoor
+T11	Person 355 361	Demoor
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	Place 545 552	Colombo
+T13	ProperName 545 552	Colombo
+T14	Place 649 657	Casteels
+T15	Person 671 690	J: A: van der voort
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 677 690	van der voort
+T17	ProperName 702 715	Banieldes Bok
+T18	Person 702 715	Banieldes Bok
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	Place 1044 1051;1052 1059	Casteel Colombo
+T20	ProperName 1052 1059	Colombo

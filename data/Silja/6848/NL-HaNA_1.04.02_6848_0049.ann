@@ -1,0 +1,39 @@
+T1	Place 199 203	stad
+T2	Person 132 156	dE Sabes Guslarus Floris
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+T3	ProperName 135 156	Sabes Guslarus Floris
+T4	Organization 446 454	dECommp:
+T5	Place 609 618	Amsterdaa
+T6	ProperName 609 618	Amsterdaa
+T7	Organization 563 597	Geochedoyeerde oost indische Comp:
+T8	ProperName 563 597	Geochedoyeerde oost indische Comp:
+T10	Organization 1011 1018;1019 1043	d’ hele hooge uiddasche regering
+T12	Organization 1164 1180;1181 1193	hooge overigheyd deser Landen
+T13	Person 1737 1751	Caral Francois
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+T14	Person 1757 1772;1773 1782	Jacob Auguistin Pieter B:
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+T15	ProperName 1737 1751	Caral Francois
+T16	ProperName 1757 1772;1773 1782	Jacob Auguistin Pieter B:
+T18	Person 1923 1939	L: Holff Notaris
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+T19	ProperName 1923 1931	L: Holff
+A3	Role T2 Other
+T9	ProperName 446 454	dECommp:
+T11	ProperName 1011 1018;1019 1043	d’ hele hooge uiddasche regering
+T17	ProperName 1164 1180;1181 1193	hooge overigheyd deser Landen
+A4	Role T13 Witness
+A5	Role T14 Witness
+A6	Role T18 Notary
+A7	Beneficiary T7 No
+A8	Beneficiary T10 No
+T20	Person 1204 1216	Lijffeggenen
+A9	Gender T20 Group
+A12	LegalStatus T20 Enslaved
+A15	Role T20 Other
+T21	Place 1708 1717	Comptoire
+A16	Beneficiary T12 No

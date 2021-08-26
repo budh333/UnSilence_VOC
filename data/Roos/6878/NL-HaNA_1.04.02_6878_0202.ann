@@ -1,0 +1,21 @@
+T1	TranscriptionError_Document 0 3	Van
+T3	ProperName 48 72	Johannes Matteus Hantrag
+T4	Person 94 111	Samuel Fred Botha
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 94 111	Samuel Fred Botha
+T6	Person 143 156	I C: vd Spuij
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 143 156	I C: vd Spuij
+T8	Person 204 220	Mammel P L Lesun
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 204 220	Mammel P L Lesun
+T2	Person 48 72	Johannes Matteus Hantrag
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other

@@ -1,0 +1,77 @@
+T1	TranscriptionError_Document 0 5	Copia
+T2	Person 88 107	Joan Adriaan Dreier
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 88 107	Joan Adriaan Dreier
+T4	Place 129 145	Deesen Comptoire
+T5	Place 194 241;242 255	huijse van den alhier Bescheijdene zergeant An„ „dries Ruijen
+T6	Person 238 241;242 255	An„ „dries Ruijen
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 238 241;242 255	An„ „dries Ruijen
+T8	Place 261 268	Hamburg
+T9	ProperName 261 268	Hamburg
+T10	Place 521 527;529 536	beloer pampang
+T11	ProperName 521 527;528 536	beloer „pampang
+T12	Person 558 571	Willem Schaar
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	ProperName 558 571	Willem Schaar
+T14	Person 642 654	Pieter Luzac
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 642 654	Pieter Luzac
+T16	Place 688 702	Javas aosthoek
+T17	Person 853 865	mohamat Nica
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	Person 888 897	witte kop
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 888 897	witte kop
+T20	ProperName 853 865	mohamat Nica
+T21	Person 819 833	Berghuijsen ad
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	Person 977 984	Contant
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T23	Person 999 1008	wette kop
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	ProperName 999 1008	wette kop
+T25	Person 1019 1030	berghuijsen
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	Person 1042 1059	Jan Jurijen Graps
+A31	Gender T26 Unspecified
+A32	LegalStatus T26 Unspecified
+A33	Role T26 Other
+T27	ProperName 1042 1059	Jan Jurijen Graps
+T28	Person 1077 1086	Bossetiel
+A34	Gender T28 Unspecified
+A35	LegalStatus T28 Unspecified
+A36	Role T28 Other
+T29	Person 1131 1146	abraham andries
+A37	Gender T29 Unspecified
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Other
+T30	ProperName 1131 1146	abraham andries
+T35	Person 1163 1171	Stiegler
+A40	Gender T35 Unspecified
+A41	LegalStatus T35 Unspecified
+A42	Role T35 Other
+T31	Person 1184 1194	Leijdekker
+A43	Gender T31 Unspecified
+A44	LegalStatus T31 Unspecified
+A45	Role T31 Other

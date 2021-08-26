@@ -1,0 +1,45 @@
+T1	Place 53 60	Holombo
+#1	AnnotatorNotes T1	Kolombo
+T2	ProperName 53 60	Holombo
+T3	Person 101 114	D: I: De Moor
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 101 114	D: I: De Moor
+T5	ProperName 118 136	A:o C:a van Buuren
+T6	Person 118 136	A:o C:a van Buuren
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 232 251	Cornelis De Kretzer
+T8	Person 232 251	Cornelis De Kretzer
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 415 438;439 455	huisvrouw Adriana Care„ „lina van Buuren
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 425 438;439 455	Adriana Care„ „lina van Buuren
+T11	Place 459 466	kolombo
+T12	ProperName 459 466	kolombo
+T13	Person 707 712;805 823	vader Abraham Sam„
+„lant
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	Person 707 712;805 823	vader Abraham Sam„
+„lant
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 805 817;818 823	Abraham Sam„ „lant
+T17	Person 1004 1035	Mejuffrouw Agneta Maria Bierens
+A22	Gender T17 Woman
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 1015 1035	Agneta Maria Bierens
+T16	Person 805 817;818 823	Abraham Sam„ „lant
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other

@@ -1,0 +1,32 @@
+T1	TranscriptionError_Document 0 3	Von
+T2	ProperName 4 21	Lodewijts fredrik
+T3	Person 4 21	Lodewijts fredrik
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 22 37	sofia Elisadath
+T5	Person 22 37	sofia Elisadath
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 41 46;47 61	Maria Philibina Roos
+T7	Person 41 46;47 61	Maria Philibina Roos
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 640 653	Pielus Pieman
+T9	Person 640 653	Pielus Pieman
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	Person 1033 1055	mons:r Cauwpns Peespie
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 1040 1056	Cauwpns Peespier
+T12	Place 1087 1097	Enkhuijsen
+T13	ProperName 1087 1097	Enkhuijsen
+T14	Place 1130 1147	schiep Geertruijd
+T15	ProperName 1137 1147	Geertruijd
+T16	Person 1346 1350	Amen
+T17	ProperName 1449 1461	Jesu Christi

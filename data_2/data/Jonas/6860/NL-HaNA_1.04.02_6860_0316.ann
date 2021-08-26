@@ -1,0 +1,8 @@
+T1	Person 240 243	sla
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 247 255	Plavinne
+A4	Gender T2 Group
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other

@@ -1,0 +1,38 @@
+T1	Organization 62 66	Comp
+T2	Person 88 106;107 123	Rudolph Florentius van der Niepoolt
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 88 106;107 123	Rudolph Florentius van der Niepoolt
+T4	Place 142 148;149 158	deesen Comptoire
+T5	Person 350 357	Agnetta
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T6	Person 252 268	Frederik Helmont
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator_Beneficiary
+T7	ProperName 252 268	Frederik Helmont
+T8	Place 273 285	Passourouang
+T9	ProperName 273 285	Passourouang
+T10	Place 314 324	Banjoealit
+T11	ProperName 314 324	Banjoealit
+T12	Place 897 917;918 928	Nederlands Comptoire Sourabaija
+T13	ProperName 918 928	Sourabaija
+T14	Person 964 983	C=s V=n Raadschoven
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Witness
+T15	Person 988 1003	M=l V=n Leeuwen
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Witness
+T16	Person 1233 1252	Joan Adriaan Dreier
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Acting_Notary
+T17	ProperName 1233 1252	Joan Adriaan Dreier
+T18	Organization 1337 1350;1351 1384	aade van Jus„ „titie ten Gouvernemente Samarang
+T19	Place 1376 1384	Samarang
+T20	ProperName 1376 1384	Samarang

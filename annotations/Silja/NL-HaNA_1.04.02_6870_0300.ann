@@ -1,0 +1,48 @@
+T1	ProperName 27 40	Jacobus Tanth
+T2	Person 27 40	Jacobus Tanth
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 180 187	Batavia
+T4	Place 180 187	Batavia
+T5	Place 379 386	Malacca
+T6	ProperName 379 386	Malacca
+T7	Person 430 440;441 450	M„r Thomas schippers
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 434 440;441 450	Thomas schippers
+T9	ProperName 498 513	Anthonij Zalice
+T10	Person 498 513	Anthonij Zalice
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 559 572	Hendrik Cassa
+T12	Person 559 572	Hendrik Cassa
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 613 631	Johan Leter Kleijn
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 613 631	Johan Leter Kleijn
+T15	Person 681 701	Frans Hendrik Cordes
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 681 701	Frans Hendrik Cordes
+T17	ProperName 1317 1324	Malacca
+T18	Place 1317 1324	Malacca
+T19	ProperName 1395 1420	Hendrik Julius Wiederhold
+T20	Person 1395 1420	Hendrik Julius Wiederhold
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	Person 1451 1468	M„r Hendrik Cassa
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 1455 1468	Hendrik Cassa
+T23	ProperName 1559 1585	Iean Josepff van Cleermond
+T24	ProperName 1559 1585	Iean Josepff van Cleermond

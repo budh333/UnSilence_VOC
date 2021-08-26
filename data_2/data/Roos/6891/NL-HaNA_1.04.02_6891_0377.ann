@@ -1,0 +1,32 @@
+T1	TranscriptionError_Document 0 2	Op
+T2	DuplicatePage 0 2	Op
+T3	Person 55 74	George Fredrik Roth
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 55 74	George Fredrik Roth
+T5	Organization 99 118	Oost Indsche Comp=e
+A4	Beneficiary T5 No
+T6	Place 119 147	op het schip Noord Nieuwland
+T7	ProperName 132 147	Noord Nieuwland
+T8	Person 294 313	Ioost van Steenland
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 294 313	Ioost van Steenland
+T10	Place 318 328	vlissingen
+T11	ProperName 318 328	vlissingen
+T12	Organization 352 360	E Comp=e
+A8	Beneficiary T12 No
+T13	Person 1097 1115	Theodorus Hannekam
+A9	Gender T13 Man
+A10	LegalStatus T13 Unspecified
+A11	Role T13 Beneficiary
+T14	ProperName 1097 1115	Theodorus Hannekam
+T15	Person 1134 1157	Nicolaas Faber Schieman
+A12	Gender T15 Man
+A13	LegalStatus T15 Unspecified
+A14	Role T15 Beneficiary
+T16	ProperName 1134 1148	Nicolaas Faber
+T17	Place 1950 1959	Purmerent
+T18	ProperName 1950 1959	Purmerent

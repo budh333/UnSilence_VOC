@@ -1,0 +1,67 @@
+T1	TranscriptionError_Document 0 8	Henderik
+T2	DuplicatePage 0 8	Henderik
+T3	ProperName 0 15	Henderik Mulder
+T4	Person 0 15	Henderik Mulder
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 84 101	Andries Jan Balle
+T6	Person 84 101	Andries Jan Balle
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Notary
+T7	ProperName 141 148	holland
+T8	Place 141 148	holland
+T9	Organization 168 199	regeeringe van Nederlands India
+T10	ProperName 183 199	Nederlands India
+T11	Place 183 199	Nederlands India
+T12	Place 221 235	destad Batavia
+T13	ProperName 228 235	Batavia
+T14	Person 309 313;314 328	Heer Hendrik Mulder
+A7	Gender T14 Man
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Testator
+T15	ProperName 314 328	Hendrik Mulder
+T16	Organization 365 369	Comp
+T17	Person 375 395	Mejuffrouw Anna Kemp
+A10	Gender T17 Woman
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Testator
+T18	ProperName 386 395	Anna Kemp
+T19	Person 509 528	M:r Egbert Blomhert
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Notary
+T20	ProperName 513 528	Egbert Blomhert
+T21	Organization 564 584;585 597	Regeering van neder„ „lands India
+T22	Place 578 584;585 597	neder„ „lands India
+T23	ProperName 578 584;585 597	neder„ „lands India
+T24	Place 619 634	de stad Batavia
+T25	ProperName 627 634	Batavia
+T26	Person 688 697;698 714	D E: Lau„ „rens Molkenboer
+A16	Gender T26 Man
+A17	LegalStatus T26 Unspecified
+A18	Role T26 Testator
+T27	ProperName 693 697;698 714	Lau„ „rens Molkenboer
+T28	Organization 744 748	Comp
+T29	Organization 866 870	Comp
+T30	Person 927 938;939 951	wijlend' E„ Ie Schildman
+A19	Gender T30 Unspecified
+A20	LegalStatus T30 Unspecified
+A21	Role T30 Witness
+T31	ProperName 942 951	Schildman
+T32	Person 994 1015	Jan Iacob Swanevelder
+A22	Gender T32 Man
+A23	LegalStatus T32 Unspecified
+A24	Role T32 Other
+T33	ProperName 994 1015	Jan Iacob Swanevelder
+T34	ProperName 1152 1155;1156 1169	Ian Adam Sponoldt
+T35	Person 1152 1155;1156 1169	Ian Adam Sponoldt
+A25	Gender T35 Man
+A26	LegalStatus T35 Unspecified
+A27	Role T35 Beneficiary
+T36	ProperName 1200 1203;1204 1221	Jan Iacob Swanevelder
+T37	Person 1200 1203;1204 1221	Jan Iacob Swanevelder
+A28	Gender T37 Man
+A29	LegalStatus T37 Unspecified
+A30	Role T37 Beneficiary

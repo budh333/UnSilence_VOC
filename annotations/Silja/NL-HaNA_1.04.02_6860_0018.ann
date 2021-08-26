@@ -1,0 +1,13 @@
+T1	Person 507 513	slaven
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 517 526	slavinnen
+A4	Gender T2 Group
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	Person 804 820	kind Jan Pieter,
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	ProperName 809 819	Jan Pieter

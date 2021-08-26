@@ -1,0 +1,74 @@
+T1	TranscriptionError_Document 0 1	N
+T2	DuplicatePage 14 21	Extract
+T3	Person 224 239	Corporaal Looth
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 234 239	Looth
+T5	Person 610 621	Lijleigenen
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T6	DuplicatePage 1013 1017	Amen
+T7	Person 640 647	Laarson
+A7	Gender T7 Man
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	ProperName 640 647	Laarson
+T9	Person 650 659	Slavomeid
+A10	Gender T9 Woman
+A11	LegalStatus T9 Enslaved
+A12	Role T9 Other
+T10	ProperName 664 669	Maria
+T11	Person 664 669	Maria
+A13	Gender T11 Woman
+A14	LegalStatus T11 Enslaved
+A15	Role T11 Other
+T12	ProperName 754 762;763 777	Matthias Gerhardus Ross
+T13	Person 754 762;763 777	Matthias Gerhardus Ross
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Witness
+T14	ProperName 781 787;788 801	Herma„ „nus Bergmann
+T15	Person 781 787;788 801	Herma„ „nus Bergmann
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Witness
+T16	ProperName 842 847	Tholf
+T17	Person 842 847	Tholf
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Acting_Notary
+T18	ProperName 985 990	Tholt
+T19	Person 985 990	Tholt
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Acting_Notary
+T20	Person 889 899	M: G: Ross
+A28	Gender T20 Unspecified
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Other
+T21	ProperName 895 899	Ross
+T22	Person 901 912	H: Berkueun
+A31	Gender T22 Unspecified
+A32	LegalStatus T22 Unspecified
+A33	Role T22 Other
+T23	ProperName 904 912	Berkueun
+T24	Person 957 969	C: Burchard.
+A34	Gender T24 Unspecified
+A35	LegalStatus T24 Unspecified
+A36	Role T24 Other
+T25	ProperName 960 968	Burchard
+T26	ProperName 297 303	Bagbot
+T27	Person 312 320	Julander
+A37	Gender T27 Unspecified
+A38	LegalStatus T27 Unspecified
+A39	Role T27 Other
+T28	Person 297 303	Bagbot
+A40	Gender T28 Unspecified
+A41	LegalStatus T28 Unspecified
+A42	Role T28 Other
+T29	Noteworthy 312 320	Julander
+T30	Place 715 735	te Hougli in Bengale
+T31	ProperName 728 735	Bengale
+T32	Organization 1130 1137	EComp.e

@@ -1,0 +1,28 @@
+T1	DuplicatePage 0 15	ondergeteekende
+T2	ProperName 86 96	Sourabaija
+T3	Place 86 96	Sourabaija
+T4	ProperName 128 151	Andries Hartsink Iunior
+T5	Person 128 151	Andries Hartsink Iunior
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 237 247	Sourabaija
+T7	Person 237 247	Sourabaija
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 291 313	R: F: van der Niepoort
+T9	Person 291 313	R: F: van der Niepoort
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 325 334	H H vange
+T11	Person 325 334	H H vange
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 529 543	willem Kerkman
+T13	Person 529 543	willem Kerkman
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other

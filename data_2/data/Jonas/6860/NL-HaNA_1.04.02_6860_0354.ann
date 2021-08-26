@@ -1,0 +1,46 @@
+T1	Person 103 109	P: Ras
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Person 146 157	S: A: Driie
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T3	Person 205 211	Dreier
+A7	Gender T3 Man
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Organization 261 274;275 283	Raade van Iud Samarang
+T5	Place 275 283	Samarang
+T6	ProperName 275 283	Samarang
+T7	Place 348 355	Grissee
+T8	ProperName 348 355	Grissee
+T9	Person 384 396	Jonas Mulder
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator_Beneficiary
+T10	ProperName 384 396	Jonas Mulder
+T11	Person 415 442	Dorothea Fredrika Hulsthoff
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Testator_Beneficiary
+T12	ProperName 415 442	Dorothea Fredrika Hulsthoff
+T13	Person 493 503	Pieter Ras
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Acting_Notary
+T14	Organization 515 518	Com
+T15	Organization 578 583	sComp
+T16	Person 797 813	C: Coetsier sC„s
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	Place 845 854	weeskamer
+T18	Person 928 932;933 939	Ioan Dreier
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	Person 986 998	I: A: Dreier
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Acting_Notary

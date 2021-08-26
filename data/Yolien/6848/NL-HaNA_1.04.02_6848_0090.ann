@@ -1,0 +1,58 @@
+T1	Person 2 9	Jacobus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 2 9	Jacobus
+T5	Person 325 331	slaven
+A10	Gender T5 Group
+A11	LegalStatus T5 Enslaved
+T6	Organization 358 382	Christelijken Godsdienst
+T7	ProperName 358 382	Christelijken Godsdienst
+T10	Person 856 867;868 875	Abraham Sa„ „lomons
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+T11	ProperName 856 867;868 876	Abraham Sa„ „lomons,
+T12	Person 880 903	Egenus Daniel Abrahamsz
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+T13	ProperName 880 903	Egenus Daniel Abrahamsz
+T14	Person 1058 1078	J=s Greving, Notaris
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+T15	ProperName 1062 1069	Greving
+T17	ProperName 1137 1154	Johannes Greving,
+T20	Place 1202 1218	nederlands India
+T21	Place 1239 1254	de Stad Batavia
+T22	ProperName 1247 1254	Batavia
+T25	Organization 1331 1340;1341 1347	Zulmakirs winkel
+T26	Place 1354 1368	Equppagie werf
+T27	Person 1379 1396;1397 1405	uffrouw Catharina van Door
+A28	Gender T27 Woman
+A29	LegalStatus T27 Unspecified
+T28	ProperName 1387 1396;1397 1405	Catharina van Door
+T29	Place 1431 1457;1458 1474	’t vierkant op de Hoeq van de Leepel straat
+T4	Person 1137 1162	Johannes Greving, notaris
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+T8	Organization 1177 1218	Edele hoog rigeering van nederlands India
+T9	ProperName 1177 1218	Edele hoog rigeering van nederlands India
+T16	ProperName 1202 1218	nederlands India
+T18	Person 1305 1320	E. Jacobus Heus
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+T19	ProperName 1305 1320	E. Jacobus Heus
+A3	Role T1 Other
+T23	Person 23 27	Heur
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	ProperName 23 27	Heur
+A4	Role T5 Other
+A5	Role T10 Witness
+A6	Role T12 Witness
+A12	Role T14 Notary
+A9	Role T4 Notary
+A15	Role T18 Testator
+T3	ProperName 1331 1340	Zulmakirs
+T30	ProperName 1354 1363	Equppagie
+A18	Role T27 Testator
+T31	ProperName 1461 1474	Leepel straat

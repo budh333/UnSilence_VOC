@@ -1,0 +1,16 @@
+T1	TranscriptionError_Document 0 5	Copia
+T2	DuplicatePage 0 5	Copia
+T4	ProperName 43 59	Godofridus thoen
+T6	ProperName 334 347;348 355	George Willem Ransche
+T7	Organization 862 890;891 937;938 963	de Edele Groot Agtbaare heer Bewindhebberen Der geoctroijeerde oost indisch Compagnie ter kamer hoorn
+T8	Place 958 963	hoorn
+T9	ProperName 958 964	hoorn,
+T3	Person 37 42;43 59	heere Godofridus thoen
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T5	Person 330 347;348 355	DE: George Willem Ransche
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+A7	Beneficiary T7 No

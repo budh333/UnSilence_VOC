@@ -1,0 +1,118 @@
+T1	TranscriptionError_Document 0 1	2
+T2	DuplicatePage 0 1	2
+T3	Person 2 21	Salomon van batavia
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T4	ProperName 2 9	Salomon
+T5	Place 14 21	batavia
+T6	ProperName 14 21	batavia
+T7	Person 22 36	Titus van bima
+A4	Gender T7 Man
+A5	LegalStatus T7 Enslaved
+A6	Role T7 Other
+T8	ProperName 22 27	Titus
+T9	Place 32 36	bima
+T10	ProperName 32 36	bima
+T11	Person 60 65	Frans
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Enslaved
+A9	Role T11 Other
+T12	ProperName 60 65	Frans
+T13	Person 69 75	Mentor
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Enslaved
+A12	Role T13 Other
+T14	ProperName 69 75	Mentor
+T15	Place 90 97	batavia
+T16	ProperName 90 97	batavia
+T17	Person 99 121	Susanna van Sourabaija
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Enslaved
+A15	Role T17 Other
+T18	ProperName 99 106	Susanna
+T19	Place 111 121	Sourabaija
+T20	ProperName 111 121	Sourabaija
+T21	Person 122 139	Maria van batavia
+A16	Gender T21 Woman
+A17	LegalStatus T21 Enslaved
+A18	Role T21 Other
+T22	ProperName 122 127	Maria
+T23	Place 132 139	batavia
+T24	ProperName 132 139	batavia
+T25	ProperName 163 168	Moses
+T26	Person 163 168	Moses
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Enslaved
+A21	Role T26 Other
+T27	Person 172 179	Leentje
+A22	Gender T27 Unspecified
+A23	LegalStatus T27 Enslaved
+A24	Role T27 Other
+T28	ProperName 172 179	Leentje
+T29	Person 206 227	Jufvrouw Aafje, Koels
+A25	Gender T29 Woman
+A26	LegalStatus T29 Unspecified
+A27	Role T29 Beneficiary
+T30	ProperName 215 227	Aafje, Koels
+T32	ProperName 246 263	Ioannes van Zeijl
+T33	Place 286 295	amsterdam
+T34	ProperName 286 295	amsterdam
+T35	Person 322 339	D:E: Pieter Koels
+A31	Gender T35 Man
+A32	LegalStatus T35 Unspecified
+A33	Role T35 Beneficiary
+T36	ProperName 327 339	Pieter Koels
+T37	Place 344 353	amsterdam
+T38	ProperName 344 353	amsterdam
+T40	ProperName 422 428;429 454	Daniel Willem Godfried Heeverman
+T42	ProperName 532 556	George Fredrik Meeverman
+T43	Place 594 602;603 611	Sumatras westkust
+T44	Person 615 635;636 648	Mejufv=r Sara Catha„ rina Verdion
+A40	Gender T44 Woman
+A41	LegalStatus T44 Unspecified
+A42	Role T44 Beneficiary
+T45	ProperName 624 635;636 648	Sara Catha„ rina Verdion
+T47	ProperName 750 755	Iacob
+T48	ProperName 769 774	Diana
+T49	ProperName 785 792	bengale
+T50	Place 785 792	bengale
+Comans
+T52	ProperName 926 934;935 941	Cornelia Comans
+T53	Person 1091 1106	Willem Iacobsz:
+A49	Gender T53 Unspecified
+A50	LegalStatus T53 Unspecified
+A51	Role T53 Other
+T54	ProperName 1091 1106	Willem Iacobsz:
+T31	Person 242 263	DE: Ioannes van Zeijl
+A28	Gender T31 Man
+A29	LegalStatus T31 Unspecified
+A30	Role T31 Other
+T39	Person 422 428;429 454	Daniel Willem Godfried Heeverman
+A34	Gender T39 Man
+A35	LegalStatus T39 Unspecified
+A36	Role T39 Beneficiary
+T41	Person 522 531;532 556	D'E: Heer George Fredrik Meeverman
+A37	Gender T41 Man
+A38	LegalStatus T41 Unspecified
+A39	Role T41 Beneficiary
+T46	Person 732 737	slaef
+A43	Gender T46 Man
+A44	LegalStatus T46 Enslaved
+A45	Role T46 Other
+T55	Person 741 749	Slavinne
+A52	Gender T55 Woman
+A53	LegalStatus T55 Enslaved
+A54	Role T55 Other
+T56	Person 750 755	Iacob
+A55	Gender T56 Man
+A56	LegalStatus T56 Enslaved
+A57	Role T56 Other
+T57	Person 769 774	Diana
+A58	Gender T57 Woman
+A59	LegalStatus T57 Enslaved
+A60	Role T57 Other
+T51	Person 915 934;935 941	Mejufvrouw Cornelia Comans
+A46	Gender T51 Woman
+A47	LegalStatus T51 Unspecified
+A48	Role T51 Other

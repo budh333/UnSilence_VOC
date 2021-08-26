@@ -1,0 +1,20 @@
+T1	Person 19 32	Martinusheems
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 19 32	Martinusheems
+T3	Person 36 41;42 67	Johan „nes Henricus Blankenberg
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 36 41;42 67	Johan „nes Henricus Blankenberg
+T5	Person 251 262	D:l Pibauls
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 251 262	D:l Pibauls
+T7	Person 332 342	Sesterhoff
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 332 342	Sesterhoff

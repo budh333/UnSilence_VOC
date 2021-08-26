@@ -1,0 +1,18 @@
+T1	Place 729 755	Houglij in’t Fort Justarus
+T2	ProperName 729 736	Houglij
+T3	ProperName 742 754	Fort Justaru
+T4	Person 794 804	M:s Jsinck
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	Person 809 819	A„m Copper
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 794 804	M:s Jsinck
+T7	ProperName 809 820	A„m Copper.
+T8	Person 834 843	Lrchelens
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 834 843	Lrchelens

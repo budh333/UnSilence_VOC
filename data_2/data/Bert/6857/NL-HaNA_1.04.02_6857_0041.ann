@@ -1,0 +1,31 @@
+T1	Person 346 356	Himmingson
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 346 356	Himmingson
+T3	Person 357 362	Mines
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 357 362	Mines
+T5	Person 368 373	Reijs
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 368 373	Reijs
+T7	Person 389 393	Smit
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 389 393	Smit
+T9	Person 408 423	Capitain de Wit
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 417 423	de Wit
+T11	Place 437 465	In de Nederlandsche Factorij
+T12	ProperName 443 456	Nederlandsche
+T13	Person 486 496	J== demans
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Acting_Notary

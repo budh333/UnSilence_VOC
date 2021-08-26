@@ -1,0 +1,14 @@
+T1	Organization 289 316;317 331	den Agtb: raad van Justitie alhier Colombo
+T2	Place 324 331	Colombo
+T3	ProperName 324 331	Colombo
+T4	Person 369 400	Iustinus Kriekenbeekgesw Clercq
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T5	ProperName 369 389	Iustinus Kriekenbeek
+T6	Person 425 440	Cornelis Tekles
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 425 440	Cornelis Tekles
+A7	Beneficiary T1 No

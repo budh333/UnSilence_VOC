@@ -1,0 +1,38 @@
+T1	Person 9 17	J: Kats.
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 9 16	J: Kats
+T3	Person 224 245;246 255	vader de heer Hendrik Castelijn
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 238 245;246 255	Hendrik Castelijn
+T5	Organization 481 489	dE: Comp
+T6	ProperName 481 489	dE: Comp
+T7	Organization 525 585;586 617	welEdele agtb: heeren bewinthebberen der g’octroijeerde oost indische Comp: ter kamer zeland
+T8	ProperName 525 585;586 617	welEdele agtb: heeren bewinthebberen der g’octroijeerde oost indische Comp: ter kamer zeland
+T9	Place 601 618	ter kamer zeland,
+T10	ProperName 611 618	zeland,
+T11	Person 1672 1685;1686 1690	Jacob Coridan zoon
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Witness
+T12	ProperName 1672 1685;1686 1690	Jacob Coridan zoon
+T13	Person 1694 1740	Abraham Pietersz: mijne Clerquen als getuijgen
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Witness
+T14	ProperName 1694 1710	Abraham Pietersz
+T15	Person 1824 1851	Joan van der Voort, notaris
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Notary
+T16	ProperName 1824 1843	Joan van der Voort,
+T17	Person 1962 1994	Justinus van der Spar E:g: Clerq
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 1962 1983	Justinus van der Spar
+T19	Place 2031 2041	ter zoldij
+T20	Organization 2035 2041	zoldij

@@ -1,0 +1,12 @@
+T1	ProperName 65 86	Johan Henderik Muller
+T2	Person 65 86	Johan Henderik Muller
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	DuplicatePage 4 10	Burnat
+T4	ProperName 334 340	Muller
+T5	Person 334 340	Muller
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	DuplicatePage 334 340	Muller

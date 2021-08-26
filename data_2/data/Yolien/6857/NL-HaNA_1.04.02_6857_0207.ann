@@ -1,0 +1,8 @@
+T1	Person 66 81;82 85	Johannes Garrel man
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 66 81;82 85	Johannes Garrel man
+T3	DuplicatePage 0 5	vendu
+#1	AnnotatorNotes T3	206
+T4	DuplicatePage 174 186	naagelaatene

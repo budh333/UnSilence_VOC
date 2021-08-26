@@ -1,0 +1,52 @@
+T1	Person 413 432	Not:s den Poetaleur
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 419 431	den Poetaleu
+T4	ProperName 1147 1160	Lucas Andries
+T7	Person 1316 1336	J: N: Bestbier not:s
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+T8	ProperName 1316 1330	J: N: Bestbier
+T10	ProperName 1464 1471	Batavia
+T12	ProperName 1517 1528	H: N: Lacle
+T13	Person 1633 1660;1661 1678	Nicolaas van Bergen van der Grijp Not:o publ:
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+T14	ProperName 1633 1660;1661 1666	Nicolaas van Bergen van der Grijp
+T15	Organization 1686 1728	Edele hooge regeringe van nederlands indra
+T16	Place 1712 1728	nederlands indra
+T17	ProperName 1712 1728	nederlands indra
+T18	ProperName 1692 1728	hooge regeringe van nederlands indra
+T19	Place 1742 1764	binnen de stad Batavia
+T20	ProperName 1757 1764	Batavia
+T22	ProperName 1817 1834;1835 1840	Nicolaas Iohannes Ouman
+T23	Organization 1867 1874	E. Comp
+T26	Person 1517 1540	H: N: Lacle Secretaris.
+A25	Gender T26 Man
+A26	LegalStatus T26 Unspecified
+A3	Role T1 Notary
+T3	Person 1147 1160	Lucas Andries
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T5	Person 1164 1174;1175 1203	Carolustus Johannesz Clenq als geluygen
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	ProperName 1164 1174;1175 1184	Carolustus Johannesz
+A12	Role T7 Notary
+T11	Place 1369 1378;1379 1388	in alhier ter Weest
+T25	Place 1464 1483	Batavia in de wirsk
+A13	Role T26 Other
+A14	Role T13 Notary
+T9	Person 1817 1834;1835 1849	Nicolaas Iohannes Ouman adsisten
+A15	Gender T9 Man
+A18	LegalStatus T9 Unspecified
+A19	Role T9 Testator
+T21	Person 537 549	Lijsteygenen
+A20	Gender T21 Group
+A21	LegalStatus T21 Enslaved
+A22	Role T21 Other
+T24	Place 1087 1096	ten huyse
+T27	Organization 1475 1483	de wirsk
+T28	ProperName 1867 1874	E. Comp

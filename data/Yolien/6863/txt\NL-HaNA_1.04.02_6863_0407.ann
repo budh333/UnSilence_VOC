@@ -1,0 +1,18 @@
+T1	TranscriptionError_Document 0 8	Vendutie
+T2	DuplicatePage 0 8	Vendutie
+T3	DuplicatePage 196 206	Kretschmas
+T4	ProperName 114 136	Carel Fredrik Leipnits
+T5	Person 114 136	Carel Fredrik Leipnits
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	ProperName 391 404	Carel Fredrik
+T7	Person 391 404	Carel Fredrik
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 434 441	Laepnls
+T9	Person 434 441	Laepnls
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator

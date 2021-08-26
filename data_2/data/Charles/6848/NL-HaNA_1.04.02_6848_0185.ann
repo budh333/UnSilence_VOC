@@ -1,0 +1,13 @@
+T1	Organization 70 80;81 131	geoxtroij„ „eerde oost Indische Compagnie ter Kamer Amsterdam
+T2	ProperName 70 80;81 111	geoxtroij„ „eerde oost Indische Compagnie
+T3	Place 122 131	Amsterdam
+T4	ProperName 122 131	Amsterdam
+T5	Person 1623 1639;1640 1647	Hermanus Abraham Simonsz
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 1623 1639;1640 1647	Hermanus Abraham Simonsz
+T7	Person 1652 1679	Freonatus van Kroonestraats
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness

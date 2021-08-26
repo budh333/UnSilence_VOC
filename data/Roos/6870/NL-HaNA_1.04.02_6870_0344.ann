@@ -1,0 +1,13 @@
+T1	Organization 101 111	sCompagnie
+A1	Beneficiary T1 No
+T2	Person 120 139	Johan daniel Filhes
+A2	Gender T2 Unspecified
+A3	LegalStatus T2 Unspecified
+A4	Role T2 Other
+T3	ProperName 120 139	Johan daniel Filhes
+T4	Organization 596 609	dE: Compagnie
+A5	Beneficiary T4 No
+T5	Organization 667 716	Hoog Edele Heeren Bewindhebberen ter kamer Zeela„
+A6	Beneficiary T5 No
+T6	Place 710 715	Zeela
+T7	ProperName 710 715	Zeela

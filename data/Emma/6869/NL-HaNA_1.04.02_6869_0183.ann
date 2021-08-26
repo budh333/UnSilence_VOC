@@ -1,0 +1,62 @@
+T1	Person 8 27	Henderik van Maanen
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 8 27	Henderik van Maanen
+T3	Person 89 124;125 157	Bernardus sen Noordt Junior Gezwore Clercq der Bengaelse secretarijs
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 89 116	Bernardus sen Noordt Junior
+T5	Organization 136 157	Bengaelse secretarijs
+T6	Person 192 233	Messieur Hendrik van Maanen Krankbezoeker
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T7	ProperName 243 252	der EComp
+T8	Organization 243 252	der EComp
+T9	ProperName 201 219	Hendrik van Maanen
+T10	Person 341 371	de Heeren Jochem Christiaan Wa
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 351 372	Jochem Christiaan Wal
+T12	Person 417 439;440 458	den adsistent Johannes Philippus Michault
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 431 439;440 458	Johannes Philippus Michault
+T14	ProperName 351 372	Jochem Christiaan Wal
+T15	Place 798 814	Comparants huijs
+T16	Person 817 835	vrouw Geesje kiers
+A16	Gender T16 Woman
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Beneficiary
+T17	ProperName 823 835	Geesje kiers
+T18	Place 845 858	tot Amsterdam
+T19	ProperName 849 858	Amsterdam
+T20	Organization 1586 1592	Comp:e
+T21	ProperName 1586 1592	Comp:e
+T22	Organization 1652 1681;1682 1716	d’ Edele Groot Achtb:e Heeren Bewindhebberen ter kamer Amsterdam
+T23	Place 1697 1716	ter kamer Amsterdam
+T24	ProperName 1707 1716	Amsterdam
+T25	Place 1748 1778	per het schip De Bevalligheijd
+T26	ProperName 1762 1778	De Bevalligheijd
+T27	Organization 1959 1986	Comptoir Houglij in Bengale
+T28	ProperName 1968 1975	Houglij
+T29	ProperName 1979 1986	Bengale
+T30	Person 2037 2052	Hendrik Jannink
+A19	Gender T30 Man
+A20	LegalStatus T30 Unspecified
+A21	Role T30 Witness
+T31	ProperName 2037 2052	Hendrik Jannink
+T32	Person 2056 2064;2065 2115	Johannes Brengman Clercquen dezer secretarijs als getuijgen
+A22	Gender T32 Man
+A23	LegalStatus T32 Unspecified
+A24	Role T32 Witness
+T33	ProperName 2056 2064;2065 2073	Johannes Brengman
+T34	Person 2133 2151	Hendrik van Maanen
+A25	Gender T34 Man
+A26	LegalStatus T34 Unspecified
+A27	Role T34 Testator
+T35	ProperName 2133 2151	Hendrik van Maanen

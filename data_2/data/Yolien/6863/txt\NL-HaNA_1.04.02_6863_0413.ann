@@ -1,0 +1,42 @@
+T1	Person 91 103	d’E: Schutte
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 96 103	Schutte
+T3	ProperName 129 144	Csaauw de Costa
+T4	Person 129 144	Csaauw de Costa
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 166 177	dE. Teijken
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 170 177	Teijken
+T7	ProperName 230 245	Edaauw de Costa
+T8	Person 230 245	Edaauw de Costa
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	Person 275 286	E: Kretsmar
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 278 286	Kretsmar
+T11	ProperName 304 310	disser
+T12	Person 304 310	disser
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 334 344	Hogerwaard
+T14	Person 334 344	Hogerwaard
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	Place 368 375	Polombo
+T16	ProperName 368 375	Polombo
+T17	Person 506 519	H: V: derhoff
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Acting_Notary
+T18	ProperName 512 519	derhoff

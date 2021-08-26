@@ -1,0 +1,24 @@
+T1	TranscriptionError_Document 0 1	1
+T2	DuplicatePage 0 1	1
+T3	Organization 3 11	dE Comp:
+A1	Beneficiary T3 No
+T4	Person 12 29	Henderik Wouthers
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Testator
+T5	ProperName 12 29	Henderik Wouthers
+T6	Person 153 179;180 182;183 192	Rudolph Florentius van der de Niepoort,
+A5	Gender T6 Unspecified
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Acting_Notary
+T7	ProperName 153 179;180 182;183 191	Rudolph Florentius van der de Niepoort
+T8	Person 317 333	Hendrik Wouthers
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Testator
+T9	ProperName 317 333	Hendrik Wouthers
+T10	Place 339 375	Rees geleegen in het Hertogdom Cleef
+T11	ProperName 339 343	Rees
+T12	ProperName 370 375	Cleef
+T13	Organization 1320 1339	de Samarangse armen
+A11	Beneficiary T13 Yes

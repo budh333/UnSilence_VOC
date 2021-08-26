@@ -1,0 +1,44 @@
+T1	DuplicatePage 2 5	ste
+T2	Person 143 167;168 185	Pieter Herstad assistent en geswore scriba
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 143 157	Pieter Herstad
+T4	Person 230 266	Getuijgen, Francois Caffin Corporaal
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 241 256	Francois Caffin
+T6	Organization 281 286	EComp
+T7	Place 281 286	EComp
+T9	Person 1136 1163	Zacharias Willem Anthonijsz
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 1136 1163	Zacharias Willem Anthonijsz
+T12	ProperName 1167 1181	Bernard Aronsz
+T13	Person 1167 1205	Bernard Aronsz: Clerquen als getuijgen
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Witness
+T11	Person 1343 1355	H:t Ketelaur
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T14	ProperName 1343 1355	H:t Ketelaur
+T15	Person 1593 1609	Nonja Wilhelmina
+A16	Gender T15 Woman
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary
+T16	ProperName 1593 1609	Nonja Wilhelmina
+T17	Person 1738 1747	Kok Johan
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 1742 1747	Johan
+T19	ProperName 1866 1877	H: Rijnnagh
+T20	Person 1866 1877	H: Rijnnagh
+A22	Gender T20 Unspecified
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Other
+T21	Place 186 206	ten dezen Comptoire;

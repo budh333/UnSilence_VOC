@@ -1,0 +1,20 @@
+T2	ProperName 15 36	Pieter van der Weerth
+T4	ProperName 135 142;143 149	Hendrik WanDel
+T5	Organization 504 528;529 538	de Edele hooge Jndiasche regeering
+T6	Person 636 650	de Lijfeigenen
+A7	Gender T6 Group
+A8	LegalStatus T6 Enslaved
+T7	Person 1149 1154;1155 1164	Lijf„ feijgenen
+A10	Gender T7 Group
+A11	LegalStatus T7 Enslaved
+A9	Role T6 Other
+A12	Role T7 Other
+T1	Person 15 36	Pieter van der Weerth
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T3	Person 130 142;143 149	Heer Hendrik WanDel
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+A13	Beneficiary T5 No

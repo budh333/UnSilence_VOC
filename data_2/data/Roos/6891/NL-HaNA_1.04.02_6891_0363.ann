@@ -1,0 +1,84 @@
+T1	Person 18 38	Johan Daniel Tungman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 18 38	Johan Daniel Tungman
+T3	Person 102 137	M„r Herman Scheltus Notaris publicq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 106 121	Herman Scheltus
+T5	Organization 142 171;172 188	de Edele Hooge Regeeringe van Nederlands Jndia
+A7	Beneficiary T5 No
+T6	ProperName 172 188	Nederlands Jndia
+T7	Place 172 188	Nederlands Jndia
+T8	Place 201 222	binnende stad batavia
+T9	ProperName 215 222	batavia
+T10	Person 271 308	den E Joachim Hendrik Schmid, koopman
+A8	Gender T10 Man
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Testator
+T11	ProperName 277 299	Joachim Hendrik Schmid
+T12	Organization 340 355	der Edele Comp:
+T13	Person 410 429	Jochem Hendrik Smit
+A11	Gender T13 Man
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Testator
+T14	ProperName 410 429	Jochem Hendrik Smit
+T15	Place 439 456	binnen deeze stad
+T16	Person 1140 1169	DE Pieter Arends Hoek koopman
+A14	Gender T16 Man
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Beneficiary
+T17	ProperName 1143 1161	Pieter Arends Hoek
+T18	Person 1197 1229	Philippus de Elnijk onderkoopman
+A17	Gender T18 Man
+A18	LegalStatus T18 Unspecified
+A19	Role T18 Beneficiary
+T19	ProperName 1197 1216	Philippus de Elnijk
+T20	Person 1417 1438	Januarij Van ternaten
+A20	Gender T20 Man
+A21	LegalStatus T20 Freed
+A22	Role T20 Beneficiary
+T21	ProperName 1417 1438	Januarij Van ternaten
+T22	Place 1430 1438	ternaten
+T23	Person 1448 1474	wijff Regina van Maccasser
+A23	Gender T23 Woman
+A24	LegalStatus T23 Freed
+A25	Role T23 Beneficiary
+T24	ProperName 1454 1474	Regina van Maccasser
+T25	Place 1465 1474	Maccasser
+T26	Person 1824 1862	Mejuffrouw Margaretha Elisabeth schmid
+A26	Gender T26 Woman
+A27	LegalStatus T26 Unspecified
+A28	Role T26 Beneficiary
+T27	ProperName 1835 1862	Margaretha Elisabeth schmid
+T28	Person 1949 1964	Maria Elisabeth
+A29	Gender T28 Unspecified
+A30	LegalStatus T28 Unspecified
+A31	Role T28 Beneficiary
+T29	ProperName 1949 1964	Maria Elisabeth
+T30	Person 1967 1980;1981 1994	Sabina Elisa„ „beth Reichem
+A32	Gender T30 Unspecified
+A33	LegalStatus T30 Unspecified
+A34	Role T30 Beneficiary
+T31	ProperName 1967 1980;1981 1994	Sabina Elisa„ „beth Reichem
+T32	Person 2004 2013	Catharina
+A35	Gender T32 Unspecified
+A36	LegalStatus T32 Unspecified
+A37	Role T32 Beneficiary
+T33	ProperName 2004 2013	Catharina
+T34	Person 2017 2039	Anna Elisabeth Hopfner
+A38	Gender T34 Unspecified
+A39	LegalStatus T34 Unspecified
+A40	Role T34 Beneficiary
+T35	ProperName 2017 2039	Anna Elisabeth Hopfner
+T36	Place 2058 2129	kijritz geleegen in de Pregnitzer Mark in ’t keurvorstendom Brandenburg
+T37	ProperName 2058 2065	kijritz
+T38	ProperName 2081 2096	Pregnitzer Mark
+T39	ProperName 2118 2129	Brandenburg
+A41	Beneficiary T12 No
+T40	Person 1385 1406	vrijgegeevene Claaren
+A42	Gender T40 Group
+A43	LegalStatus T40 Freed
+A44	Role T40 Beneficiary

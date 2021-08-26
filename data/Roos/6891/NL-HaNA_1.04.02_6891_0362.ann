@@ -1,0 +1,32 @@
+T1	Place 421 448	schip ’t slot te Cronenburg
+T2	ProperName 427 448	’t slot te Cronenburg
+T3	Person 467 489	Harmen huikes boottman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 467 480	Harmen huikes
+T5	Person 493 496;497 503	Jan Wessel
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 493 496;497 503	Jan Wessel
+T7	Person 603 616	Phuenes Swart
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	ProperName 603 616	Phuenes Swart
+T9	Person 648 661	harmen huyser
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	ProperName 648 661	harmen huyser
+T11	Person 707 717	Van Wessel
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Witness
+T12	ProperName 707 717	Van Wessel
+T13	Person 718 726	P Toutme
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Acting_Notary
+T14	ProperName 718 726	P Toutme

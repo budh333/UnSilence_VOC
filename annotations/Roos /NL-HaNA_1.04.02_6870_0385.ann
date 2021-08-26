@@ -1,0 +1,33 @@
+T1	Person 120 148	Jk george de bons ondercoopm
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 120 137	Jk george de bons
+T3	Person 510 521;523 549	den Inlands „burger bendjamin Jacobsz:
+A4	Gender T3 Man
+A5	LegalStatus T3 Freed
+A6	Role T3 Other
+T4	ProperName 531 549	bendjamin Jacobsz:
+T5	Person 614 631	D:E fred„k Jansz.
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 618 630	fred„k Jansz
+T7	Organization 1954 1970	de diacony armen
+A10	Beneficiary T7 Yes
+T8	Person 2123 2142	Jacoba van macasser
+A11	Gender T8 Woman
+A12	LegalStatus T8 Unspecified
+A13	Role T8 Beneficiary
+T9	ProperName 2123 2142	Jacoba van macasser
+T10	Place 2134 2142	macasser
+T11	Person 2454 2468	Johan frederik
+A14	Gender T11 Unspecified
+A15	LegalStatus T11 Unspecified
+A16	Role T11 Beneficiary
+T12	ProperName 2454 2468	Johan frederik
+T13	Person 2474 2484	Jan George
+A17	Gender T13 Unspecified
+A18	LegalStatus T13 Unspecified
+A19	Role T13 Beneficiary
+T14	ProperName 2474 2484	Jan George

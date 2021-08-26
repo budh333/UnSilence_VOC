@@ -1,0 +1,15 @@
+T1	ProperName 480 492	J: G: Helmke
+T2	ProperName 551 560	Jan Lapro
+T3	ProperName 586 599	C: E: Echardt
+T4	Person 586 599	C: E: Echardt
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	Person 551 560	Jan Lapro
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	Person 480 492	J: G: Helmke
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other

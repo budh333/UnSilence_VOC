@@ -1,0 +1,47 @@
+T1	Person 48 66	Johan Godlieh Smit
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 48 66	Johan Godlieh Smit
+T3	Person 156 175	george Otto Dijkman
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	Place 208 223	deese Comptoire
+T5	Person 274 292	Johan Godlieb Smit
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator_Beneficiary
+T6	Place 298 305	Porgouw
+T7	ProperName 298 305	Porgouw
+T8	Person 309 334	Catharina Melena Cornelis
+A10	Gender T8 Woman
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator_Beneficiary
+T9	Place 340 350	Sourabaija
+T10	ProperName 340 350	Sourabaija
+T11	ProperName 309 334	Catharina Melena Cornelis
+T12	Person 523 529	Kaelen
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Testator
+T13	Person 623 640	Johan David Riebe
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Acting_Notary
+T14	ProperName 623 640	Johan David Riebe
+T15	Organization 665 670	EComp
+T16	Person 761 780	George otto Dijkman
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 761 780	George otto Dijkman
+T18	Place 820 881;882 910	Ten huijsen en voor de slaepsteede van den alhier bescheijden Lergeant Johannes van Haelen
+T19	Person 891 910	Johannes van Haelen
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Testator
+T20	Organization 1831 1851	Samarangse weeshuijs
+A25	Beneficiary T20 Yes
+T21	Place 2005 2015	souracarta
+T22	ProperName 274 292	Johan Godlieb Smit

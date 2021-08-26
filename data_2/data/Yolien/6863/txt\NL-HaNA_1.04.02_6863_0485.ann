@@ -1,0 +1,90 @@
+T1	ProperName 12 22	Kretschman
+T2	Person 12 22	Kretschman
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 23 46	Johan Christiaan Muller
+T4	Person 23 46	Johan Christiaan Muller
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 142 171	Wilhelmus Philippus Wetzelius
+T6	Person 142 171	Wilhelmus Philippus Wetzelius
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Acting_Notary
+T7	TranscriptionError_Document 0 5	peien
+T8	DuplicatePage 0 5	peien
+T9	Organization 206 217;218 229	secretaaije van politie
+T10	ProperName 265 287	Joan Christiaan Muller
+T11	Person 265 287	Joan Christiaan Muller
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 292 298	Ropein
+T13	Organization 310 315	sComp
+T14	Person 614 628	uEd D WDienaar
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 620 628	WDienaar
+T16	Person 642 657	theodorus morel
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other
+T17	ProperName 642 657	theodorus morel
+T18	Person 834 860	assistent Theoderus Moenel
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	ProperName 844 860	Theoderus Moenel
+T20	Place 945 952	Colombo
+T21	ProperName 945 952	Colombo
+T22	Person 995 1007	I: W: Ertman
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T23	ProperName 1001 1007	Ertman
+T24	ProperName 1121 1134	Adriaan moens
+T25	Person 1121 1134	Adriaan moens
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	Person 1213 1221	T: Morel
+A28	Gender T26 Man
+A29	LegalStatus T26 Unspecified
+A30	Role T26 Other
+T27	ProperName 1216 1221	Morel
+T28	Person 1348 1358	I: Catuffe
+A31	Gender T28 Unspecified
+A32	LegalStatus T28 Unspecified
+A33	Role T28 Other
+T29	ProperName 1351 1358	Catuffe
+T30	Place 1374 1381	Colombo
+T31	ProperName 1374 1381	Colombo
+T32	Person 1513 1531	heer adriaan moens
+A34	Gender T32 Man
+A35	LegalStatus T32 Unspecified
+A36	Role T32 Other
+T33	ProperName 1518 1531	adriaan moens
+T34	ProperName 1614 1626	theod= morel
+T35	Person 1614 1626	theod= morel
+A37	Gender T35 Man
+A38	LegalStatus T35 Unspecified
+A39	Role T35 Other
+T36	Place 1712 1731	schip de jonge liwe
+T37	ProperName 1721 1731	jonge liwe
+T38	Person 1761 1771	heer moens
+A40	Gender T38 Man
+A41	LegalStatus T38 Unspecified
+A42	Role T38 Other
+T39	ProperName 1766 1771	moens
+T40	Place 1973 1980	Colembo
+T41	ProperName 1973 1980	Colembo
+T42	ProperName 2060 2073	Baniel de Bok
+T43	Person 2060 2073	Baniel de Bok
+A43	Gender T43 Unspecified
+A44	LegalStatus T43 Unspecified
+A45	Role T43 Other
+T44	DuplicatePage 2093 2095	en
+T45	ProperName 2096 2102	Muller

@@ -1,0 +1,23 @@
+T1	Person 9 19	J Banjeman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 9 19	J Banjeman
+T4	Organization 237 244	sComp:s
+T5	ProperName 210 228	DE Carolus Pompeus
+T7	ProperName 255 272	Reiniea Hendriksz
+T8	Organization 605 629;630 664	de hoog Edele Agtb: heer bewindhebberen ter kamer amsterdam
+T9	Place 655 664	amsterdam
+T10	ProperName 655 664	amsterdam
+T11	Organization 727 734	sComp:s
+T3	Person 210 233	DE Carolus Pompeus boek
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T6	Person 255 273	Reiniea Hendriksz:
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+A10	Beneficiary T4 No
+A11	Beneficiary T8 No
+A12	Beneficiary T11 No

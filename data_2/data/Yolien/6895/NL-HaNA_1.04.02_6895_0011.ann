@@ -1,0 +1,30 @@
+T1	TranscriptionError_Document 3 8	27094
+T2	Person 103 122	M„r Egbert Blomhert
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Notary
+T3	ProperName 107 122	Egbert Blomhert
+T4	Organization 146 171;172 190	Edele hooge Regeering van Nederlandsch Jndia
+T5	ProperName 172 190	Nederlandsch Jndia
+T6	Place 212 219;220 227	de stad Batavia
+T7	ProperName 220 227	Batavia
+T8	Organization 331 335	Comp
+T9	Organization 350 354	Comp
+T10	Place 355 370	schip: De Jonge
+T11	ProperName 362 370	De Jonge
+T12	ProperName 371 387	Petrus Alberties
+T13	Person 371 387	Petrus Alberties
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Testator
+T14	ProperName 289 296	Broerse
+T15	Person 983 999;1000 1006	Mons=r Stephonus Putool
+A7	Gender T15 Man
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Beneficiary
+T16	ProperName 990 999;1000 1007	Stephonus Putool,
+T17	Organization 1025 1037;1038 1051	Timmerlieden van den Train
+T18	ProperName 1025 1037;1038 1051	Timmerlieden van den Train
+T19	DuplicatePage 1611 1615	Amen
+T20	Place 1679 1686	Batavia
+T21	ProperName 1679 1686	Batavia

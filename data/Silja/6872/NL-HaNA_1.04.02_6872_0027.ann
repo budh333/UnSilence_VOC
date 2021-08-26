@@ -1,0 +1,39 @@
+T1	Place 57 81	in't Casteel Iafnapatnam
+T2	ProperName 62 81	Casteel Iafnapatnam
+T3	Place 262 281	int Casteel Colombo
+T4	ProperName 266 281	Casteel Colombo
+T5	Place 394 419	in't Casteel de goedehoop
+T6	ProperName 396 419	't Casteel de goedehoop
+T7	Place 512 514;515 555	in 's E Compt hospitaal aan Cabodegoedehoop
+T8	Organization 518 524	E Comp
+T9	ProperName 518 524	E Comp
+T10	Place 526 535	hospitaal
+T11	Place 540 555	Cabodegoedehoop
+T12	ProperName 540 555	Cabodegoedehoop
+T13	Person 617 628	D: D Aillij
+A1	Gender T13 Unspecified
+A2	LegalStatus T13 Unspecified
+A3	Role T13 Other
+T14	ProperName 617 628	D: D Aillij
+T15	Person 677 683;684 703	Hend=k de Ruijter I:r Raek
+A4	Gender T15 Unspecified
+A5	LegalStatus T15 Unspecified
+A6	Role T15 Other
+T16	ProperName 677 683;684 703	Hend=k de Ruijter I:r Raek
+T17	Person 843 855	Anna heijlon
+A7	Gender T17 Woman
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Other
+T18	ProperName 843 855	Anna heijlon
+T19	Person 857 873	Jasp=r Martens z
+A10	Gender T19 Unspecified
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Other
+T20	ProperName 857 873	Jasp=r Martens z
+T21	Place 902 922	ten zoldij Comptoirs
+T22	ProperName 936 948	D=r D tillij
+T23	Person 936 948	D=r D tillij
+A13	Gender T23 Unspecified
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Other
+A16	Beneficiary T8 No

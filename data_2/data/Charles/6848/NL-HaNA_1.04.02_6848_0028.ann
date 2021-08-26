@@ -1,0 +1,64 @@
+T1	Person 21 51	M:r Anthonij Cornelis verspijc
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 25 52	Anthonij Cornelis verspijck
+T3	Organization 72 114	Edele hooge regeringe van nederlands India
+T4	ProperName 78 114	hooge regeringe van nederlands India
+T5	Place 98 114	nederlands India
+T6	ProperName 98 114	nederlands India
+T7	Place 144 151	Balavia
+T8	ProperName 144 151	Balavia
+T9	Person 197 220	Mons Hans Iacob Resmchr
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+T10	ProperName 202 220	Hans Iacob Resmchr
+T11	Place 257 283	roca novo buyten dese stad
+T13	ProperName 782 806	Johannes Diederik Resmer
+T12	Person 774 806	broeder Johannes Diederik Resmer
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+T14	Person 867 907	halff sister Sussanna Bernardina Rosmehe
+A10	Gender T14 Woman
+A11	LegalStatus T14 Unspecified
+T15	ProperName 880 907	Sussanna Bernardina Rosmehe
+T16	Person 959 975	oom David Davids
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+T17	ProperName 963 975	David Davids
+T18	Organization 1007 1015	E: Comp:
+T19	Person 1227 1243;1244 1269	Moeij Iup=m Dina Francina David Huys vrouw
+A16	Gender T19 Woman
+A17	LegalStatus T19 Unspecified
+T20	ProperName 1244 1258	Francina David
+T21	Person 1259 1269	Huys vrouw
+A19	Gender T21 Woman
+A20	LegalStatus T21 Unspecified
+A21	Notary T21 No
+T22	Person 1227 1238	Moeij Iup=m
+A22	Gender T22 Woman
+A23	LegalStatus T22 Unspecified
+T24	Person 867 879	halff sister
+A28	Gender T24 Woman
+A29	LegalStatus T24 Unspecified
+T25	Person 774 781	broeder
+A31	Gender T25 Man
+A32	LegalStatus T25 Unspecified
+T26	Organization 1306 1313	E: Comp
+T27	Person 1315 1331	Johannes Philips
+A34	Gender T27 Man
+A35	LegalStatus T27 Unspecified
+T28	ProperName 1315 1331	Johannes Philips
+T29	Person 1658 1667	Erfgename
+A37	Gender T29 Woman
+A38	LegalStatus T29 Unspecified
+A3	Role T1 Notary
+A6	Role T9 Witness
+A9	Role T12 Beneficiary
+A33	Role T25 Beneficiary
+A12	Role T14 Beneficiary
+A30	Role T24 Beneficiary
+A15	Role T16 Beneficiary
+A24	Role T22 Beneficiary
+A18	Role T19 Beneficiary
+A25	Role T27 Other
+A26	Role T29 Beneficiary

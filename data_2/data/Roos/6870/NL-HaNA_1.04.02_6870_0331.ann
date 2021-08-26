@@ -1,0 +1,22 @@
+T1	Person 276 284;285 293	Cornelis van Riel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 276 284;285 293	Cornelis van Riel
+T3	Organization 310 333	het malaxe gouvernement
+A4	Beneficiary T3 No
+T4	Person 392 401;402 415	Hermanmes van Juchtelen
+A5	Gender T4 Man
+A6	LegalStatus T4 Unspecified
+A7	Role T4 Other
+T5	ProperName 392 401;402 415	Hermanmes van Juchtelen
+T6	Person 536 560	mons:r Casparus ’t hooft
+A8	Gender T6 Man
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Testator_Beneficiary
+T7	ProperName 543 561	Casparus ’t hooft,
+T8	Person 580 585;586 587;588 620	vrouw l Juff=r Hermanna Cornelia Mijleus
+A11	Gender T8 Woman
+A12	LegalStatus T8 Unspecified
+A13	Role T8 Testator_Beneficiary
+T9	ProperName 595 620	Hermanna Cornelia Mijleus

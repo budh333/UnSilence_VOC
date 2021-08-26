@@ -1,0 +1,32 @@
+T1	Person 10 34	Frans Adriaan Bodenstein
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 10 34	Frans Adriaan Bodenstein
+T3	Person 61 82;83 107	Den Boekhouder alhier Frans Adriaan Bovenstein
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 83 107	Frans Adriaan Bovenstein
+T5	Person 193 239;240 261	Johan Aintlonij Dulam geze, klerk van Bolittie dee zel Gouvernements
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 193 214	Johan Aintlonij Dulam
+T7	ProperName 452 461	der Comp2
+T8	Organization 452 461	der Comp2
+T9	Person 469 492	Frant Adrian Borenhtein
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 469 492	Frant Adrian Borenhtein
+T11	Person 503 508;509 531	vrouw Pancina van Moetbergen
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Testator
+T12	ProperName 509 531	Pancina van Moetbergen
+T13	Person 1199 1240;1241 1246	Zoontje met name Iohannes Preovorch Boven „Item
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Beneficiary
+T14	ProperName 1216 1240;1241 1246	Iohannes Preovorch Boven „Item

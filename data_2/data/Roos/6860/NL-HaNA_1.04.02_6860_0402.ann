@@ -1,0 +1,31 @@
+T1	TranscriptionError_Document 0 15	ondergeteekende
+T2	DuplicatePage 0 15	ondergeteekende
+T3	Place 86 96	Sourabaija
+T4	ProperName 86 96	Sourabaija
+T5	Person 128 151	Andries Hartsink Iunior
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 128 151	Andries Hartsink Iunior
+T7	Person 203 208;209 214	heer„ sinck
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 209 214	sinck
+T9	Place 237 247	Sourabaija
+T10	ProperName 237 247	Sourabaija
+T11	Person 291 313	R: F: van der Niepoort
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Acting_Notary
+T12	ProperName 291 313	R: F: van der Niepoort
+T13	Person 529 543	willem Kerkman
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Acting_Notary
+T14	ProperName 529 543	willem Kerkman
+T15	Person 325 334;335 345	H H vange Polty Bout
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 325 334;335 345	H H vange Polty Bout

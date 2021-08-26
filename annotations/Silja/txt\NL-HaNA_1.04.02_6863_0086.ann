@@ -1,0 +1,45 @@
+T1	Person 19 30	M„r Ceharde
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 23 30	Ceharde
+T3	Person 126 139	P„r Matthijze
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 130 139	Matthijze
+T5	ProperName 82 99	Hampersad sercaar
+T6	Person 82 99	Hampersad sercaar
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 160 178	De Heer Dompelingh
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 168 178	Dompelingh
+T9	ProperName 322 330	Hurmamed
+T10	Person 322 330	Hurmamed
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 450 460	Scheerkolk
+T12	Person 450 460	Scheerkolk
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	Person 474 491	d’E Heer Haugwitz
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 483 491	Haugwitz
+T15	ProperName 522 531	Nethoesae
+T16	Person 522 531	Nethoesae
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	Person 585 600	De heer Keijtel
+A25	Gender T17 Man
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 593 600	Keijtel

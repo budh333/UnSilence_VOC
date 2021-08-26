@@ -1,0 +1,26 @@
+T1	DuplicatePage 0 10	Inventaris
+T2	ProperName 55 61	E Comp
+T3	Organization 55 61	E Comp
+A1	Beneficiary T3 No
+T4	ProperName 102 116;81 94	van Zwalenland Johannes otto
+T5	Person 102 116;81 94	van Zwalenland Johannes otto
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Other
+T6	Place 450 457	Sumanap
+T7	ProperName 450 457	Sumanap
+T8	ProperName 576 590	C=r Cr Schardt
+T9	ProperName 524 542	J„r P„ Phefferkorn
+T10	ProperName 547 552;553 564	F: H: Welschleger
+T11	Person 524 542	J„r P„ Phefferkorn
+A5	Gender T11 Unspecified
+A6	LegalStatus T11 Unspecified
+A7	Role T11 Other
+T12	Person 547 552;553 564	F: H: Welschleger
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Other
+T13	Person 576 590	C=r Cr Schardt
+A11	Gender T13 Unspecified
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Other

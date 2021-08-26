@@ -1,0 +1,31 @@
+T1	Person 84 93	6: Demoor
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+#1	AnnotatorNotes T1	E de Moor
+T2	ProperName 84 93	6: Demoor
+#2	AnnotatorNotes T2	E de Moor
+T3	Person 135 147	H:k Brinkman
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	Place 173 188;189 211	ten woonhuijsen van d’ E„s Comparanten
+T5	Place 249 287	Casteel Colombo op het Eijlant Ceijlon
+T6	ProperName 257 264	Colombo
+T7	ProperName 280 287	Ceijlon
+T8	Place 268 287	het Eijlant Ceijlon
+T9	Person 324 350	fredrik Bernard, Giffening
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 324 350	fredrik Bernard, Giffening
+T11	Person 376 407	hendrik Frederik dias Dafonceca
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 376 407	hendrik Frederik dias Dafonceca
+T13	Person 698 709	F: gratiaan
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Acting_Notary
+T14	ProperName 698 709	F: gratiaan

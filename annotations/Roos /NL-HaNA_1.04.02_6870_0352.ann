@@ -1,0 +1,19 @@
+T1	Person 11 23	CC: Claavsen
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 11 23	CC: Claavsen
+T3	Person 379 400	Jacob Hendrik Boeland
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 379 400	Jacob Hendrik Boeland
+T5	Person 420 443;444 468	de vrije Christen vrouw Maria Elizabeth Schouten
+A7	Gender T5 Woman
+A8	LegalStatus T5 Freed
+A9	Role T5 Beneficiary
+T6	ProperName 444 468	Maria Elizabeth Schouten
+T7	Organization 990 1037;1038 1055	de wel Edele Groot Agtbe Heeren bewind hebbenen ter kamer Zeeland
+A10	Beneficiary T7 No
+T8	Place 1048 1055	Zeeland
+T9	ProperName 1048 1055	Zeeland

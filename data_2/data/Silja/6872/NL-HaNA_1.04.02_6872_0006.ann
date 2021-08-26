@@ -1,0 +1,11 @@
+T1	Person 419 453;454 460	Huijsvrouw Anna maria Six van Cham delier
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 430 453;454 460	Anna maria Six van Cham delier
+T3	Person 623 647	S=r Frans Louis van Gros
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 627 647	Frans Louis van Gros
+T5	Place 594 609;610 621	Stellenberch en drakenstein

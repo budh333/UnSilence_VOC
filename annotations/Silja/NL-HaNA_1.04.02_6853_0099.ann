@@ -1,0 +1,34 @@
+T1	DuplicatePage 0 1	n
+T2	ProperName 11 32	Jan Christiaan Malseh
+T3	Person 11 32	Jan Christiaan Malseh
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 94 118	Iacobus Wijnand brengman
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 94 118	Iacobus Wijnand brengman
+T6	ProperName 119 139	Gosen van der Meulen
+T7	Person 119 139	Gosen van der Meulen
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Person 194 221;222 230	M:r Joan van der voortnot=s publicq:
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Notary
+T9	ProperName 198 216	Joan van der voort
+T10	Organization 234 279	de Edele hooge-regeringe van nnderlands Jndia
+T11	ProperName 234 279	de Edele hooge-regeringe van nnderlands Jndia
+T12	ProperName 263 279	nnderlands Jndia
+T13	Place 263 279	nnderlands Jndia
+T14	Place 301 313	stad batavia
+T15	ProperName 306 313	batavia
+T16	Place 1217 1228	sterffhuyse
+T17	Organization 1700 1713;1714 1733	geactroijeerd Oost Jndische Comp:
+T18	ProperName 1700 1713;1714 1733	geactroijeerd Oost Jndische Comp:
+T19	Place 1744 1753	Amsterdam
+T20	ProperName 1744 1753	Amsterdam
+A13	Beneficiary T10 No
+A14	Beneficiary T17 No

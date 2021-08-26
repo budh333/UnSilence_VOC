@@ -1,0 +1,46 @@
+T1	Organization 89 104;105 117;118 155	de Edele agtba„ 1tot execute Heeren bewinthebberen ter camer delft
+T2	Place 150 155	delft
+T3	ProperName 150 155	delft
+T4	Person 193 210	Hendrik westralen
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Beneficiary
+T5	ProperName 193 210	Hendrik westralen
+T6	Person 429 459	boeckhouder s=r fredrik vanden
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Acting_Notary
+T7	ProperName 441 459	s=r fredrik vanden
+T8	Noteworthy 429 459	boeckhouder s=r fredrik vanden
+#1	AnnotatorNotes T8	boekhouder acting as notary in Malacca 
+T9	Person 957 968	jan zeensz:
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 957 968	jan zeensz:
+T11	Person 969 986	Arij van d=r Burg
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 969 986	Arij van d=r Burg
+T13	Person 1026 1053	willem willemsz: hagesteijn
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 1026 1053	willem willemsz: hagesteijn
+T15	Person 1092 1107	klaas sandertse
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 1092 1107	klaas sandertse
+T17	Person 1108 1117	Jann Lack
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 1108 1117	Jann Lack
+T19	Person 1118 1136	Coenraadt oist mar
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	ProperName 1118 1136	Coenraadt oist mar
+A25	Beneficiary T1 No

@@ -1,0 +1,35 @@
+T1	Place 7 22	de stad Batavia
+T2	ProperName 15 22	Batavia
+T3	Person 59 71;72 78	getuigen Jan Iansen
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+T4	ProperName 68 71;72 78	Jan Iansen
+T5	Person 112 133	Heer advocaat Fiscaal
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+T6	Place 150 206	over de Wal van de uittregtse poort opf de komijne gragt
+T7	ProperName 193 206	komijne gragt
+T10	Person 809 829;830 851	vrije Christen vrouw Cleopatra van Batavia
+A13	Gender T10 Woman
+A14	LegalStatus T10 Freed
+T11	ProperName 830 851	Cleopatra van Batavia
+T12	Person 1118 1136	Heer Water fiscaal
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+T13	Person 1144 1158	Nicolaas Ianse
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+T14	ProperName 1144 1158	Nicolaas Ianse
+T15	Person 1163 1172	Ian Hunst
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+T16	ProperName 1163 1172	Ian Hunst
+T17	Organization 1406 1412;1413 1442	Colle„ „gie van Heeren Weesmeesteren
+T18	ProperName 1406 1412;1413 1442	Colle„ „gie van Heeren Weesmeesteren
+T19	Organization 1729 1733	Comp
+A3	Role T3 Testator
+A6	Role T5 Testator
+A7	Role T10 Beneficiary
+A8	Role T12 Testator
+A9	Role T13 Beneficiary
+A10	Role T15 Beneficiary

@@ -1,0 +1,24 @@
+T1	Person 39 54	Maria Hardeveld
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 39 54	Maria Hardeveld
+T3	Person 118 142	Maria Jacoba Frankendaal
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 118 142	Maria Jacoba Frankendaal
+T5	Place 163 172	Amsterdam
+T6	ProperName 163 172	Amsterdam
+T8	ProperName 440 444;445 448	Ians Lam
+T9	Organization 475 486	der E: Comp
+T11	ProperName 497 513	Salomon Stoebijn
+T7	Person 440 444;445 448	Ians Lam
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T10	Person 490 513	Mons:t Salomon Stoebijn
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+A13	Beneficiary T9 No

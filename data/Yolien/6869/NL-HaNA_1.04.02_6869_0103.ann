@@ -1,0 +1,32 @@
+T1	ProperName 64 79	Daniel overbeek
+T2	Person 64 79	Daniel overbeek
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T5	ProperName 258 269;270 279	Ian gabreel lagerblam
+T6	Person 258 269;270 279	Ian gabreel lagerblam
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	Person 506 515	M: Koning
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 509 515	Koning
+T9	Person 539 550	Van Bievens
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 539 550	Van Bievens
+T11	Person 34 50	Ianhend„ Swenkls
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 34 50	Ianhend„ Swenkls
+T3	Place 180 203	schip D Gustaaff willem
+T4	ProperName 186 203	D Gustaaff willem
+T14	ProperName 450 456	koning
+T13	Person 450 456	koning
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Acting_Notary

@@ -1,0 +1,25 @@
+T1	Place 267 290	Ten gouvernemente banda
+T2	ProperName 285 290	banda
+T3	Person 365 407	P:s D' Leeuw: beijde Clercq: als getuijgen
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 365 377	P:s D' Leeuw
+T5	Place 434 453	hier Beesecretarije
+T6	Person 568 584;585 593	M:r V: D: Crapba secret:s
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 568 584	M:r V: D: Crapba
+T8	Person 670 693	I:n D: Kenitke secret:s
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 670 684	I:n D: Kenitke
+T10	Place 792 797	banda
+T11	ProperName 792 797	banda
+T12	Person 838 848;852 864	J:s Greven P:r Secoet:s
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 838 847	J:s Greve

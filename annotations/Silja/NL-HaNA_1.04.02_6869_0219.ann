@@ -1,0 +1,61 @@
+T1	DuplicatePage 0 6	Jndies
+T4	Place 255 264	woonhuise
+T5	Person 269 287;288 301	Mejuffrouw Agnitha Maria Bierens
+A1	Gender T5 Woman
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 280 287;288 301	Agnitha Maria Bierens
+T7	Person 361 376	Abraham Samlant
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 361 376	Abraham Samlant
+T9	Person 410 426	Mejuffrouw Adria
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 421 426	Adria
+T11	Person 89 111	Gerrard Joan Fijbrands
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 89 111	Gerrard Joan Fijbrands
+T13	Organization 647 662	Raade van Indre
+T14	ProperName 647 662	Raade van Indre
+#1	AnnotatorNotes T14	Raad van Indië
+T15	ProperName 657 662	Indre
+T16	Place 657 662	Indre
+#2	AnnotatorNotes T16	Indië
+T17	Place 1436 1444	Comptoir
+T18	Person 1696 1708	F: C. Spaan.
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	ProperName 1696 1707	F: C. Spaan
+T20	Person 1734 1742	A Meuwen
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 1734 1742	A Meuwen
+T22	ProperName 1743 1748	FGoot
+T23	Person 1743 1748	FGoot
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Other
+T24	Person 1521 1542	Johanes vander Berghj
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Witness
+T25	ProperName 1521 1542	Johanes vander Berghj
+T26	Person 1502 1513;1514 1517	Joh= Adolph Ham
+A25	Gender T26 Unspecified
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Witness
+T27	ProperName 1502 1513;1514 1517	Joh= Adolph Ham
+T28	Place 1447 1457	Johjocasta
+#3	AnnotatorNotes T28	Jokjocarta
+T29	ProperName 1447 1457	Johjocasta
+T2	Place 151 176	ter secretari van politie
+T3	Organization 169 176	politie
+A28	Beneficiary T3 No
+A29	Beneficiary T13 No

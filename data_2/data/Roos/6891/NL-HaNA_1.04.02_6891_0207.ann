@@ -1,0 +1,28 @@
+T1	Person 125 146	Adolph Fredrik Morell
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 125 146	Adolph Fredrik Morell
+T3	Person 332 354	mons: Dirk Iansz: Olle
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 338 354	Dirk Iansz: Olle
+T5	Place 359 363;364 371	hoog Carspel
+T6	ProperName 359 363;364 371	hoog Carspel
+T7	Person 375 399	Iuffrouw Cornelia Iacobs
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator_Beneficiary
+T8	ProperName 384 399	Cornelia Iacobs
+T9	Place 404 413	maccassar
+T10	ProperName 404 413	maccassar
+T11	Person 2010 2019	Slavinnen
+A10	Gender T11 Group
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other
+T12	Person 2466 2490	dogtertje Elisabeth olle
+A13	Gender T12 Woman
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary
+T13	ProperName 2476 2490	Elisabeth olle

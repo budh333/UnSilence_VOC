@@ -1,0 +1,33 @@
+T1	Person 511 534;535 541	breeder Postas Gerardus Oriman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	Place 572 579	amboina
+T3	ProperName 572 579	amboina
+T4	ProperName 519 534;535 541	Postas Gerardus Oriman
+T6	ProperName 589 604	Dianira Schorls
+T7	Person 672 691;692 701	E: Abraham Anthonie Van Soest
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+T8	ProperName 675 691;692 701	Abraham Anthonie Van Soest
+T10	ProperName 1023 1044	Hade Van Damol Beinon
+T11	Place 1104 1112	Casteels
+T12	Organization 1070 1097	Ed: agtb: raad van Iustitie
+T13	ProperName 1080 1097	raad van Iustitie
+T15	Place 1503 1512	sterfhuys
+T16	Place 1701 1710	Amsterdam
+T17	ProperName 1701 1710	Amsterdam
+A3	Role T1 Beneficiary
+T5	Person 583 588;589 604	m Jup Dianira Schorls
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+A9	Role T7 Other
+T14	Person 1019 1044	Ed: Hade Van Damol Beinon
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T18	Place 1435 1444	ter slede
+T9	Organization 1392 1427	't Eerw: Collegie van heeren weesen
+T19	ProperName 1392 1427	't Eerw: Collegie van heeren weesen
+A13	Beneficiary T12 No
+A14	Beneficiary T9 No

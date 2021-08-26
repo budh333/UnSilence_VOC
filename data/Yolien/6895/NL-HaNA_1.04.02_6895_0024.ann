@@ -1,0 +1,18 @@
+T1	Person 416 420;421 446	heer Johannes hendrik Coeleman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 421 446	Johannes hendrik Coeleman
+T3	Place 461 478	pruijssies minden
+T4	Person 509 539	moeder Iuff=r Elisabeth Steurs
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 523 539	Elisabeth Steurs
+T6	Person 558 580	Heer Iohannes brinkman
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 563 580	Iohannes brinkman
+T8	Place 596 601	Essen
+T9	ProperName 596 601	Essen

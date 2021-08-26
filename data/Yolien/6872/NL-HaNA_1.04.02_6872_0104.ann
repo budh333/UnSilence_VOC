@@ -1,0 +1,17 @@
+T1	ProperName 213 222	Bergvliet
+T2	Place 213 222	Bergvliet
+T3	Person 263 275	J: N: Schott
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	Person 311 321	L: S: Fabe
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 269 275	Schott
+T6	ProperName 317 322	Faber
+T7	ProperName 393 403	DResternon
+T8	Person 393 403	DResternon
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other

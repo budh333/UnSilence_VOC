@@ -1,0 +1,78 @@
+T1	DuplicatePage 0 6	konnen
+T2	Place 100 115	Casteel Colombo
+T3	ProperName 100 115	Casteel Colombo
+T4	Place 116 126	ten huijse
+T5	Person 209 220;221 228	ohannes van Geijzel
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 208 220;221 228	Johannes van Geijzel
+T7	ProperName 232 245	willem ledulx
+T8	Person 232 245	willem ledulx
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	Person 303 317	J: w: harmensz
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 303 318	J: w: harmensz:
+T11	ProperName 322 337	A: F:a schokman
+T12	Person 322 337	A: F:a schokman
+A10	Gender T12 Woman
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	Person 365 378	I: v: Geijzel
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 382 391	w: leduls
+T15	Person 365 378	I: v: Geijzel
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	Person 382 391	w: leduls
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 411 422	G: E: holft
+T18	Person 411 422	G: E: holft
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	Person 769 788	Ian willem harensen
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 769 788	Ian willem harensen
+T21	ProperName 816 821	Comp:
+T22	Organization 816 821	Comp:
+T23	ProperName 897 904	Colambo
+T24	Place 897 904	Colambo
+T25	Organization 1362 1367	Comp:
+T26	ProperName 1362 1367	Comp:
+T27	Person 1392 1407;1408 1427	geweesene slaaf Jan Franciee Havier
+A28	Gender T27 Man
+A29	LegalStatus T27 Freed
+A30	Role T27 Beneficiary
+T28	ProperName 1408 1427	Jan Franciee Havier
+T29	Person 1431 1449;1450 1460	geweesenen Savinne Anna Maria
+A31	Gender T29 Woman
+A32	LegalStatus T29 Freed
+A33	Role T29 Beneficiary
+T30	ProperName 1450 1460	Anna Maria
+T31	ProperName 1464 1470	Iaanne
+T32	Person 1464 1470	Iaanne
+A34	Gender T32 Woman
+A35	LegalStatus T32 Enslaved
+A36	Role T32 Beneficiary
+T33	Place 1541 1555	steene Huijsie
+T34	Place 1578 1581;1582 1597	ba„ zaar Merziapoer
+T35	ProperName 1578 1581;1582 1597	ba„ zaar Merziapoer
+T36	Person 869 892	anna Franchina Schokman
+A37	Gender T36 Woman
+A38	LegalStatus T36 Unspecified
+A39	Role T36 Other
+T37	ProperName 869 892	anna Franchina Schokman
+A40	Beneficiary T22 No
+A41	Beneficiary T25 No

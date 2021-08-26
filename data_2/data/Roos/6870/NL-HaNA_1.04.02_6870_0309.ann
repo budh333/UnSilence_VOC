@@ -1,0 +1,56 @@
+T1	TranscriptionError_Document 30 34	1799
+T2	DuplicatePage 30 34	1799
+T3	Person 0 29	Dingeman Basthaauve Groeneweg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 29	Dingeman Basthaauve Groeneweg
+T5	Person 89 110	Batthazar Ravensbergh
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 89 110	Batthazar Ravensbergh
+T7	Organization 224 233	’s Comp„s
+A7	Beneficiary T7 No
+T8	Person 248 257;258 278	Dingeman, Bastlaanse Groeneweg
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Testator
+T9	ProperName 248 257;258 278	Dingeman, Bastlaanse Groeneweg
+T10	Place 1520 1534	banda op neira
+T11	ProperName 1520 1534	banda op neira
+T12	Person 1581 1587;1588 1597	TErgen Poondorff
+A11	Gender T12 Unspecified
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Witness
+T13	ProperName 1581 1587;1588 1597	TErgen Poondorff
+T14	Person 1601 1614	L„r Zacharias
+A14	Gender T14 Unspecified
+A15	LegalStatus T14 Unspecified
+A16	Role T14 Witness
+T15	ProperName 1601 1614	L„r Zacharias
+T16	Person 1778 1782;1783 1805	hen„ „dris: Christiaan Finx
+A17	Gender T16 Unspecified
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Acting_Notary
+T17	ProperName 1778 1782;1783 1805	hen„ „dris: Christiaan Finx
+T18	Place 1889 1900	banda Nass:
+T19	ProperName 1889 1900	banda Nass:
+T20	Person 1952 1978	hendris, Christiaan TFinse
+A20	Gender T20 Unspecified
+A21	LegalStatus T20 Unspecified
+A22	Role T20 Acting_Notary
+T21	ProperName 1952 1978	hendris, Christiaan TFinse
+T22	Place 2163 2172;2173 2188	banda int Casteel Nassauw
+T23	ProperName 2163 2168	banda
+T24	ProperName 2181 2188	Nassauw
+T25	Person 2222 2239	Gerard van Segnem
+A23	Gender T25 Unspecified
+A24	LegalStatus T25 Unspecified
+A25	Role T25 Other
+T26	ProperName 2222 2239	Gerard van Segnem
+T27	Person 2261 2274	WCester Roven
+A26	Gender T27 Unspecified
+A27	LegalStatus T27 Unspecified
+A28	Role T27 Other
+T28	ProperName 2261 2274	WCester Roven

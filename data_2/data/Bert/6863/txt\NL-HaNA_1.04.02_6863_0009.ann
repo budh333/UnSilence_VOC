@@ -1,0 +1,23 @@
+T1	Person 506 520	langst levende
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Person 568 592	vier onmondigen kinderen
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Beneficiary
+T3	Person 1172 1191;1192 1208	Nicolaas huijselaar baas der Smeeden
+A7	Gender T3 Man
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Person 1213 1225;1226 1262;1263 1279	Ioan Fredrik Christoffel Tornheim, baas der boek„ „drukkers alhier
+A10	Gender T4 Man
+A11	LegalStatus T4 Unspecified
+A12	Role T4 Other
+T5	ProperName 1172 1191	Nicolaas huijselaar
+T6	ProperName 1214 1225;1226 1246	oan Fredrik Christoffel Tornheim
+T7	Person 1436 1457;1458 1467	Eerwaerde heeren wees meesteren
+A13	Gender T7 Group
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Other
+T8	Place 344 357	in ’t Casteel

@@ -1,0 +1,22 @@
+T1	Person 215 239	Drkwaarman van Amsterdam
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 215 225	Drkwaarman
+#1	AnnotatorNotes T2	Proper name: Dirk Baarman
+T3	Place 226 239	van Amsterdam
+T4	ProperName 230 239	Amsterdam
+T5	Person 568 598	Marel Hendrik Hohl van Stukard
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Notary T5 No
+T6	ProperName 568 586	Marel Hendrik Hohl
+T7	Place 587 598	van Stukard
+T8	ProperName 591 598	Stukard
+T9	Person 696 726	Anthonij Bovesier van Surimans
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Notary T9 No
+T10	ProperName 696 713	Anthonij Bovesier
+T11	Place 714 726	van Surimans
+T12	ProperName 718 726	Surimans

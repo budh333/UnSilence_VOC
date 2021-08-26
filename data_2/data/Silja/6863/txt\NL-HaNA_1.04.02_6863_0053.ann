@@ -1,0 +1,31 @@
+T1	DuplicatePage 0 7	1133750
+T2	ProperName 31 48	Jan Willem Harmst
+T3	Person 31 48	Jan Willem Harmst
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 54 67	V„ A„o Lebeck
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 54 67	V„ A„o Lebeck
+T6	Person 164 190	Adriaan Moens gesw: Clercq
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Acting_Notary
+T7	ProperName 164 177	Adriaan Moens
+T8	Organization 195 201;202 220	secre„ tarije van politie
+T9	Person 253 265	Voert hanjes
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	Place 271 306;307 312	’t heerenveen in de proventie ries„ „land
+T11	Place 271 284	’t heerenveen
+T12	ProperName 271 284	’t heerenveen
+T13	Place 301 306;307 312	ries„ „land
+T14	ProperName 301 306;307 312	ries„ „land
+#1	AnnotatorNotes T14	Friesland
+T15	Organization 342 350	E: Comp:
+T16	ProperName 342 350	E: Comp:
+A13	Beneficiary T8 No
+A14	Beneficiary T15 No

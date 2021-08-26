@@ -1,0 +1,7 @@
+T1	Person 1034 1050	Jnlander Coekoer
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+#1	AnnotatorNotes T1	Soekoer
+T2	ProperName 1043 1050	Coekoer
+#2	AnnotatorNotes T2	Soekoer

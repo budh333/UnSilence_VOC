@@ -1,0 +1,48 @@
+T1	ProperName 47 63	Joseph Bosschart
+T2	Person 47 63	Joseph Bosschart
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 556 570;571 581	Anna Christina Bosschaart
+T4	Person 556 570;571 581	Anna Christina Bosschaart
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	Person 598 615;616 624	Mons=r Christiaan Claassen
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 605 615;616 624	Christiaan Claassen
+T7	ProperName 640 654;655 665	Anna Catharina Bosschaart
+T8	Person 640 654;655 665	Anna Catharina Bosschaart
+A10	Gender T8 Woman
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Beneficiary
+T9	Person 682 701;702 709	Mons=r Johan Giorge Hopfild
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 689 701;702 709	Johan Giorge Hopfild
+T11	Person 741 747;748 758	Ioseph Bosschaart
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 741 747;748 758	Ioseph Bosschaart
+T13	ProperName 1189 1197	Claassen
+T14	ProperName 1201 1208	Hopfeld
+T15	Person 1189 1197	Claassen
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Beneficiary
+T16	Person 1201 1208	Hopfeld
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Beneficiary
+T17	Person 1219 1243	Mons=t Johannes Schisler
+A25	Gender T17 Man
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 1226 1243	Johannes Schisler
+T19	Organization 1269 1273	Comp
+T20	Organization 1518 1529;1530 1539	Heeren wees meesteren
+T21	ProperName 1518 1529;1530 1539	Heeren wees meesteren

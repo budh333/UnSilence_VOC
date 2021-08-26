@@ -1,0 +1,65 @@
+T1	DuplicatePage 0 4	Amst
+T2	Person 14 34	Jan Christiaa Malsch
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 14 34	Jan Christiaa Malsch
+T4	ProperName 90 114	Iacobus Wijnand brengman
+T5	Person 90 114	Iacobus Wijnand brengman
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 115 135	Gosen van der Meulen
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 115 135	Gosen van der Meulen
+T8	Person 188 215;216 224	M:r Joan van der voortnot=s publicq:
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Notary
+T9	ProperName 192 210	Joan van der voort
+T10	Organization 228 273	de Edele hooge regeringe van nnderlands Jndia
+T11	ProperName 228 273	de Edele hooge regeringe van nnderlands Jndia
+T12	ProperName 257 273	nnderlands Jndia
+T13	Place 257 273	nnderlands Jndia
+T14	Place 293 305	stad batavia
+T15	ProperName 298 305	batavia
+T16	Person 318 333	Andrigs Linstel
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Testator
+T17	ProperName 318 333	Andrigs Linstel
+T18	Person 386 414;415 431	Guilliam Gerard Franchimont, notaris publicq:
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Notary
+T19	ProperName 386 413	Guilliam Gerard Franchimont
+T20	Organization 437 465;466 482	de Edele hooge regeringe van nederlands India
+T21	ProperName 437 465;466 482	de Edele hooge regeringe van nederlands India
+T22	ProperName 466 482	nederlands India
+T23	Place 466 482	nederlands India
+T24	Place 503 515;516 519	de stad bata via
+T25	ProperName 511 515;516 519	bata via
+T26	Person 579 594	Andries Linstel
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Testator
+T27	ProperName 579 594	Andries Linstel
+T28	ProperName 599 607	stokholm
+T29	Place 599 607	stokholm
+T30	Organization 637 642	EComp
+T31	ProperName 637 642	EComp
+T32	ProperName 1017 1036	Ian Godfried Croese
+T33	Person 1017 1036	Ian Godfried Croese
+A22	Gender T33 Unspecified
+A23	LegalStatus T33 Unspecified
+A24	Role T33 Beneficiary
+T34	Organization 1232 1270	GeoctroijeerdD oost indische Compagnie
+T35	ProperName 1232 1270	GeoctroijeerdD oost indische Compagnie
+T36	ProperName 1280 1289	Amsterdam
+T37	Place 1280 1289	Amsterdam
+A25	Beneficiary T10 No
+A26	Beneficiary T20 No
+A27	Beneficiary T30 No
+A28	Beneficiary T34 No

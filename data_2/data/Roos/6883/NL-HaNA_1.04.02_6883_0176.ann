@@ -1,0 +1,26 @@
+T1	Person 544 553	Willemina
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 544 553	Willemina
+T3	Person 557 571	Maria Rresdorp
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 557 571	Maria Rresdorp
+T5	Place 769 778	Maccasser
+T6	Person 954 964	G: Breemer
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Acting_Notary
+T7	ProperName 954 964	G: Breemer
+T8	Person 968 982	J„b H„r Iacobs
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Witness
+T9	ProperName 968 982	J„b H„r Iacobs
+T10	Person 1181 1206	A„r Wijts: gesw„t Clercq:
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 1181 1191	A„r Wijts:

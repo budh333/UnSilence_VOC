@@ -1,0 +1,21 @@
+T1	Organization 352 367	d’ E: Compagine
+T2	Organization 436 481;482 524;525 530;531 544	de Edele groot agtbaare heeren bewindhebberen der Geoctroijeerde oostin dische Compagnie Kamer te Tamsterdam
+T3	Place 535 544	amsterdam
+T4	ProperName 535 544	amsterdam
+T5	Person 1257 1271	Daniel Fransl:
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 1257 1271	Daniel Fransl:
+T7	Person 1272 1286;1287 1312	Pieter Aaronz: De Hoor de Ionge, Clercq:
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1272 1286;1287 1303	Pieter Aaronz: De Hoor de Ionge
+T9	Person 1469 1486;1487 1498	J„n V„n Visvliet, not:s pul=t
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 1469 1485	J„n V„n Visvliet
+A10	Beneficiary T1 No
+A11	Beneficiary T2 No

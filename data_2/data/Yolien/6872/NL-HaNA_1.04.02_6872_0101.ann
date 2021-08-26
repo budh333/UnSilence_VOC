@@ -1,0 +1,40 @@
+T1	Person 246 268	zaligmaker Iezuchristi
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 257 268	Iezuchristi
+T3	ProperName 375 389;390 401	Lucas Sigismun „dus Fjaber
+T4	Person 375 389;390 401	Lucas Sigismun „dus Fjaber
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Organization 423 447	secretarije van Iustitie
+T7	ProperName 573 593;594 605	Johan Nicolaas Schot van Marpurg
+T6	Person 566 593;594 605	mons„r Johan Nicolaas Schot van Marpurg
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T8	ProperName 609 630	Johanna Levina Colijn
+T9	Person 609 630	Johanna Levina Colijn
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	Place 635 642;643 653	Cabo de goede Hoop
+T11	ProperName 635 642;643 653	Cabo de goede Hoop
+T12	Person 1353 1373;1374 1381	huijsvrouw Elizabeth Mostert
+A13	Gender T12 Woman
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 1364 1373;1374 1381	Elizabeth Mostert
+T14	Organization 1637 1657	heeren weesmeesteren
+T15	ProperName 1637 1657	heeren weesmeesteren
+T16	ProperName 1726 1736;1737 1756	Geertruij„ „da Catharina Schot
+T17	Person 1726 1736;1737 1756	Geertruij„ „da Catharina Schot
+A16	Gender T17 Woman
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 1794 1817	anna Catharina van Laar
+T19	Person 1794 1817	anna Catharina van Laar
+A19	Gender T19 Woman
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other

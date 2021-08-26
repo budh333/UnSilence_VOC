@@ -1,0 +1,85 @@
+T1	Person 57 86	Ondermeester Arnoldus de Bock
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 70 86	Arnoldus de Bock
+T3	Place 135 160	schip de Jonge Hellingman
+T4	ProperName 141 160	de Jonge Hellingman
+T5	Person 161 172	C: hendriks
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Notary T5 No
+T6	ProperName 161 172	C: hendriks
+T7	ProperName 235 240	Ewijk
+T8	Person 235 240	Ewijk
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Notary T8 No
+T9	Person 307 310	Cok
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Notary T9 No
+T10	Person 307 310	Cok
+A13	Gender T10 Man
+T11	Person 407 417	G: diekkes
+A14	Gender T11 Unspecified
+A15	LegalStatus T11 Unspecified
+A16	Notary T11 No
+T12	ProperName 407 417	G: diekkes
+T13	Person 453 463	C: Barends
+A17	Gender T13 Unspecified
+A18	LegalStatus T13 Unspecified
+A19	Notary T13 No
+T14	ProperName 453 463	C: Barends
+T15	Person 523 534	vander wold
+A20	Gender T15 Unspecified
+A21	LegalStatus T15 Unspecified
+A22	Notary T15 No
+T16	ProperName 523 534	vander wold
+T17	Person 578 588	C: hendrik
+A23	Gender T17 Unspecified
+A24	LegalStatus T17 Unspecified
+A25	Notary T17 No
+T18	ProperName 578 588	C: hendrik
+T19	Person 620 628	Mouthaan
+A26	Gender T19 Unspecified
+A27	LegalStatus T19 Unspecified
+A28	Notary T19 No
+T20	Person 673 676	Cok
+A29	Gender T20 Unspecified
+A30	LegalStatus T20 Unspecified
+A31	Notary T20 No
+T21	ProperName 620 628	Mouthaan
+T22	Place 776 791;792 811	’t schip voorn: Geankert ter Rheede
+T23	Person 868 882	J: H. Rijnnagh
+A32	Gender T23 Unspecified
+A33	LegalStatus T23 Unspecified
+A34	Notary T23 No
+T24	ProperName 868 882	J: H. Rijnnagh
+T25	Person 884 899	M. G: Hemmingto
+A35	Gender T25 Unspecified
+A36	LegalStatus T25 Unspecified
+A37	Notary T25 No
+T26	ProperName 884 900	M. G: Hemmington
+T27	Person 901 907	Hendum
+A38	Gender T27 Unspecified
+A39	LegalStatus T27 Unspecified
+A40	Notary T27 No
+T28	ProperName 901 907	Hendum
+T29	Person 1031 1052	oppermeester G: Uwens
+A41	Gender T29 Man
+A42	LegalStatus T29 Unspecified
+A43	Notary T29 No
+T30	ProperName 1044 1052	G: Uwens
+T31	Place 1178 1217	't Neederlands Comptoir Canton in China
+T32	ProperName 1212 1217	China
+T33	Person 1265 1278	J: H: Rijnagh
+A44	Gender T33 Unspecified
+A45	LegalStatus T33 Unspecified
+A46	Notary T33 No
+T34	ProperName 1265 1278	J: H: Rijnagh
+T35	Person 1283 1296;1297 1301	G Bemmingsond JJc:
+A47	Gender T35 Man
+A48	LegalStatus T35 Unspecified
+A49	Notary T35 No
+T36	ProperName 1283 1296	G Bemmingsond

@@ -1,0 +1,5 @@
+T1	ProperName 31 53	Claas Pietersz van Dan
+T2	Person 31 53	Claas Pietersz van Dan
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator

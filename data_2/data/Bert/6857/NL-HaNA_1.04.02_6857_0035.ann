@@ -1,0 +1,134 @@
+T1	Person 327 339	J: Amsterdam
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 327 339	J: Amsterdam
+T3	Person 340 345	Heijs
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+#1	AnnotatorNotes T3	Reijs
+T4	Person 351 366	Capitain Mulder
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	Person 374 382	N: Vroom
+A10	Gender T5 Unspecified
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Other
+T6	Person 383 388	Reijs
+A13	Gender T6 Unspecified
+A14	LegalStatus T6 Unspecified
+A15	Role T6 Other
+T7	ProperName 340 345	Heijs
+T8	ProperName 360 366	Mulder
+T9	ProperName 374 382	N: Vroom
+T10	ProperName 383 388	Reijs
+T11	Person 389 412	Capitain Van Elaanderen
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	Person 413 419	Mulder
+A19	Gender T12 Man
+A20	LegalStatus T12 Unspecified
+A21	Role T12 Other
+#2	AnnotatorNotes T12	capitain Mulder
+T13	ProperName 398 412	Van Elaanderen
+T14	ProperName 413 419	Mulder
+T15	Person 420 427	Dde Wit
+A22	Gender T15 Man
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+#3	AnnotatorNotes T15	capitain de Wit
+T16	ProperName 420 427	Dde Wit
+T17	Person 430 436	Jaquet
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 430 436	Jaquet
+T19	Person 437 444	Younqua
+A28	Gender T19 Unspecified
+A29	LegalStatus T19 Unspecified
+A30	Role T19 Other
+T20	ProperName 437 444	Younqua
+T21	Person 446 459	Ooctor de Wet
+A31	Gender T21 Man
+A32	LegalStatus T21 Unspecified
+A33	Role T21 Other
+#4	AnnotatorNotes T21	doctor de Wit
+T22	ProperName 453 459	de Wet
+T23	Person 460 468	Melander
+A34	Gender T23 Unspecified
+A35	LegalStatus T23 Unspecified
+A36	Role T23 Other
+T24	ProperName 460 468	Melander
+T25	Person 474 479	Lorel
+A37	Gender T25 Unspecified
+A38	LegalStatus T25 Unspecified
+A39	Role T25 Other
+T26	ProperName 474 479	Lorel
+T27	Person 480 485	Heijs
+A40	Gender T27 Unspecified
+A41	LegalStatus T27 Unspecified
+A42	Role T27 Other
+T28	ProperName 480 485	Heijs
+T29	Person 486 508	Captaan van Vlaanderen
+A43	Gender T29 Man
+A44	LegalStatus T29 Unspecified
+A45	Role T29 Other
+T30	ProperName 494 508	van Vlaanderen
+T31	Person 509 517	N„ Vroom
+A46	Gender T31 Unspecified
+A47	LegalStatus T31 Unspecified
+A48	Role T31 Other
+T32	ProperName 509 517	N„ Vroom
+T33	Person 518 526	Scheeler
+A49	Gender T33 Unspecified
+A50	LegalStatus T33 Unspecified
+A51	Role T33 Other
+T34	ProperName 518 526	Scheeler
+T35	Person 527 542	Capitain Mulder
+A52	Gender T35 Man
+A53	LegalStatus T35 Unspecified
+A54	Role T35 Other
+T36	ProperName 536 542	Mulder
+T37	Person 543 551	Scheeler
+A55	Gender T37 Unspecified
+A56	LegalStatus T37 Unspecified
+A57	Role T37 Other
+T38	ProperName 543 551	Scheeler
+T39	Person 552 560	Melander
+A58	Gender T39 Unspecified
+A59	LegalStatus T39 Unspecified
+A60	Role T39 Other
+T40	ProperName 552 560	Melander
+T41	Person 561 575	Captain Mulder
+A61	Gender T41 Man
+A62	LegalStatus T41 Unspecified
+A63	Role T41 Other
+T42	ProperName 569 575	Mulder
+T43	Person 583 591	A„ Vroom
+A64	Gender T43 Man
+A65	LegalStatus T43 Unspecified
+A66	Role T43 Other
+T44	ProperName 583 591	A„ Vroom
+T45	Person 592 615	Capitain Van VLaanderen
+A67	Gender T45 Man
+A68	LegalStatus T45 Unspecified
+A69	Role T45 Other
+T46	ProperName 601 615	Van VLaanderen
+T47	Person 616 622	de Wit
+A70	Gender T47 Unspecified
+A71	LegalStatus T47 Unspecified
+A72	Role T47 Other
+T48	ProperName 616 622	de Wit
+T49	Person 626 631	Vroom
+A73	Gender T49 Unspecified
+A74	LegalStatus T49 Unspecified
+A75	Role T49 Other
+T50	ProperName 626 631	Vroom
+T51	Person 632 636	Fres
+A76	Gender T51 Unspecified
+A77	LegalStatus T51 Unspecified
+A78	Role T51 Other
+T52	ProperName 632 636	Fres

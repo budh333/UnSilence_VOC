@@ -1,0 +1,14 @@
+T2	ProperName 490 498;499 505	Iacomina Willem
+T4	Person 1436 1467;1468 1476	haar moeder de op gem: Iacomina Willems.
+A7	Gender T4 Woman
+A8	LegalStatus T4 Unspecified
+T5	ProperName 1459 1467;1468 1476	Iacomina Willems.
+T3	Person 1041 1049	kinderen
+A4	Gender T3 Group
+A5	LegalStatus T3 Unspecified
+T7	Person 490 498;499 525	Iacomina Willem eeg christin vrouwe
+A13	Gender T7 Woman
+A14	LegalStatus T7 Freed
+A15	Role T7 Beneficiary
+A1	Role T3 Beneficiary
+A2	Role T4 Beneficiary

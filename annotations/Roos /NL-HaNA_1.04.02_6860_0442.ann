@@ -1,0 +1,61 @@
+T1	TranscriptionError_Document 0 2	te
+T2	DuplicatePage 0 2	te
+T3	Person 91 98	Kerkman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 91 98	Kerkman
+T5	Person 116 127	P Aannindag
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 116 127	P Aannindag
+T7	Person 147 154	Claasen
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 147 154	Claasen
+T9	Person 209 216	van Zyl
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 209 216	van Zyl
+T11	Person 249 257	Ekenkolm
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 249 257	Ekenkolm
+T13	Person 293 305	van den berg
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 293 305	van den berg
+T15	Person 376 386	Berghousen
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 376 386	Berghousen
+T17	Person 438 449	Loeffhouwer
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 438 449	Loeffhouwer
+T19	Person 498 508	wendelstig
+A25	Gender T19 Unspecified
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 498 508	wendelstig
+T21	Person 540 549	affslager
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Other
+T22	ProperName 540 549	affslager
+T23	Person 672 681	afslaager
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 672 681	afslaager
+T25	Organization 812 830	d’ Samarangse arme
+A34	Beneficiary T25 Yes
+T26	Place 941 966	Lands Comptoir Sourabaija
+T27	ProperName 956 966	Sourabaija

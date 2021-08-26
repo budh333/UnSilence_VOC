@@ -1,0 +1,21 @@
+T1	DuplicatePage 0 1	d
+T2	ProperName 199 215	Jacobus leborgne
+T3	Person 199 215	Jacobus leborgne
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Place 236 243;244 251	Gouver„ „pement
+T5	Place 334 348	ten woonhuijse
+T6	ProperName 373 393	Gerret Jans dorenbos
+T7	ProperName 415 420	EComp
+T8	Organization 415 420	EComp
+A4	Beneficiary T8 No
+T9	Person 373 393	Gerret Jans dorenbos
+A5	Gender T9 Man
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Testator
+T10	Person 433 456	huijs vrouw Maria ruwel
+A8	Gender T10 Woman
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Testator
+T11	ProperName 445 456	Maria ruwel

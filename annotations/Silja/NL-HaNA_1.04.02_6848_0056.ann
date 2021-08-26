@@ -1,0 +1,44 @@
+T1	Place 1056 1063	Casteel
+T2	Place 1086 1095	woonhuyse
+T3	Person 1149 1169;1170 1176	3ohan Fredrik Lamnol Noelgo
+A1	Gender T3 Unspecified
+T4	ProperName 1149 1169;1170 1176	3ohan Fredrik Lamnol Noelgo
+T5	Person 1180 1199	Pieter Willem Goeke
+A3	Gender T5 Unspecified
+A4	LegalStatus T5 Unspecified
+T6	ProperName 1180 1199	Pieter Willem Goeke
+T7	Person 1361 1375	I: F: vandquet
+A6	Gender T7 Man
+A7	LegalStatus T7 Unspecified
+T8	ProperName 1361 1375	I: F: vandquet
+T9	Organization 42 46	Comp
+T10	Person 1398 1403	Jansz
+A9	Gender T10 Unspecified
+A10	LegalStatus T10 Unspecified
+T11	ProperName 1398 1403	Jansz
+T12	Person 1492 1513;1514 1532	M:r Johannus Nicolaas Bestblier Not Zubl
+A12	Gender T12 Man
+A13	LegalStatus T12 Unspecified
+T13	ProperName 1497 1513;1514 1523	ohannus Nicolaas Bestblier
+T14	ProperName 1537 1571;1572 1582	de Edele hooge regeringe van neder lands ende
+T15	Organization 1537 1571;1572 1582	de Edele hooge regeringe van neder lands ende
+T16	Place 1566 1571;1572 1582	neder lands ende
+T17	ProperName 1566 1571;1572 1582	neder lands ende
+T18	Place 1605 1617	stad Batavia
+T19	ProperName 1610 1617	Batavia
+T20	Person 1675 1688	Gerrit Jansz:
+A15	Gender T20 Unspecified
+A16	LegalStatus T20 Unspecified
+T21	ProperName 1675 1688	Gerrit Jansz:
+T22	ProperName 42 46	Comp
+A2	LegalStatus T3 Unspecified
+A18	Role T3 Witness
+A5	Role T5 Witness
+A8	Role T7 Acting_Notary
+A14	Role T12 Notary
+A11	Role T10 Testator
+T23	Organization 1710 1720	Secretarij
+A17	Role T20 Testator
+A19	Beneficiary T9 No
+A20	Beneficiary T15 No
+A21	Beneficiary T23 No

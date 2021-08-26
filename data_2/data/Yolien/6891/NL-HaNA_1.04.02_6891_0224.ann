@@ -1,0 +1,43 @@
+T1	TranscriptionError_Document 0 1	„
+T2	ProperName 219 232	Jan van Raams
+T3	Person 219 232	Jan van Raams
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Organization 526 537;538 546	heere bewin hebberen
+T5	ProperName 526 537;538 546	heere bewin hebberen
+T6	ProperName 557 562	hoorg
+T7	Place 557 562	hoorg
+T8	Person 663 684	vron geertruij Wouter
+A4	Gender T8 Woman
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Beneficiary
+T9	ProperName 668 684	geertruij Wouter
+T10	Organization 894 898	Comp
+T11	Place 900 913	schip d’ Hoop
+T12	ProperName 906 913	d’ Hoop
+T13	Person 949 961	C: Pietersz:
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator
+T14	ProperName 952 960	Pietersz
+T15	ProperName 974 986	Jan van Raam
+T16	Person 974 986	Jan van Raam
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 1019 1027	Pigthart
+T18	Person 1019 1027	Pigthart
+A13	Gender T18 Man
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Acting_Notary
+T19	ProperName 1006 1017	Jan goverse
+T20	Person 1006 1017	Jan goverse
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 1050 1067	Cornelis de Vette
+T22	Person 1050 1067	Cornelis de Vette
+A19	Gender T22 Unspecified
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other

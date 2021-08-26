@@ -1,0 +1,25 @@
+T1	Person 182 197	Seronimus Cruse
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 182 197	Seronimus Cruse
+T3	Organization 279 288	’s Comp:s
+A4	Beneficiary T3 No
+T4	Person 306 314;315 334	Nicolaas steijm van appenzel
+A5	Gender T4 Man
+A6	LegalStatus T4 Unspecified
+A7	Role T4 Testator
+T5	ProperName 306 314;315 334	Nicolaas steijm van appenzel
+T6	Place 340 361;362 372	Z witserland uijt het dorp geitz
+T7	ProperName 340 352	Z witserland
+T8	ProperName 367 372	geitz
+T9	Organization 395 404	E: Comp:e
+A8	Beneficiary T9 No
+T10	Person 1507 1521;1522 1531	mons„r Joachim Bidderman
+A9	Gender T10 Man
+A10	LegalStatus T10 Unspecified
+A11	Role T10 Beneficiary
+T11	ProperName 1514 1521;1522 1531	Joachim Bidderman
+T12	Place 1536 1563	wintertour uijt switserland
+T13	ProperName 1536 1546	wintertour
+T14	ProperName 1552 1563	switserland

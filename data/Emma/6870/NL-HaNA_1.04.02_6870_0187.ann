@@ -1,0 +1,29 @@
+T1	Person 63 77	Samuel Carlsen
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	Person 189 207;208 226	Joan hendrik Brand Eerste Getw Clercq
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Testator
+T3	ProperName 189 207	Joan hendrik Brand
+T4	Person 278 288	J=b Copsen
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	ProperName 278 288	J=b Copsen
+T6	Person 289 302	M:r H=k Craay
+A10	Gender T6 Man
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	ProperName 293 302	H=k Craay
+T8	Person 342 368;369 374	Joan Hendrik Brand C: Getw Clerq
+A13	Gender T8 Man
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Acting_Notary
+T9	ProperName 342 360	Joan Hendrik Brand
+T10	Person 386 402;403 418	Joanhend J Brand E: gesw: Clercq
+A16	Gender T10 Man
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Acting_Notary
+T11	ProperName 386 402	Joanhend J Brand

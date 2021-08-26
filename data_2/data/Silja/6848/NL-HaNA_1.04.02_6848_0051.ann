@@ -1,0 +1,37 @@
+T1	Person 7 24	Elisabath Pietars
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 7 24	Elisabath Pietars
+T4	Place 77 110	de westzyde van de verbings gragt
+T5	Person 133 179	den inlandsch binger Samickt Lodewijk Iacobsz:
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Freed
+T6	ProperName 154 179	Samickt Lodewijk Iacobsz:
+T8	Person 729 756	Magdalena Elisabeth Pieters
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+T9	ProperName 729 756	Magdalena Elisabeth Pieters
+T10	Person 659 680;681 689	Lucas Willem Pieteriz de Iange
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+T11	ProperName 659 680	Lucas Willem Pieteriz
+T13	ProperName 699 721	Anna Magdalena Pieters
+T14	Person 798 806	kinderen
+A19	Gender T14 Group
+A20	LegalStatus T14 Unspecified
+T19	Organization 1979 1993;1994 1998	geochrodyeerde oost
+T20	ProperName 1979 1993;1994 1998	geochrodyeerde oost
+A6	Role T5 Other
+T3	Place 25 41	Een steene pedak
+A3	Role T1 Other
+T7	Person 699 721	Anna Magdalena Pieters
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+A15	Role T10 Beneficiary
+A12	Role T8 Other
+A16	Role T14 Other
+T12	Organization 1639 1673	'T Eerw: Colloge van Heeeen Weesen
+T15	ProperName 1639 1673	'T Eerw: Colloge van Heeeen Weesen
+A17	Beneficiary T19 No
+A18	Beneficiary T12 No

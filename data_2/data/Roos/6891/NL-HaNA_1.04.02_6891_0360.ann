@@ -1,0 +1,32 @@
+T1	Organization 566 599;600 662;663 678	de wel Edele groot agtb:r heer en Bewind hebberen der g’octroijeerde oostJndische Comp:e ter ka„ „mer Enkhuijsen
+A1	Beneficiary T1 No
+T2	Place 668 678	Enkhuijsen
+T3	ProperName 668 678	Enkhuijsen
+T4	Person 1214 1226	Ian Thomasse
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Beneficiary
+T5	ProperName 1214 1226	Ian Thomasse
+T6	Place 1236 1252;1253 1270	op het Jagt past buijten dese stad
+T7	Person 1382 1398	Paulus Nicolaasz
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Witness
+T8	ProperName 1382 1398	Paulus Nicolaasz
+T9	Person 1402 1427	Johannes Balthazar Davids
+A8	Gender T9 Unspecified
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Witness
+T10	ProperName 1402 1427	Johannes Balthazar Davids
+T11	Person 1570 1590	H:n Scheltus Notaris
+A11	Gender T11 Man
+A12	LegalStatus T11 Unspecified
+A13	Role T11 Notary
+T12	ProperName 1570 1582	H:n Scheltus
+T13	Place 1733 1740	Batavia
+T14	ProperName 1733 1740	Batavia
+T15	Person 1793 1806	C: S: Severin
+A14	Gender T15 Unspecified
+A15	LegalStatus T15 Unspecified
+A16	Role T15 Other
+T16	ProperName 1793 1806	C: S: Severin

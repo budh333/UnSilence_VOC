@@ -1,0 +1,23 @@
+T1	Person 7 34	wouter Hendrik ten ijselijk
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 7 34	wouter Hendrik ten ijselijk
+T3	Organization 272 293;294 316	herwaarde Colligie ve meesteren deses steede
+A4	Beneficiary T3 Yes
+T4	Place 304 316	deses steede
+T5	Person 794 799	Binck
+A5	Gender T5 Unspecified
+A6	LegalStatus T5 Unspecified
+A7	Role T5 Beneficiary
+T6	Person 993 1004	Jan Delsine
+A8	Gender T6 Unspecified
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Beneficiary
+T7	ProperName 993 1004	Jan Delsine
+T8	Person 1252 1271	george otto Dijkman
+A11	Gender T8 Unspecified
+A12	LegalStatus T8 Unspecified
+A13	Role T8 Beneficiary
+T9	Organization 1482 1492;1493 1517	herwvaerde van hieren weesmeesteren
+A14	Beneficiary T9 Yes

@@ -1,0 +1,44 @@
+T1	Person 259 273	Hendrik Meijer
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 334 343	PHasserie
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 334 343	PHasserie
+T4	Person 365 372	Oorroen
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	ProperName 365 372	Oorroen
+T6	Person 395 401	Eneman
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	ProperName 395 401	Eneman
+T8	Person 599 607	Augustin
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	ProperName 599 607	Augustin
+T10	Person 637 645	Siederam
+A16	Gender T10 Unspecified
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	ProperName 637 645	Siederam
+T12	Person 674 681	Nojeroe
+A19	Gender T12 Unspecified
+A20	LegalStatus T12 Unspecified
+A21	Role T12 Other
+T13	ProperName 674 681	Nojeroe
+T14	Person 705 714	P=r Hanse
+A22	Gender T14 Unspecified
+A23	LegalStatus T14 Unspecified
+A24	Role T14 Other
+T15	ProperName 705 714	P=r Hanse
+T16	Person 797 812	Radakisson Doba
+A25	Gender T16 Unspecified
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Other
+T17	ProperName 797 812	Radakisson Doba

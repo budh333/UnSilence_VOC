@@ -1,0 +1,37 @@
+T1	Person 57 93	wel Eerwaarden Hen Thoodorus vermeer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 76 93	Thoodorus vermeer
+T3	Person 111 149	broeder den heer Gose Theodare vermeer
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+T4	ProperName 128 149	Gose Theodare vermeer
+T5	Place 192 204;205 227	de pakhuysen beziden de Uater Poort
+T9	Person 810 832	de heer Johas Hulsinga
+A16	Gender T9 Man
+A17	LegalStatus T9 Unspecified
+T10	ProperName 818 832	Johas Hulsinga
+T11	Person 834 847;848 854	Mgp=m Leentje Jacobs
+A19	Gender T11 Woman
+A20	LegalStatus T11 Unspecified
+T12	ProperName 840 847;848 854	Leentje Jacobs
+T13	Place 868 877	Groningen
+T14	ProperName 868 877	Groningen
+T15	Person 1184 1192	kinderen
+A22	Gender T15 Group
+A23	LegalStatus T15 Unspecified
+T16	Place 1544 1553	ter Stede
+T19	Place 1624 1634	sterfhuijs
+T20	Organization 1818 1852	geoctrooyeerde oost indesche Comp:
+T21	ProperName 1818 1852	geoctrooyeerde oost indesche Comp:
+T23	Place 1863 1872	Amsterdam
+T24	ProperName 1863 1872	Amsterdam
+T6	Organization 1500 1522;1523 1536	het Eerw: Collegie van heeren weesm:
+T17	ProperName 1500 1522;1523 1536	het Eerw: Collegie van heeren weesm:
+A7	Role T15 Beneficiary
+A8	Role T9 Beneficiary
+A9	Role T11 Beneficiary
+A6	Role T3 Other
+A3	Role T1 Other
+A10	Beneficiary T6 No
+A11	Beneficiary T20 No

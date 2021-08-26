@@ -1,0 +1,59 @@
+T1	DuplicatePage 0 2	ƒ0
+T2	ProperName 97 114;115 137	Alexander Maximi„ „liaan Van Lichnowskij
+T3	Person 97 114;115 137	Alexander Maximi„ „liaan Van Lichnowskij
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 300 310	Jan Sisfle
+T5	Person 300 310	Jan Sisfle
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 449 466	Johan Hendrik Lem
+T7	ProperName 502 516	Abraham Jacobs
+T8	Person 502 516	Abraham Jacobs
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 449 466	Johan Hendrik Lem
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 965 970	EComp
+T11	Organization 965 970	EComp
+A13	Beneficiary T11 No
+T12	Place 1086 1103	ter kamer Zeeland
+T13	ProperName 1096 1103	Zeeland
+T14	Place 1203 1208	india
+T15	ProperName 1203 1208	india
+T16	Place 1871 1874;1875 1910	ten Neederlandsch Comptoire assourouang
+T17	ProperName 1899 1910	assourouang
+T18	ProperName 1962 1984	Johannes Jacobus Claas
+T19	ProperName 2002 2015	Evert Sleebes
+T20	Person 1962 1984	Johannes Jacobus Claas
+A14	Gender T20 Unspecified
+A15	LegalStatus T20 Unspecified
+A16	Role T20 Witness
+T21	Person 2002 2015	Evert Sleebes
+A17	Gender T21 Unspecified
+A18	LegalStatus T21 Unspecified
+A19	Role T21 Witness
+T22	ProperName 2213 2229	Adriaan van Ryck
+T23	Person 2213 2229	Adriaan van Ryck
+A20	Gender T23 Unspecified
+A21	LegalStatus T23 Unspecified
+A22	Role T23 Other
+T24	ProperName 2296 2308	Jan Schouten
+T25	Person 2296 2308	Jan Schouten
+A23	Gender T25 Unspecified
+A24	LegalStatus T25 Unspecified
+A25	Role T25 Other
+T26	Person 2830 2836	slaven
+A26	Gender T26 Group
+A27	LegalStatus T26 Enslaved
+A28	Role T26 Other
+T27	ProperName 2765 2780	Agnita Schouten
+T28	Person 2765 2780	Agnita Schouten
+A29	Gender T28 Unspecified
+A30	LegalStatus T28 Unspecified
+A31	Role T28 Other

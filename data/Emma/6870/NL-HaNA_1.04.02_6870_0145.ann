@@ -1,0 +1,19 @@
+T1	Person 211 232	J„s Bleeke secretaris
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 211 221	J„s Bleeke
+T3	Place 396 423;424 427;428 447	ter secretarije van Politie Een dezes gouvernements
+T4	Place 464 495	Maccasser Jn't: Casteel Rotterd
+T5	ProperName 464 473	Maccasser
+T6	ProperName 488 495	Rotterd
+T7	Person 548 564;565 576	Iohannes Cleeken secretaris.
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	ProperName 548 564	Iohannes Cleeken
+T9	Person 589 603	A„r Ravensberg
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 589 603	A„r Ravensberg

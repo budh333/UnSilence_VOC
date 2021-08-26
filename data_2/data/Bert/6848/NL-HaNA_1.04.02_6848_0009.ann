@@ -1,0 +1,32 @@
+T1	Place 107 116	Amsterdam
+T2	Person 117 123;124 141	Arelia Barius van Greven
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Notary T2 No
+T3	Place 159 168	Amsterdam
+T4	Person 174 200	tweede nagelatene dochters
+A4	Gender T4 Group
+A5	LegalStatus T4 Unspecified
+A6	Notary T4 No
+T5	Person 235 265	Zuster Pitia Iacoba van Greven
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Notary T5 No
+T6	ProperName 242 265	Pitia Iacoba van Greven
+T7	Person 291 312	de haer Ian Lenormand
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Notary T7 No
+T8	ProperName 303 312	Lenormand
+T9	Person 321 329;330 346	Miria en Johanna Gresenia
+A13	Gender T9 Group
+A14	LegalStatus T9 Unspecified
+A15	Notary T9 No
+T10	ProperName 321 326	Miria
+T11	ProperName 330 346	Johanna Gresenia
+T12	Place 372 381	amstordam
+T13	Person 487 499	descendenten
+A16	Gender T13 Group
+A17	LegalStatus T13 Unspecified
+A18	Notary T13 No
+T14	Organization 826 849	de Heeren weesmeesteren

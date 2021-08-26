@@ -1,0 +1,14 @@
+T1	Person 60 78	onmondige kinderen
+A1	Gender T1 Group
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Organization 463 496	Collegie van heeren weedmeesteren
+T3	ProperName 463 496	Collegie van heeren weedmeesteren
+T4	Organization 819 874	geoctroijeerde oost Indische Comp:e ter Kamer Amsterdam
+T5	ProperName 819 854	geoctroijeerde oost Indische Comp:e
+T6	Place 865 874	Amsterdam
+T7	ProperName 865 874	Amsterdam
+T8	Person 1610 1620	Lijfeijgen
+A4	Gender T8 Group
+A5	LegalStatus T8 Enslaved
+A6	Role T8 Other

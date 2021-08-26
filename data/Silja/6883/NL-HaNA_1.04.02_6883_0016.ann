@@ -1,0 +1,24 @@
+T1	Place 443 458	ter Camer Zelft
+T2	ProperName 453 458	Zelft
+#1	AnnotatorNotes T2	Delft
+T3	Organization 524 529	Comp:
+A1	Beneficiary T3 No
+T4	ProperName 524 529	Comp:
+T5	Place 976 994	Cabo de Goede Hoog
+T6	ProperName 976 994	Cabo de Goede Hoog
+T7	Person 1058 1082	Daniel godfried Carrspec
+A2	Gender T7 Unspecified
+A3	LegalStatus T7 Unspecified
+A4	Role T7 Witness
+T8	Person 1086 1104	Pieter Paulus same
+A5	Gender T8 Unspecified
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Witness
+T9	ProperName 1086 1104	Pieter Paulus same
+T10	ProperName 1058 1082	Daniel godfried Carrspec
+T11	Place 1355 1363;1364 1372	ten sold Comptoir
+T12	ProperName 1312 1320	N:s Leij
+T13	Person 1312 1320	N:s Leij
+A8	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Other

@@ -1,0 +1,8 @@
+T1	Person 459 471	Lijfeijgenen
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Notary T1 No
+T2	Person 1663 1671	Heamanus
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Notary T2 No

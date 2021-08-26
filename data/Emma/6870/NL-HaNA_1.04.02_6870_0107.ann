@@ -1,0 +1,49 @@
+T1	Person 0 12	Chaude Bruel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 12	Chaude Bruel
+T3	Person 72 112	Hendrik Jansz voll boekhouder en schrila
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 72 85	Hendrik Jansz
+T5	Place 113 123;124 132	ten deeser Comptoir
+T6	Person 175 208	blaude Bruel g’gaceerde Corporaal
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T7	ProperName 175 187	blaude Bruel
+T8	Organization 729 744;745 764	aan de Diaconij armen van Maccasser
+A10	Beneficiary T8 Yes
+T9	Place 755 764	Maccasser
+T10	ProperName 755 764	Maccasser
+T11	Person 1012 1045;1046 1061	huijshouster, den vrijmeijd gen„t sittie van Ende
+A11	Gender T11 Woman
+A12	LegalStatus T11 Freed
+A13	Role T11 Beneficiary
+T12	ProperName 1046 1061	sittie van Ende
+T13	Person 1290 1333	Jnlands Dogter genaamt Pontina van saleijer
+A14	Gender T13 Woman
+A15	LegalStatus T13 Unspecified
+A16	Role T13 Beneficiary
+T14	ProperName 1313 1333	Pontina van saleijer
+T15	Person 1237 1242	sitti
+A17	Gender T15 Woman
+A18	LegalStatus T15 Freed
+A19	Role T15 Beneficiary
+T16	ProperName 1237 1242	sitti
+T17	Person 1444 1484;1485 1508	en zergeant ’s Comp„s dienst alhier Fre„ „drik Lodewijk Lefeber,
+A20	Gender T17 Man
+A21	LegalStatus T17 Unspecified
+A22	Role T17 Other
+T18	ProperName 1480 1484;1485 1507	Fre„ „drik Lodewijk Lefeber
+T19	Organization 1459 1465	Comp„s
+T20	ProperName 1459 1465	Comp„s
+T21	Place 2480 2493;2494 2535	op ’t Eijland Salijer, ten woonhuijse van den testateur
+T22	ProperName 2494 2501	Salijer
+T23	Person 2595 2644	getuijgen Den onderchirurgijn Sebastiaan haussman
+A23	Gender T23 Man
+A24	LegalStatus T23 Unspecified
+A25	Role T23 Witness
+T24	ProperName 2625 2644	Sebastiaan haussman

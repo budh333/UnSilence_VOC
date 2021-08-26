@@ -1,0 +1,67 @@
+T1	Place 6 29	binnen de Staad Batavia
+T2	ProperName 22 29	Batavia
+T4	ProperName 87 104	Catarina van Door
+T5	Person 78 105;106 112	Iuffrouw Catarina van Door, weduwe
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+T6	ProperName 121 133	acobus Heuis
+T8	Place 213 219;220 230	Binnen deses stad
+T9	Person 308 313;314 340	over„ leeden man de Jacobus Heus
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+T10	ProperName 328 340	Jacobus Heus
+T18	ProperName 843 856	Pieter Bakker
+T20	Place 880 916	op de Equipagie werff voor schreeven
+T21	Person 921 936;937 976	Iacobus Servaas adsistent in dienst der Edele compagnie
+A31	Gender T21 Man
+A32	LegalStatus T21 Unspecified
+T19	Organization 957 976	der Edele compagnie
+T22	ProperName 921 936	Iacobus Servaas
+T23	Person 1125 1141	C: Pieter Bakker
+A34	Gender T23 Man
+A35	LegalStatus T23 Unspecified
+T24	ProperName 1125 1141	C: Pieter Bakker
+T25	Person 1146 1161	Iacobus Serraas
+A37	Gender T25 Man
+A38	LegalStatus T25 Unspecified
+T26	ProperName 1146 1161	Iacobus Serraas
+T27	Place 1179 1195	binnen dese stad
+T29	Person 1367 1377;1378 1384	Jacob Hin„ driksz
+A43	Gender T29 Man
+A44	LegalStatus T29 Unspecified
+T30	ProperName 1367 1377;1378 1384	Jacob Hin„ driksz
+T33	Person 1571 1588	S:s Greving, Nots
+A49	Gender T33 Man
+A50	LegalStatus T33 Unspecified
+T34	ProperName 1571 1582	S:s Greving
+T37	Place 1712 1734	Batavia in d' weskamer
+T38	ProperName 1712 1719	Batavia
+T39	Person 1773 1801	J:P=s hollenhagon Secretaris
+A55	Gender T39 Man
+A56	LegalStatus T39 Unspecified
+T40	ProperName 1773 1790	J:P=s hollenhagon
+A6	Role T5 Testator
+T3	Person 121 150	acobus Heuis, in leeven, baas
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T42	Place 151 160;161 203	der zeil„ makers winkel op de Equipagie Werff alhier
+A9	Role T9 Other
+T7	Person 843 862	Pieter Bakker, Baas
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+A13	Role T21 Other
+A14	Role T23 Other
+A15	Role T25 Other
+A16	Role T29 Witness
+T11	Person 1389 1416;1417 1425;1426 1439	Ioseph: Augustijn Pietersz: Clircqur als getuijgen
+A17	Gender T11 Man
+A18	LegalStatus T11 Unspecified
+A19	Role T11 Witness
+T12	ProperName 1389 1415	Ioseph: Augustijn Pietersz
+A20	Role T33 Notary
+A21	Role T39 Other
+T13	Place 1607 1623;1624 1629	alhier ter wees„ kamer
+T14	Organization 1618 1623;1624 1629	wees„ kamer
+T15	Organization 1723 1734	d' weskamer
