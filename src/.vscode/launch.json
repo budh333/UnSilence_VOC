@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "BERT",
+            "name": "NER",
             "type": "python",
             "request": "launch",
             "program": "run.py",
@@ -19,7 +19,7 @@
                 "--device", "cpu",
                 "--eval-freq", "10",
                 "--seed", "13",
-                "--learning-rate", "1e-4",
+                "--learning-rate", "1e-2",
 
                 "--skip-validation",
 
@@ -38,9 +38,20 @@
                 "--pretrained-model-size", "768",
                 "--pretrained-max-length", "512",
 
+                "--learn-new-embeddings",
+
+                "--learn-character-embeddings",
+                "--character-embeddings-size", "16",
+                "--character-hidden-size", "32",
+
+                "--hidden-dimension", "128",
+                "--bidirectional-rnn",
+                "--number-of-layers", "1",
+                "--embeddings-size", "32",
+
                 "--pretrained-model", "bert",
 
-                "--train-dataset-limit-size", "4",
+                "--train-dataset-limit-size", "1",
                 "--patience", "1000",
 
                 "--entity-tag-types", "main", "gender", "legal-status", "role",
