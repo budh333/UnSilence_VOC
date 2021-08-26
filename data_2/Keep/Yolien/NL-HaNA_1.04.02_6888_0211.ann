@@ -1,0 +1,28 @@
+T1	TranscriptionError_Document 0 2	32
+T2	ProperName 25 29	Kiel
+T3	Person 23 29	V Kiel
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 95 118;119 140	Theodorus Lionardus van Den Briel nots: publ,
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary
+T5	ProperName 95 118;119 128	Theodorus Lionardus van Den Briel
+T6	Organization 149 172	Edelen lope van holland
+T7	ProperName 165 172	holland
+T8	Place 165 172	holland
+T9	Organization 191 222	regeringe, van nederlands india
+T10	Place 206 222	nederlands india
+T11	ProperName 206 222	nederlands india
+T12	Place 249 261	stad batavia
+T13	ProperName 254 261	batavia
+T14	Person 312 332	Mons:r Marten Rimmel
+A7	Gender T14 Man
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Testator
+T15	ProperName 319 332	Marten Rimmel
+T16	DuplicatePage 513 519	ugusto
+T17	Place 554 559	Jndia
+T18	ProperName 554 559	Jndia
+T19	ProperName 593 603	valkenburg

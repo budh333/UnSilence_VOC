@@ -1,0 +1,27 @@
+T1	Person 49 68	Joan Adriaan Dreier
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 49 68	Joan Adriaan Dreier
+T3	Person 381 390	P: v: Bon
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 381 390	P: v: Bon
+T5	Place 453 461	samarang
+T6	ProperName 453 461	samarang
+T7	Person 494 504	A: Barkeij
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 494 504	A: Barkeij
+T9	Person 542 554	S: A: Dreils
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Acting_Notary
+T10	ProperName 542 554	S: A: Dreils
+T11	Person 584 600	Andries Hentiing
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 584 600	Andries Hentiing

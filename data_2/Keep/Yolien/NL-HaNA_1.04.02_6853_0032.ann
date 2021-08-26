@@ -1,0 +1,75 @@
+T1	ProperName 6 17	Jan Grasman
+T2	Person 6 17	Jan Grasman
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	Organization 52 56	Comp
+T4	Person 201 227	suster soon Johan Nicolaas
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 213 227	Johan Nicolaas
+T6	Place 255 264	hospitaal
+T7	Place 414 421	batavia
+T8	ProperName 414 421	batavia
+T9	ProperName 731 747	Ian Daniel Beese
+T10	Person 731 748	Ian Daniel Beesel
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Beneficiary
+T11	Place 760 772	wichelskerke
+T12	ProperName 760 772	wichelskerke
+T13	ProperName 774 786	Iacob Beesel
+T14	Person 774 786	Iacob Beesel
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Beneficiary
+T15	Place 797 806	Teedelkop
+T16	ProperName 797 806	Teedelkop
+T17	ProperName 807 818	Sara Beesel
+T18	Person 807 818	Sara Beesel
+A13	Gender T18 Woman
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Beneficiary
+T19	ProperName 832 852	Jan Nicolaas Perffel
+T20	Person 832 852	Jan Nicolaas Perffel
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	Place 866 876	meisenhein
+T22	ProperName 866 876	meisenhein
+T23	ProperName 878 899	Anna Margareta Beesel
+T24	Person 878 898	Anna Margareta Beese
+A19	Gender T24 Woman
+A20	LegalStatus T24 Unspecified
+A21	Role T24 Beneficiary
+T25	ProperName 913 927	Valentijn Emig
+T26	Person 913 927	Valentijn Emig
+A22	Gender T26 Man
+A23	LegalStatus T26 Unspecified
+A24	Role T26 Other
+T27	Place 940 946	Coesel
+T28	ProperName 940 946	Coesel
+T29	ProperName 950 957;958 964	Iuilian Beesel
+T30	Person 950 957;958 964	Iuilian Beesel
+A25	Gender T30 Woman
+A26	LegalStatus T30 Unspecified
+A27	Role T30 Beneficiary
+T31	ProperName 978 991	Frits Lilbach
+T32	Person 978 991	Frits Lilbach
+A28	Gender T32 Man
+A29	LegalStatus T32 Unspecified
+A30	Role T32 Other
+T33	Place 1008 1019	bergsaberen
+T34	ProperName 1008 1019	bergsaberen
+T35	Organization 1131 1135	Comp
+T36	Person 1415 1427	soon Nicstaa
+A31	Gender T36 Man
+A32	LegalStatus T36 Unspecified
+A33	Role T36 Testator
+T37	ProperName 1420 1427	Nicstaa
+T38	ProperName 1511 1527	Gerrit Molenbeek
+T39	Person 1511 1527	Gerrit Molenbeek
+A34	Gender T39 Unspecified
+A35	LegalStatus T39 Unspecified
+A36	Role T39 Other

@@ -1,0 +1,56 @@
+T1	TranscriptionError_Document 0 2	Op
+T2	DuplicatePage 0 2	Op
+T3	Person 55 74	George Fredrik Roth
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 55 74	George Fredrik Roth
+T5	Organization 99 118	Oost indsche Comp=e
+A4	Beneficiary T5 No
+T6	Place 119 148	op het schip Noord Nieuw land
+T7	ProperName 132 148	Noord Nieuw land
+T8	Person 299 318	Ioost van Steenland
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 299 318	Ioost van Steenland
+T10	Place 323 333	vlissingen
+T11	ProperName 323 333	vlissingen
+T12	Organization 357 364	E Com=e
+A8	Beneficiary T12 No
+T13	Place 394 412	in't schip dorulia
+T14	ProperName 405 412	dorulia
+T15	Place 426 443	sabo degorde hoop
+T16	ProperName 426 443	sabo degorde hoop
+T17	Person 509 533	hans heeriamsz: bootsman
+A9	Gender T17 Man
+A10	LegalStatus T17 Unspecified
+A11	Role T17 Witness
+T18	ProperName 509 524	hans heeriamsz:
+T19	Person 538 545	Weynand
+A12	Gender T19 Unspecified
+A13	LegalStatus T19 Unspecified
+A14	Role T19 Witness
+T20	ProperName 538 545	Weynand
+T21	Person 597 613	Pieter Schuurman
+A15	Gender T21 Man
+A16	LegalStatus T21 Unspecified
+A17	Role T21 Testator
+T22	ProperName 597 613	Pieter Schuurman
+T23	Person 614 626	Hans Curjeis
+A18	Gender T23 Man
+A19	LegalStatus T23 Unspecified
+A20	Role T23 Witness
+T24	ProperName 614 626	Hans Curjeis
+T25	Person 633 648	Wijnandt Gorlee
+A21	Gender T25 Unspecified
+A22	LegalStatus T25 Unspecified
+A23	Role T25 Witness
+T26	ProperName 633 648	Wijnandt Gorlee
+T27	Person 672 680	C. Dorms
+A24	Gender T27 Unspecified
+A25	LegalStatus T27 Unspecified
+A26	Role T27 Acting_Notary
+T28	ProperName 672 680	C. Dorms
+T29	Place 1073 1082	Purmerent
+T30	ProperName 1073 1082	Purmerent

@@ -1,0 +1,44 @@
+T1	Person 418 428;429 444	zoon Isaak Pasqual Domingo
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 423 428;429 444	Isaak Pasqual Domingo
+T3	Person 545 551;552 563	Juff=r Agar Jacobs
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+T4	ProperName 552 563	Agar Jacobs
+T5	Place 820 827	Batavia
+T6	ProperName 820 827	Batavia
+T7	Person 866 876	F: Domingo
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+T8	ProperName 866 876	F: Domingo
+T9	Person 992 1012;1013 1033	Notaris Nicolaas van bergen van der Grijp
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+T10	ProperName 1000 1012;1013 1033	Nicolaas van bergen van der Grijp
+T11	Person 1150 1191;1192 1205	vrij Gesprooken mans slaffen naeme Berma„ „la van Balij
+A13	Gender T11 Man
+A14	LegalStatus T11 Freed
+T12	ProperName 1185 1191;1192 1205	Berma„ „la van Balij
+T13	Place 1552 1559	Batavia
+T14	ProperName 1552 1559	Batavia
+T15	Person 1605 1615	T: Domingo
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+T16	ProperName 1605 1615	T: Domingo
+T20	ProperName 1731 1747	Johannes Greving
+T19	Person 1731 1747	Johannes Greving
+A22	Gender T19 Man
+A23	LegalStatus T19 Unspecified
+A3	Role T1 Beneficiary
+A6	Role T3 Beneficiary
+A9	Role T7 Other
+A12	Role T9 Notary
+A15	Role T11 Other
+A18	Role T15 Other
+T17	ProperName 1618 1632	Salomon: Chaas
+T18	Person 1618 1632	Salomon: Chaas
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Witness
+A24	Role T19 Notary

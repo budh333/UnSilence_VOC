@@ -1,0 +1,118 @@
+T1	Person 57 79;80 87	d’ heer Hendrik August Roussel
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 65 79;80 87	Hendrik August Roussel
+T3	ProperName 186 197	Endelstroom
+#1	AnnotatorNotes T3	Engelstroom
+T4	Person 186 197	Endelstroom
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	Person 485 501	heer Engelstroom
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 490 501	Engelstroom
+T7	Person 668 697	de heer Henarik August Rossel
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 676 697	Henarik August Rossel
+T9	Organization 835 856;857 875	de nederlandsche oost indische Compagnie
+A13	Beneficiary T9 No
+T10	ProperName 835 856;857 875	de nederlandsche oost indische Compagnie
+T11	Place 880 891	kamer Delft
+T12	ProperName 886 891	Delft
+T13	Person 904 920	heer Engelstroom
+A14	Gender T13 Man
+A15	LegalStatus T13 Unspecified
+A16	Role T13 Testator
+T14	ProperName 909 920	Engelstroom
+T15	Place 929 941	de weeskamer
+T16	Person 1814 1830	heer Engelstroom
+A17	Gender T16 Man
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Testator
+T17	ProperName 1819 1830	Engelstroom
+T18	ProperName 2036 2060	Johan Dilderich oprtling
+#2	AnnotatorNotes T18	Johan Diederich Ohrtling
+T19	Place 2160 2169	Amsterdam
+T20	ProperName 2160 2169	Amsterdam
+T21	ProperName 2170 2191	Johan Christiaan Dij„
+T22	ProperName 2124 2131;2254 2258	Robbert Make
+#3	AnnotatorNotes T22	Robbert Makreel
+T23	Organization 2276 2307	luijterse weeshuijs in den Haag
+A20	Beneficiary T23 Yes
+T24	Place 2299 2307	den Haag
+T25	ProperName 2299 2307	den Haag
+T26	Person 2395 2413	Huijbert Besseling
+A21	Gender T26 Unspecified
+A22	LegalStatus T26 Unspecified
+A23	Role T26 Beneficiary
+T27	ProperName 2395 2413	Huijbert Besseling
+T28	Place 2480 2513	het thuijnland op de Amanus gragt
+T29	ProperName 2501 2513	Amanus gragt
+T30	Place 2501 2513	Amanus gragt
+T31	Person 2455 2461	Dappat
+A24	Gender T31 Unspecified
+A25	LegalStatus T31 Unspecified
+A26	Role T31 Beneficiary
+T32	Person 2463 2469	Cupido
+A27	Gender T32 Unspecified
+A28	LegalStatus T32 Unspecified
+A29	Role T32 Beneficiary
+T33	Person 2474 2479	Alida
+A30	Gender T33 Unspecified
+A31	LegalStatus T33 Unspecified
+A32	Role T33 Beneficiary
+T34	Person 2558 2586	inlands burger Nicolaas Smit
+A33	Gender T34 Unspecified
+A34	LegalStatus T34 Unspecified
+A35	Role T34 Beneficiary
+T35	ProperName 2573 2586	Nicolaas Smit
+T36	Person 2703 2720	Matthijs De Klerk
+A36	Gender T36 Unspecified
+A37	LegalStatus T36 Unspecified
+A38	Role T36 Beneficiary
+T37	ProperName 2703 2720	Matthijs De Klerk
+T38	ProperName 2455 2461	Dappat
+T39	ProperName 2463 2469	Cupido
+T40	ProperName 2474 2479	Alida
+T41	Person 2170 2190	Johan Christiaan Dij
+A39	Gender T41 Unspecified
+A40	LegalStatus T41 Unspecified
+A41	Role T41 Beneficiary
+T42	Person 2124 2131;2254 2258	Robbert Make
+A42	Gender T42 Unspecified
+A43	LegalStatus T42 Unspecified
+A44	Role T42 Beneficiary
+T43	Person 2036 2060	Johan Dilderich oprtling
+A45	Gender T43 Unspecified
+A46	LegalStatus T43 Unspecified
+A47	Role T43 Beneficiary
+T44	Organization 3078 3095	de luijterse kerk
+A48	Beneficiary T44 Yes
+T45	ProperName 2884 2895	ingelstroom
+#4	AnnotatorNotes T45	Engelstroom
+T46	Person 2884 2895	ingelstroom
+A49	Gender T46 Unspecified
+A50	LegalStatus T46 Unspecified
+A51	Role T46 Testator
+T47	Person 3271 3319	de vrije Christen vrouw Johanna Elisabeth Paulus
+A52	Gender T47 Woman
+A53	LegalStatus T47 Freed
+A54	Role T47 Other
+T48	ProperName 3295 3319	Johanna Elisabeth Paulus
+T49	Organization 3378 3393	de luterse kerk
+A55	Beneficiary T49 Yes
+T50	Person 3504 3523	Johan Martin Reemer
+A56	Gender T50 Unspecified
+A57	LegalStatus T50 Unspecified
+A58	Role T50 Other
+T51	ProperName 3527 3546	Archibala Mesterton
+T52	ProperName 3504 3523	Johan Martin Reemer
+T53	Person 3527 3546	Archibala Mesterton
+A59	Gender T53 Unspecified
+A60	LegalStatus T53 Unspecified
+A61	Role T53 Other

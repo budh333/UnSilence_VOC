@@ -1,0 +1,36 @@
+T1	Person 165 179	Jan hennenberg
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 165 179	Jan hennenberg
+T3	Person 287 307	moeder Eskes Roeloff
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 294 307	Eskes Roeloff
+T5	Person 351 364	Elke roeloffk
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 351 364	Elke roeloffk
+T7	Organization 623 655;656 665	heeren bewint hebberen ter Camer Amsterdam
+A10	Beneficiary T7 No
+T8	Place 656 665	Amsterdam
+T9	ProperName 656 665	Amsterdam
+T10	Place 969 984;985 989	in't schip kerk wijk
+T11	ProperName 980 984;985 989	kerk wijk
+T12	Person 1023 1049	hermanus Schutte boot Iman
+A11	Gender T12 Man
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Witness
+T13	ProperName 1023 1039	hermanus Schutte
+T14	Person 1050 1053;1054 1070	Jan „mulder scheeman
+A14	Gender T14 Man
+A15	LegalStatus T14 Unspecified
+A16	Role T14 Witness
+T15	ProperName 1050 1053;1054 1061	Jan „mulder
+T16	Person 1074 1089	gooswijn harsma
+A17	Gender T16 Unspecified
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Witness
+T17	ProperName 1074 1089	gooswijn harsma

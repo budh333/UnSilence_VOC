@@ -1,0 +1,21 @@
+T1	TranscriptionError_Document 0 5	gremo
+T2	DuplicatePage 0 5	gremo
+T4	ProperName 319 332;333 343	Hendrik Abra„ ham Moller
+T5	Organization 366 373;374 414	de Ede„ le hooge regeeringe van nederlands india
+T6	Place 398 414	nederlands india
+T7	ProperName 398 414	nederlands india
+T8	Place 429 450	binnen destad batavia
+T9	ProperName 443 450	batavia
+T10	Person 513 531;532 543	Mons:s Abraham van Eijk burger
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator
+T11	ProperName 520 531;532 536	Abraham van Eijk
+T12	Place 553 572;573 588	in de heerestraat4. binnen desestad
+T13	Organization 1073 1085	der E. Comp:
+T3	Person 319 332;333 361	Hendrik Abra„ ham Moller, notaris puiblicq
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+A7	Beneficiary T5 No
+A8	Beneficiary T13 No

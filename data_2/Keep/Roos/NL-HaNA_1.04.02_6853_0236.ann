@@ -1,0 +1,46 @@
+T1	Person 0 16	Luderus Warneker
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 16	Luderus Warneker
+T4	ProperName 66 82	Mbertus domburg:
+T5	Organization 97 121;122 141	d Edelie hooge regeringn van rederlerd india
+T6	Place 126 141	rederlerd india
+T7	ProperName 126 141	rederlerd india
+T8	Place 155 176	binnen destad batavia
+T9	ProperName 169 176	batavia
+T11	ProperName 233 253	M:r Luderus warneker
+T12	Organization 286 297	der EE:omp:
+T13	Person 864 879	Luderus waneker
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Beneficiary
+T14	ProperName 864 879	Luderus waneker
+T15	Person 883 901	margaretha wettens
+A13	Gender T15 Woman
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Beneficiary
+T16	ProperName 883 901	margaretha wettens
+T17	Place 258 265	breemer
+T18	ProperName 258 265	breemer
+T19	Place 916 923	breemen
+T20	ProperName 916 923	breemen
+T22	ProperName 1209 1220	Jan wenking
+T23	Organization 1756 1820;1821 1879	dedele Eerbiedig de Edele groot agtb: heeren bewind hebbenen der g’actroijeerde oost indigsche Componie ter Comen amsterdam
+T24	Place 1870 1879	amsterdam
+T25	ProperName 1870 1879	amsterdam
+T3	Person 66 92	Mbertus domburg: met publ:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T10	Person 233 253	M:r Luderus warneker
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T21	Person 1205 1220	DE: Jan wenking
+A16	Gender T21 Man
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+A19	Beneficiary T5 No
+A20	Beneficiary T12 No
+A21	Beneficiary T23 No

@@ -1,0 +1,31 @@
+T1	Person 35 50	soon Jacob Recq
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 40 50	Jacob Recq
+T3	Person 153 159	Slaven
+A4	Gender T3 Group
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	Person 163 172	Slavinnen
+A7	Gender T4 Group
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Other
+T5	Person 397 407	soon Jacob
+A10	Gender T5 Man
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Other
+T6	ProperName 435 448	Jacob Jeltjes
+T7	ProperName 402 407	Jacob
+T8	Person 435 448	Jacob Jeltjes
+A13	Gender T8 Man
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	Organization 746 752;753 766	heeren weesmeesteren
+T10	ProperName 746 752;753 766	heeren weesmeesteren
+T11	Organization 1130 1151	heeren bewindhebberen
+T12	ProperName 1130 1151	heeren bewindhebberen
+T13	ProperName 1162 1167	hoorn
+T14	Place 1162 1167	hoorn
+T15	Place 1255 1267	schip Padmos
+T16	ProperName 1261 1267	Padmos

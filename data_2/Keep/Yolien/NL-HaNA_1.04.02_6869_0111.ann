@@ -1,0 +1,61 @@
+T1	TranscriptionError_Document 0 6	teeken
+T3	DuplicatePage 1377 1381	Amen
+T4	ProperName 219 223	Reek
+T5	Person 219 223	Reek
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 260 265	Looth
+T8	Person 428 455	Fredrik Rott gezwoone klerk
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	ProperName 428 440	Fredrik Rott
+T10	Organization 586 591	sComp
+T11	ProperName 524 539	Hendrik Courier
+T12	Person 524 539	Hendrik Courier
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 680 700	Heer Martinus Koning
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 685 701	Martinus Koning,
+T15	Person 890 909;910 919	Corporael Jan Geor„ „ge Looth
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Testator
+T16	ProperName 900 909;910 919	Jan Geor„ „ge Looth
+T17	ProperName 1173 1178	Looth
+T18	Person 1173 1178	Looth
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Testator
+T19	ProperName 1329 1334	Looth
+T20	Person 1329 1334	Looth
+A22	Gender T20 Man
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Testator
+T21	Noteworthy 338 346	Julander
+#1	AnnotatorNotes T21	Inlander
+T22	DuplicatePage 34 41	Extract
+T2	ProperName 323 329	Bagbot
+T23	Person 323 329	Bagbot
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T7	Person 250 265	Corporaal Looth
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T24	Person 338 346	Julander
+A28	Gender T24 Unspecified
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Other
+T25	Organization 466 489	bengaelsche Secretarije
+T26	Place 594 611	schip de Vaillant
+T27	ProperName 600 611	de Vaillant
+T28	Place 631 640	hospitaal
+T29	Place 808 817	hospitael
+T30	Organization 1493 1498	EComp

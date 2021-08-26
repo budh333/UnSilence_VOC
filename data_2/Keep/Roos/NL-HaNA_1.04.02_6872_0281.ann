@@ -1,0 +1,21 @@
+T1	Person 334 362	Christiaan Ludolph Neethling
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 334 362	Christiaan Ludolph Neethling
+T3	Place 422 440	Cabo de goede Boop
+T4	ProperName 422 440	Cabo de goede Boop
+T5	Person 540 545;546 565	Carel Fregard van Odewaal
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T6	ProperName 540 545;546 565	Carel Fregard van Odewaal
+T7	Place 569 576	sweeden
+T8	ProperName 569 576	sweeden
+T9	Person 580 587;588 593	Susanna Kuuhr
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator_Beneficiary
+T10	ProperName 580 587;588 593	Susanna Kuuhr
+T11	Place 598 616	aabo de goede Poop
+T12	ProperName 598 616	aabo de goede Poop

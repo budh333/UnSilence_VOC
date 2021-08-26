@@ -1,0 +1,40 @@
+T1	Place 44 62;63 92	de oostzyde van de Caijmansgragt binnen des stad
+T2	Organization 563 565;566 593	de hooge regering deser landen
+T3	Person 626 638	Lijsteygenen
+A1	Gender T3 Group
+A2	LegalStatus T3 Enslaved
+T4	Person 730 735;736 760	slaat Gov:s Poomat van boogies
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Enslaved
+T5	ProperName 742 760	Poomat van boogies
+T6	Person 730 735	slaat
+#1	AnnotatorNotes T6	slaat = slaaf
+T9	Person 1144 1154	Isaak Ianz
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+T10	ProperName 1144 1154	Isaak Ianz
+T11	Person 1155 1170	Margaretha Jans
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+T12	ProperName 1155 1170	Margaretha Jans
+T13	ProperName 1172 1186	Ezechiel Dantz
+T14	Person 1172 1186	Ezechiel Dantz
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+T15	Person 1191 1199;1200 1216	Alcomina Geekhuyde Iansz:
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+T16	ProperName 1191 1199;1200 1216	Alcomina Geekhuyde Iansz:
+T17	Place 1728 1732	stad
+T18	Organization 1691 1705;1706 1721	Eerw: Colligie van heeen wesen
+T19	ProperName 63 76	Caijmansgragt
+T20	ProperName 563 565;566 593	de hooge regering deser landen
+A3	Role T3 Other
+A6	Role T4 Other
+A7	Role T9 Beneficiary
+A8	Role T11 Beneficiary
+A9	Role T14 Beneficiary
+A10	Role T15 Beneficiary
+T7	ProperName 1691 1705;1706 1721	Eerw: Colligie van heeen wesen
+A11	Beneficiary T2 No
+A12	Beneficiary T18 No

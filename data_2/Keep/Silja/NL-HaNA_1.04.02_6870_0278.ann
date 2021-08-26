@@ -1,0 +1,16 @@
+T1	ProperName 502 507;508 516	Evert Evertsz,
+T2	Person 502 507;508 516	Evert Evertsz,
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 973 978	Comp.
+T4	Organization 973 978	Comp.
+A4	Beneficiary T4 No
+T5	ProperName 1021 1026;1027 1037	Frans van Eenroo
+T6	Person 1021 1026;1027 1037	Frans van Eenroo
+A5	Gender T6 Unspecified
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Other
+T7	Organization 1405 1411	sComp:
+A8	Beneficiary T7 No
+T8	ProperName 1405 1411	sComp:

@@ -1,0 +1,55 @@
+T1	Person 0 13	Lourens Craay
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 13	Lourens Craay
+T3	Person 74 97	Jan de Baerij assistend
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 74 86	Jan de Baeri
+T5	Organization 108 119	der E: Comp
+T6	ProperName 108 119	der E: Comp
+T7	Place 149 155;156 172	op het schip Hinkensand
+T8	ProperName 162 172	Hinkensand
+T9	DuplicatePage 19 21	Op
+T10	TranscriptionError_Document 22 28	Huijde
+T11	Person 199 205;206 211	ouvens Craai
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 199 205;206 211	ouvens Craai
+T13	Place 212 222	van mettor
+T14	ProperName 216 222	mettor
+T15	Person 605 630	Carel Schoute nots: publ:
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Notary
+T16	ProperName 605 618	Carel Schoute
+T18	ProperName 638 647;648 661	Ian Croon van hoorhuijs
+T17	Person 638 647;648 670	Ian Croon van hoorhuijs, matroos
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Testator
+T19	ProperName 683 694	der E: comp
+T20	Organization 683 694	der E: comp
+T21	Place 720 730	ten huijse
+T22	Person 738 752;753 758	burger marinis Dewit
+A16	Gender T22 Man
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Other
+T23	ProperName 745 752;753 758	marinis Dewit
+T24	Place 759 796	op de jonkers gragt binnen deser stad
+T25	ProperName 762 778	de jonkers gragt
+T26	Person 2061 2078	S:r marinus dewit
+A19	Gender T26 Man
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Beneficiary
+T27	ProperName 2065 2077	marinus dewi
+T28	Person 2437 2454	s:t marinus dewit
+A22	Gender T28 Man
+A23	LegalStatus T28 Unspecified
+A24	Role T28 Other
+T29	ProperName 2437 2454	s:t marinus dewit
+T30	Organization 2820 2828	'sComp=s
+T31	ProperName 2821 2828	sComp=s

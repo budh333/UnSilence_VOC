@@ -1,0 +1,27 @@
+T1	DuplicatePage 2 8	Burnat
+T2	TranscriptionError_Document 0 1	6
+T3	ProperName 29 42	Vormanin Meno
+T4	Person 29 42	Vormanin Meno
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Person 161 165;166 180	Ioan Harmanus Ducam
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 161 165;166 180	Ioan Harmanus Ducam
+T7	Person 256 267;268 272	DE Harmanus Mens
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	ProperName 259 267;268 272	Harmanus Mens
+T9	Place 277 286	Amsterdam
+T10	ProperName 277 286	Amsterdam
+T11	Organization 304 309	sComp
+T12	Person 332 373;374 387	Mejuffrouw Arnoldina Wilheemina Fabricuus van bijleveld
+A10	Gender T12 Woman
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 343 373;374 387	Arnoldina Wilheemina Fabricuus van bijleveld
+T14	ProperName 1516 1522	Muller
+T15	DuplicatePage 1516 1522	Muller

@@ -1,0 +1,18 @@
+T1	DuplicatePage 0 2	In
+T2	Person 259 267	M„r Ioan
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 263 267	Ioan
+T4	Organization 696 711;712 740	Eerwaerde Colle gie van heeren weesmeesteren
+T5	ProperName 696 711;712 740	Eerwaerde Colle gie van heeren weesmeesteren
+T6	Place 771 788;789 802	te deser als alle andere steden
+T7	Place 836 846	sterfhuijs
+T8	Person 375 394	mons„s pieter ricus
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	ProperName 382 394	pieter ricus
+T10	Place 1811 1816	India
+T11	ProperName 1811 1816	India
+A7	Beneficiary T4 No

@@ -1,0 +1,15 @@
+T1	Person 3 17	Louis de Ionge
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 3 17	Louis de Ionge
+T3	Person 167 181;182 195	Sr van Asvliet Notaris pubs:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 167 181	Sr van Asvliet
+T5	Person 209 220	H„ V„ Basen
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 209 220	H„ V„ Basen

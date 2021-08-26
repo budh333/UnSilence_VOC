@@ -1,0 +1,48 @@
+T2	ProperName 159 181	Hermanus van Suchtelen
+T3	Noteworthy 112 139;140 181	Eerste Clercq ter secretaii van den E: E: Heer Hermanus van Suchtelen
+#2	AnnotatorNotes T3	clercq acting as notary
+T4	Person 296 321	Mons: Paspar
+van der Haar
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 302 308;309 321	Paspar van der Haar
+T6	Organization 263 271	E: Comp:
+T7	Place 1760 1781	binnen dese fortresse
+T8	Person 1800 1805;1806 1825	Iopan Christiaan Grashoff
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	ProperName 1800 1805;1806 1825	Iopan Christiaan Grashoff
+T10	Person 1828 1847	Pieter van boekholt
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Witness
+T11	ProperName 1828 1847	Pieter van boekholt
+T12	Person 1907 1917	Vader Baar
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Testator
+#3	AnnotatorNotes T12	G. van der Haar
+T13	ProperName 1907 1917	Vader Baar
+#4	AnnotatorNotes T13	G. van der Haar
+T15	ProperName 1964 1975;1976 1982	I„s van den Heuvel
+T16	Person 2023 2028;2029 2048	Johan Christiaan Prashoff
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Witness
+T17	ProperName 2023 2028;2029 2048	Johan Christiaan Prashoff
+T18	Person 2051 2070	Pieter van boekholt
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Witness
+T19	ProperName 2051 2071	Pieter van boekholt.
+T1	Person 154 181	Heer Hermanus van Suchtelen
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T14	Person 1964 1975;1976 1982	I„s van den Heuvel
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+A25	Beneficiary T6 No

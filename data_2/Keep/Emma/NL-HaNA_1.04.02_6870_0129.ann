@@ -1,0 +1,41 @@
+T1	Place 14 21	Zeeland
+T2	ProperName 14 21	Zeeland
+T3	Organization 306 327	aan de diaconij armen
+A1	Beneficiary T3 Yes
+T4	Place 350 364	het steufhuijs
+T5	Person 613 655	jongeling Willem Jan Zijn de Een speelkind
+A2	Gender T5 Man
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Beneficiary
+T6	ProperName 623 633	Willem Jan
+T7	Person 686 700	dogter  Maijke
+A5	Gender T7 Woman
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Other
+T8	ProperName 694 700	Maijke
+T9	Person 749 769	Zergiant fredrik Jan
+A8	Gender T9 Man
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Other
+T10	ProperName 758 769	fredrik Jan
+T11	Person 1143 1154	fredrik Jan
+A11	Gender T11 Man
+A12	LegalStatus T11 Unspecified
+A13	Role T11 Other
+T12	ProperName 1143 1154	fredrik Jan
+T13	Person 1553 1573	zoldaat Jan de Kadue
+A14	Gender T13 Man
+A15	LegalStatus T13 Unspecified
+A16	Role T13 Other
+T14	ProperName 1561 1573	Jan de Kadue
+T15	Person 1578 1604	Johannes Jorepchas Cauilsz
+A17	Gender T15 Unspecified
+A18	LegalStatus T15 Unspecified
+A19	Role T15 Other
+T16	ProperName 1578 1604	Johannes Jorepchas Cauilsz
+T17	Person 1918 1934	dogter Enschemia
+A20	Gender T17 Woman
+A21	LegalStatus T17 Unspecified
+A22	Role T17 Other
+T18	ProperName 1925 1934	Enschemia
+T19	ProperName 2030 2046	naar ’t vaderlan

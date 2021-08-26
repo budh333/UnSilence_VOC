@@ -1,0 +1,97 @@
+T1	DuplicatePage 0 2	In
+T2	TranscriptionError_Document 3 6	den
+T3	Person 68 81;82 103	Carel Jacobsz eerttegoswesen clescg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 68 81	Carel Jacobsz
+T5	Place 115 138	op verseektenwoonhuijse
+T6	Person 147 172	bilrger Christiaan onkers
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 155 171	Christiaan onker
+T8	Person 198 202;206 218	mons Jan lamberts
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	ProperName 206 218	Jan lamberts
+T10	Person 840 858	Ioan hendrik Brand
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 840 858	Ioan hendrik Brand
+T12	Person 942 969	Heer Gouverneur Joan Gideon
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 942 969	Heer Gouverneur Joan Gideon
+T14	Place 1096 1110	ten woonhuijse
+T15	Person 1130 1145	Smons=r San Cok
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Testator
+T16	ProperName 1130 1145	Smons=r San Cok
+T17	Place 1146 1159	van amsterdam
+T18	ProperName 1150 1159	amsterdam
+T19	Organization 1195 1200	SComp
+T20	ProperName 1195 1201	SComp:
+T21	Person 1220 1239	Puff=r Tubel Madara
+A19	Gender T21 Woman
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Testator
+T22	ProperName 1227 1239	Tubel Madara
+T23	Place 1240 1243;1259 1267	van macassar
+T24	ProperName 1259 1267	macassar
+T25	Person 2058 2068	Cassirenda
+A22	Gender T25 Unspecified
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 2058 2068	Cassirenda
+T27	Person 2147 2163	Catjo van vocgis
+A25	Gender T27 Unspecified
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 2147 2163	Catjo van vocgis
+T29	Person 2817 2833	April van Loping
+A28	Gender T29 Man
+A29	LegalStatus T29 Enslaved
+A30	Role T29 Other
+T30	ProperName 2817 2833	April van Loping
+T31	Person 2834 2845	mans sluven
+A31	Gender T31 Man
+A32	LegalStatus T31 Enslaved
+A33	Role T31 Other
+T32	Person 2847 2864	Jortuijn „ bocris
+A34	Gender T32 Man
+A35	LegalStatus T32 Enslaved
+A36	Role T32 Other
+T33	ProperName 2847 2864	Jortuijn „ bocris
+T34	Person 2886 2902	Sasa van mandhan
+A37	Gender T34 Woman
+A38	LegalStatus T34 Enslaved
+A39	Role T34 Other
+T35	Person 2903 2913	vrouw Slaa
+A40	Gender T35 Woman
+A41	LegalStatus T35 Enslaved
+A42	Role T35 Other
+T36	ProperName 2886 2902	Sasa van mandhan
+T37	Person 3171 3189	zoon Cornelis loek
+A43	Gender T37 Man
+A44	LegalStatus T37 Unspecified
+A45	Role T37 Beneficiary
+T38	ProperName 3176 3189	Cornelis loek
+T39	Place 3190 3202	van macassar
+T40	ProperName 3194 3202	macassar
+T41	Person 3328 3336	fortuijn
+A46	Gender T41 Man
+A47	LegalStatus T41 Enslaved
+A48	Role T41 Other
+T42	ProperName 3328 3336	fortuijn
+T43	Person 3773 3787	Lusk van macas
+A49	Gender T43 Man
+A50	LegalStatus T43 Unspecified
+A51	Role T43 Beneficiary
+T44	Place 3778 3787	van macas
+T45	ProperName 3782 3787	macas
+T46	ProperName 3773 3787	Lusk van macas

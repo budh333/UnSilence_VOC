@@ -1,0 +1,11 @@
+T1	DuplicatePage 0 6	wetten
+T2	ProperName 171 185	willem Kerkman
+T3	Person 171 185	willem Kerkman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 206 213	JWvan G
+T5	Person 206 213	JWvan G
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other

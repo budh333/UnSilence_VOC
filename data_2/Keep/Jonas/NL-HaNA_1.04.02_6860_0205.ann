@@ -1,0 +1,61 @@
+T1	Place 27 50	Campement te Banjoealit
+T2	ProperName 40 50	Banjoealit
+T3	Place 54 64	Balemboang
+T4	ProperName 54 64	Balemboang
+T5	Organization 128 135	EComp:s
+T6	Person 382 396	J: g„d Belmsre
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	Person 479 492	M:s van Rhijn
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	Person 516 527	„ M dashijn
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+#1	AnnotatorNotes T8	Signature
+T9	Person 528 539	J H: Msusch
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	Person 560 571	Swidorschij
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Witness
+T11	Person 573 581;582 586	Johannes Born
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Witness
+T12	ProperName 573 581;582 586	Johannes Born
+T13	Person 588 596	W=m Eens
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Witness
+T14	Person 598 611	Jacob Pordrom
+A22	Gender T14 Unspecified
+A23	LegalStatus T14 Unspecified
+A24	Role T14 Witness
+T15	ProperName 598 611	Jacob Pordrom
+T16	Person 612 627	Slerius Keseler
+A25	Gender T16 Unspecified
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Witness
+T17	ProperName 612 627	Slerius Keseler
+T18	Person 664 686	Pierer Frans Fmieheijm
+A28	Gender T18 Unspecified
+A29	LegalStatus T18 Unspecified
+A30	Role T18 Testator
+T19	ProperName 664 686	Pierer Frans Fmieheijm
+T20	Place 718 728	Sourabaija
+T21	ProperName 718 728	Sourabaija
+T22	Person 763 787	P: vans Pieter p Meheijn
+A31	Gender T22 Unspecified
+A32	LegalStatus T22 Unspecified
+A33	Role T22 Other
+T23	Person 799 812	P„n MJ VRhijn
+A34	Gender T23 Unspecified
+A35	LegalStatus T23 Unspecified
+A36	Role T23 Other
+#2	AnnotatorNotes T23	Signature

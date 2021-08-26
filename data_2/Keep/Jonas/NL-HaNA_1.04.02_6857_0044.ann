@@ -1,0 +1,68 @@
+T1	Place 31 37	Europa
+T2	ProperName 31 37	Europa
+T3	Person 139 162	Christiaan daniel Hertz
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+T4	Person 166 169;170 184	Jan Freedrik Rosen
+A3	Gender T4 Unspecified
+A4	LegalStatus T4 Unspecified
+A5	Role T4 Witness
+A6	Role T3 Witness
+T5	ProperName 139 162	Christiaan daniel Hertz
+T6	ProperName 166 169;170 184	Jan Freedrik Rosen
+T7	Place 218 233	Bode te Amstere
+T8	ProperName 226 233	Amstere
+T9	Person 443 448	Hertz
+A7	Gender T9 Man
+T10	Person 452 457	Rosin
+A9	Gender T10 Man
+A10	LegalStatus T10 Unspecified
+A11	Role T10 Other
+A8	Role T9 Other
+A12	LegalStatus T9 Unspecified
+T11	Person 835 874	Iacob Paul Rosin van Cabo de Goede Hoof
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 835 851	Iacob Paul Rosin
+T13	Person 856 874	Cabo de Goede Hoof
+T14	ProperName 856 874	Cabo de Goede Hoof
+T15	Person 879 899	syn Vader I: S Rosin
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 889 899	I: S Rosin
+T17	Person 953 968	Heer P. G. Bode
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	Person 1143 1154	J. P: Rosin
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	ProperName 1187 1205	Cabo de Goede Hoop
+T20	Person 218 222	Bode
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T21	Person 1187 1205	Cabo de Goede Hoop
+T22	Place 1541 1556	Op die Comptoir
+T23	Person 1690 1706	Iohannes Hebbens
+A28	Gender T23 Unspecified
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Other
+T24	Person 1865 1884;1885 1901	Elbert Lucas Stein. den Oppermeester
+A31	Gender T24 Unspecified
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Other
+T25	ProperName 1865 1883	Elbert Lucas Stein
+T26	Person 1940 1955	Chrisiaan Behne
+A34	Gender T26 Unspecified
+A35	LegalStatus T26 Unspecified
+A36	Role T26 Other
+A37	Gender T13 Man
+A38	LegalStatus T13 Unspecified
+A39	Role T13 Witness
+A40	Gender T21 Man
+A41	LegalStatus T21 Unspecified
+A42	Role T21 Other

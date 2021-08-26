@@ -1,0 +1,78 @@
+T1	DuplicatePage 0 1	6
+T2	TranscriptionError_Document 2 7	Copia
+T3	Person 61 96	Eddwijn Blancke, Capitain Commandan
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 61 76	Eddwijn Blancke
+T5	Organization 112 121	s EComp:s
+T6	ProperName 112 121	s EComp:s
+T7	Place 130 137	op Jara
+T8	ProperName 133 137	Jara
+T9	Place 159 161;162 186	te Banjoeacia op balemboang
+T10	ProperName 162 172	Banjoeacia
+T11	ProperName 176 186	balemboang
+T12	Person 220 271;272 289	Den Corporaal Christiaan Freerik Loehouw van tessen in ’t boonswijkse
+A4	Gender T12 Man
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Testator
+T13	ProperName 234 271	Christiaan Freerik Loehouw van tessen
+T14	Place 275 290	’t boonswijkse,
+T15	Person 1115 1163	huijsvrouw Maria Margaretha Elisabeth Robdermond
+A7	Gender T15 Woman
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Beneficiary
+T16	ProperName 1126 1163	Maria Margaretha Elisabeth Robdermond
+T17	Place 1175 1217	in de stad Leesen in ’t hetogdom vronswijk
+T18	ProperName 1186 1192	Leesen
+T19	ProperName 1197 1217	t hetogdom vronswijk
+T20	Organization 1262 1270	de Ecomp
+T21	ProperName 1262 1270	de Ecomp
+T22	Person 1377 1380;1381 1396	Jan Daniel gondelag
+A10	Gender T22 Unspecified
+A11	LegalStatus T22 Unspecified
+A12	Role T22 Other
+T23	ProperName 1377 1380;1381 1396	Jan Daniel gondelag
+T24	Organization 1741 1766;1767 1782	heeren Bewuw hebberen ter Kamer amsterdam
+T25	ProperName 1741 1766;1767 1782	heeren Bewuw hebberen ter Kamer amsterdam
+T26	Place 1763 1766;1767 1782	ter Kamer amsterdam
+T27	ProperName 1773 1782	amsterdam
+T29	ProperName 1838 1848	kijgewaard
+T28	Place 1828 1848	het schip kijgewaard
+T30	Person 2013 2041	H: Msuseh, onder Chijrurgijn
+A13	Gender T30 Man
+A14	LegalStatus T30 Unspecified
+A15	Role T30 Other
+T31	ProperName 2013 2022	H: Msuseh
+T32	Person 2043 2064;2065 2069	Swidorschij, Johannes Born
+A16	Gender T32 Unspecified
+A17	LegalStatus T32 Unspecified
+A18	Role T32 Other
+T33	ProperName 2056 2064;2065 2069	Johannes Born
+T34	Person 2081 2094	Jacob Cordrom
+A19	Gender T34 Unspecified
+A20	LegalStatus T34 Unspecified
+A21	Role T34 Other
+T35	ProperName 2081 2094	Jacob Cordrom
+T36	Person 2096 2112	Sildrius Keseler
+A22	Gender T36 Unspecified
+A23	LegalStatus T36 Unspecified
+A24	Role T36 Other
+T37	ProperName 2096 2112	Sildrius Keseler
+T38	Person 2149 2171	Pierer Frans Fmieheijm
+A25	Gender T38 Unspecified
+A26	LegalStatus T38 Unspecified
+A27	Role T38 Other
+T39	ProperName 2149 2171	Pierer Frans Fmieheijm
+T40	Place 2200 2213	na Sourabaija
+T41	ProperName 2203 2213	Sourabaija
+T42	Person 2248 2272	F: vans Pieker J Meheijn
+A28	Gender T42 Unspecified
+A29	LegalStatus T42 Unspecified
+A30	Role T42 Other
+T43	ProperName 2248 2272	F: vans Pieker J Meheijn
+T44	Person 2284 2295	Z MJ dShijn
+A31	Gender T44 Unspecified
+A32	LegalStatus T44 Unspecified
+A33	Role T44 Other
+T45	ProperName 2284 2295	Z MJ dShijn

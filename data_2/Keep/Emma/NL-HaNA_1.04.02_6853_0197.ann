@@ -1,0 +1,52 @@
+T2	Person 75 103	M=r Jan van der voortnotaris
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 79 96	Jan van der voort
+T4	Organization 118 157;158 163	e Edele hooge reegeringe van nederlands India
+T5	Place 147 157;158 163	nederlands India
+T6	ProperName 147 157;158 163	nederlands India
+T7	Place 177 199	binnen de stad batavia
+T8	ProperName 192 199	batavia
+T9	Person 253 270	Jan Iurgen de Wit
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 253 270	Jan Iurgen de Wit
+T12	Person 381 411	m:r Ioan van der voort Notaris
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Notary
+T13	ProperName 385 402	Ioan van der voor
+T14	Place 420 425;426 441	binne de stad batavia
+T15	ProperName 434 441	batavia
+T16	Person 442 476;477 484	Ian Leonard wunschen van gottingen soldaat
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Testator
+T17	ProperName 442 462	Ian Leonard wunschen
+T18	Place 463 476	van gottingen
+T19	ProperName 467 475	gottinge
+T20	Organization 499 506	dE Comp
+T22	Organization 527 533	Comp:s
+T21	Place 522 533;534 550	in s Comp:s hospitaal alhier
+T23	Organization 1318 1358	het gereformeerde weeshuijs in amsterdam
+T26	ProperName 1349 1358	amsterdam
+T24	Organization 1421 1456	het Lutherse weeshuijs in amsterdam
+T27	Place 1444 1456	in amsterdam
+T28	ProperName 1447 1456	amsterdam
+T29	Person 1740 1757;1758 1777	S:r Casparsgansen Bosenhof, Corporaal
+A16	Gender T29 Man
+A17	LegalStatus T29 Unspecified
+A18	Role T29 Beneficiary
+T30	ProperName 1744 1757;1758 1766	Casparsgansen Bosenhof
+T31	Organization 1902 1910	dE: Comp
+T1	ProperName 0 22	Jurgen Paulus Jykerman
+T11	Person 0 22	Jurgen Paulus Jykerman
+A1	Gender T11 Unspecified
+A2	LegalStatus T11 Unspecified
+A3	Role T11 Other
+T32	ProperName 499 506	dE Comp
+T25	Place 1346 1358	in amsterdam
+T33	ProperName 1902 1911	dE: Comp:
+T34	ProperName 527 533	Comp:s

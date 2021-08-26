@@ -1,0 +1,15 @@
+T1	Person 386 393;394 403	Jasper. Marten Iz
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 386 393;394 403	Jasper. Marten Iz
+T3	Person 420 432;433 435;436 448	Schoonmoeder 10 Anna Seijlon
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 436 448	Anna Seijlon
+T5	Person 455 467;468 472	Dirk van den Berg
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 455 467;468 472	Dirk van den Berg

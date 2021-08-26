@@ -1,0 +1,25 @@
+T1	Person 0 13;14 24	Iurgen Ekhard Holzenbach
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 0 13;14 24	Iurgen Ekhard Holzenbach
+T5	Person 1279 1292	Lucas Andries
+A10	Gender T5 Unspecified
+A11	LegalStatus T5 Unspecified
+T6	ProperName 1279 1292	Lucas Andries
+T9	Person 1472 1491	H: Scheltus Notaris
+A16	Gender T9 Man
+A17	LegalStatus T9 Unspecified
+T10	ProperName 1475 1483	Scheltus
+T11	Person 1576 1606;1607 1614	M=r Johannes Nicolaas Bestbier Notaris
+A19	Gender T11 Man
+A20	LegalStatus T11 Unspecified
+T12	ProperName 1580 1606	Johannes Nicolaas Bestbier
+A3	Role T1 Testator
+A4	Role T5 Witness
+T3	Person 1296 1317	Louis Marcus Domingos
+A5	Gender T3 Unspecified
+A6	LegalStatus T3 Unspecified
+A7	Role T3 Witness
+T4	ProperName 1296 1317	Louis Marcus Domingos
+A8	Role T9 Notary
+A9	Role T11 Notary

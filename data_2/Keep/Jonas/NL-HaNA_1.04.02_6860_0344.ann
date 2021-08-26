@@ -1,0 +1,53 @@
+T1	Person 27 37	Mans slaaf
+A1	Gender T1 Man
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 44 60	Cupido van Balij
+A4	Gender T2 Man
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	ProperName 44 50	Cupido
+T4	Place 55 60	Balij
+T5	ProperName 55 60	Balij
+T6	Person 143 146;147 151	Ian Moor
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 143 146;147 151	Ian Moor
+T8	Person 174 182	Spadilge
+A10	Gender T8 Man
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	Place 188 195	Batavia
+T10	ProperName 188 195	Batavia
+T11	Person 264 268	Moor
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	Person 293 311	Hercules van Balij
+A16	Gender T12 Man
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Other
+T13	ProperName 293 301	Hercules
+T14	Place 306 311	Balij
+T15	ProperName 306 311	Balij
+T16	Person 394 402	Jan Moor
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 394 402	Jan Moor
+T18	Place 532 565	Nederlandsch Comptoire Sourabaija
+T19	ProperName 555 565	Sourabaija
+T20	Person 599 611	Z: A: Dreier
+A22	Gender T20 Man
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Acting_Notary
+T21	Person 668 677	I: H: Let
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
+T22	Person 681 704	Cornelis van Raadshoven
+A28	Gender T22 Unspecified
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Other
+T23	ProperName 681 704	Cornelis van Raadshoven

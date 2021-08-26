@@ -1,0 +1,43 @@
+T1	Place 3 30	Hyberg in het oldenburgsche
+T2	ProperName 3 9	Hyberg
+T3	ProperName 17 30	oldenburgsche
+T4	Person 52 68	Maria huijsvrouw
+A1	Gender T4 Woman
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Beneficiary
+T5	ProperName 52 57	Maria
+T6	Person 73 88	Hendrik Voedrel
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 73 88	Hendrik Voedrel
+T8	Place 100 105	Zweij
+T9	ProperName 100 105	Zweij
+T10	Person 109 134	Sophia Almerie Huijsvrouw
+A7	Gender T10 Woman
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Beneficiary
+T11	ProperName 109 123	Sophia Almerie
+T12	Person 142 156	Diederik Meier
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 142 156	Diederik Meier
+T14	Place 160 167	Leeveld
+T15	ProperName 160 167	Leeveld
+T16	Person 348 373	Heeren Adrianus Dingshoff
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 355 373	Adrianus Dingshoff
+T18	Person 377 391	Remiguis Schne
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 377 391	Remiguis Schne
+T20	Organization 879 922	Edele Nederlandsche Oost Jndische Compagnie
+T21	Organization 1020 1036;1037 1083;1084 1090	De WelEdele Grat Achtbaare Heeren Bewindhebberen ter kamer Ams„ terdam
+T22	Place 1079 1083;1084 1090	Ams„ terdam
+T23	ProperName 1079 1083;1084 1090	Ams„ terdam
+A19	Beneficiary T20 No
+A20	Beneficiary T21 No

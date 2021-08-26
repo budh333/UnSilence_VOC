@@ -1,0 +1,28 @@
+T1	Place 442 457	Casteel Colombo
+T2	ProperName 450 457	Colombo
+T3	Person 504 512	a: Moens
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 564 577	C: de krelter
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 581 595	I: A: Tietieus
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	Person 615 622	A: Moer
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	Person 634 643;644 648	Baniel de 10ki
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Other
+#1	AnnotatorNotes T7	Signature
+T8	Person 659 670	Mj Chjluijk
+A16	Gender T8 Unspecified
+A17	LegalStatus T8 Unspecified
+A18	Role T8 Other
+#2	AnnotatorNotes T8	Signature

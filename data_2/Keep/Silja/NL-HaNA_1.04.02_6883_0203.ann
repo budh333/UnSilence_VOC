@@ -1,0 +1,11 @@
+T1	DuplicatePage 0 1	8
+T2	Person 124 155	moeder Elizabet van der Kolster
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 131 155	Elizabet van der Kolster
+T4	ProperName 420 430	d’ E Comp:
+T5	Organization 420 430	d’ E Comp:
+A4	Beneficiary T5 No
+T6	Place 520 531	kamer Delft
+T7	ProperName 526 531	Delft

@@ -1,0 +1,17 @@
+T1	TranscriptionError_Document 0 2	2l
+T2	DuplicatePage 0 2	2l
+T3	ProperName 145 150	Jansz
+T4	Person 145 150	Jansz
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 155 169	David Pietersz
+T6	Person 155 169	David Pietersz
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Person 307 333	Ioan van der voort notaris
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 307 325	Ioan van der voort

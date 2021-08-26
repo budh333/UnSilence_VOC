@@ -1,0 +1,18 @@
+T1	TranscriptionError_Document 1 2	C
+T2	Place 481 488	Zeeland
+T3	ProperName 481 488	Zeeland
+T4	ProperName 836 849	Claas Meijnik
+T5	Person 836 849	Claas Meijnik
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 865 873	De Vries
+T7	ProperName 891 899	Matthijs
+T8	Person 891 899	Matthijs
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	Person 865 873	De Vries
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness

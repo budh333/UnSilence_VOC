@@ -1,0 +1,14 @@
+T1	Person 739 749;750 760	Heer David Joan Smith
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 744 749;750 760	David Joan Smith
+T3	Place 785 795;796 801	Nederlands India
+T4	ProperName 785 795;796 801	Nederlands India
+T5	Organization 822 847	Eerw: Collegie van Heeren
+T6	ProperName 828 847	Collegie van Heeren
+T7	Place 860 883	deezer stads ommelanden
+T8	Organization 1220 1239	Collegie van heeren
+T9	ProperName 1220 1239	Collegie van heeren
+T10	Place 1624 1643	ter Kamer Amsterdam
+T11	Place 1634 1643	Amsterdam

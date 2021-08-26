@@ -1,0 +1,35 @@
+T1	ProperName 10 34	Frans Adriaan Bodenstein
+T2	Person 10 34	Frans Adriaan Bodenstein
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator_Beneficiary
+T3	ProperName 83 107	Frans Adriaan Bovenstein
+T4	Person 83 107	Frans Adriaan Bovenstein
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator_Beneficiary
+T5	ProperName 193 214	Johan Aintlonij Dulam
+T6	Organization 231 239	Bolittie
+A7	Beneficiary T6 No
+T7	Person 193 214	Johan Aintlonij Dulam
+A8	Gender T7 Man
+A9	LegalStatus T7 Unspecified
+A10	Role T7 Acting_Notary
+T8	Place 248 261	Gouvernements
+T9	Organization 456 461	Comp2
+A11	Beneficiary T9 No
+T10	ProperName 469 492	Frant Adrian Borenhtein
+T11	Person 469 492	Frant Adrian Borenhtein
+A12	Gender T11 Man
+A13	LegalStatus T11 Unspecified
+A14	Role T11 Testator_Beneficiary
+T12	Person 503 508;509 531	vrouw Pancina van Moetbergen
+A15	Gender T12 Woman
+A16	LegalStatus T12 Unspecified
+A17	Role T12 Testator_Beneficiary
+T13	ProperName 509 531	Pancina van Moetbergen
+T14	Person 1199 1240;1241 1246	Zoontje met name Iohannes Preovorch Boven „Item
+A18	Gender T14 Man
+A19	LegalStatus T14 Unspecified
+A20	Role T14 Beneficiary
+T15	ProperName 1216 1240;1241 1246	Iohannes Preovorch Boven „Item

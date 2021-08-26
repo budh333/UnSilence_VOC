@@ -1,0 +1,45 @@
+T1	Person 33 57	Adriaen Calle was burger
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 33 46	Adriaen Calle
+T3	Place 89 99	na Batavia
+T4	ProperName 92 99	Batavia
+T5	Person 246 249	god
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 246 249	god
+T7	Person 647 685;686 704	de vrije Christen vrouw Christina hoor =lin van Maccassar
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 671 685;686 703	Christina hoor =lin van Maccassa
+T10	ProperName 1083 1097	Iohannes Calle
+T9	Person 1078 1097	Zoon Iohannes Calle
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T11	Person 1215 1222	slaaven
+A13	Gender T11 Group
+A14	LegalStatus T11 Enslaved
+A15	Role T11 Other
+T12	Person 1226 1236	slaavinnen
+A16	Gender T12 Group
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Other
+T13	Person 1388 1413;1414 1421	D: E: Carel Iachobs onder Coopman
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Beneficiary
+T14	ProperName 1394 1407	Carel Iachobs
+T15	Person 1691 1719	Exarel Jac„obs onder Coopman
+A22	Gender T15 Man
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Beneficiary
+T16	ProperName 1691 1705	Exarel Jac„obs
+T17	Person 1752 1781	Mons„r Christofffel Castelijn
+A25	Gender T17 Man
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 1759 1781	Christofffel Castelijn

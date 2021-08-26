@@ -1,0 +1,50 @@
+T1	TranscriptionError_Document 0 3	163
+T2	Person 4 16	Frans Ledulx
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 4 16	Frans Ledulx
+T5	ProperName 108 134;135 138	Iohannes francissus Grati„ ren
+T7	ProperName 214 226	frans Ledulx
+T8	Person 275 305	Catharina Elitabeth van Gijdel
+A10	Gender T8 Woman
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 275 305	Catharina Elitabeth van Gijdel
+T11	ProperName 397 416	Ian Carel Andriesz:
+T13	ProperName 499 508	Lourensen
+T14	Person 523 536	saphira Gomes
+A19	Gender T14 Woman
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Witness
+T15	ProperName 523 536	saphira Gomes
+T16	Organization 1661 1690	de diakony armen dezer steede
+T17	Person 1836 1851	Johannes Philip
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 1836 1851	Johannes Philip
+T19	Person 2230 2248	Mejuffrouw Johanna
+A25	Gender T19 Woman
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 2241 2248	Johanna
+T4	Person 108 134;135 138	Iohannes francissus Grati„ ren
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T6	Person 209 226	d E: frans Ledulx
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T21	Place 261 263;264 271	ma „nabaar
+T22	ProperName 261 263;264 271	ma „nabaar
+T10	Person 397 416;417 428	Ian Carel Andriesz: gesw: klerk
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Acting_Notary
+T12	Person 499 508	Lourensen
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Witness
+A28	Beneficiary T16 Yes

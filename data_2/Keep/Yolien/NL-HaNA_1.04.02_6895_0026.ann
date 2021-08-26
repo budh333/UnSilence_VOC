@@ -1,0 +1,30 @@
+T1	ProperName 265 272	Zeijder
+T2	Place 501 510;511 530	en huijse van den Testateuren
+T3	ProperName 548 554;555 564	Paulus Nicolaasz
+T4	Person 548 554;555 565	Paulus Nicolaasz:
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 569 592	Iohannes Cornelis Iansz
+T6	Person 569 592	Iohannes Cornelis Iansz
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Person 750 762	A=n Scheltus
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 754 762	Scheltus
+T9	ProperName 829 850	Iacob Samuel de Raeff
+T10	Person 829 850	Iacob Samuel de Raeff
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Notary
+T11	Organization 878 885	Policie
+T12	ProperName 943 963	Ian Coenraad koelman
+T13	Person 943 963	Ian Coenraad koelman
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator
+T14	Place 1010 1031	schip de Maara Iacoba
+T15	ProperName 1019 1031	Maara Iacoba

@@ -1,0 +1,40 @@
+T1	Person 14 32	Johan Godlies Smit
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 14 32	Johan Godlies Smit
+T3	TranscriptionError_Document 33 37	1777
+T4	Person 122 141	george Otto Dijkman
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 122 141	george Otto Dijkman
+T6	Place 174 189	deese Comptoire
+T7	Person 240 259	Johan Godlieb Smiet
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator_Beneficiary
+T8	ProperName 240 259	Johan Godlieb Smiet
+T9	Place 265 272	Torgouw
+T10	Person 276 301	Catharina Helena Cornelis
+A10	Gender T10 Woman
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator_Beneficiary
+T11	ProperName 276 301	Catharina Helena Cornelis
+T12	Place 307 317	Sourabaija
+T13	ProperName 307 317	Sourabaija
+T14	Place 744 749;750 763	raade vend polictie
+T15	Organization 744 749;750 763	raade vend polictie
+T16	Organization 1555 1562;1563 1579	gouver„ nemente samarang
+T17	Place 1571 1579	samarang
+T18	ProperName 1571 1579	samarang
+T19	Person 1627 1648;1649 1654	Casparus gerrardus de Caste
+A13	Gender T19 Unspecified
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Witness
+T20	Person 1658 1682	Johannes Bernardus Doeve
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Witness
+T21	ProperName 1627 1648;1649 1654	Casparus gerrardus de Caste
+T22	ProperName 1658 1682	Johannes Bernardus Doeve

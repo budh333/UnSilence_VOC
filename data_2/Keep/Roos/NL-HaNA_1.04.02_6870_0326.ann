@@ -1,0 +1,17 @@
+T1	Place 262 267	Cashy
+T2	ProperName 262 267	Cashy
+T3	Place 277 282	India
+T4	ProperName 277 282	India
+T5	Person 626 655	huijsvrouw Iannetje Abrhamsz:
+A1	Gender T5 Woman
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Beneficiary
+T6	ProperName 637 655	Iannetje Abrhamsz:
+T7	Place 669 679	Vlissingen
+T8	ProperName 669 679	Vlissingen
+T9	Place 891 896	Jndia
+T10	ProperName 891 896	Jndia
+T11	Organization 1931 1978;1979 2016	D’Edele heeren Bewindhebberen, der Geoxtroeerde oostindresche Comp: ter Camer Zeeland
+A4	Beneficiary T11 No
+T12	Place 2009 2016	Zeeland
+T13	ProperName 2009 2016	Zeeland

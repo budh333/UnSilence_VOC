@@ -1,0 +1,24 @@
+T1	Place 217 225	Samarang
+T2	ProperName 217 225	Samarang
+T3	Person 255 262;263 286;287 294	De Boek houders Reijndert Simon Backer,
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 271 286;287 293	Reijndert Simon Backer
+T5	ProperName 298 310;311 317	Casper Haan„ balsz:
+T6	Person 298 310;311 316	Casper Haan„ balsz
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Person 476 489	J:n J:s Bookn
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 484 489	Bookn
+T9	Place 661 669	Samarang
+T10	ProperName 661 669	Samarang
+T11	Person 536 549	I: Loefhouwer
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 539 549	Loefhouwer

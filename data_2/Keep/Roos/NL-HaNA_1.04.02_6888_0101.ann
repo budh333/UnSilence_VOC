@@ -1,0 +1,60 @@
+T1	TranscriptionError_Document 1 6	Ueade
+T2	DuplicatePage 1 6	Ueade
+T3	Person 7 21	Coprit veldman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 7 21	Coprit veldman
+T6	ProperName 92 107	Casparus greven
+T7	Noteworthy 92 123;124 132	Casparus greven ondercoopman en secret„s
+#1	AnnotatorNotes T7	secretaris acting as notary
+T8	Organization 232 240	’sComp„s
+T9	Place 229 250	in ’sComp„s hospitael
+T11	Organization 326 331	Ecomp
+T12	ProperName 284 297	harman holman
+T13	Place 348 407	op het alhier ter rheede leggende schip d’ drie papegaaijen
+T15	ProperName 1025 1034;1035 1041	Catharina dirksz
+T16	Person 1077 1100;1101 1107	hilletje Cela catharina holman
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Beneficiary
+T17	ProperName 1077 1100;1101 1107	hilletje Cela catharina holman
+T18	Place 1208 1228	ter steede amsterdam
+T19	ProperName 1219 1228	amsterdam
+T21	ProperName 1604 1617	claas arriens
+T23	ProperName 1640 1656	Casper pietersz:
+T24	Place 1691 1721	op ’t schip de driepapegaaijen
+T26	ProperName 2030 2044	Agatha Amberg:
+T27	Person 2456 2463	Jacobsz
+A25	Gender T27 Unspecified
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 2456 2463	Jacobsz
+T5	Person 92 107	Casparus greven
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T10	Person 284 297	harman holman
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T29	ProperName 388 407	d’ drie papegaaijen
+T14	Person 1025 1034;1035 1042	Catharina dirksz:
+A10	Gender T14 Woman
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Beneficiary
+T20	Person 1598 1617	d: E: claas arriens
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T22	Person 1640 1656	Casper pietersz:
+A19	Gender T22 Man
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T30	ProperName 1703 1721	de driepapegaaijen
+T25	Person 2021 2029;2030 2044	Juffrouw Agatha Amberg:
+A22	Gender T25 Woman
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Beneficiary
+A28	Beneficiary T8 No
+A29	Beneficiary T11 No

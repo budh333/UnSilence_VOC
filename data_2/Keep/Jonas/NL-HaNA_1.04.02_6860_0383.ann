@@ -1,0 +1,85 @@
+T1	Person 17 26	ek Muster
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	Person 124 153	wouter Hendrik van ijsseldijk
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T4	Place 188 204	deesen Comptoire
+T5	Person 263 276	Joseph Muller
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 263 276	Joseph Muller
+T7	Place 281 290	Paterborn
+T8	ProperName 281 290	Paterborn
+T9	Person 1086 1105	Ioan Adriaan Preier
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Acting_Notary
+T10	ProperName 1086 1105	Ioan Adriaan Preier
+T11	Person 1373 1378	slave
+A13	Gender T11 Group
+A14	LegalStatus T11 Enslaved
+A15	Role T11 Other
+T12	Person 1398 1411	lijf Eijgenen
+A16	Gender T12 Group
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Other
+T13	Person 1412 1419;1420 1433	Cardoe„ van Maccasser
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Enslaved
+A21	Role T13 Other
+T15	Place 1424 1433	Maccasser
+T16	ProperName 1424 1433	Maccasser
+T17	Person 1437 1442	Diana
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Enslaved
+A24	Role T17 Other
+T18	ProperName 1437 1442	Diana
+T19	Place 1452 1461	Maccasser
+T20	ProperName 1452 1461	Maccasser
+T14	ProperName 1412 1418	Cardoe
+T21	Place 1479 1490;1491 1507	huijstaande binnen deze stad
+T22	Person 1599 1612	Pieter Muller
+A25	Gender T22 Man
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Beneficiary
+T23	ProperName 1599 1612	Pieter Muller
+T24	Person 1655 1661	slaven
+A28	Gender T24 Group
+A29	LegalStatus T24 Enslaved
+A30	Role T24 Other
+T25	Place 1666 1673	wooning
+T26	Organization 1766 1783	samarang te armen
+A31	Beneficiary T26 Yes
+T27	Organization 1799 1805	dEComp
+T28	Organization 1969 1987	kerk te sourabaija
+A32	Beneficiary T28 Yes
+T29	Place 1977 1987	sourabaija
+T30	ProperName 1977 1987	sourabaija
+T31	Person 2078 2091	Pieter Muller
+A33	Gender T31 Man
+A34	LegalStatus T31 Unspecified
+A35	Role T31 Beneficiary
+T32	ProperName 2078 2091	Pieter Muller
+T33	Person 2182 2200	Christoffel Muller
+A36	Gender T33 Man
+A37	LegalStatus T33 Unspecified
+A38	Role T33 Beneficiary
+T34	ProperName 2182 2200	Christoffel Muller
+T35	Person 2299 2315	Elisabeth Muller
+A39	Gender T35 Woman
+A40	LegalStatus T35 Unspecified
+A41	Role T35 Beneficiary
+T36	ProperName 2299 2315	Elisabeth Muller
+T37	Organization 2679 2699	Samarangse weeshuijs
+A42	Beneficiary T37 Yes
+T38	Person 2797 2811	Jaraense meijd
+A43	Gender T38 Woman
+A44	LegalStatus T38 Freed
+A45	Role T38 Beneficiary
+T39	Place 2853 2863	souracarta
+T40	ProperName 2853 2863	souracarta
+T3	ProperName 124 153	wouter Hendrik van ijsseldijk

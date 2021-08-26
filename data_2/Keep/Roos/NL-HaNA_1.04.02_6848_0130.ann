@@ -1,0 +1,48 @@
+T1	Person 0 8	Martinus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 0 8	Martinus
+T3	Person 17 21	Noel
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+T4	ProperName 17 21	Noel
+T5	Person 334 362	E: Lieter Daniel Boudeweensz
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+T6	ProperName 337 362	Lieter Daniel Boudeweensz
+T7	Person 367 374;375 381	Jacobus Vinger
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+T8	ProperName 367 374;375 381	Jacobus Vinger
+T9	Person 604 624	I:s Greving, notaris
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+T10	ProperName 604 615	I:s Greving
+T11	Place 766 784	Batavia Jnd' weesk
+T12	ProperName 766 773	Batavia
+T13	Person 827 849	W=m Kraane / ecretaris
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+T14	ProperName 827 837	W=m Kraane
+T16	ProperName 932 964	Nicolaas V: Bergen van der Grijp
+T17	Place 1018 1028;1029 1034	Nederlands Jndia
+T18	Place 1048 1070	binnen de stad Batavia
+T19	ProperName 1063 1070	Batavia
+T20	Organization 1142 1158	der Edele Comp:e
+T21	Person 1159 1172	Martinus Noel
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+T22	ProperName 1159 1172	Martinus Noel
+T23	Place 1183 1200	binnen deeze Stad
+A3	Role T1 Testator
+A6	Role T3 Testator
+A9	Role T5 Witness
+A12	Role T7 Witness
+A15	Role T9 Notary
+A18	Role T13 Other
+A24	Role T21 Testator
+T15	Person 932 965;966 967;968 983	Nicolaas V: Bergen van der Grijp, K Notaris publicq
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Notary
+A25	Beneficiary T20 No

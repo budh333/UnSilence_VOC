@@ -1,0 +1,26 @@
+T1	Person 128 147	Joan Adriaan Dreier
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Place 171 187	Deesen Comptoire
+T3	Place 236 283;284 297	huijse van den alhier Bescheijdene zergeant An„ „dries Ruijen
+T4	Person 280 283;284 297	An„ „dries Ruijen
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 280 283;284 297	An„ „dries Ruijen
+T6	Place 303 310	Hamburg
+T7	ProperName 303 310	Hamburg
+T8	Person 558 564	Schaar
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 1133 1141	I: Swort
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	Person 1142 1157	Fredrik Kreegel
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 1142 1157	Fredrik Kreegel

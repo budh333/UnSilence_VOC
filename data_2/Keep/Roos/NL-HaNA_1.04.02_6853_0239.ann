@@ -1,0 +1,16 @@
+T1	Place 331 351	op d: post d’ fluijt
+T2	Person 371 390	JaCob thijssenbraek
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T3	ProperName 371 390	JaCob thijssenbraek
+T4	Person 395 423	willem daniel van namen heq„
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 395 418	willem daniel van namen
+T6	Person 512 532	Gabriel van Gierssen
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Notary
+T7	ProperName 512 532	Gabriel van Gierssen

@@ -1,0 +1,23 @@
+T2	ProperName 468 472;473 488	Dirk Pasquel Iansz:,
+T3	Person 492 510	Abralam Abrahamsz:
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 492 511	Abralam Abrahamsz:,
+T5	Organization 840 879;880 889	het Eerwaarde Collegie van heeren Wees„ meesteren
+T6	ProperName 840 879;880 889	het Eerwaarde Collegie van heeren Wees„ meesteren
+T7	Organization 1173 1207	Geoctroijeerde oost Jndische Comp:
+T8	ProperName 1173 1207	Geoctroijeerde oost Jndische Comp:
+T9	Place 1218 1227	Amsterdam
+T10	ProperName 1218 1227	Amsterdam
+T11	Person 1843 1855	Leijfijgenen
+A7	Gender T11 Group
+A8	LegalStatus T11 Enslaved
+T1	Person 458 472;473 487	messieurs Dirk Pasquel Iansz:
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T12	Place 890 903	deeser Steede
+A9	Role T11 Other
+A10	Beneficiary T5 No
+A11	Beneficiary T7 No

@@ -1,0 +1,12 @@
+T1	Person 55 78	george Charles Musculus
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Place 129 141	kassembazaar
+T3	ProperName 129 141	kassembazaar
+T4	ProperName 55 78	george Charles Musculus
+T5	Person 240 262	Pieter Brueijs koopman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 240 254	Pieter Brueijs

@@ -1,0 +1,35 @@
+T1	TranscriptionError_Document 0 5	wesen
+T3	ProperName 516 533;534 540	Christiaan Liebre Kloege
+T4	Place 587 608	jastals de goede hoop
+T6	Organization 680 681;682 683	E E
+T7	ProperName 684 703	Carel Pavid wendsel
+T8	Place 708 714	Porede
+#2	AnnotatorNotes T8	Dresden
+T9	ProperName 708 714	Porede
+#3	AnnotatorNotes T9	Dresden
+T11	ProperName 724 741	Aurelia Havorinus
+T12	Place 746 763	Cabode goede hoop
+T13	ProperName 746 763	Cabode goede hoop
+T15	ProperName 1381 1412	S: Christiaan Ludolff Neethling
+T16	Person 1501 1507	gerrit
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 1501 1507	gerrit
+T2	Person 516 533;534 554	Christiaan Liebre Kloege, gesw: Clercq
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T5	Person 684 703	Carel Pavid wendsel
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T10	Person 718 741	Iuff„ Aurelia Havorinus
+A7	Gender T10 Woman
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator_Beneficiary
+T14	Person 1381 1412	S: Christiaan Ludolff Neethling
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+A16	Beneficiary T6 No

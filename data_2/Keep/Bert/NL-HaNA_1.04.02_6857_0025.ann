@@ -1,0 +1,27 @@
+T1	Person 347 381;382 394	Oppermeester deeser Factorij Johan George Boode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 376 381;382 394	Johan George Boode
+T3	Place 425 443	Cabo de Goedesloop
+#1	AnnotatorNotes T3	Cabo de Goede Hoop
+T4	Person 484 514	Oppermeester Iohannes Henricus
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Notary T4 No
+T5	ProperName 497 514	Iohannes Henricus
+#2	AnnotatorNotes T5	with line 28 : Reijs
+#3	AnnotatorNotes T4	with line 28 : Reijs
+T6	Person 519 524	Reijs
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Notary T6 No
+#4	AnnotatorNotes T6	with line 26 : oppermeester ..
+T7	ProperName 519 524	Reijs
+#5	AnnotatorNotes T7	with line 26 : Oppermeester ..
+T8	Place 560 565	Macas
+#6	AnnotatorNotes T8	Macao
+T9	ProperName 560 565	Macas
+#7	AnnotatorNotes T9	Macao
+T10	Place 1055 1064	De Canton
+T11	ProperName 1058 1064	Canton

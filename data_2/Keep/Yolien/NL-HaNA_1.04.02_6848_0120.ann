@@ -1,0 +1,39 @@
+T3	Place 749 765;766 777	ten huise van de testateuren
+T4	Person 832 858	Frtermanus Aorham Rimonszz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+T5	ProperName 832 858	Frtermanus Aorham Rimonszz
+T6	Person 863 886	Kraraus Thomas Pennemak
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+T7	ProperName 871 886	Thomas Pennemak
+T9	ProperName 1051 1075	Van Bergen van der Grijp
+T10	Person 1088 1109	Bernardus van Pleuren
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+T11	ProperName 1088 1109	Bernardus van Pleuren
+T13	ProperName 1201 1218	Nicolaus Matthaus
+T12	Person 1198 1219;1220 1235	M: Nicolaus Matthaus, notaris publicq
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+T15	ProperName 1243 1269;1270 1271;1272 1288	Edele hooge regeeringe van 1 Nederlands Jndia
+T16	Place 1272 1288	Nederlands Jndia
+T17	Place 1311 1322;1323 1328	de stad Ba„ tavia
+T18	ProperName 1319 1322;1323 1328	Ba„ tavia
+T19	Person 1414 1440	Heer Bernardus van Pleuren
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+T20	ProperName 1419 1440	Bernardus van Pleuren
+T21	Place 1467 1483	nederlands Jndia
+T22	ProperName 1467 1483	nederlands Jndia
+T2	Organization 1243 1269;1270 1271;1272 1288	Edele hooge regeeringe van 1 Nederlands Jndia
+T14	TranscriptionError_Document 12 14	Al
+A1	Role T4 Witness
+A2	Role T6 Witness
+T1	Person 1051 1084	Van Bergen van der Grijp, Notaris
+A3	Gender T1 Man
+A6	LegalStatus T1 Unspecified
+A9	Role T1 Notary
+A10	Role T10 Other
+A11	Role T12 Notary
+A12	Role T19 Witness

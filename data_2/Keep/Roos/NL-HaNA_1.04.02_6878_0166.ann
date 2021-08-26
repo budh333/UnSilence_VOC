@@ -1,0 +1,31 @@
+T1	Person 11 20	AHjeegert
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 11 20	AHjeegert
+T3	Organization 188 197	de Comp„e
+T4	Organization 243 303	D'Edele Hoog Achtb„r heeren Bewindhebberen ten kamer Zeeland
+T5	Place 296 303	Zeeland
+T6	ProperName 296 303	Zeeland
+T7	Person 1737 1751	Daniel Lanheet
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1737 1751	Daniel Lanheet
+T10	ProperName 1755 1776	Christiffel Wijdemans
+T11	Person 2016 2033	H: Hannink Glencx
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 2016 2026	H: Hannink
+T13	Person 2045 2062	M„ Koning Ellercq
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 2045 2054	M„ Koning
+T9	Person 1755 1786	Christiffel Wijdemans Clircquen
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+A16	Beneficiary T3 No
+A17	Beneficiary T4 No

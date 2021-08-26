@@ -1,0 +1,8 @@
+T1	Person 963 967	kend
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 976 984	kinderen
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other

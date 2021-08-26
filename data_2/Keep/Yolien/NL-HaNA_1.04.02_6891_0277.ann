@@ -1,0 +1,23 @@
+T1	TranscriptionError_Document 0 8	laatsten
+T2	ProperName 156 184	Jusitigerrard Hendrik Duvell
+T3	Person 156 185	Jusitigerrard Hendrik Duvell,
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 361 377	Johannis D' Ree,
+T5	Person 361 377	Johannis D' Ree,
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 540 551	Jesu Christ
+T7	Organization 943 959	heeren weesm=ren
+T8	ProperName 943 959	heeren weesm=ren
+T9	Organization 1331 1335	Comp
+T10	Place 1516 1526	Enkhuijsen
+T11	ProperName 1516 1526	Enkhuijsen
+T12	Organization 1469 1482	heeren bewint
+T13	ProperName 1469 1482	heeren bewint
+T14	Organization 1497 1505	hebberen
+T15	ProperName 1497 1505	hebberen
+T16	Place 1573 1590	schiep Geertruijd
+T17	ProperName 1580 1590	Geertruijd

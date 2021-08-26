@@ -1,0 +1,49 @@
+T1	TranscriptionError_Document 0 6	Leesen
+T2	Place 53 63	Sourabaija
+T3	ProperName 53 63	Sourabaija
+T4	ProperName 132 155	Christiaan Ernst Eckard
+T5	Person 132 155	Christiaan Ernst Eckard
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 190 192;193 219;220 228	Me Juffrouw Maria Johanna van Tongeren
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 202 219;220 229	Maria Johanna van Tongeren.
+T8	ProperName 296 311	Jan Jacob Boohn
+T9	Person 296 311	Jan Jacob Boohn
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	Organization 405 409	Comp
+T11	Person 683 699	J:n G:s Helmkess
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 691 699	Helmkess
+T13	Person 735 744;745 751	P: Loeff„ houwer
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 738 744;745 751	Loeff„ houwer
+T15	Person 782 794	R P:: Wroott
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 788 794	Wroott
+T17	ProperName 809 827	CCrophas Augustins
+T18	Person 809 827	CCrophas Augustins
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Witness
+T19	ProperName 969 978	Jan Lapro
+T20	Person 969 978	Jan Lapro
+A22	Gender T20 Unspecified
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Other
+T21	Person 1005 1018	W: : E:Hukoot
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
+T22	ProperName 1012 1018	Hukoot

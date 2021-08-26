@@ -1,0 +1,56 @@
+T1	Person 13 21	Brengman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 13 21	Brengman
+T3	ProperName 25 44	in't For„t Gustavus
+T4	ProperName 30 43	For„t Gustavu
+T5	Person 82 87;88 96	Corni Brengman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	Person 100 145;146 155	Jan van Hoorn, Clerquen deser sefretarije als getuijgen
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T7	ProperName 100 113	Jan van Hoorn
+T8	ProperName 82 87;88 96	Corni Brengman
+T9	Place 124 141	deser sefretarije
+T10	Person 357 366;367 377	M: Bastig Eg: Clercq
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T12	ProperName 423 437	M:r Bastiaanse
+T13	Person 423 447	M:r Bastiaanse E: g: Cl„
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T11	ProperName 357 366	M: Bastig
+T14	Organization 492 512	den Raad van Justiti
+T15	Place 513 530	des fort Gustavis
+T16	ProperName 517 530	fort Gustavis
+T17	Person 655 687	Cap:n Luyten:t militair de Lelij
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 679 687	de Lelij
+T19	Person 766 789;790 812	Assistent ten dezen sC„ toire Jan Willem Meije
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 796 813	Jan Willem Meijer
+T21	Person 1005 1028	M:r Bastiaanse secret:s
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 1009 1019	Bastiaanse
+T23	Person 1072 1099	M:r Bastiaanse E: g: Clercq
+A25	Gender T23 Man
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	ProperName 1076 1086	Bastiaanse
+T25	Person 1113 1124;1125 1137	Paftiaanse. E:G: CClercq
+A28	Gender T25 Man
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	ProperName 1113 1123	Paftiaanse

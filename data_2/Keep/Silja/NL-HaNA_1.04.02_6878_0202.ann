@@ -1,0 +1,27 @@
+T1	DuplicatePage 0 3	Van
+T2	ProperName 48 72	Johannes Matteus Hantrag
+T3	Person 48 72	Johannes Matteus Hantrag
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 143 156	I C: vd Spuij
+T5	Person 143 156	I C: vd Spuij
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 94 111	Samuel Fred Botha
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 94 111	Samuel Fred Botha
+T8	ProperName 201 210	L. Mammel
+T9	Person 201 210	L. Mammel
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 211 220	P L Lesun
+T11	Person 211 220	P L Lesun
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	Place 311 314;315 340	ter Iustitieelen secretarijen

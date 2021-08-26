@@ -1,0 +1,50 @@
+T1	Organization 124 132;133 146	die Arme in vlissingen
+A1	Beneficiary T1 Yes
+T2	Place 136 146	vlissingen
+T3	ProperName 136 146	vlissingen
+T4	Organization 186 216	t Proveniers huijs op Samarang
+A2	Beneficiary T4 Yes
+T5	Place 208 216	Samarang
+T6	ProperName 208 216	Samarang
+T7	Person 266 284	Zara van Steenland
+A3	Gender T7 Woman
+A4	LegalStatus T7 Unspecified
+A5	Role T7 Beneficiary
+T8	ProperName 266 284	Zara van Steenland
+T9	Person 355 373	Coba van Steenland
+A6	Gender T9 Woman
+A7	LegalStatus T9 Unspecified
+A8	Role T9 Beneficiary
+T10	ProperName 355 373	Coba van Steenland
+T11	Person 450 461	Jan Hanckam
+A9	Gender T11 Unspecified
+A10	LegalStatus T11 Unspecified
+A11	Role T11 Beneficiary
+T12	ProperName 450 461	Jan Hanckam
+T13	Person 506 519	Morinus Baker
+A12	Gender T13 Unspecified
+A13	LegalStatus T13 Unspecified
+A14	Role T13 Other
+T14	ProperName 506 519	Morinus Baker
+T15	Person 559 573	Niclaas Petaan
+A15	Gender T15 Unspecified
+A16	LegalStatus T15 Unspecified
+A17	Role T15 Beneficiary
+T16	ProperName 559 573	Niclaas Petaan
+T17	Place 1014 1034	Schip Noord Neuwland
+T18	ProperName 1020 1034	Noord Neuwland
+T19	Person 996 1012	A: V Stertenberg
+A18	Gender T19 Unspecified
+A19	LegalStatus T19 Unspecified
+A20	Role T19 Witness
+T20	ProperName 996 1012	A: V Stertenberg
+T21	Person 1035 1052	J. G=. Meijnderst
+A21	Gender T21 Unspecified
+A22	LegalStatus T21 Unspecified
+A23	Role T21 Witness
+T22	ProperName 1035 1052	J. G=. Meijnderst
+T23	Person 1121 1136	Joost Steenland
+A24	Gender T23 Man
+A25	LegalStatus T23 Unspecified
+A26	Role T23 Testator
+T24	ProperName 1121 1136	Joost Steenland

@@ -1,0 +1,15 @@
+T1	Person 106 112	P: Ras
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 151 163	S: A: Dreiar
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T3	Person 212 218	Dreier
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Organization 273 290;291 299	Raade van Tustil„ Samarang
+T5	Place 291 299	Samarang
+T6	ProperName 291 299	Samarang

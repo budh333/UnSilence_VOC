@@ -1,0 +1,38 @@
+T1	Person 101 120	schipper Jan Roelof
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 110 121	Jan Roeloff
+T3	ProperName 136 147	Carelscroon
+T4	Place 136 147	Carelscroon
+T5	Place 826 835	weescamer
+T6	Place 1479 1484	India
+T7	ProperName 1479 1484	India
+T8	ProperName 1664 1679	Matthias de Wit
+T9	Person 1664 1680	Matthias de Wit,
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 1703 1710;1711 1718	Iacobus Barends
+T12	ProperName 1722 1741	andries Christiaans
+T11	Person 1703 1710;1711 1718	Iacobus Barends
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T13	Person 1722 1742	andries Christiaans,
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	DuplicatePage 2046 2055	amsterdam
+T15	ProperName 2046 2055	amsterdam
+T16	Place 2046 2055	amsterdam
+T17	Person 1995 2000;2001 2014	frans Adam Parelson
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 1995 2000;2001 2014	frans Adam Parelson
+T19	ProperName 2019 2034	Arnoldus havisz
+T20	Person 2019 2035	Arnoldus havisz,
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other

@@ -1,0 +1,61 @@
+T1	Place 29 45	Nederlands India
+T2	ProperName 29 45	Nederlands India
+T3	Place 68 74;75 82	destad Batavia
+T4	ProperName 75 82	Batavia
+T5	Person 128 135;136 161	D: Heek Samuel Constantijn Saffin
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 136 161	Samuel Constantijn Saffin
+T7	ProperName 283 290	Batavia
+T8	Place 283 290	Batavia
+T9	Person 1080 1102	Lusinda, van Mallabaar
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Enslaved
+A6	Role T9 Other
+T10	ProperName 1080 1102	Lusinda, van Mallabaar
+T11	Person 1103 1109;1110 1115	Laflur „Nias
+A7	Gender T11 Man
+A8	LegalStatus T11 Enslaved
+A9	Role T11 Other
+T12	ProperName 1103 1109;1110 1115	Laflur „Nias
+T13	Person 1125 1130;1131 1154	wijff Alexandrina „ Mallabaar
+A10	Gender T13 Woman
+A11	LegalStatus T13 Enslaved
+A12	Role T13 Other
+T14	ProperName 1131 1154	Alexandrina „ Mallabaar
+T15	Person 1185 1193	Nathalie
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Enslaved
+A15	Role T15 Other
+T16	ProperName 1185 1193	Nathalie
+T17	Person 1198 1204	Ioseph
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Enslaved
+A18	Role T17 Other
+T18	ProperName 1198 1204	Ioseph
+T19	Person 1209 1228	Matthijs van Cochim
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Enslaved
+A21	Role T19 Other
+T20	ProperName 1209 1228	Matthijs van Cochim
+T21	Person 1278 1290	Meijd Aliema
+A22	Gender T21 Woman
+A23	LegalStatus T21 Enslaved
+A24	Role T21 Other
+T22	ProperName 1284 1290	Aliema
+T23	Person 1316 1338	Minerva; van Moengoeij
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Enslaved
+A27	Role T23 Other
+T24	ProperName 1316 1337	Minerva; van Moengoei
+T25	Person 1342 1368	Meijd Noorsia van Sumbauwa
+A28	Gender T25 Woman
+A29	LegalStatus T25 Enslaved
+A30	Role T25 Other
+T26	ProperName 1348 1368	Noorsia van Sumbauwa
+T27	Person 1379 1389;1390 1396	Marcus van boegis
+A31	Gender T27 Unspecified
+A32	LegalStatus T27 Enslaved
+A33	Role T27 Other
+T28	ProperName 1379 1389;1390 1396	Marcus van boegis

@@ -1,0 +1,19 @@
+T1	Person 402 413	David Jansz
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 402 413	David Jansz
+T3	Person 415 425;426 432	Jude Louis Louisz
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 415 425;426 432	Jude Louis Louisz
+T5	Person 539 564	GFranRim ons Notat:s Pufl
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	Person 578 586	Jan Wenk
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+#1	AnnotatorNotes T6	Signature

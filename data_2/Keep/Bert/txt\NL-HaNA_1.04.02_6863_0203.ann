@@ -1,0 +1,14 @@
+T1	Person 568 577;579 618	Wilhelmus Philippius van Cuijlenburg, gesw: Clerq
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 579 605	Philippius van Cuijlenburg
+T3	Place 619 634;635 646	ter secretarije van politie
+T4	Person 695 721	Jurgen Jacobsz: van Smirna
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 695 721	Jurgen Jacobsz: van Smirna
+T6	ProperName 764 776	Maria Louisa
+T7	Organization 2057 2070;2071 2099	Gereformeerde diaconije armen deser sleede
+T9	Organization 2109 2123	het sterfhuijs

@@ -1,0 +1,10 @@
+T1	Person 681 717	Jongvrouwe Johanna Jacoba Grimmelius
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	Person 1110 1114;1115 1139	Heer Paulus Welhelmus Lelters
+A4	Gender T2 Woman
+A5	LegalStatus T2 Unspecified
+A6	Notary T2 No
+T3	ProperName 692 717	Johanna Jacoba Grimmelius
+T4	ProperName 1115 1139	Paulus Welhelmus Lelters

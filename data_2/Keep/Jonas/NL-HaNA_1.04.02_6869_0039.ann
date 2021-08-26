@@ -1,0 +1,64 @@
+T1	Person 52 79	Lodewijk Thomassin schipper
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Organization 101 110	E: Comp:s
+T3	Person 143 163	Albert dirkse kreeft
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	Place 248 253	bat=a
+T5	ProperName 143 163	Albert dirkse kreeft
+T7	Person 361 378	Lodwijk Thomassin
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T6	ProperName 52 70	Lodewijk Thomassin
+T8	Person 396 399;400 408	Sen Ter Burg
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 396 399;400 408	Sen Ter Burg
+T10	Person 478 499	Carel Aldertse Kreeff
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 478 499	Carel Aldertse Kreeff
+T12	ProperName 361 378	Lodwijk Thomassin
+T13	Person 522 532	Albert Kok
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Testator
+T14	ProperName 522 532	Albert Kok
+T15	Person 599 630;631 636	M„t Herman Scheltus notaris pu„ blicq
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Notary
+T16	ProperName 603 618	Herman Scheltus
+T17	Organization 644 687	Edele hooge reegeringe van nederlands jndia
+T18	ProperName 644 687	Edele hooge reegeringe van nederlands jndia
+T19	Place 671 687	nederlands jndia
+T20	ProperName 671 687	nederlands jndia
+T21	Place 704 726	binnen de stad Batavia
+T22	ProperName 719 726	Batavia
+T23	Person 791 801	Albert kok
+A22	Gender T23 Man
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Testator
+T24	Organization 842 853	Edele Comp:
+T25	Person 948 965	Jsaack BoterCoper
+A25	Gender T25 Man
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	ProperName 948 965	Jsaack BoterCoper
+T27	Person 1016 1026	Jacob Link
+A28	Gender T27 Man
+A29	LegalStatus T27 Unspecified
+A30	Role T27 Other
+T28	ProperName 1016 1026	Jacob Link
+T29	Person 1472 1486	leijffeijgenen
+A31	Gender T29 Group
+A32	LegalStatus T29 Enslaved
+A33	Role T29 Other
+T31	Organization 347 350	Ed:
+T30	TranscriptionError_Document 0 2	Op

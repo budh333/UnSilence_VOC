@@ -1,0 +1,66 @@
+T1	Organization 61 70	d’E: Comp
+T3	Place 164 181	er Camer amsterda
+T2	Organization 142 162	oost indische Comp:e
+T4	ProperName 173 181	amsterda
+T5	Place 547 564;565 570	s E: Comp:es hosp „tael
+T6	Organization 552 559	Comp:es
+T7	Person 597 607;608 617	Ian Harnis Poortier,
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Witness
+T10	ProperName 621 634	Pieter tuckse
+T8	ProperName 597 607	Ian Harnis
+T9	Person 621 641	Pieter tucksel, kock
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Witness
+T11	Place 664 678	in’t hospitael
+T12	Person 699 714	Iacob Philander
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Witness
+T13	Person 718 730;731 760	frans Pieter clerquen, alle als getuijgen,
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Witness
+T14	ProperName 699 714	Iacob Philander
+T15	ProperName 718 730;731 759	frans Pieter clerquen, alle als getuijgen
+T16	Person 776 792	Ian van wetteren
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Testator
+T17	ProperName 776 792	Ian van wetteren
+T18	Person 794 804	Ian harnis
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Witness
+T19	ProperName 794 804	Ian harnis
+T20	Person 806 808;809 820	Pi „ter duksen
+A19	Gender T20 Man
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Witness
+T21	ProperName 806 808;809 820	Pi „ter duksen
+T22	Person 822 835	J„b Philander
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Witness
+T23	ProperName 822 835	J„b Philander
+T24	Person 837 847	g„ Pieters
+A25	Gender T24 Man
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Witness
+T25	ProperName 837 847	g„ Pieters
+T26	Person 851 869	Nicolaas Crul nots
+A28	Gender T26 Man
+A29	LegalStatus T26 Unspecified
+A30	Role T26 Notary
+T27	ProperName 851 864	Nicolaas Crul
+T28	Organization 937 952	D' E: Compagnie
+T29	Place 953 958	Bat:a
+T30	ProperName 953 958	Bat:a
+T31	Person 983 996	icotras Crul,
+A31	Gender T31 Man
+A32	LegalStatus T31 Unspecified
+A33	Role T31 Notary
+T32	ProperName 983 995	icotras Crul
+T33	ProperName 937 952	D' E: Compagnie

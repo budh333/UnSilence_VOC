@@ -1,0 +1,32 @@
+T1	TranscriptionError_Document 0 1	1
+T2	ProperName 2 12	Kretschman
+T3	Person 2 12	Kretschman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 13 36	Johan Christiaan Muller
+T5	Person 13 36	Johan Christiaan Muller
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 133 161	Wilhelmus Philippus Wetzelus
+T7	Person 133 161	Wilhelmus Philippus Wetzelus
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 255 277	Joan Christiaan Muller
+T9	Person 255 277	Joan Christiaan Muller
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	Organization 300 305	sComp
+T11	ProperName 282 288	Ropein
+T12	Person 494 520	adsistent Theodorus moerel
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Testator
+T13	ProperName 504 520	Theodorus moerel
+T14	Place 525 534	amsterdam
+T15	ProperName 525 534	amsterdam
+T16	DuplicatePage 1062 1068	Muller
+T17	ProperName 1062 1068	Muller

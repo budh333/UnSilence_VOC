@@ -1,0 +1,25 @@
+T1	Person 459 488;489 512	Hteeren Pacques Anthonies des Wignes, opper Chirugijn
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 467 488;489 495	Pacques Anthonies des Wignes
+T3	Place 513 525	vant Catseel
+T4	Person 532 541;542 571	Nijsthant busgen Cassien en weesmeester
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 532 541;542 548	Nijsthant busgen
+T6	Person 764 781	zoon Cornelis Cok
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 769 781	Cornelis Cok
+T8	Person 1688 1694	Slaven
+A10	Gender T8 Group
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	Person 2138 2169	zoon genaamt Cornelis Cokmeedga
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 2151 2169	Cornelis Cokmeedga

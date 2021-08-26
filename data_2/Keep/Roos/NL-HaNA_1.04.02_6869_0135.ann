@@ -1,0 +1,55 @@
+T1	Person 0 17	J: S Jvant Rijgds
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 17	J: S Jvant Rijgds
+T3	Person 33 41	Armenaut
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 33 41	Armenaut
+T5	Person 45 56	Van Lefeber
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 45 56	Van Lefeber
+#1	AnnotatorNotes T6	Jan Lefeber
+T8	ProperName 212 222;223 230	Jacob Eil„ „bracht
+T9	Organization 248 273	der Bengaalse secretarije
+T10	Person 308 316;317 328	Monsieur Jan Lefeber
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Testator
+T11	ProperName 317 328	Jan Lefeber
+T12	Place 343 352	Amsterdam
+T13	ProperName 343 352	Amsterdam
+T15	ProperName 1362 1373	Marike Smit
+T16	Person 1387 1398	Jan Lefeber
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 1387 1398	Jan Lefeber
+T18	Organization 1432 1443	d’ E Comp„e
+T19	Place 1402 1411	onwerkerk
+#3	AnnotatorNotes T19	Ouwerkerk
+T20	ProperName 1402 1411	onwerkerk
+#4	AnnotatorNotes T20	Ouwerkerk
+T22	ProperName 1606 1617	Jan Lefeber
+T23	Person 1714 1725	lijfeigenen
+A25	Gender T23 Group
+A26	LegalStatus T23 Enslaved
+A27	Role T23 Other
+T7	Person 212 222;223 247	Jacob Eil„ „bracht, geswore Clercq:
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Acting_Notary
+T14	Person 1362 1380	Marike Smit, wed„e
+A16	Gender T14 Woman
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Beneficiary
+T21	Person 1606 1618	Jan Lefeber,
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary
+A28	Beneficiary T9 No
+A29	Beneficiary T18 No

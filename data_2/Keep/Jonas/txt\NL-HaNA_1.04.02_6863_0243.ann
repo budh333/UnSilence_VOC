@@ -1,0 +1,44 @@
+T1	Person 41 51	Kretsekman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 23 40	I. R. Kreekenbeek
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Testator
+T3	Person 196 224	Tustinus Putgart Kriekenbeek
+A7	Gender T3 Man
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Testator
+T4	ProperName 196 224	Tustinus Putgart Kriekenbeek
+T5	Person 311 324	Adriaan Moens
+A10	Gender T5 Man
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Acting_Notary
+T6	ProperName 311 324	Adriaan Moens
+T7	Person 345 355	Kantichman
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Other
+T8	Person 356 381	Antopij Christiaan Kelner
+A16	Gender T8 Man
+A17	LegalStatus T8 Unspecified
+A18	Role T8 Testator_Beneficiary
+T9	ProperName 356 381	Antopij Christiaan Kelner
+T10	Person 487 506	Johan Hend=k Muller
+A19	Gender T10 Unspecified
+A20	LegalStatus T10 Unspecified
+A21	Role T10 Acting_Notary
+T11	Organization 556 569;570 583	politie deses gouvernements
+T12	Place 564 569;570 583	deses gouvernements
+T13	Person 631 655	Anthon Christiaen Kelner
+A22	Gender T13 Man
+A23	LegalStatus T13 Unspecified
+A24	Role T13 Testator_Beneficiary
+T14	ProperName 631 655	Anthon Christiaen Kelner
+T15	Organization 679 686	E. Comp
+T16	Person 699 716	Iuliana Daaldorff
+A25	Gender T16 Woman
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Testator_Beneficiary
+T17	TranscriptionError_Document 1946 1948	de

@@ -1,0 +1,24 @@
+T1	Person 50 61	Jan Reijnax
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 50 61	Jan Reijnax
+T3	Person 65 77;78 83	Jan van Dust „dorp
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 65 77;78 83	Jan van Dust „dorp
+T6	Person 343 353	PH Raaster
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T5	ProperName 343 353	PH Raaster
+T7	Person 463 469	slaven
+A7	Gender T7 Group
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	Person 499 513;514 535	Christen vrouw Wilhelmina Sara Arons
+A13	Gender T8 Woman
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Beneficiary
+T9	ProperName 514 535	Wilhelmina Sara Arons

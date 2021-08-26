@@ -1,0 +1,26 @@
+T1	Person 132 157	den Capitain der Chinesen
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Person 347 357	fokkenberg
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Testator
+T3	ProperName 347 357	fokkenberg
+T4	Person 812 822	fokkenberg
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Testator
+T5	ProperName 812 822	fokkenberg
+T6	Person 1151 1163	S: Inggersen
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	ProperName 1151 1163	S: Inggersen
+T8	Person 1225 1233	AHerstad
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Acting_Notary
+T9	ProperName 1225 1233	AHerstad
+T10	Noteworthy 1225 1233;1234 1246	AHerstad getd: scriba
+#1	AnnotatorNotes T10	Scriba acting as notary

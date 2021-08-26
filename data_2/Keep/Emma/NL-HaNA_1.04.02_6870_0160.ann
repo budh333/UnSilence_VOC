@@ -1,0 +1,7 @@
+T1	TranscriptionError_Document 0 4	vnde
+T2	DuplicatePage 5 7	bi
+T3	Person 184 191	J Rerts
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 184 191	J Rerts

@@ -1,0 +1,29 @@
+T1	Place 364 372	macassar
+T2	ProperName 364 372	macassar
+T3	Organization 376 378;379 385	’s Comp„s
+A1	Beneficiary T3 No
+T4	Person 531 546	Jeronimus Cruse
+A2	Gender T4 Unspecified
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Acting_Notary
+T5	ProperName 531 546	Jeronimus Cruse
+T6	Person 583 600;611 619	Jacobus macquelin de Jonge
+A5	Gender T6 Unspecified
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Witness
+T7	ProperName 583 600;611 619	Jacobus macquelin de Jonge
+T8	Person 623 643	fredrik Wilhelm Kelp
+A8	Gender T8 Unspecified
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Witness
+T9	ProperName 623 643	fredrik Wilhelm Kelp
+T10	Person 673 689	Jeroninaus Cruse
+A11	Gender T10 Unspecified
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Acting_Notary
+T11	ProperName 673 689	Jeroninaus Cruse
+T12	Person 714 724	DeS rieser
+A14	Gender T12 Unspecified
+A15	LegalStatus T12 Unspecified
+A16	Role T12 Other
+T13	ProperName 714 724	DeS rieser

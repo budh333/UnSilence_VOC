@@ -1,0 +1,50 @@
+T1	Person 0 23	Johan Hendriik Vyrminke
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 23	Johan Hendriik Vyrminke
+T3	Person 140 175	Abraham van Denter nataris jublijcq
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 140 157	Abraham van Dente
+T5	Organization 180 206	d’ Edele hoven van holland
+T6	ProperName 199 206	holland
+T7	Place 199 206	holland
+T8	Organization 215 239;240 260	de Edele hoge regeeringe van Nederlands Indra
+T9	Place 244 260	Nederlands Indra
+T10	ProperName 244 260	Nederlands Indra
+T11	Place 275 297	binnen de stad Batavia
+T12	ProperName 290 297	Batavia
+T14	ProperName 298 314	Jacobus de Vries
+T13	Person 298 314	Jacobus de Vries
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T17	Place 527 545	terkamer Amsterdam
+T18	ProperName 536 545	Amsterdam
+T19	Place 1121 1144	in sE: Comp:s hospitaal
+T20	ProperName 1124 1134	sE: Comp:s
+T21	Organization 1124 1133	sE: Comp:
+T22	Person 1176 1190	Ian Isaac Jans
+A10	Gender T22 Man
+A11	LegalStatus T22 Unspecified
+A12	Role T22 Witness
+T23	Person 1198 1206;1207 1248	Silander Ferdinandusz: mijne lercken als getuijgen
+A13	Gender T23 Man
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Witness
+T24	ProperName 1176 1190	Ian Isaac Jans
+T25	ProperName 1198 1206;1207 1219	Silander Ferdinandusz
+T26	Person 1306 1332	Joan van der voort Notaris
+A16	Gender T26 Man
+A17	LegalStatus T26 Unspecified
+A18	Role T26 Notary
+T27	ProperName 1306 1324	Joan van der voort
+T28	Person 1354 1365	C: Bertling
+A19	Gender T28 Unspecified
+A20	LegalStatus T28 Unspecified
+A21	Role T28 Other
+T29	ProperName 1354 1365	C: Bertling
+T30	ProperName 488 511;512 545	Der geoctroijeerde oost Indische Comp: terkamer Amsterdam
+T31	Organization 488 511;512 545	Der geoctroijeerde oost Indische Comp: terkamer Amsterdam

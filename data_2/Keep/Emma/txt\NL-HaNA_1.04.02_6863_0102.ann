@@ -1,0 +1,19 @@
+T1	DuplicatePage 0 2	1:
+T2	TranscriptionError_Document 3 9	Pafsel
+T3	Person 236 255	Johan Willen van Ma
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 236 255	Johan Willen van Ma
+T5	Organization 266 272	Comp„e
+T6	ProperName 266 272	Comp„e
+T7	Person 309 323	J: C: Heijning
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	Person 335 350	B: C: D: Bouman
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T10	ProperName 335 350	B: C: D: Bouman
+T9	ProperName 309 323	J: C: Heijning

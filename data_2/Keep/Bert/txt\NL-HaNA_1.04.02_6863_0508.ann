@@ -1,0 +1,41 @@
+T1	Person 81 99	Engelbert. De moor
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 81 99	Engelbert. De moor
+T3	Person 210 234	Gerrardus Johannes van B
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	Person 238 266	Johannes franciscus Gratiaan
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	ProperName 210 234	Gerrardus Johannes van B
+T6	ProperName 238 266	Johannes franciscus Gratiaan
+T7	Person 281 304;305 312	proculeur Willem Benjam Charlet
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 291 304;305 312	Willem Benjam Charlet
+T9	Person 355 361	Demoor
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Testator
+T10	ProperName 355 361	Demoor
+T11	Place 545 552	Colombo
+T12	ProperName 545 552	Colombo
+T13	Person 633 642;643 657	raad van3 deses Casteels
+A16	Gender T13 Group
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	Person 671 690	J: A: van der voort
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 671 690	J: A: van der voort
+T16	Person 702 715	Banieldes Bok
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 702 715	Banieldes Bok

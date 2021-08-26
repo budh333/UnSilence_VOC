@@ -1,0 +1,16 @@
+T1	Organization 577 607;608 656;657 676	d’ Ed=le heeren bewinthebberen den nederlandse geoctrojeende oostjndische comp: ter camen van delft
+T2	Place 671 676	delft
+T3	ProperName 671 676	delft
+T4	Place 1155 1162	malacca
+T5	ProperName 1155 1162	malacca
+T6	Person 1209 1226	pieteralden vliet
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	ProperName 1209 1226	pieteralden vliet
+T8	Person 1231 1234;1235 1254	Ian gysbertsz: van dort
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 1231 1234;1235 1254	Ian gysbertsz: van dort
+A7	Beneficiary T1 No

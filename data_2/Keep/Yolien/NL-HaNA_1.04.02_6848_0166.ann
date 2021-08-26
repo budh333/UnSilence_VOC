@@ -1,0 +1,59 @@
+T1	Person 10 27	Johannes Sauvarcq
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 10 27	Johannes Sauvarcq
+T3	Person 111 143	Nicolaas van Bergen vander Grijp
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+T4	ProperName 111 143	Nicolaas van Bergen vander Grijp
+T5	Organization 181 210	Regeering van Nederlans india
+T6	Place 195 210	Nederlans india
+T7	ProperName 195 210	Nederlans india
+T8	Place 234 248	destad Batavia
+T9	ProperName 241 248	Batavia
+T10	Person 298 318	E: Johannes Pauvarcq
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+T11	ProperName 301 318	Johannes Pauvarcq
+T12	Organization 346 353	E: Comp
+T13	Organization 396 403	E: Comp
+T14	Place 412 420	Arenhorn
+T15	ProperName 412 420	Arenhorn
+T16	Place 434 439	Japan
+T17	ProperName 434 439	Japan
+T18	Person 895 915	Johannes Kruijskerke
+A10	Gender T18 Woman
+A11	LegalStatus T18 Unspecified
+T19	ProperName 895 915	Johannes Kruijskerke
+T20	Person 927 947	Cornelia Kruijskerke
+A13	Gender T20 Unspecified
+A14	LegalStatus T20 Unspecified
+T21	ProperName 927 947	Cornelia Kruijskerke
+T22	Person 1177 1185	kinderen
+A16	Gender T22 Group
+A17	LegalStatus T22 Unspecified
+T23	Person 1199 1231	Broeder den Heer Gerrard Fauvard
+A19	Gender T23 Man
+A20	LegalStatus T23 Unspecified
+T24	ProperName 1216 1231	Gerrard Fauvard
+T25	Place 1285 1297	stad Brielle
+T26	ProperName 1290 1297	Brielle
+T28	ProperName 1640 1667	Maria, wijnanda Cloppenburg
+T29	Person 1685 1705	Heer Pieter Pauwarcq
+A25	Gender T29 Man
+A26	LegalStatus T29 Unspecified
+T30	ProperName 1690 1705	Pieter Pauwarcq
+T31	Place 1725 1732	brieele
+T32	ProperName 1725 1732	brieele
+A3	Role T1 Testator
+A6	Role T3 Notary
+A9	Role T10 Testator
+A12	Role T18 Beneficiary
+A15	Role T20 Other
+A18	Role T22 Beneficiary
+A21	Role T23 Other
+T27	Person 1624 1667	moeder Juffrouw Maria, wijnanda Cloppenburg
+A22	Gender T27 Woman
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Other
+A27	Role T29 Other

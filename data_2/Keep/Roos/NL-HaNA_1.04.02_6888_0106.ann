@@ -1,0 +1,12 @@
+T2	ProperName 158 173	Anthonij vietor
+T4	ProperName 610 625	Anthonij victor
+T5	Place 858 867	amsterdam
+T6	ProperName 858 867	amsterdam
+T1	Person 158 173	Anthonij vietor
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T3	Person 610 625	Anthonij victor
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary

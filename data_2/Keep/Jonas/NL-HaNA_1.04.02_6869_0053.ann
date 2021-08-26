@@ -1,0 +1,39 @@
+T1	Person 105 119;120 136	Nicolaas Mlaas Notaris publicq;
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 105 119	Nicolaas Mlaas
+T3	Organization 144 181;182 187	Edele hooge regeeringe van nederlands india
+T4	Place 171 181;182 187	nederlands india
+T5	ProperName 144 181;182 187	Edele hooge regeeringe van nederlands india
+T6	ProperName 171 181;182 187	nederlands india
+T7	Place 201 222	binnen destad Batavia
+T8	ProperName 215 222	Batavia
+T9	Person 297 309	Jacobus Kon,
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 297 308	Jacobus Kon
+T11	Place 342 344;345 360	op ’t Eijland Edam
+T12	ProperName 356 360	Edam
+T13	Place 319 326	ter zee
+T14	Person 461 474	Marten Visser
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other
+T15	ProperName 461 474	Marten Visser
+T16	Person 492 506	Daniel Roeloff
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 492 506	Daniel Roeloff
+T18	Place 562 578	de touw pakhuijs
+T19	Person 1237 1250	lijffeijgenen
+A13	Gender T19 Group
+A14	LegalStatus T19 Enslaved
+A15	Role T19 Other
+T20	Person 2235 2247	lijffeigenen
+A16	Gender T20 Group
+A17	LegalStatus T20 Enslaved
+A18	Role T20 Other
+T21	TranscriptionError_Document 4 8	2205

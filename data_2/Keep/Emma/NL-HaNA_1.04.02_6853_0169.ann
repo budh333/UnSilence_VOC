@@ -1,0 +1,52 @@
+T1	Person 7 30	Johan Hendriik Vyrminke
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 7 30	Johan Hendriik Vyrminke
+T3	Person 147 182	Abraham van Denter notaris jublijcq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 147 165	Abraham van Denter
+T5	Organization 188 213	’ Edele hoven van holland
+T6	Place 206 213	holland
+T7	ProperName 206 213	holland
+T8	Organization 222 246;247 267	de Edele hoge regeeringe van Nederlands India
+T9	ProperName 251 267	Nederlands India
+T10	Place 251 267	Nederlands India
+T11	Place 282 304	binnen de stad Batavia
+T12	ProperName 297 304	Batavia
+T13	Person 305 322	Andries Sweerisse
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 305 322	Andries Sweerisse
+T15	Person 487 506;507 522	Johan van Vis vliet Notaris publicq
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Notary
+T16	ProperName 487 506;507 514	Johan van Vis vliet Notaris
+T17	Organization 531 554	Edelen cove van Holland
+T18	ProperName 547 554	Holland
+T19	Place 547 554	Holland
+T20	Organization 559 605	de Edele hooge Siegeringe van Nederlands Jndia
+T21	ProperName 589 605	Nederlands Jndia
+T22	Place 589 605	Nederlands Jndia
+T23	Place 620 642	binnen de stad Batavia
+T24	ProperName 635 642	Batavia
+T25	Person 683 701;702 745	getuijgen,  monss= Andries Sweerisse, Van Carestroon Constabel
+A13	Gender T25 Man
+A14	LegalStatus T25 Unspecified
+A15	Role T25 Testator
+T26	Organization 758 771	der E. Comp=e
+T27	ProperName 702 735	Andries Sweerisse, Van Carestroon
+T28	Person 1473 1496;1497 1546;1547 1563	Erfgenaam te nomineren, en Institueeren, den adsistend ten dienst voorsz: Abraham Knipping
+A16	Gender T28 Man
+A17	LegalStatus T28 Unspecified
+A18	Role T28 Beneficiary
+T29	ProperName 1547 1563	Abraham Knipping
+T30	Person 1727 1730	Ian
+A19	Gender T30 Man
+A20	LegalStatus T30 Unspecified
+A21	Role T30 Beneficiary
+T31	ProperName 1727 1730	Ian

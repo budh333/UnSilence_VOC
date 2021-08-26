@@ -1,0 +1,18 @@
+T2	Organization 501 514	D'E Compagnie
+T3	Organization 636 674	geectroijeerde ooft Jndische Compagnie
+T4	ProperName 636 674	geectroijeerde ooft Jndische Compagnie
+T5	Place 685 694	Amsterdam
+T6	ProperName 685 694	Amsterdam
+T7	Organization 890 921	Edele Hooge Jndiasche Regeering
+T8	ProperName 890 921	Edele Hooge Jndiasche Regeering
+T9	Person 936 949	Lijffeijgenen
+A3	Gender T9 Group
+A4	LegalStatus T9 Enslaved
+T10	Person 1599 1612	Lijffeijgenen
+A5	Gender T10 Group
+A6	LegalStatus T10 Enslaved
+T1	ProperName 501 514	D'E Compagnie
+A1	Role T9 Other
+A2	Role T10 Other
+A7	Beneficiary T2 No
+A8	Beneficiary T3 No

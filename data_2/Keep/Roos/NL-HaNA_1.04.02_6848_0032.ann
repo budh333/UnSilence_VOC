@@ -1,0 +1,31 @@
+T2	Person 519 534;535 552	Postas Gerardus Oriman boekhouder
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+T3	ProperName 519 534;535 541	Postas Gerardus Oriman
+T4	Person 585 588;589 610	Jup Dianira Schorls wed:e
+A7	Gender T4 Woman
+A8	LegalStatus T4 Unspecified
+T5	ProperName 589 604	Dianira Schorls
+T6	Person 615 633;634 642	Wilen den vaandrig Militair
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+T7	ProperName 615 633	Wilen den vaandrig
+T8	Person 672 691;692 701	E: Abraham Anthonie Van Soest
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+T9	ProperName 675 691;692 701	Abraham Anthonie Van Soest
+T10	Person 1019 1052	Ed: Hade Van Damol Beinon Koopman
+A16	Gender T10 Man
+A17	LegalStatus T10 Unspecified
+T11	ProperName 1023 1044	Hade Van Damol Beinon
+T12	Organization 1080 1112	raad van Iustitie deses Casteels
+T13	Organization 1392 1420	't Eerw: Collegie van heeren
+T14	Place 1694 1710	kamner Amsterdam
+T15	ProperName 1701 1710	Amsterdam
+A1	Role T2 Beneficiary
+A2	Role T4 Beneficiary
+A3	Role T6 Beneficiary
+A6	Role T8 Beneficiary
+A9	Role T10 Other
+A12	Beneficiary T12 No
+A15	Beneficiary T13 No

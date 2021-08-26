@@ -1,0 +1,11 @@
+T1	Place 1165 1193	Nederlands Comptoire Grissee
+T2	ProperName 1186 1193	Grissee
+T3	Person 1241 1256	Jan Wijnand Pan
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	Person 1274 1287	Frans Slosser
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	TranscriptionError_Document 1323 1330	hembden

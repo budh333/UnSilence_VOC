@@ -1,0 +1,16 @@
+T1	DuplicatePage 0 1	1
+T2	Place 222 236	’t forl Gustan
+T3	ProperName 222 236	’t forl Gustan
+T4	Person 237 258	Johan Willem van Mall
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 237 258	Johan Willem van Mall
+T6	ProperName 300 305	EComp
+T7	Organization 300 305	EComp
+T8	ProperName 356 371	B: C: D: Bouman
+T9	Person 356 371	B: C: D: Bouman
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+A7	Beneficiary T7 No

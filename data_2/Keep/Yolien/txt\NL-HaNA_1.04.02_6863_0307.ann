@@ -1,0 +1,22 @@
+T1	TranscriptionError_Document 0 4	1003
+T2	DuplicatePage 5 13	Diederik
+T3	ProperName 5 25	Diederik Kloppenburg
+T4	Person 5 25	Diederik Kloppenburg
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	DuplicatePage 106 108	Ik
+T6	ProperName 109 126	Iurgen Adam Kumff
+T7	Person 109 126	Iurgen Adam Kumff
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	Place 141 147	Asbach
+T9	ProperName 141 147	Asbach
+T10	Place 158 169	Dilbergsche
+T11	ProperName 158 169	Dilbergsche
+T12	Person 917 941	Isaac Huijbrech Guerinen
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Witness
+T13	ProperName 917 941	Isaac Huijbrech Guerinen

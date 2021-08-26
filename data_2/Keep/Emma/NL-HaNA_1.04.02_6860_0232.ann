@@ -1,0 +1,17 @@
+T1	DuplicatePage 0 6	teegen
+T2	TranscriptionError_Document 23 27	ofte
+T3	Organization 7 15	s Comp=s
+T4	ProperName 7 15	s Comp=s
+T5	Person 326 348	J: G: Helmke Screteris
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 326 338	J: G: Helmke
+T7	Organization 712 748;749 789;790 833;834 837	De WelEdele Groot Agtb: Heeren bewin hebberen Der Generaale Nederlandse Geort eerde oostjndiasche Comp„e ter kaamer rotte dam
+T8	ProperName 712 748;749 789;790 833;834 837	De WelEdele Groot Agtb: Heeren bewin hebberen Der Generaale Nederlandse Geort eerde oostjndiasche Comp„e ter kaamer rotte dam
+T9	Place 817 833;834 837	ter kaamer rotte dam
+T10	ProperName 828 833;834 837	rotte dam
+T11	Place 875 912	het schip Reijnhuijsen voor adelborst
+T12	ProperName 885 912	Reijnhuijsen voor adelborst
+T13	Place 921 931	naar Jndia
+T14	ProperName 926 931	Jndia

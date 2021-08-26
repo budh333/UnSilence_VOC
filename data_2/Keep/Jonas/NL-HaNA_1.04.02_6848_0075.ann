@@ -1,0 +1,45 @@
+T2	ProperName 13 27	Lauven Brobeng
+#1	AnnotatorNotes T2	Proper name: Laurens Broberg
+T1	Person 13 44	Lauven Brobeng van Bag: Samtier
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T3	Place 28 44	van Bag: Samtier
+T4	ProperName 32 44	Bag: Samtier
+T5	Person 309 343	Johan Pieter Arend Sneider on bage
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Notary T5 No
+T6	ProperName 309 335	Johan Pieter Arend Sneider
+T7	Place 336 343	on bage
+T8	ProperName 336 343	on bage
+#2	AnnotatorNotes T8	Proper name: probably Laage
+T9	Person 610 644	Heer Jans Linxterboer, van reendam
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Notary T9 No
+T10	ProperName 610 631	Heer Jans Linxterboer
+#3	AnnotatorNotes T10	Proper name: probably Geert Jans Pinxterboer
+T11	Place 633 644	van reendam
+T12	ProperName 637 644	reendam
+#4	AnnotatorNotes T12	Proper name: Veendam
+T13	Person 816 839;840 844;845 850	Lucas Suiemse van Root, 10=o Logen
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Notary T13 No
+T14	ProperName 816 838	Lucas Suiemse van Root
+#5	AnnotatorNotes T14	Proper name: Lucas Willems van Koot
+T15	Place 840 844;845 850	10=o Logen
+T16	ProperName 845 850	Logen
+T17	Person 1096 1122	ieter Willemss van Drammen
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Notary T17 No
+T18	ProperName 1096 1110	ieter Willemss
+#6	AnnotatorNotes T18	Proper name: Pieter Willems
+T19	Place 1111 1122	van Drammen
+T20	ProperName 1115 1122	Drammen
+T21	Person 1488 1495	Fabiaan
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A18	Notary T21 No

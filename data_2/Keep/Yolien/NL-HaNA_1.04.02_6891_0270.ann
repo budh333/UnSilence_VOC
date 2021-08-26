@@ -1,0 +1,14 @@
+T1	Person 447 462	diaconije armen
+A1	Gender T1 Group
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 626 636	Salioparto
+T3	Place 626 636	Salioparto
+T4	Person 1139 1145	slaven
+A4	Gender T4 Group
+A5	LegalStatus T4 Enslaved
+A6	Role T4 Other
+T5	Person 1149 1157	slavinne
+A7	Gender T5 Woman
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other

@@ -1,0 +1,63 @@
+T1	TranscriptionError_Document 0 7	mienste
+T2	DuplicatePage 0 7	mienste
+T3	Person 159 174	Anthonij victor
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 159 174	Anthonij victor
+T6	ProperName 544 565	Elisabeth van batavia
+T7	Place 558 565	batavia
+T8	ProperName 520 525	Jacob
+T9	ProperName 530 535	Diana
+T11	ProperName 728 748	Benjamin van batavia
+T12	Place 741 748	batavia
+T13	ProperName 770 775	Iacob
+T14	ProperName 779 784	Diana
+T15	Person 1114 1127	Lijf Eijgenen
+A10	Gender T15 Group
+A11	LegalStatus T15 Enslaved
+A12	Role T15 Other
+T16	Person 1138 1155	Datis van batavia
+A13	Gender T16 Man
+A14	LegalStatus T16 Enslaved
+A15	Role T16 Other
+T17	ProperName 1138 1155	Datis van batavia
+T18	Person 1165 1178;1179 1191	wijf Poutjoue van Mandhaar
+A16	Gender T18 Woman
+A17	LegalStatus T18 Enslaved
+A18	Role T18 Other
+T19	ProperName 1170 1178;1179 1191	Poutjoue van Mandhaar
+T20	Person 1213 1219	Lijsje
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Enslaved
+A21	Role T20 Other
+T21	ProperName 1213 1219	Lijsje
+T22	Person 1223 1227	Arij
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Enslaved
+A24	Role T22 Other
+T23	ProperName 1223 1227	Arij
+T5	Person 520 525	Jacob
+A4	Gender T5 Man
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T24	Person 530 535	Diana
+A25	Gender T24 Woman
+A26	LegalStatus T24 Enslaved
+A27	Role T24 Other
+T25	Person 544 565	Elisabeth van batavia
+A28	Gender T25 Woman
+A29	LegalStatus T25 Enslaved
+A30	Role T25 Beneficiary
+T10	Person 728 748	Benjamin van batavia
+A7	Gender T10 Man
+A8	LegalStatus T10 Enslaved
+A9	Role T10 Beneficiary
+T26	Person 770 775	Iacob
+A31	Gender T26 Man
+A32	LegalStatus T26 Enslaved
+A33	Role T26 Other
+T27	Person 779 784	Diana
+A34	Gender T27 Woman
+A35	LegalStatus T27 Enslaved
+A36	Role T27 Other

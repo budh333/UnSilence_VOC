@@ -1,0 +1,31 @@
+T1	Organization 651 703;704 733	generaale neederlandsche Goctroijeerde ooostindische Compagnie ter Camer Amsterdam
+T2	Place 724 733	Amsterdam
+T3	ProperName 724 733	Amsterdam
+T4	Place 779 798;799 812	het schip de Hertog van Bronswijk
+T5	ProperName 792 798;799 812	Hertog van Bronswijk
+T6	Place 853 864	deese Lande
+T7	Organization 963 995;996 1001	Godshuyt ten hoofd Comptoir sama „rang
+T8	Place 976 995;996 1001	hoofd Comptoir sama „rang
+T9	ProperName 991 995;996 1001	sama „rang
+T10	Place 1566 1598	Neederlandt Comptoire Sourabaija
+T11	ProperName 1588 1598	Sourabaija
+T12	Person 1624 1645	Christoffel schelling
+A1	Gender T12 Unspecified
+A2	LegalStatus T12 Unspecified
+A3	Role T12 Testator
+T13	Person 1681 1692	J A Dreijer
+A4	Gender T13 Man
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Acting_Notary
+T14	Person 1751 1766	J: H Leijdekker
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Witness
+T15	Person 1770 1784	mr van Leeuwen
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Witness
+T16	Person 1830 1839	J Ad ider
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Acting_Notary

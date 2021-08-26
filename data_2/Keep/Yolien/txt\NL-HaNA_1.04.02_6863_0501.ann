@@ -1,0 +1,70 @@
+T1	TranscriptionError_Document 0 4	door
+T2	Place 158 169;170 192	woonhuijsen van d’ E:s Comparanten
+T3	ProperName 73 79	Demoor
+T4	Person 73 79	Demoor
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	Person 116 128	H:k Brinkman
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 120 128	Brinkman
+T7	Place 214 229	Casteel Colombo
+T8	ProperName 222 229	Colombo
+T12	ProperName 271 297	fredrik Bernard, Giffening
+T11	Person 271 297	fredrik Bernard, Giffening
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T13	ProperName 302 333	hendrik Prederik dias Dafonceca
+T14	Person 302 333	hendrik Prederik dias Dafonceca
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	Place 527 541;542 559	ten woonhuijse van den Comporant
+T16	Place 578 592	Casteel Colomb
+T10	Place 237 252	Eijlant Ceijlon
+T9	ProperName 245 252	Ceijlon
+T17	ProperName 586 592	Colomb
+T18	Place 599 614	Eijlant Ceijlon
+T19	ProperName 607 614	Ceijlon
+T20	ProperName 633 641;642 653	Coenraad qualenbrink
+T21	Person 633 641;642 653	Coenraad qualenbrink
+A7	Gender T21 Unspecified
+A8	LegalStatus T21 Unspecified
+A9	Role T21 Witness
+T22	ProperName 658 673	Hermanus meijer
+T23	Person 658 673	Hermanus meijer
+A16	Gender T23 Unspecified
+A17	LegalStatus T23 Unspecified
+A18	Role T23 Witness
+T24	ProperName 716 732	Engelbert demoor
+T25	Person 716 732	Engelbert demoor
+A19	Gender T25 Unspecified
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Other
+T26	ProperName 770 792;793 799	Gerrardus Johannes van sanden
+T27	Person 770 792;793 799	Gerrardus Johannes van sanden
+A22	Gender T27 Man
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Acting_Notary
+T28	Person 839 842;843 854	C=o qualenbrink
+A25	Gender T28 Unspecified
+A26	LegalStatus T28 Unspecified
+A27	Role T28 Witness
+T29	ProperName 843 854	qualenbrink
+T30	Person 858 868	H:s meijer
+A28	Gender T30 Unspecified
+A29	LegalStatus T30 Unspecified
+A30	Role T30 Witness
+T31	ProperName 862 868	meijer
+T32	ProperName 1068 1084	Engelbert demoor
+T33	Person 1068 1084	Engelbert demoor
+A31	Gender T33 Man
+A32	LegalStatus T33 Unspecified
+A33	Role T33 Acting_Notary
+T34	Place 1089 1096	Colombo
+T35	ProperName 1089 1096	Colombo
+T36	DuplicatePage 2043 2049	Muller
+T37	ProperName 2043 2049	Muller

@@ -1,0 +1,47 @@
+T1	TranscriptionError_Document 23 24	M
+T2	DuplicatePage 23 24	M
+T4	ProperName 73 94	M=r Jan van der voort
+T5	Organization 114 154;155 160	de Edele hooge reegeringe van nederlands India
+T6	ProperName 144 154;155 160	nederlands India
+T7	Place 144 154;155 160	nederlands India
+T8	Place 174 196	binnen de stad batavia
+T9	ProperName 189 196	batavia
+T10	Person 249 266	Jan Jurgen de Wit
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator
+T11	ProperName 249 266	Jan Jurgen de Wit
+T12	Organization 317 344;345 396;397 416	de Edele groot Agtb: heeren bwinthebberen der geoctroiseerde Oost Jndische Comp ter samer Amsterdam
+T13	Place 407 416	Amsterdam
+T14	ProperName 407 416	Amsterdam
+T15	Person 1282 1296	Davio Jubertus
+A7	Gender T15 Unspecified
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Witness
+T16	ProperName 1282 1296	Davio Jubertus
+T17	Person 1301 1333	Sijmon Thomas Carelsz: Clercquen
+A10	Gender T17 Unspecified
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Witness
+T18	ProperName 1301 1323	Sijmon Thomas Carelsz:
+T19	Person 1434 1440;1441 1464	A: Van Dinter Nnotaris publicq
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Notary
+T20	ProperName 1434 1440;1441 1447	A: Van Dinter
+T21	Person 1478 1487	CV D mmel
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+T22	ProperName 1478 1487	CV D mmel
+T23	Person 0 22	Jurgen Paulus Jykerman
+A19	Gender T23 Man
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Testator
+T24	ProperName 0 22	Jurgen Paulus Jykerman
+T3	Person 73 101;102 109	M=r Jan van der voortnataris nblicq:
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+A22	Beneficiary T5 No
+A23	Beneficiary T12 No

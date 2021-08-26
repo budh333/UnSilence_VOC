@@ -1,0 +1,21 @@
+T1	Person 116 137	Daniel Justus pourmij
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 116 137	Daniel Justus pourmij
+T3	Place 149 185;186 196	op het Ed:le Comp:e schip ’t slot te Cronenburg
+T4	ProperName 175 185;186 196	’t slot te Cronenburg
+T5	Organization 156 168	Ed:le Comp:e
+A4	Beneficiary T5 No
+T6	Person 255 267	teunis swart
+A5	Gender T6 Man
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Testator
+T7	ProperName 255 267	teunis swart
+T8	Person 879 887;888 914	Cornelis van Raadshoven quartierm.r
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Beneficiary
+T9	ProperName 879 887;888 902	Cornelis van Raadshoven
+T10	Organization 1178 1188	d’ E Comp:
+A11	Beneficiary T10 No

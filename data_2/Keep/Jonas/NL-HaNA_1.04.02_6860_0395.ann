@@ -1,0 +1,29 @@
+T1	Person 16 34	Johan Godlieh Smit
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 16 34	Johan Godlieh Smit
+T3	Person 123 142	george Otto Dijkman
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 123 142	george Otto Dijkman
+T5	Place 175 190	deese Comptoire
+T6	Person 241 259	Johan Godlieb Smit
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator_Beneficiary
+T7	Place 265 272	Torgouw
+T8	ProperName 265 272	Torgouw
+T9	Person 276 301	Catharina Helena Cornelis
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator_Beneficiary
+T10	ProperName 276 301	Catharina Helena Cornelis
+T11	ProperName 241 259	Johan Godlieb Smit
+T12	Place 307 317	Sourabaija
+T13	ProperName 307 317	Sourabaija
+T14	Organization 1352 1375	arme Weesen te Samarang
+T15	Place 1367 1375	Samarang
+T16	ProperName 1367 1375	Samarang
+A13	Beneficiary T14 Yes

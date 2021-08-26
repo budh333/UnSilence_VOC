@@ -1,0 +1,19 @@
+T1	Person 112 128	J:n van der doos
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 112 128	J:n van der doos
+T3	Place 229 236	Malacca
+T4	ProperName 229 236	Malacca
+T5	Person 275 286	C„l de Wind
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 275 286	C„l de Wind
+T7	Person 355 359;360 375	Jan„ hendrik Heijser
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 355 359;360 375	Jan„ hendrik Heijser
+T9	Place 380 395	Saxen Schouburg
+T10	ProperName 380 395	Saxen Schouburg

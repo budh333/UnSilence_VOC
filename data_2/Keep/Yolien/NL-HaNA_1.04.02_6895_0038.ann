@@ -1,0 +1,54 @@
+T1	TranscriptionError_Document 1 9	overlijd
+T2	ProperName 81 86	Hoorn
+T3	Place 81 86	Hoorn
+T4	Person 480 488;489 495	E: Peter garden
+A1	Beneficiary T4 No
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Other
+T5	ProperName 483 488;489 495	Peter garden
+T6	Organization 744 764	heeren weesmeesteren
+T7	ProperName 744 764	heeren weesmeesteren
+T8	ProperName 1093 1099;1100 1118	Johan„ nes Elias de Ionge
+T9	Person 1093 1099;1100 1118	Johan„ nes Elias de Ionge
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Witness
+T10	ProperName 1123 1138;1139 1148	hermanus Debona abrahamsz
+T11	Person 1123 1138;1139 1148	hermanus Debona abrahamsz
+A8	Gender T11 Unspecified
+A9	LegalStatus T11 Unspecified
+A10	Role T11 Witness
+T12	Person 1190 1202	G: Cotterrel
+A11	Gender T12 Unspecified
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Other
+T13	ProperName 1193 1202	Cotterrel
+T14	ProperName 1230 1246	Eliasz: de Ionge
+T15	Person 1226 1246	I:s Eliasz: de Ionge
+A14	Gender T15 Unspecified
+A15	LegalStatus T15 Unspecified
+A16	Role T15 Witness
+T16	Person 1252 1271	H: D: B:r Abrahamsz
+A17	Gender T16 Unspecified
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Witness
+T17	ProperName 1262 1271	Abrahamsz
+T18	Person 1282 1299	I:b Levier, Not:s
+A20	Gender T18 Man
+A21	LegalStatus T18 Unspecified
+A22	Role T18 Notary
+T19	ProperName 1286 1292	Levier
+T20	Organization 1485 1499;1500 1503	soldij compto„ ir,
+T21	ProperName 1591 1598	Batavia
+T22	Place 1591 1598	Batavia
+T23	ProperName 1624 1629	Eever
+T24	Person 1621 1629	J: Eever
+A23	Gender T24 Unspecified
+A24	LegalStatus T24 Unspecified
+A25	Role T24 Other
+T25	Person 1408 1429;1430 1437	heer Iean francois De Ravalet
+A26	Gender T25 Man
+A27	LegalStatus T25 Unspecified
+A28	Role T25 Other
+T26	ProperName 1413 1429;1430 1437	Iean francois De Ravalet

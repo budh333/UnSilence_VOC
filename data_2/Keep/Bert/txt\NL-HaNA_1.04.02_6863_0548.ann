@@ -1,0 +1,22 @@
+T1	Person 37 57	George Charles muscu
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+#1	AnnotatorNotes T1	Musculus
+T2	ProperName 37 57	George Charles muscu
+#2	AnnotatorNotes T2	Musculus
+T3	Person 76 89	dheer Brueijs
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 82 89	Brueijs
+T5	Person 326 345	Chirurgijn Willekes
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 337 345	Willekes
+T7	Person 512 521	Verspijek
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+#3	AnnotatorNotes T7	Verspijck

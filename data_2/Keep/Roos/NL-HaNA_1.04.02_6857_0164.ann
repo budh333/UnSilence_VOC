@@ -1,0 +1,49 @@
+T1	Person 44 50	Numand
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 44 50	Numand
+T3	Person 78 89	Velthuijzen
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 78 89	Velthuijzen
+T5	Person 136 141	Vroom
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 136 141	Vroom
+T7	Person 153 158	6wijk
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+#1	AnnotatorNotes T7	Ewijk
+T8	ProperName 153 158	6wijk
+#2	AnnotatorNotes T8	Ewijk 
+T9	Person 210 214	Malm
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 210 214	Malm
+T11	Person 240 256	fredrik Spaarman
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 240 256	fredrik Spaarman
+T13	Person 550 566	W: G: Hemmington
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 550 566	W: G: Hemmington
+T15	Person 567 581	J: H: Rijnnagh
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	ProperName 567 581	J: H: Rijnnagh
+T18	Person 869 881;881 882	J. H Rijnnay h
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Other
+T19	ProperName 869 882	J. H Rijnnayh
+T20	Place 833 838	China
+T21	ProperName 833 838	China

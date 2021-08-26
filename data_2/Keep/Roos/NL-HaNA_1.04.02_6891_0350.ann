@@ -1,0 +1,38 @@
+T1	Person 399 405;406 418	Johan„ „nes Jacobus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 399 405;406 418	Johan„ „nes Jacobus
+T3	Person 420 435	Francina Aletta
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 420 435	Francina Aletta
+T5	Person 440 453;454 469	Maria Isabele van der scharen
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 440 453;454 469	Maria Isabele van der scharen
+T7	Organization 775 783;784 835	D’ Edele groot Agtb: Heeren Bewindhebberen ter Camer Zeeland
+A10	Beneficiary T7 No
+T8	ProperName 828 835	Zeeland
+T9	Place 828 835	Zeeland
+T10	Place 885 898;899 904	schip Zuijder „beek
+T11	ProperName 891 898;899 904	Zuijder „beek
+T12	Place 1741 1747	Coilan
+T13	ProperName 1741 1747	Coilan
+T14	Person 1809 1825	Anthonij Zitgens
+A11	Gender T14 Unspecified
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Witness
+T15	ProperName 1809 1825	Anthonij Zitgens
+T16	Person 1849 1870	Jan hendrik Schuurman
+A14	Gender T16 Unspecified
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Witness
+T17	ProperName 1849 1870	Jan hendrik Schuurman
+T18	Person 2021 2035	H„k Hesselingh
+A17	Gender T18 Unspecified
+A18	LegalStatus T18 Unspecified
+A19	Role T18 Acting_Notary
+T19	ProperName 2021 2035	H„k Hesselingh

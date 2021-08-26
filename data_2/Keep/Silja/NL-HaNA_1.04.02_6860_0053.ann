@@ -1,0 +1,52 @@
+T1	DuplicatePage 0 2	17
+T2	ProperName 29 43	Jelles Mellema
+T3	Person 29 43	Jelles Mellema
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 179 189	Jan La Pro
+T5	Person 179 189	Jan La Pro
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	Place 223 232	Comptoirs
+T7	Place 266 275	Ten huize
+T8	ProperName 347 361	Jelles Nellema
+T9	Person 347 361	Jelles Nellema
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator_Beneficiary
+T10	ProperName 369 377	schaemda
+T11	Place 369 377	schaemda
+T12	Place 413 421	Samarang
+T13	ProperName 413 421	Samarang
+T14	Person 381 408	Dorothea Elisabeth Abrahams
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator_Beneficiary
+T15	ProperName 381 408	Dorothea Elisabeth Abrahams
+T16	ProperName 584 598	Bertram Fattas
+T17	ProperName 762 765;766 779	Jan Adriaan Busch
+T18	ProperName 829 841	J: G: Helmke
+T19	ProperName 879 888	Jan Lapro
+T20	ProperName 913 925	C: E Eckardt
+T21	Person 913 925	C: E Eckardt
+A13	Gender T21 Unspecified
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Other
+T22	Person 879 888	Jan Lapro
+A16	Gender T22 Man
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Acting_Notary
+T23	Person 829 841	J: G: Helmke
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Other
+T24	Person 762 765;766 779	Jan Adriaan Busch
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other
+T25	Person 584 598	Bertram Fattas
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other

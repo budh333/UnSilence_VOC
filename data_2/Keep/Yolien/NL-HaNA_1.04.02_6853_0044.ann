@@ -1,0 +1,18 @@
+T1	Organization 104 137	Collegie van heeren weesMeesteren
+T2	ProperName 283 295	Jacob Muller
+T3	Person 283 295	Jacob Muller
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	Organization 475 487	E: Compagnie
+T5	Organization 562 582;583 624	heeren bewindhebbere Der geoctroieerde ooste Indische Compagni
+T6	ProperName 601 624	ooste Indische Compagni
+T7	ProperName 635 644	Amsterdam
+T8	Place 635 644	Amsterdam
+T9	Organization 1226 1239	E: Compagnies
+T10	Place 1240 1249	hospitaal
+T11	ProperName 1281 1289	Jan Ssaa
+T12	Person 1281 1289	Jan Ssaa
+A4	Gender T12 Unspecified
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Other

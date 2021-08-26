@@ -1,0 +1,25 @@
+T1	TranscriptionError_Document 0 2	Jn
+T2	DuplicatePage 3 6	den
+T3	ProperName 130 157	sustigerrard Hendrik Duvell
+T4	Person 130 158	sustigerrard Hendrik Duvell,
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 308 323	Johannis D' Ree
+T6	Person 308 323	Johannis D' Ree
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 591 614	gerrit hendk Duvellgauh
+T8	Person 591 614	gerrit hendk Duvellgauh
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	ProperName 647 658	Jesu Christ
+T10	Organization 788 792	Comp
+T11	Place 795 804	hospitaal
+T12	ProperName 841 859	Hans, Jacob, Reecq
+T13	Person 841 859	Hans, Jacob, Reecq
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other

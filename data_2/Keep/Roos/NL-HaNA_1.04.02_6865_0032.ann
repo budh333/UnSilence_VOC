@@ -1,0 +1,51 @@
+T1	TranscriptionError_Document 0 1	1
+T2	DuplicatePage 0 1	1
+T3	Person 6 17	geentruijda
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 6 17	geentruijda
+T5	Person 62 84	volsiert gerrit fokkes
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 62 84	volsiert gerrit fokkes
+T7	Place 131 138	Colambo
+T8	ProperName 131 138	Colambo
+T9	Person 139 158	Jan hendrik baelman
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 139 158	Jan hendrik baelman
+T11	Place 797 807;808 828	buijten de fantresse Tutucorijn
+T12	ProperName 818 828	Tutucorijn
+T13	Person 847 875	Jurniaan Chinstiaan arendsz:
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Witness
+T14	ProperName 847 875	Jurniaan Chinstiaan arendsz:
+T15	Person 879 903	Johannes adriaan Titieus
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Witness
+T16	ProperName 879 903	Johannes adriaan Titieus
+T17	Person 976 990	J„s H„k barner
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Testator
+T18	ProperName 976 990	J„s H„k barner
+T19	Person 1043 1056	C„s De bruijn
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Acting_Notary
+T20	ProperName 1043 1056	C„s De bruijn
+T21	Person 1105 1120	J: C:t anendsz:
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Witness
+T22	ProperName 1105 1120	J: C:t anendsz:
+T23	Person 1123 1135	J: A hilieus
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Witness
+T24	ProperName 1123 1135	J: A hilieus

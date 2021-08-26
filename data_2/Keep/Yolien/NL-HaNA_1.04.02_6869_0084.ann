@@ -1,0 +1,24 @@
+T1	TranscriptionError_Document 0 11	geabserveed
+T2	DuplicatePage 0 11	geabserveed
+T3	Place 191 201	souracaata
+T4	ProperName 191 201	souracaata
+T5	ProperName 235 247	Pasper kroll
+T6	Person 235 247	Pasper kroll
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	Person 290 304	E: M: De Wilde
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	ProperName 296 304	De Wilde
+T9	Person 329 359	A: P: Micharlis en den Zildaar
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 335 359	Micharlis en den Zildaar
+T11	Person 370 383	P: J: De Blij
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 376 383	De Blij

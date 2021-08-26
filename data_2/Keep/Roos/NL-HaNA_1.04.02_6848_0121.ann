@@ -1,0 +1,35 @@
+T2	ProperName 92 105;106 111	Elizabeth Van Rhijn
+T3	Place 121 138	alhier ter steede
+T4	Person 664 678;679 722	den Secretaris van politie Wijnand Johannes de Bourghelles
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+T5	ProperName 691 722	Wijnand Johannes de Bourghelles
+T6	Place 756 763	Amboina
+T7	ProperName 756 763	Amboina
+T8	Organization 962 996	de Edele Hooge Jndiasche regeering
+T9	Person 1020 1032	Lijffeigenen
+A7	Gender T9 Group
+A8	LegalStatus T9 Enslaved
+T10	Person 1108 1119;1120 1130	staaf Bodo, van Boegis
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Enslaved
+T11	Person 1142 1163	Porcia, van Maccasser
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Enslaved
+T12	Person 1167 1171;1172 1192	kin„ deren Nasar en Hatia
+A16	Gender T12 Group
+A17	LegalStatus T12 Enslaved
+T13	ProperName 1178 1183	Nasar
+T14	ProperName 1187 1192	Hatia
+T15	ProperName 1114 1119;1120 1130	Bodo, van Boegis
+T16	ProperName 1142 1163	Porcia, van Maccasser
+A6	Role T4 Beneficiary
+A9	Role T9 Other
+A12	Role T10 Other
+A15	Role T11 Other
+A18	Role T12 Other
+T1	Person 84 105;106 111	Mevrouw Elizabeth Van Rhijn
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+A19	Beneficiary T8 No

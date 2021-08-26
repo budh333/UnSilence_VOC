@@ -1,0 +1,38 @@
+T1	Person 48 56;57 69	Heer Jan George Boode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 53 56;57 69	Jan George Boode
+T4	ProperName 397 423	Freedrik Benthem Ontfangen
+T5	ProperName 474 491	Jan Jacob Saemans
+T6	Person 474 491	Jan Jacob Saemans
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T3	Person 397 423	Freedrik Benthem Ontfangen
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T8	ProperName 900 918	Apo de Kleermaaker
+T7	Person 900 918	Apo de Kleermaaker
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T9	Person 1444 1465	Capitain Arie Kikkert
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 1453 1465	Arie Kikkert
+T11	Person 1517 1535;1536 1552	Elbert Lucas Stein den Oppermeester
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 1517 1535	Elbert Lucas Stein
+T13	Person 1593 1608	Chrisiaan Behne
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	Place 190 208	Cabo de Goede Hoop
+T15	ProperName 190 208	Cabo de Goede Hoop
+T16	Place 279 290	te Amsterde
+T17	ProperName 279 290	te Amsterde

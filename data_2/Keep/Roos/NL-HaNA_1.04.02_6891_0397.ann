@@ -1,0 +1,31 @@
+T1	TranscriptionError_Document 2 5	den
+T2	DuplicatePage 2 5	den
+T3	Person 78 94	Arn van der Aart
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 78 94	Arn van der Aart
+T5	Place 108 126;127 128;129 144	op E E: Compagnies — schip Etsf Duno
+T6	Organization 111 126	E E: Compagnies
+A4	Beneficiary T6 No
+T7	ProperName 135 144	Etsf Duno
+T8	Person 259 274	Pieter Somerhof
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Acting_Notary
+T9	ProperName 259 274	Pieter Somerhof
+T10	Place 279 288	Amsterdam
+T11	ProperName 279 288	Amsterdam
+T12	ProperName 591 607	Aaltie schrijver
+T13	Person 591 607	Aaltie schrijver
+A8	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Beneficiary
+T14	Place 625 633	msterdam
+T15	ProperName 625 633	msterdam
+T16	Organization 793 845;846 849	den Nederduijtsche gereeftmorde Armen binnen amster, dam
+A11	Beneficiary T16 Yes
+T17	Place 838 845;846 849	amster, dam
+T18	ProperName 838 845;846 849	amster, dam
+T19	Place 1942 1951	Purmerent
+T20	ProperName 1942 1951	Purmerent

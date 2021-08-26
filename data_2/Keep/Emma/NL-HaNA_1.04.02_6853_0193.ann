@@ -1,0 +1,50 @@
+T1	Person 2 24	Jurgen Paulus Jykerman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 2 24	Jurgen Paulus Jykerman
+T3	Person 76 103	M=r Jan van der voortnotari
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 80 97	Jan van der voort
+T5	Organization 118 158;159 164	de Edele hooge reegeringe van nederlande India
+T6	Place 148 158;159 164	nederlande India
+T7	ProperName 148 158;159 164	nederlande India
+T8	Place 178 200	binnen de stad batavia
+T9	ProperName 193 200	batavia
+T10	Person 319 341;342 349	M„r Joan van der voort Notar„s
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	ProperName 323 341	Joan van der voort
+T12	Place 356 378	binnen de stad batavia
+T13	ProperName 371 378	batavia
+T14	Person 380 399;400 421	Iurgen David Wijmer van saltkburg soldaat
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator
+T15	ProperName 380 399	Iurgen David Wijmer
+T16	Organization 436 443	dE Comp
+T17	Place 459 462;463 501	aen de rotterdammer poort binnen dese stad
+T18	ProperName 463 483	de rotterdammer poor
+T19	Person 1304 1346	soldaat in bovengem: dienst Andries Hoeten
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Beneficiary
+T20	ProperName 1332 1346	Andries Hoeten
+T21	Organization 1484 1491	dE Comp
+T22	Person 1656 1662	Voorts
+A16	Gender T22 Man
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Notary
+T23	ProperName 1656 1662	Voorts
+T24	Organization 1746 1753	dE Comp
+T27	Place 1871 1890	ter Camer Amsterdam
+T28	ProperName 1881 1890	Amsterdam
+T29	Place 400 413	van saltkburg
+T30	ProperName 404 413	saltkburg
+T31	ProperName 1484 1491	dE Comp
+T32	ProperName 1746 1753	dE Comp
+T33	ProperName 1835 1890	’ g'octroyeerde oost Jndische Comp: ter Camer Amsterdam
+T34	Organization 1837 1890	g'octroyeerde oost Jndische Comp: ter Camer Amsterdam

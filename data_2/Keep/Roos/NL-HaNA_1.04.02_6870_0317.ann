@@ -1,0 +1,37 @@
+T3	Person 0 29	Dingeman Barthaauve Groeneweg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 29	Dingeman Barthaauve Groeneweg
+T1	Person 90 111	Batthazar Ravensbergh
+A4	Gender T1 Unspecified
+A5	LegalStatus T1 Unspecified
+A6	Role T1 Acting_Notary
+T2	ProperName 90 111	Batthazar Ravensbergh
+T5	Organization 225 234	’s Comp„s
+A7	Beneficiary T5 No
+T6	Person 249 258;259 279	Dingeman, Bastlaanse Groeneweg
+A8	Gender T6 Man
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Testator
+T7	ProperName 249 258;259 279	Dingeman, Bastlaanse Groeneweg
+T8	Person 880 900	vrouw Annatje Carels
+A11	Gender T8 Woman
+A12	LegalStatus T8 Unspecified
+A13	Role T8 Beneficiary
+T9	ProperName 886 900	Annatje Carels
+T10	Person 1074 1093;1094 1109	Zoontje Fredrik Au„ „gust Groeneweg
+A14	Gender T10 Man
+A15	LegalStatus T10 Unspecified
+A16	Role T10 Beneficiary
+T11	ProperName 1082 1093;1094 1109	Fredrik Au„ „gust Groeneweg
+T12	Person 1507 1522;1523 1528	dE Johan Daniel groos
+A17	Gender T12 Man
+A18	LegalStatus T12 Unspecified
+A19	Role T12 Other
+T13	ProperName 1510 1522;1523 1528	Johan Daniel groos
+T14	Person 1560 1575;1576 1589	dE Cornelis Ia„ Cobus Geltens
+A20	Gender T14 Man
+A21	LegalStatus T14 Unspecified
+A22	Role T14 Other
+T15	ProperName 1563 1575;1576 1589	Cornelis Ia„ Cobus Geltens

@@ -1,0 +1,16 @@
+T1	Person 61 64;65 73	Ian Wolffkas
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 61 64;65 73	Ian Wolffkas
+T3	Place 328 348	ten Zoldij Comptoirs
+T4	Person 276 277;278 303	C :L: Neetling Gesw Clercq:
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 276 277;278 290	C :L: Neetling
+T6	ProperName 359 371	P: D' Hillij
+T7	Person 359 371	P: D' Hillij
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other

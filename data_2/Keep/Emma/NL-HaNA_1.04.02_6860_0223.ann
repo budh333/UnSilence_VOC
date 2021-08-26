@@ -1,0 +1,40 @@
+T1	Person 60 77	Adriaan van Rijck
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 60 77	Adriaan van Rijck
+T3	Person 188 222;223 229	E Manhaften Capitain Johan Hendrik Maurer
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 209 222;223 229	Johan Hendrik Maurer
+T5	Person 965 986;987 995	aan den armente Sama„ „ranghen
+A7	Gender T5 Group
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 981 986;987 995	Sama„ „ranghen
+T7	Place 1049 1060	tot Batavia
+T8	ProperName 1053 1060	Batavia
+T9	Person 1074 1084;1085 1105	onderkoop„ „man Iohannes freijs
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 1090 1105	Iohannes freijs
+T11	Person 1111 1120	slaavinne
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	Person 1121 1134;1135 1144	Gen„t lamonie Tenderden
+A16	Gender T12 Woman
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Other
+T13	ProperName 1121 1134;1135 1144	Gen„t lamonie Tenderden
+T14	Person 1153 1185;1186 1195	Commandant te Banjoealit Adriaan van Rijck
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Beneficiary
+T15	ProperName 1178 1185;1186 1195	Adriaan van Rijck
+T16	Place 1164 1177	te Banjoealit
+T17	ProperName 1167 1177	Banjoealit
+T18	ProperName 1269 1278	Compagnie
+T19	Organization 1269 1278	Compagnie

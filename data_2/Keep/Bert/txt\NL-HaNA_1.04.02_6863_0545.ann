@@ -1,0 +1,17 @@
+T1	Person 48 61	Heer muskulus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 53 61	muskulus
+T3	Place 366 375	Kalkapoer
+T4	ProperName 366 375	Kalkapoer
+T5	Person 418 429	P=r Brueijs
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 418 429	P=r Brueijs
+T7	Person 441 454	L=b Verspijck
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 441 454	L=b Verspijck

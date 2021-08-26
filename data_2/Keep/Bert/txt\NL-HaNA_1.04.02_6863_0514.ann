@@ -1,0 +1,16 @@
+T1	Place 103 113;114 122	Houglij in Bengalen
+T2	Place 114 122	Bengalen
+T3	ProperName 103 110	Houglij
+T4	ProperName 114 122	Bengalen
+T5	Person 221 225;226 237	Han„ Jacob Holst
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	Person 241 254	Dirk Brengman
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 241 254	Dirk Brengman
+#1	AnnotatorNotes T5	Hans Jacob Holst
+T8	ProperName 221 225;226 237	Han„ Jacob Holst
+#2	AnnotatorNotes T8	Hans Jacob Holst

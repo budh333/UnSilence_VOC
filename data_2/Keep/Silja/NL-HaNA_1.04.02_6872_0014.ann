@@ -1,0 +1,20 @@
+T1	Person 0 26	de Slaaf Meij Van macasser
+A1	Gender T1 Man
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	ProperName 9 26	Meij Van macasser
+T3	Person 394 404	Slaaf Maij
+A4	Gender T3 Man
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	ProperName 400 404	Maij
+T5	Person 692 697;698 719	Slaaf Lantaarn van macassar
+A7	Gender T5 Man
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T6	ProperName 698 719	Lantaarn van macassar
+T7	Person 758 764;765 781	Dogter Engela Christina
+A10	Gender T7 Woman
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 765 781	Engela Christina

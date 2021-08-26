@@ -1,0 +1,11 @@
+T1	TranscriptionError_Document 0 3	ver
+T2	DuplicatePage 49 60	Compareerde
+T3	ProperName 109 123	David Reguleth
+T4	Person 109 123	David Reguleth
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T5	Organization 143 148;149 182	hooge regeringe van ’t nederlands Jndia
+T6	Place 166 182	nederlands Jndia
+T7	ProperName 166 182	nederlands Jndia
+T8	DuplicatePage 209 213	1775

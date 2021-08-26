@@ -1,0 +1,34 @@
+T1	DuplicatePage 0 2	In
+T2	ProperName 348 361	Nicolaas Leij
+T3	Person 348 361	Nicolaas Leij
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Place 385 435;436 440	ter politique secretarije alhier aan Cabo de Goeda hoop
+T5	ProperName 422 435;436 440	Cabo de Goeda hoop
+T6	Place 422 435;436 440	Cabo de Goeda hoop
+T7	Person 514 527	Pieter ysveld
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator_Beneficiary
+T8	ProperName 514 527	Pieter ysveld
+T9	Person 547 573	vrouw Maria Francina Kleef
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator_Beneficiary
+T10	Place 532 543	d Gavenhage
+T11	ProperName 532 543	d Gavenhage
+T12	ProperName 553 573	Maria Francina Kleef
+T13	Organization 635 640	Comp:
+A10	Beneficiary T13 No
+T14	ProperName 635 640	Comp:
+T15	ProperName 677 682	Comp:
+T16	Organization 677 682	Comp:
+A11	Beneficiary T16 No
+T17	Person 2079 2098;2099 2106	Juff=r Cornelia van Batavia
+A12	Gender T17 Woman
+A13	LegalStatus T17 Unspecified
+A14	Role T17 Beneficiary
+T18	ProperName 2086 2098;2099 2106	Cornelia van Batavia
+T19	ProperName 2099 2106	Batavia
+T20	Place 2099 2106	Batavia

@@ -1,0 +1,31 @@
+T1	TranscriptionError_Document 0 8	Nagezien
+T2	DuplicatePage 0 8	Nagezien
+T3	Person 9 20	aSBatenberg
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 9 20	aSBatenberg
+T5	Person 512 522	slaven lea
+A4	Gender T5 Woman
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T6	ProperName 519 522	lea
+T7	Person 1409 1415	slavin
+A7	Gender T7 Woman
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	Person 1518 1525	laurens
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	Person 1527 1534	beatrix
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	Person 1539 1550	Iacobswaris
+A16	Gender T10 Unspecified
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	ProperName 1518 1525	laurens
+T12	ProperName 1527 1534	beatrix
+T13	ProperName 1539 1550	Iacobswaris

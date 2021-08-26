@@ -1,0 +1,69 @@
+T1	Person 29 46	De Heer Rijnhardt
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 37 46	Rijnhardt
+T3	Person 97 109	slave Jongen
+A4	Gender T3 Man
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	ProperName 118 125	Laurens
+T5	Person 133 155	Den Inlander Nottoersa
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 146 155	Nottoersa
+T7	Person 180 196	Den Inlander Jam
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 193 196	Jam
+T9	Person 299 317	Den Sergeant Smith
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 312 317	Smith
+T11	Person 417 444	Den Sold=t Jan Van den Berg
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 428 444	Jan Van den Berg
+T13	Person 491 512;513 524	Den sold=t aan de pen D= Brengman
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 513 524	D= Brengman
+T15	Person 563 593	Den Stuurman Matthijs Schruder
+A22	Gender T15 Man
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	ProperName 576 593	Matthijs Schruder
+T17	Person 615 638	Den Kapitain Vagtendonk
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 628 638	Vagtendonk
+T19	Person 641 666	slave meijt genaamt Maria
+A28	Gender T19 Woman
+A29	LegalStatus T19 Enslaved
+A30	Role T19 Other
+T20	ProperName 661 666	Maria
+T21	Person 676 710	Den bombardier Karel Willem Dresde
+A31	Gender T21 Unspecified
+A32	LegalStatus T21 Unspecified
+A33	Role T21 Other
+T22	ProperName 691 710	Karel Willem Dresde
+T23	Person 736 755	Den Inlander Maniek
+A34	Gender T23 Unspecified
+A35	LegalStatus T23 Unspecified
+A36	Role T23 Other
+T24	ProperName 749 755	Maniek
+T25	Person 904 913	M=r Ronin
+A37	Gender T25 Unspecified
+A38	LegalStatus T25 Unspecified
+A39	Role T25 Other
+T26	ProperName 904 913	M=r Ronin
+T27	Person 118 125	Laurens
+A40	Gender T27 Man
+A41	LegalStatus T27 Enslaved
+A42	Role T27 Other

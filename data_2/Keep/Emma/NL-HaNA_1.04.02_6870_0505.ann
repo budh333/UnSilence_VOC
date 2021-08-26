@@ -1,0 +1,34 @@
+T1	Place 2 9	Zeeland
+T2	ProperName 2 9	Zeeland
+T3	Person 10 26	Pieter Lispencie
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 10 27	Pieter Lispencier
+T5	Person 75 108	Pieter van Beuning P=r secretaris
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 75 93	Pieter van Beuning
+T7	Place 109 122;123 126	deser provin„ tie
+T8	Place 188 202	ten woonhuijse
+T9	Person 355 368;369 377	heer Nicolaas Nicolai,
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 360 368;369 375	Nicolaas Nicola
+T11	Organization 442 468	Collegie van weesmeesteren
+T12	Person 546 559;560 570	Koster Pieter Lispencier
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 553 559;560 570	Pieter Lispencier
+T14	Person 1085 1091;1092 1122	Pieter Lispencier, gewesen vrij burge
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator
+T15	ProperName 1085 1091;1092 1102	Pieter Lispencier
+T16	Place 1128 1135	batavia
+T17	ProperName 1128 1135	batavia
+T18	Place 1189 1197	op Banda
+T19	ProperName 1192 1197	Banda
