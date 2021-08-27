@@ -95,8 +95,8 @@ class NELine:
         if replace_all_numbers:
             self.tokens = string_process_service.replace_strings_numbers(self.tokens)
 
-        if clean_up_tokens:
-            self.tokens = string_process_service.clean_up_words(self.tokens)
+        # if clean_up_tokens:
+        #     self.tokens = string_process_service.clean_up_words(self.tokens)
 
         self.original_length = len(self.tokens)
         text = self.get_text()

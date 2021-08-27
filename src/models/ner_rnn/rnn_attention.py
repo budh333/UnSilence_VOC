@@ -19,7 +19,7 @@ class RNNAttention(ModelBase):
     super().__init__(data_service, arguments_service, log_service)
     self.scale = 1. / math.sqrt(query_dim)
 
-  @overrides
+ 
   def forward(self, query, keys, values):
     # Query = [BxQ]
     # Keys = [TxBxK]

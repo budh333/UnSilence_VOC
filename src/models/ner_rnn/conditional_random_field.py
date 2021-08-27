@@ -56,7 +56,7 @@ class ConditionalRandomField(ModelBase):
             self._weighted_loss_matrix[:, self.none_idx] = 1.3
             self._weighted_loss_matrix[self.none_idx, self.none_idx] = 1
 
-    @overrides
+  
     def forward(
             self,
             rnn_features,

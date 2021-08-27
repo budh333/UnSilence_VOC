@@ -32,7 +32,6 @@ class CharacterRNN(ModelBase):
             batch_first=True,
             bidirectional=bidirectional_rnn)
 
-    @overrides
     def forward(self, char_seq_tensor: torch.Tensor, char_seq_len: torch.Tensor) -> torch.Tensor:
         """
         Get the last hidden states of the LSTM

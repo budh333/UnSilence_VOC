@@ -1,6 +1,6 @@
 from typing import List
 
-from MulticoreTSNE import MulticoreTSNE as TSNE
+# from MulticoreTSNE import MulticoreTSNE as TSNE
 import numpy as np
 
 
@@ -22,13 +22,13 @@ class FitTransformationService:
         :rtype: [type]
         """
 
-        tsne = TSNE(
-            n_components=number_of_components,
-            random_state=0,
-            n_jobs=4)
+        # tsne = TSNE(
+        #     n_components=number_of_components,
+        #     random_state=0,
+        #     n_jobs=4)
 
-        if not isinstance(vectors, np.ndarray):
-            vectors = np.array(vectors)
+        # if not isinstance(vectors, np.ndarray):
+        #     vectors = np.array(vectors)
 
-        tsne_result = tsne.fit_transform(vectors)
-        return tsne_result
+        # tsne_result = tsne.fit_transform(vectors)
+        # return tsne_result

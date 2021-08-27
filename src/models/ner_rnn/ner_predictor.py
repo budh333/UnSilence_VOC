@@ -156,7 +156,6 @@ class NERPredictor(ModelBase):
 
         return predictions, losses, lengths
 
-    @overrides
     def calculate_accuracies(
             self,
             batch: BatchRepresentation,
@@ -232,7 +231,7 @@ class NERPredictor(ModelBase):
 
         return metrics
 
-    @overrides
+
     def compare_metric(self, best_metric: Metric, new_metric: Metric) -> bool:
         if best_metric.is_new:
             return True
