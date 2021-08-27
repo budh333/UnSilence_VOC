@@ -121,6 +121,7 @@ class NERProcessService(ProcessServiceBase):
                             self._tokenize_service,
                             self._string_process_service,
                             replace_all_numbers=self._arguments_service.replace_all_numbers,
+                            clean_up_tokens=True,
                             expand_targets=not self._arguments_service.merge_subwords)
 
                         collection.add_line(current_sentence)

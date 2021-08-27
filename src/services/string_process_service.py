@@ -50,3 +50,25 @@ class StringProcessService:
     def remove_strings_characters(self, texts: List[str], characters: List[str]) -> List[str]:
         result = [self.remove_string_characters(x, characters) for x in texts]
         return result
+
+    def clean_up_words(self, words: List[str]) -> List[str]:
+        result = [self._clean_up_word(x) for x in words]
+        return result
+
+    def _clean_up_word(self, word):
+        '''
+            This function cleans up the words before saving them as tokens.
+            It only looks into the beginning or the end of the words, so if a word
+            contains an invalid symbol inside this will not be cleaned.
+        '''
+        result = word.strip()
+
+        invalid_chars = [',', '„', ':', '’', '.', ';', '=', '-', "'", '/', '\\', '(', ')', '[', ']', '{', '}', '-', '—', '_']
+        for invalid_char in invalid_chars:
+            # we clean recursively, so that if a word ends in :,' all three symbols will be removed
+            if result.startswith(invalid_char):
+                result = self._clean_up_word(result[1:])
+            elif result.endswith(invalid_char):
+                result = self._clean_up_word(result[:-1])
+
+        return result

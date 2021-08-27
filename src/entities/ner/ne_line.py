@@ -90,9 +90,13 @@ class NELine:
             tokenize_service: BaseTokenizeService,
             string_process_service: StringProcessService,
             replace_all_numbers: bool = False,
+            clean_up_tokens: bool = False,
             expand_targets: bool = True):
         if replace_all_numbers:
             self.tokens = string_process_service.replace_strings_numbers(self.tokens)
+
+        if clean_up_tokens:
+            self.tokens = string_process_service.clean_up_words(self.tokens)
 
         self.original_length = len(self.tokens)
         text = self.get_text()
