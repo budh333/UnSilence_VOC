@@ -121,7 +121,6 @@ class NERProcessService(ProcessServiceBase):
                             self._tokenize_service,
                             self._string_process_service,
                             replace_all_numbers=self._arguments_service.replace_all_numbers,
-                            clean_up_tokens=True,
                             expand_targets=not self._arguments_service.merge_subwords)
 
                         collection.add_line(current_sentence)
@@ -135,7 +134,7 @@ class NERProcessService(ProcessServiceBase):
                 elif is_comment:
                     continue
                 else:
-                    current_sentence.add_data(row, self._entity_tag_types)
+                    current_sentence.add_data(self._string_process_service, row, self._entity_tag_types)
 
         # add last document
         if len(current_sentence.tokens) > 0:

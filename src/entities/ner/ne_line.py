@@ -24,8 +24,19 @@ class NELine:
 
         self.document_id = None
 
-    def add_data(self, csv_row: dict, possible_entity_tag_types: List[EntityTagType]):
+    def add_data(
+            self,
+            string_process_service: StringProcessService,
+            csv_row: dict,
+            possible_entity_tag_types: List[EntityTagType]):
+        clean_up_tokens = True
+        if clean_up_tokens:
+            token = string_process_service._clean_up_word(csv_row['TOKEN'])
+            if token == '':
+                return
+
         token = self._add_entity_if_available(csv_row, 'TOKEN', self.tokens)
+
         self.tokens_features.append(self._get_token_features(token))
 
         self._add_entity_if_available(
@@ -90,13 +101,10 @@ class NELine:
             tokenize_service: BaseTokenizeService,
             string_process_service: StringProcessService,
             replace_all_numbers: bool = False,
-            clean_up_tokens: bool = False,
             expand_targets: bool = True):
         if replace_all_numbers:
-            self.tokens = string_process_service.replace_strings_numbers(self.tokens)
-
-        # if clean_up_tokens:
-        #     self.tokens = string_process_service.clean_up_words(self.tokens)
+            self.tokens = string_process_service.replace_strings_numbers(
+                self.tokens)
 
         self.original_length = len(self.tokens)
         text = self.get_text()
@@ -215,7 +223,8 @@ class NELine:
             result = None
         else:
             result = csv_row[key]
-            result = result.split(',')[0]
+            if key != 'TOKEN':
+                result = result.split(',')[0]
 
         if result is not None or use_none_if_empty:
             obj.append(result)
