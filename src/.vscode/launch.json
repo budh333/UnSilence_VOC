@@ -51,7 +51,7 @@
 
                 "--pretrained-model", "bert",
 
-                "--train-dataset-limit-size", "1",
+                // "--train-dataset-limit-size", "1",
                 "--patience", "1000",
 
                 "--entity-tag-types", "main", "gender", "legal-status", "role",
