@@ -54,10 +54,10 @@ When legal status of the person is specified, that is annotated as an attribute 
 #### Role
 
 * Notary
-* Acting_Notary
+* Acting_Notary: when a notary is not present, an individual for instance the captain of a ship acts as a notary.
 * Testator
 * Beneficiary
-* Testator_Beneficiary
+* Testator_Beneficiary: when an individual is both a testator and a beneficiary
 * Witness
 * Other
 
