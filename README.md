@@ -22,7 +22,7 @@ Persons have three kinds of attributes: **Gender**, **Role** and **Legal Status*
 * Group
 * Unspecified
 
-In general we are interested in tagging persons with the mentioned proper name. If the name is followed or led by an identifier which reveals their gender, we shall mark the identifier and the name. Consider these examples:
+We are interested in tagging persons with the mentioned proper name. If the name is followed or led by an identifier which reveals their gender, we shall mark the identifier and the name. Consider these examples:
 
 ![woman](images/person_slavinneclara.png)
 ![man](images/person_man.png)
