@@ -11,16 +11,16 @@ from models.model_base import ModelBase
 class CharacterRNN(ModelBase):
 
     def __init__(
-        self,
-        data_service: DataService,
-        arguments_service: ArgumentsServiceBase,
-        log_service: LogService,
-        vocabulary_size: int,
-        character_embedding_size: int,
-        hidden_size: int,
-        number_of_layers: int,
-        bidirectional_rnn: bool = True,
-        dropout: float = 0.0):
+            self,
+            data_service: DataService,
+            arguments_service: ArgumentsServiceBase,
+            log_service: LogService,
+            vocabulary_size: int,
+            character_embedding_size: int,
+            hidden_size: int,
+            number_of_layers: int,
+            bidirectional_rnn: bool = True,
+            dropout: float = 0.0):
         super().__init__(data_service, arguments_service, log_service)
 
         self._dropout = nn.Dropout(dropout)
@@ -56,12 +56,11 @@ class CharacterRNN(ModelBase):
         character_embeddings = self._dropout.forward(character_embeddings)
         pack_input = pack_padded_sequence(
             character_embeddings,
-            sorted_seq_len,
-             batch_first=True)
+            sorted_seq_len.cpu(),
+            batch_first=True)
 
         _, hidden = self._character_rnn.forward(pack_input, None)
         hidden = hidden[0].transpose(1, 0).contiguous().view(batch_size * sent_len, 1, -1)
 
         result = hidden[recover_idx].view(batch_size, sent_len, -1)
         return result
-
