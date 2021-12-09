@@ -56,6 +56,7 @@ class NERProcessService(ProcessServiceBase):
 
         train_cache_key = f'train-data-limit-{arguments_service.train_dataset_limit_size}-merge-{arguments_service.merge_subwords}-replacen-{arguments_service.replace_all_numbers}'
         validation_cache_key = f'validation-data-limit-{arguments_service.validation_dataset_limit_size}-merge-{arguments_service.merge_subwords}-replacen-{arguments_service.replace_all_numbers}'
+        test_cache_key = f'test-data-merge-{arguments_service.merge_subwords}-replacen-{arguments_service.replace_all_numbers}'
         self._train_ne_collection = cache_service.get_item_from_cache(
             CacheOptions(
                 item_key=train_cache_key,
@@ -75,6 +76,15 @@ class NERProcessService(ProcessServiceBase):
                     os.path.join(
                         challenge_path, f'data-dev-{language_suffix}.tsv'),
                     limit=arguments_service.validation_dataset_limit_size)))
+
+        self._test_ne_collection = cache_service.get_item_from_cache(
+            CacheOptions(
+                item_key=test_cache_key,
+                configuration_specific=False),
+            callback_function=lambda: (
+                self.preprocess_data(
+                    os.path.join(
+                        challenge_path, f'data-test-{language_suffix}.tsv'))))
 
         self._entity_mappings = self._create_entity_mappings(
             self._train_ne_collection,

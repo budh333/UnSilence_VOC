@@ -343,21 +343,21 @@ class NERPredictor(ModelBase):
         self._tag_metrics_service.reset()
         self._eval_outputs_per_tag = {}
 
-        self._log_crf_transition_matrices()
+        # self._log_crf_transition_matrices()
 
         return metrics
 
-    def _log_crf_transition_matrices(self):
-        for i, crf_layer in enumerate(self._crf_layers):
-            current_entity_tag_type = self._entity_tag_types[i]
+    # def _log_crf_transition_matrices(self):
+    #     for i, crf_layer in enumerate(self._crf_layers):
+    #         current_entity_tag_type = self._entity_tag_types[i]
 
-            transition_matrix = crf_layer._transition_matrix.detach().cpu().numpy()
-            entities = self._process_service.get_entity_names(
-                current_entity_tag_type)
+    #         transition_matrix = crf_layer._transition_matrix.detach().cpu().numpy()
+    #         entities = self._process_service.get_entity_names(
+    #             current_entity_tag_type)
 
-            self._log_service.log_heatmap(
-                f'CRF Transition matrix - {current_entity_tag_type.value}',
-                transition_matrix,
-                entities,
-                entities,
-                show_text_inside=False)
+    #         self._log_service.log_heatmap(
+    #             f'CRF Transition matrix - {current_entity_tag_type.value}',
+    #             transition_matrix,
+    #             entities,
+    #             entities,
+    #             show_text_inside=False)

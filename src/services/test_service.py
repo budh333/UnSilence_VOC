@@ -11,6 +11,7 @@ from enums.evaluation_type import EvaluationType
 
 from services.arguments.arguments_service_base import ArgumentsServiceBase
 from services.dataloader_service import DataLoaderService
+from services.evaluation.base_evaluation_service import BaseEvaluationService
 from services.file_service import FileService
 
 from utils.dict_utils import update_dictionaries
@@ -21,10 +22,12 @@ class TestService:
             self,
             arguments_service: ArgumentsServiceBase,
             dataloader_service: DataLoaderService,
+            evaluation_service: BaseEvaluationService,
             file_service: FileService,
             model: ModelBase):
 
         self._arguments_service = arguments_service
+        self._evaluation_service = evaluation_service
         self._file_service = file_service
         self._dataloader_service = dataloader_service
 
@@ -43,15 +46,15 @@ class TestService:
 
             outputs = self._model.forward(batch)
 
-            # batch_evaluation = self._evaluation_service.evaluate_batch(
-            #     outputs,
-            #     batch,
-            #     self._arguments_service.evaluation_type,
-            #     i)
+            batch_evaluation = self._evaluation_service.evaluate_batch(
+                outputs,
+                batch,
+                self._arguments_service.evaluation_type,
+                i)
 
             update_dictionaries(evaluation, batch_evaluation)
 
-        return True
+        return self._evaluation_service.save_results(evaluation)
 
     def _load_model(self) -> ModelCheckpoint:
         checkpoints_path = self._file_service.get_checkpoints_path()

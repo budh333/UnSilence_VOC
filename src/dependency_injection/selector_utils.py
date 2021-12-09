@@ -54,6 +54,13 @@ def get_model_type(arguments_service: ArgumentsServiceBase):
 
     return model
 
+def get_evaluation_service(arguments_service: ArgumentsServiceBase):
+    result = 'base'
+    if arguments_service.configuration == Configuration.BiLSTMCRF:
+        result = 'ner'
+
+    return result
+
 
 def get_process_service(arguments_service: ArgumentsServiceBase):
     result = None

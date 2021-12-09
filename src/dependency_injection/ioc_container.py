@@ -1,4 +1,6 @@
 from losses.ner_loss import NERLoss
+from services.evaluation.base_evaluation_service import BaseEvaluationService
+from services.evaluation.ner_evaluation_service import NEREvaluationService
 from services.tag_metrics_service import TagMetricsService
 from services.process.ner_process_service import NERProcessService
 from optimizers.sparse_adam_optimizer import SparseAdamOptimizer
@@ -218,10 +220,25 @@ class IocContainer(containers.DeclarativeContainer):
     fit_transformation_service = providers.Factory(
         FitTransformationService)
 
+    evaluation_service_selector = providers.Callable(
+        get_evaluation_service,
+        arguments_service=arguments_service)
+
+    evaluation_service: providers.Provider[BaseEvaluationService] = providers.Selector(
+        evaluation_service_selector,
+        base=providers.Factory(BaseEvaluationService),
+        ner=providers.Factory(
+            NEREvaluationService,
+            arguments_service=arguments_service,
+            file_service=file_service,
+            process_service=process_service,
+            string_process_service=string_process_service))
+
     test_service = providers.Factory(
         TestService,
         arguments_service=arguments_service,
         dataloader_service=dataloader_service,
+        evaluation_service=evaluation_service,
         file_service=file_service,
         model=model
     )

@@ -21,9 +21,7 @@
                 "--seed", "13",
                 "--learning-rate", "1e-2",
 
-                "--skip-validation",
-
-                "--metric-types", "levenshtein-distance", "jaccard-similarity",
+                "--metric-types", "f1-score", "precision", "recall",
                 "--language", "dutch",
 
                 "--checkpoint-name", "local",
@@ -44,20 +42,65 @@
                 "--character-embeddings-size", "16",
                 "--character-hidden-size", "32",
 
-                "--hidden-dimension", "128",
+                "--hidden-dimension", "512",
                 "--bidirectional-rnn",
-                "--number-of-layers", "1",
+                "--number-of-layers", "2",
                 "--embeddings-size", "32",
 
                 "--pretrained-model", "bert",
 
                 // "--train-dataset-limit-size", "1",
+                "--validation-dataset-limit-size", "1",
                 "--patience", "1000",
 
                 "--entity-tag-types", "main", "gender", "legal-status", "role",
                 "--merge-subwords",
 
                 "--overwrite-previous-model",
+            ]
+        },
+        {
+            "name": "NER - Evaluate",
+            "type": "python",
+            "request": "launch",
+            "program": "run.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--evaluate",
+                "--configuration", "bi_lstm_crf",
+                "--challenge", "named-entity-recognition",
+
+                "--device", "cpu",
+                "--seed", "13",
+                "--learning-rate", "1e-2",
+
+                "--metric-types", "f1-score", "precision", "recall",
+                "--language", "dutch",
+
+                "--batch-size", "1",
+
+                "--pretrained-weights", "wietsedv/bert-base-dutch-cased",
+
+                "--include-pretrained-model",
+                "--pretrained-model-size", "768",
+                "--pretrained-max-length", "512",
+
+                "--learn-character-embeddings",
+                "--character-embeddings-size", "16",
+                "--character-hidden-size", "32",
+
+                "--no-attention",
+                "--hidden-dimension", "512",
+                "--bidirectional-rnn",
+                "--number-of-layers", "1",
+                "--embeddings-size", "32",
+
+                "--pretrained-model", "bert",
+
+                "--entity-tag-types", "main", "gender", "legal-status", "role",
+                "--merge-subwords",
+
+                // "--overwrite-previous-model",
             ]
         }
     ]
