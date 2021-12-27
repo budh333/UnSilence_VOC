@@ -13,6 +13,19 @@ class NERArgumentsService(PretrainedArgumentsService):
         super().__init__()
 
     @overrides
+    def get_configuration_name(self, overwrite_args: Dict[str, object] = None) -> str:
+        result = super().get_configuration_name(overwrite_args)
+
+        entity_tag_types = self._get_value_or_default(overwrite_args, 'entity_tag_types', self.entity_tag_types)
+        entity_tag_types_str = f'-ett-{"-".join([self._cut_string(x.value) for x in entity_tag_types])}'
+        result += entity_tag_types_str
+        return result
+
+    def _cut_string(self, text: str):
+        spl_text = ''.join([x[0].lower() for x in text.split('-')])
+        return spl_text
+
+    @overrides
     def _add_specific_arguments(self, parser: argparse.ArgumentParser):
         super()._add_specific_arguments(parser)
 

@@ -29,8 +29,8 @@ class PretrainedRepresentationsLayer(ModelBase):
         super().__init__(data_service, arguments_service, log_service)
 
         self._device = device
-        self.do_not_save: bool = (not pretrained_representations_options.fine_tune_pretrained and
-                                  not pretrained_representations_options.fine_tune_after_convergence)
+        # self.do_not_save: bool = (not pretrained_representations_options.fine_tune_pretrained and
+        #                           not pretrained_representations_options.fine_tune_after_convergence)
 
         self._include_pretrained = pretrained_representations_options.include_pretrained_model
         self._pretrained_model_size = pretrained_representations_options.pretrained_model_size

@@ -15,6 +15,7 @@ class NELine:
         self.token_ids = []
         self.misc = []
         self.ne_main = []
+        self.ne_person_name = []
         self.ne_person_gender = []
         self.ne_person_legal_status = []
         self.ne_person_role = []
@@ -45,6 +46,10 @@ class NELine:
         if EntityTagType.Main in possible_entity_tag_types:
             self._add_entity_if_available(
                 csv_row, 'NE-MAIN', self.ne_main, use_none_if_empty=True)
+
+        if EntityTagType.Name in possible_entity_tag_types:
+            self._add_entity_if_available(
+                csv_row, 'NE-PER-NAME', self.ne_person_name, use_none_if_empty=True)
 
         if EntityTagType.Gender in possible_entity_tag_types:
             self._add_entity_if_available(
@@ -87,6 +92,8 @@ class NELine:
     def get_entity_tags(self, entity_tag_type: EntityTagType):
         if entity_tag_type == EntityTagType.Main:
             return self.ne_main
+        if entity_tag_type == EntityTagType.Name:
+            return self.ne_person_name
         elif entity_tag_type == EntityTagType.Gender:
             return self.ne_person_gender
         elif entity_tag_type == EntityTagType.LegalStatus:
@@ -120,6 +127,7 @@ class NELine:
             new_misc = deepcopy(self.misc)
             new_tokens_features = deepcopy(self.tokens_features)
             new_ne_main = deepcopy(self.ne_main)
+            new_ne_person_name = deepcopy(self.ne_person_name)
             new_ne_person_gender = deepcopy(self.ne_person_gender)
             new_ne_person_legal_status = deepcopy(self.ne_person_legal_status)
             new_ne_person_role = deepcopy(self.ne_person_role)
@@ -144,6 +152,8 @@ class NELine:
                         self._insert_entity_tag(
                             new_ne_main, corresponding_counter+1, self.ne_main[i])
                         self._insert_entity_tag(
+                            new_ne_person_name, corresponding_counter+1, self.ne_person_name[i])
+                        self._insert_entity_tag(
                             new_ne_person_gender, corresponding_counter+1, self.ne_person_gender[i])
                         self._insert_entity_tag(
                             new_ne_person_legal_status, corresponding_counter+1, self.ne_person_legal_status[i])
@@ -158,6 +168,7 @@ class NELine:
             self.tokens_features = new_tokens_features
             self.misc = new_misc
             self.ne_main = new_ne_main
+            self.ne_person_name = new_ne_person_name
             self.ne_person_gender = new_ne_person_gender
             self.ne_person_legal_status = new_ne_person_legal_status
             self.ne_person_role = new_ne_person_role
@@ -209,6 +220,7 @@ class NELine:
         return [
             self.tokens[pos],
             self.ne_main[pos],
+            self.ne_person_name[pos],
             self.ne_person_gender[pos],
             self.ne_person_legal_status[pos],
             self.ne_person_role[pos],

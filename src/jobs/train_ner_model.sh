@@ -54,6 +54,27 @@ then
     RESUMETRAININGARG="--resume-training"
 fi
 
-echo 'EXECUTING... srun python -u run.py --configuration bi_lstm_crf --challenge named-entity-recognition --epochs 500000 --device cuda --eval-freq ' $EVALFREQARG ' --seed ' $SEEDARG ' --learning-rate ' $LEARNINGRATE ' --metric-types f1-score precision recall --language ' $LANGUAGEARG ' --batch-size ' $BATCHSIZEARG ' --patience ' $PATIENCEARG ' --include-pretrained-model --pretrained-model bert --pretrained-model-size 768 --pretrained-max-length 512 --dropout 0.5 --number-of-layers 1 --entity-tag-types main gender legal-status role --no-attention --bidirectional-rnn --pretrained-weights wietsedv/bert-base-dutch-cased --merge-subwords --learn-character-embeddings --character-embeddings-size 16 --character-hidden-size 32 --hidden-dimension 512 --embeddings-size 32 --bidirectional-rnn --replace-all-numbers --enable-external-logging ' $RESUMETRAININGARG
+ENTITYTAGTYPES=""
+if [ $ENTITYTAGS == "all" ]
+then
+    ENTITYTAGTYPES="--entity-tag-types main gender legal-status role "
+elif [ $ENTITYTAGS == "1" ]
+then
+    ENTITYTAGTYPES="--entity-tag-types main "
+elif [ $ENTITYTAGS == "2" ]
+then
+    ENTITYTAGTYPES="--entity-tag-types name "
+elif [ $ENTITYTAGS == "3" ]
+then
+    ENTITYTAGTYPES="--entity-tag-types gender "
+elif [ $ENTITYTAGS == "4" ]
+then
+    ENTITYTAGTYPES="--entity-tag-types legal-status "
+elif [ $ENTITYTAGS == "5" ]
+then
+    ENTITYTAGTYPES="--entity-tag-types role "
+fi
 
-srun python -u run.py --configuration bi_lstm_crf --challenge named-entity-recognition --epochs 500000 --device cuda --eval-freq $EVALFREQARG --seed $SEEDARG --learning-rate $LEARNINGRATE --metric-types f1-score precision recall --language $LANGUAGEARG --batch-size $BATCHSIZEARG --patience $PATIENCEARG --include-pretrained-model --pretrained-model bert --pretrained-model-size 768 --pretrained-max-length 512 --dropout 0.5 --number-of-layers 1 --entity-tag-types main gender legal-status role --no-attention --bidirectional-rnn --pretrained-weights wietsedv/bert-base-dutch-cased --merge-subwords --learn-character-embeddings --character-embeddings-size 16 --character-hidden-size 32 --hidden-dimension 512 --embeddings-size 32 --bidirectional-rnn --replace-all-numbers --enable-external-logging $RESUMETRAININGARG
+echo 'EXECUTING... srun python -u run.py --configuration bi_lstm_crf --challenge named-entity-recognition --epochs 500000 --device cuda --eval-freq ' $EVALFREQARG ' --seed ' $SEEDARG ' --learning-rate ' $LEARNINGRATE ' --metric-types f1-score precision recall --language ' $LANGUAGEARG ' --batch-size ' $BATCHSIZEARG ' --patience ' $PATIENCEARG ' --include-pretrained-model --pretrained-model bert --pretrained-model-size 768 --pretrained-max-length 512 --dropout 0.5 --number-of-layers 1 ' $ENTITYTAGTYPES ' --no-attention --bidirectional-rnn --pretrained-weights wietsedv/bert-base-dutch-cased --merge-subwords --learn-character-embeddings --character-embeddings-size 16 --character-hidden-size 32 --hidden-dimension 512 --embeddings-size 32 --bidirectional-rnn --replace-all-numbers --enable-external-logging ' $RESUMETRAININGARG
+
+srun python -u run.py --configuration bi_lstm_crf --challenge named-entity-recognition --epochs 500000 --device cuda --eval-freq $EVALFREQARG --seed $SEEDARG --learning-rate $LEARNINGRATE --metric-types f1-score precision recall --language $LANGUAGEARG --batch-size $BATCHSIZEARG --patience $PATIENCEARG --include-pretrained-model --pretrained-model bert --pretrained-model-size 768 --pretrained-max-length 512 --dropout 0.5 --number-of-layers 1 $ENTITYTAGTYPES --no-attention --bidirectional-rnn --pretrained-weights wietsedv/bert-base-dutch-cased --merge-subwords --learn-character-embeddings --character-embeddings-size 16 --character-hidden-size 32 --hidden-dimension 512 --embeddings-size 32 --bidirectional-rnn --replace-all-numbers --enable-external-logging $RESUMETRAININGARG

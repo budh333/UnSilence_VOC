@@ -75,6 +75,7 @@ class NEREvaluationService(BaseEvaluationService):
 
         column_mapping = {
             EntityTagType.Main: 'NE-MAIN',
+            EntityTagType.Name: 'NE-PER-NAME',
             EntityTagType.Gender: 'NE-PER-GENDER',
             EntityTagType.LegalStatus: 'NE-PER-LEGAL-STATUS',
             EntityTagType.Role: 'NE-PER-ROLE'

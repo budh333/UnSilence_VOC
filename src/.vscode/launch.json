@@ -53,7 +53,7 @@
                 "--validation-dataset-limit-size", "1",
                 "--patience", "1000",
 
-                "--entity-tag-types", "main", "gender", "legal-status", "role",
+                "--entity-tag-types", "main", "name", "gender", "legal-status", "role",
                 "--merge-subwords",
 
                 "--overwrite-previous-model",
@@ -97,7 +97,12 @@
 
                 "--pretrained-model", "bert",
 
-                "--entity-tag-types", "main", "gender", "legal-status", "role",
+                "--entity-tag-types",
+                // "main",
+                "name",
+                // "gender",
+                // "legal-status",
+                // "role",
                 "--merge-subwords",
 
                 // "--overwrite-previous-model",
