@@ -1,0 +1,17 @@
+T1	TranscriptionError_Document 0 2	de
+T2	Organization 509 530	Heeren Bewindhebberen
+T3	ProperName 509 530	Heeren Bewindhebberen
+T4	Organization 544 550;551 586	Nedere „se g'octroijeerde Oost jndise Comp
+T5	ProperName 544 550;551 586	Nedere „se g'octroijeerde Oost jndise Comp
+T6	ProperName 597 606	amsterdam
+T7	Place 597 606	amsterdam
+T8	Place 654 674	’t schip d’ Eendragt
+T9	ProperName 663 674	d’ Eendragt
+T10	DuplicatePage 1276 1281	Lager
+T11	Person 1307 1320	I: Loefhouwer
+A1	Gender T11 Unspecified
+A2	LegalStatus T11 Unspecified
+A3	Role T11 Other
+T12	ProperName 1310 1320	Loefhouwer
+T13	Place 1431 1439	Samarang
+T14	ProperName 1431 1439	Samarang

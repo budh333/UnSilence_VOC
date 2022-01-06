@@ -1,0 +1,63 @@
+T1	Person 189 214;215 220	Schoon Soon Caril Albregt Haupt
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 201 214;215 220	Caril Albregt Haupt
+T3	Person 154 180	D'E Henning Ioachim Preaen
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 158 180	Henning Ioachim Preaen
+T5	Place 347 365	Cabo de goede Hoop
+T6	ProperName 347 365	Cabo de goede Hoop
+T7	ProperName 402 411	D: Pheijl
+T8	Person 402 411	D: Pheijl
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 500 510;511 516	S=r daniel Pheil
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 504 510;511 516	daniel Pheil
+T11	Place 744 764	ten soldij Comptoire
+T12	ProperName 776 784	PD Hillj
+T13	Person 776 784	PD Hillj
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 700 712	I: D=d Storm
+T15	ProperName 602 616	I: L: Immelman
+T16	ProperName 617 622;623 632	O: W: Rotenburg
+T17	ProperName 633 650	J: C: v: d: Spuij
+T18	ProperName 652 660;661 668	H=s San, denberg
+T19	ProperName 669 681	P: v: Echten
+T20	ProperName 682 694;695 698	N=s A: Alle, man
+T21	Person 700 712	I: D=d Storm
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+T22	Person 682 694;695 698	N=s A: Alle, man
+A19	Gender T22 Unspecified
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T23	Person 669 681	P: v: Echten
+A22	Gender T23 Unspecified
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Other
+T24	Person 652 660;661 668	H=s San, denberg
+A25	Gender T24 Unspecified
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Other
+T25	Person 633 650	J: C: v: d: Spuij
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	Person 617 622;623 632	O: W: Rotenburg
+A31	Gender T26 Unspecified
+A32	LegalStatus T26 Unspecified
+A33	Role T26 Other
+T27	Person 602 616	I: L: Immelman
+A34	Gender T27 Unspecified
+A35	LegalStatus T27 Unspecified
+A36	Role T27 Other

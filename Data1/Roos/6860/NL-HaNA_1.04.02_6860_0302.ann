@@ -1,0 +1,26 @@
+T1	Place 7 17	sourabaija
+T2	ProperName 7 17	sourabaija
+T3	Person 38 43;44 61	Claas Bastiaan woortman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 38 43;44 61	Claas Bastiaan woortman
+T5	Person 133 151	Joan Adriaan Druer
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 133 151	Joan Adriaan Druer
+T7	Organization 239 248	s E: Comp
+A7	Beneficiary T7 No
+T8	Person 492 502	P: G: Held
+A8	Gender T8 Unspecified
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Other
+T9	ProperName 492 502	P: G: Held
+T10	Place 548 569	Weeskamer te Samarang
+T11	ProperName 561 569	Samarang
+T12	Person 597 609	J: G: Helmke
+A11	Gender T12 Unspecified
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Other
+T13	ProperName 597 609	J: G: Helmke

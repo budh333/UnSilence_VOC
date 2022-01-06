@@ -1,0 +1,30 @@
+T1	Place 22 28;37 45	Holdij Comploir
+T3	Person 92 102	Kretschman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 206 222	Cornelis Joosten
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 206 222	Cornelis Joosten
+T6	Person 198 205	umtraun
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+#1	AnnotatorNotes T6	Signature
+T7	Person 483 491;492 507;507 508	Johannes fredrik Sievert s
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Acting_Notary
+T8	ProperName 483 491;492 508	Johannes fredrik Sieverts
+T9	Organization 528 543;565 572	secretarije van politie
+T10	Place 664 678;694 735	ten woonhuijse van den stads herbergier Cornelis Joosten
+T11	Place 684 693	Amsterdan
+T12	ProperName 684 693	Amsterdan
+T13	Person 719 735	Cornelis Joosten
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator
+T14	ProperName 719 735	Cornelis Joosten
+T15	TranscriptionError_Document 108 111	121

@@ -1,0 +1,23 @@
+T1	Person 185 192	slaaven
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 196 204	Slavinne
+A4	Gender T2 Group
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	Organization 974 1002;1003 1012	Eerwaarde Collegie van heere meesteren
+T4	Organization 1325 1332;1333 1387;1388 1397	generaa Neederlandse geoctroijeerde Oost Jndische Comp„e ter 1 Amsterdam
+T5	Place 1388 1397	Amsterdam
+T6	ProperName 1388 1397	Amsterdam
+T7	Person 1800 1814	willem Kerkman
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 1800 1814	willem Kerkman
+T9	Person 1834 1842	JWvansse
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+#1	AnnotatorNotes T9	Signature
+T10	TranscriptionError_Document 1619 1625	Wetten

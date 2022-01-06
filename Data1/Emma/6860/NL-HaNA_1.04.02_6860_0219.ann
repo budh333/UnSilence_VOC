@@ -1,0 +1,25 @@
+T1	Person 23 46;47 67	E Manhaften Heer Casper Lodewijk Tropparngro
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 40 46;47 68	Casper Lodewijk Tropparngro,
+T3	Place 104 111	op Java
+T4	ProperName 107 111	Java
+T5	Person 241 247	slaven
+A4	Gender T5 Group
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T6	Person 251 260	Slavinnen
+A7	Gender T6 Group
+A8	LegalStatus T6 Enslaved
+A9	Role T6 Other
+T7	Organization 673 695;696 739	het Eerwaarde Collegie van Heeren weesmeesteren ter steede Batavia
+T8	Place 721 739	ter steede Batavia
+T9	ProperName 732 739	Batavia
+T10	Place 838 847	sterfhuis
+T11	Person 1289 1309	Captain Troppannegro
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1297 1309	Troppannegro
+T13	Place 1463 1481	in ’t sterffhuiste

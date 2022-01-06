@@ -1,0 +1,20 @@
+T1	Place 678 681;682 707	ten huijsen van den testateur
+T2	Person 729 748	Slephanus Cornelisz
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T3	ProperName 729 748	Slephanus Cornelisz
+T4	Person 754 758;759 767	Era„ Pietersz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 754 758;759 767	Era„ Pietersz
+T6	Person 874 885	Gabriel van
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Notary
+T7	Person 897 907	Per wennde
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+#1	AnnotatorNotes T7	Signature

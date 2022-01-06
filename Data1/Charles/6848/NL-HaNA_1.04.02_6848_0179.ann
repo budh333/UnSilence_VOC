@@ -1,0 +1,28 @@
+T1	Person 1181 1189;1190 1205	Hermanus Abraham Simonst
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	Person 1211 1230;1231 1245	Dominicus Hendricus van den Heuvel
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Witness
+T3	ProperName 1211 1230;1231 1244	Dominicus Hendricus van den Heuve
+T4	ProperName 1181 1189;1190 1206	Hermanus Abraham Simonst:
+T5	Person 1562 1595	Nccolaas van Bergen van der Grijs
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	Organization 215 248	Collegie van Hieren Weesmeesteren
+T7	ProperName 215 248	Collegie van Hieren Weesmeesteren
+T8	Organization 557 607;608 616	geoctroijeerde oost Indiasche Comp:e ter kamer Am„ „sterdam
+T9	ProperName 557 593	geoctroijeerde oost Indiasche Comp:e
+T10	Place 604 607;608 616	Am„ „sterdam
+T11	ProperName 604 607;608 616	Am„ „sterdam
+T12	Person 1441 1459;1460 1466	Samuel Constantijn Laffin
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 1562 1596	Nccolaas van Bergen van der Grijs,
+T14	ProperName 1441 1459;1460 1466	Samuel Constantijn Laffin
+T15	Place 3 12	Maccasser
+T16	ProperName 3 12	Maccasser

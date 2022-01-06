@@ -1,0 +1,15 @@
+T1	Organization 75 82	Ecomp:s
+T2	Person 321 340	van Godfnee Helmike
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 321 340	van Godfnee Helmike
+T4	Person 414 429	I: Ms van Rhijn
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 452 467	D 1J„e Van hijn
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+#1	AnnotatorNotes T5	Signature

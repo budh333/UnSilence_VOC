@@ -1,0 +1,24 @@
+T2	ProperName 407 422	grietje pieters
+T3	Place 435 439;440 466	amst „dam in de Pauwerierstraad
+T4	ProperName 435 439;440 444	amst „dam
+T5	ProperName 451 466	Pauwerierstraad
+T6	Person 609 624	slaven en slavm
+A4	Gender T6 Group
+A5	LegalStatus T6 Enslaved
+A6	Role T6 Other
+T8	ProperName 1277 1294	hendrik Kinkiorst
+T9	Place 1337 1362	aan de rotterdammerpoorts
+T10	ProperName 1344 1362	rotterdammerpoorts
+T12	ProperName 1366 1381	Claas hendriksz
+T1	Person 407 422	grietje pieters
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T7	Person 1277 1294	hendrik Kinkiorst
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T11	Person 1366 1381	Claas hendriksz
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other

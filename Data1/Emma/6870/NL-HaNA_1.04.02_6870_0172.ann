@@ -1,0 +1,17 @@
+T1	Person 221 259	D: E: Sadrianus Versteegh werf meester
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 221 246	D: E: Sadrianus Versteegh
+T3	Person 271 301	Christiaan D' Wandelaar, Percq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 271 294	Christiaan D' Wandelaar
+T5	Organization 829 873;874 882	d’ Ed:e agtb: heere bewind hebberen terkranc „zeeland
+T6	ProperName 829 873;874 882	d’ Ed:e agtb: heere bewind hebberen terkranc „zeeland
+T7	Place 865 873;874 882	terkranc „zeeland
+T8	ProperName 875 882	zeeland
+T9	Place 951 968	t schip arnestijn
+T10	ProperName 959 967	arnestij
+T11	Organization 554 580	Collegie van Weesmeesteren

@@ -1,0 +1,20 @@
+T3	Person 950 954	kind
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+T4	Person 958 964;965 969	kinde„ „„en
+A10	Gender T4 Group
+A11	LegalStatus T4 Unspecified
+T8	ProperName 1257 1272	Tryntje spith /
+T9	Person 1291 1314	heer Hendrik Reuverkamp
+A22	Gender T9 Man
+A23	LegalStatus T9 Unspecified
+T10	ProperName 1296 1314	Hendrik Reuverkamp
+T11	Place 1328 1337	Amsterdam
+T12	ProperName 1328 1337	Amsterdam
+A1	Role T3 Beneficiary
+A2	Role T4 Beneficiary
+T1	Person 1239 1273	moeder Mejuffrouw Tryntje spith /t
+A3	Gender T1 Woman
+A4	LegalStatus T1 Unspecified
+A5	Role T1 Testator
+A6	Role T9 Testator

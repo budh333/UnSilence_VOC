@@ -1,0 +1,41 @@
+T1	Organization 117 138	Collegie van hunn Wus
+#1	AnnotatorNotes T1	College van heeren weesm(eesters)
+T2	ProperName 117 139	Collegie van hunn Wuse
+T3	Person 1290 1296;1297 1315	Marcus Barholomeus Traisz
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+T4	ProperName 1290 1296;1297 1316	Marcus Barholomeus Traisz:
+T5	Person 1319 1338	Gerardus Marthijnsz
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+T6	ProperName 1319 1338	Gerardus Marthijnsz
+T7	Person 1474 1485	C: verspyck
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+T8	ProperName 1474 1485	C: verspyck
+T9	Place 1620 1626	Batavi
+T10	ProperName 1620 1627	Batavia
+T11	Person 1673 1684	H: N: Lacle
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+T12	ProperName 1673 1684	H: N: Lacle
+T13	Person 1805 1826;1827 1837	M:r Iohannes Nicolaas 1 Besthier
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+T14	ProperName 1809 1826;1827 1837	Iohannes Nicolaas 1 Besthier
+T15	Organization 1852 1892;1893 1898	d’ Edele hooge regerierge van nnderlands inder
+T16	ProperName 1861 1892;1893 1898	hooge regerierge van nnderlands inder
+T17	Place 1882 1892;1893 1898	nnderlands inder
+T18	ProperName 1882 1892;1893 1898	nnderlands inder
+T19	Place 1921 1933	Stad Batavia
+T20	ProperName 1926 1933	Batavia
+T21	Person 1979 1999	Johannes Iacob Finck
+T22	ProperName 1979 1999	Johannes Iacob Finck
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A3	Role T3 Witness
+A6	Role T5 Witness
+A9	Role T7 Notary
+A12	Role T11 Other
+A15	Role T13 Notary
+A18	Role T21 Witness

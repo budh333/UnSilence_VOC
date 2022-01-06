@@ -1,0 +1,47 @@
+T1	TranscriptionError_Document 0 3	etr
+T2	DuplicatePage 0 3	etr
+T3	Person 453 472	M„r Herman Schultus
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T4	ProperName 457 472	Herman Schultus
+T5	Organization 509 539	regeringe van nederlands Jndie
+T6	Place 523 539	nederlands Jndie
+T7	ProperName 523 539	nederlands Jndie
+T8	ProperName 589 596	Batavia
+T9	Place 581 596	de stad Batavia
+T10	ProperName 658 674	Ernst Louwijssen
+T11	Person 658 674	Ernst Louwijssen
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Witness
+T12	Organization 723 732	Compagnie
+T15	Person 916 933	Jacobus de Moulin
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	ProperName 916 933	Jacobus de Moulin
+T17	ProperName 1625 1635	Christoffe
+T18	Person 1625 1636	Christoffel
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Beneficiary
+T19	ProperName 118 131	voor de Cooij
+T20	Person 118 131	voor de Cooij
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 155 177	Ian Gabriel Laagerblom
+T22	Person 155 177	Ian Gabriel Laagerblom
+A19	Gender T22 Man
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T23	Organization 211 216	EComp
+T24	Organization 235 240	sComp
+T25	Place 241 258;259 265	schip D' Gustaaff Willem
+T26	ProperName 247 258;259 265	D' Gustaaff Willem
+T14	ProperName 862 883	Ian Reijnier Coortzen
+T13	Person 862 883	Ian Reijnier Coortzen
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other

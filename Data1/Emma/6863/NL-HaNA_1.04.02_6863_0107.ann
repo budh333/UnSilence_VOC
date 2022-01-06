@@ -1,0 +1,25 @@
+T1	Organization 48 56	mpagnies
+T2	ProperName 48 56	mpagnies
+T3	Place 69 78	Amsterdam
+T4	ProperName 69 78	Amsterdam
+T5	Organization 147 153	Comp„s
+T6	ProperName 146 153	lComp„s
+T7	Organization 575 585	D: EComp„e
+T8	ProperName 575 585	D: EComp„e
+T9	Person 1168 1179	P„ Ceijsler
+A1	Gender T9 Unspecified
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Other
+T10	ProperName 1168 1179	P„ Ceijsler
+T11	Person 1180 1193	t: /: Plusker
+A4	Gender T11 Unspecified
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Other
+T12	ProperName 1180 1193	t: /: Plusker
+T13	Person 1210 1219	F: MemanC
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 1210 1220	F: MemanCs
+T15	DuplicatePage 0 1	A
+T16	TranscriptionError_Document 2 3	4

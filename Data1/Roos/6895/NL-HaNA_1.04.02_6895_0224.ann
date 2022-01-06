@@ -1,0 +1,50 @@
+T1	TranscriptionError_Document 0 4	gene
+T2	DuplicatePage 0 4	gene
+T3	Person 755 774	de slaven Rotterdam
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T4	ProperName 765 774	Rotterdam
+T5	Person 775 779	dort
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T6	ProperName 775 779	dort
+T7	Person 783 788	Iulij
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	ProperName 783 788	Iulij
+T9	Place 798 804	boegis
+T10	ProperName 798 804	boegis
+T11	Person 809 825;826 845	de slavinne dian de groote van Timor
+A10	Gender T11 Woman
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other
+T12	ProperName 821 825;826 835	dian de groote
+T13	Place 840 845	Timor
+T14	ProperName 840 845	Timor
+T16	ProperName 1221 1227;1228 1234	Willem van Es
+T17	Place 1250 1273;1274 1280	Nimweegen in’t oude met „huijs
+T18	ProperName 1250 1259	Nimweegen
+T19	Person 1345 1367	Mons:r Iohannes Pieter
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Beneficiary
+T20	ProperName 1352 1367	Iohannes Pieter
+T21	Person 1649 1665	Johannes Pieters
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 1649 1665	Johannes Pieters
+T24	ProperName 1669 1675;1676 1692	Gerrit Fredrik Heydekes
+T25	Organization 1704 1715;1716 1722	’s E: Comps „guies
+T15	Person 1216 1227;1228 1234	heer Willem van Es
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Beneficiary
+T23	Person 1669 1675;1676 1692	Gerrit Fredrik Heydekes
+A22	Gender T23 Unspecified
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Other
+A25	Beneficiary T25 No

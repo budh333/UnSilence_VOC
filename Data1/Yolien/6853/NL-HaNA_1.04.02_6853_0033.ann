@@ -1,0 +1,30 @@
+T1	TranscriptionError_Document 0 7	Pierter
+T2	DuplicatePage 0 7	Pierter
+T3	ProperName 0 17	Pierter Boedeveld
+T4	Person 0 17	Pierter Boedeveld
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Person 132 160	M„r Ioan van der Voort not„s
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 136 154	Ioan van der Voort
+T7	Organization 188 217	regeeringe van Nederl„s India
+T8	Place 203 217	Nederl„s India
+T9	ProperName 203 217	Nederl„s India
+T10	Organization 262 266	Comp
+T11	Place 269 278	hospitaal
+T12	ProperName 584 596	Patriawaerts
+T13	Person 584 596	Patriawaerts
+A7	Gender T13 Woman
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Beneficiary
+T14	Place 765 775	sterfhuijs
+T15	Place 911 920	Molenbees
+T16	ProperName 911 920	Molenbees
+T17	Organization 1101 1122;1123 1159	Heeren Bewinthebberen der g'octroyeerde Oost Jndische Comp
+T18	ProperName 1141 1159	Oost Jndische Comp
+T19	Place 1170 1173;1174 1182	Am„ „sterdam
+T20	ProperName 1170 1173;1174 1182	Am„ „sterdam
+T21	DuplicatePage 1960 1965	Junij

@@ -1,0 +1,39 @@
+T1	Organization 324 338;339 385	wel edele grod Agtbare Heeden bewindhebber Zw Camer Leelandt,
+T2	ProperName 324 338;339 384	wel edele grod Agtbare Heeden bewindhebber Zw Camer Leelandt
+T3	Place 367 384	Zw Camer Leelandt
+T4	ProperName 376 384	Leelandt
+T5	Place 440 446;447 463	met be schip harnestijn
+T6	ProperName 453 463	harnestijn
+T7	Place 1301 1315;1316 1336	op macascaf in de Negorij vlaarding
+T8	ProperName 1304 1311	macasca
+T9	ProperName 1327 1336	vlaarding
+T10	Person 1543 1545;1546 1571	Ca Jacobs eeste gesw: Clescq
+A1	Gender T10 Man
+A2	LegalStatus T10 Unspecified
+A3	Role T10 Acting_Notary
+T11	ProperName 1543 1545;1546 1552	Ca Jacobs
+T13	ProperName 1610 1630	Johan Cavel van Dolt
+T12	Person 1610 1630	Johan Cavel van Dolt
+A4	Gender T12 Unspecified
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Other
+T14	Person 1635 1650	Jan Mendk mooor
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other
+T15	ProperName 1635 1650	Jan Mendk mooor
+T16	Person 1691 1707;1708 1714	C„ Jacobe Lieste Clevrg
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 1691 1707	C„ Jacobe Lieste
+T18	Person 1726 1735	J„ Jacobs
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	ProperName 1726 1735	J„ Jacobs
+T20	Person 1736 1749	EE: V: Clarcq
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 1736 1749	EE: V: Clarcq

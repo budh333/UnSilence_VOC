@@ -1,0 +1,21 @@
+T1	Organization 862 880;881 930;931 975	De Wel Edele Groot agtbaare Heeren bewindhebberen der Geoctroijeerde Oost indische Compagnie ter Kamer Enkhuijsen
+T2	Place 965 975	Enkhuijsen
+T3	ProperName 965 975	Enkhuijsen
+T4	Organization 1447 1477	de Ed: hooge Indiase Regeering
+T5	Person 2127 2139	David Jansz.
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 2127 2139	David Jansz.
+T7	Person 2145 2150;2151 2166	Moses Jansz Davidzoon
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 2145 2150;2151 2166	Moses Jansz Davidzoon
+T9	Person 2314 2328	L: Rolff not:s
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 2314 2322	L: Rolff
+A10	Beneficiary T1 No
+A11	Beneficiary T4 No

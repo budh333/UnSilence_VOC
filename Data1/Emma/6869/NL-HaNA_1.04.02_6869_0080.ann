@@ -1,0 +1,25 @@
+T1	TranscriptionError_Document 0 12	geabsirveerd
+T2	DuplicatePage 13 25	zeimploreert
+T3	Place 167 179;180 189	ten Nederlaa Comptoire
+T4	ProperName 171 179	Nederlaa
+T5	Organization 171 179;180 189	Nederlaa Comptoire
+T6	Person 235 247	Casper krolt
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	ProperName 235 247	Casper krolt
+T8	Person 288 302	E: M: De Wilde
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	ProperName 288 302	E: M: De Wilde
+T10	Person 327 342	A: P: Michaelis
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	Person 350 357;358 381	Zoldaar aan depen P: J: De Blij
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 368 381	P: J: De Blij
+T13	ProperName 327 342	A: P: Michaelis

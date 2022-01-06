@@ -1,0 +1,34 @@
+T1	Place 775 792	Cabo de goedehoop
+T2	ProperName 775 792	Cabo de goedehoop
+T3	Person 849 871	Henricus Jacobus Stonn
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 849 871	Henricus Jacobus Stonn
+T5	Person 875 883;884 893	Nicolaas Crywaagen
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 875 883;884 893	Nicolaas Crywaagen
+T7	Person 1091 1094;1095 1101	C L Kloege
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 1091 1094;1095 1101	C L Kloege
+T9	Person 1184 1199	W: V: D: Soug=s
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 1184 1199	W: V: D: Soug=s
+T11	TranscriptionError_Document 0 6	Traaks
+T12	DuplicatePage 0 6	Traaks
+T13	Person 1250 1264	willim Thunise
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Witness
+T14	ProperName 1250 1264	willim Thunise
+T15	Person 1319 1328;1329 1333;1334 1341	Bartoling Anth Notaris
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Notary
+T16	ProperName 1319 1328;1329 1333	Bartoling Anth

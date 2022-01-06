@@ -1,0 +1,29 @@
+T1	DuplicatePage 0 6	Boedel
+T2	Person 29 34	Jacob
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 29 34	Jacob
+T4	ProperName 497 507	Sourabaija
+T5	Place 497 507	Sourabaija
+T6	ProperName 549 566	Andries Hartsinck
+T7	ProperName 578 591	W Hranysseldr
+T8	Person 549 566	Andries Hartsinck
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	Person 578 591	W Hranysseldr
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 773 787	willem Kerkman
+T11	ProperName 807 816	JWvanisan
+T12	Person 807 816	JWvanisan
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 773 787	willem Kerkman
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+#1	AnnotatorNotes T1	half a page

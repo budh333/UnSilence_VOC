@@ -1,0 +1,29 @@
+T1	Organization 374 413;414 419	Heeren Bewindhebberen der oost Indische Comp:
+T2	ProperName 400 413;414 419	oost Indische Comp:
+T3	Place 430 439	Amsterdam
+T4	ProperName 430 439	Amsterdam
+T5	Person 603 606;607 627	Ian van Leijst assistent
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 603 606;607 617	Ian van Leijst
+T7	Person 631 655	Fredrik Bannier Sergeant
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 631 646	Fredrik Bannier
+T9	TranscriptionError_Document 0 5	hoven
+T10	DuplicatePage 27 32	Aldus
+T11	Place 63 76	destad Cochim
+T12	ProperName 70 76	Cochim
+T13	ProperName 179 205	Johannes Coenraad dekrouse
+T14	Person 179 205	Johannes Coenraad dekrouse
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Witness
+T15	ProperName 210 224	Johannes Wolff
+T16	Person 210 224	Johannes Wolff
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Witness
+T17	Place 1124 1134	sterfhuijs

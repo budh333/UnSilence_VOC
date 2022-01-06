@@ -1,0 +1,12 @@
+T1	Organization 111 140;141 145	de hoog regeering deezer lam„ „Den
+T2	Place 129 140;141 145	deezer lam„ „Den
+T3	Person 201 207	slaven
+A1	Gender T3 Group
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T6	Person 439 451	ferseijgenen
+A7	Gender T6 Group
+A8	LegalStatus T6 Enslaved
+A9	Role T6 Beneficiary
+T7	Place 1547 1565;1566 1612;1613 1625	ten huise van dene heer testateur staende aan de oostzijde van de Eijgersgragt
+T4	ProperName 1613 1625	Eijgersgragt

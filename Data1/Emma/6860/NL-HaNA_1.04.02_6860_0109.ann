@@ -1,0 +1,70 @@
+T1	TranscriptionError_Document 0 6	Copias
+T2	DuplicatePage 13 16	Voo
+T3	Person 7 11	L: S
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 7 12	L: S.
+T5	Organization 18 26	d E Comp
+T6	ProperName 18 26	d E Comp
+T7	Person 29 38	JMiepoort
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 29 38	JMiepoort
+T9	Person 120 140	Soldaat Frans Langer
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 128 140	Frans Langer
+T11	Person 170 190;191 196	Operstuurman Hendrik Rogh,
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 183 190;191 195	Hendrik Rogh
+T13	Person 197 212	Berniard Leewen
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 197 212	Berniard Leewen
+T15	Person 213 236	Jhan Jacob Hendrik Suur
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 213 235	Jhan Jacob Hendrik Suu
+T17	Person 238 259;260 282	Kamp Sergeants en den Bootsman Paulus Philip
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 269 282	Paulus Philip
+T19	Person 720 741	Dogter Mariax Adriana
+A22	Gender T19 Woman
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Beneficiary
+T20	ProperName 727 741	Mariax Adriana
+T21	Organization 1018 1050;1051 1084	’t Eerwaerde Collegie van heeren weesmeesteren ten steete Saaärang
+T22	Place 1065 1084	ten steete Saaärang
+T23	ProperName 1076 1084	Saaärang
+T24	ProperName 1019 1050;1051 1084	t Eerwaerde Collegie van heeren weesmeesteren ten steete Saaärang
+T25	Place 1189 1196	Rembang
+T26	ProperName 1189 1196	Rembang
+T27	Person 1240 1259	P: van Ossenbouggen
+A25	Gender T27 Unspecified
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 1240 1259	P: van Ossenbouggen
+T29	Person 1272 1288;1289 1300	Alr: Van Hemente Gasw: Clerq
+A28	Gender T29 Man
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Other
+T30	ProperName 1272 1287	Alr: Van Hement
+T31	Person 1477 1480;1481 1503	Ad„ Sistent Johannes Pkopt
+A31	Gender T31 Man
+A32	LegalStatus T31 Unspecified
+A33	Role T31 Other
+T32	ProperName 1489 1503	Johannes Pkopt
+T33	Person 1523 1535;1536 1555	Broeder Pie„ „ter van der Selger
+A34	Gender T33 Man
+A35	LegalStatus T33 Unspecified
+A36	Role T33 Other
+T34	ProperName 1531 1535;1536 1555	Pie„ „ter van der Selger

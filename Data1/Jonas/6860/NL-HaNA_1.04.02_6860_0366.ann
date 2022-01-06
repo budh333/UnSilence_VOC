@@ -1,0 +1,16 @@
+T1	Person 109 115	P: Ras
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Person 154 165	S: A: Drier
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T3	Person 214 216;217 223	I: Dreier
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Organization 276 294;295 303	Raade van Iustitie Samarang
+T5	Place 295 303	Samarang
+T6	ProperName 295 303	Samarang
+T7	DuplicatePage 0 5	Deses

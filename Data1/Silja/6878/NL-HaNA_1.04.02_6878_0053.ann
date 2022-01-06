@@ -1,0 +1,32 @@
+T1	DuplicatePage 0 1	1
+T2	ProperName 114 131;132 154	Alexander Mafimi„ „liaan van Lichnowskij
+T3	Person 114 131;132 154	Alexander Mafimi„ „liaan van Lichnowskij
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 316 326	Jan Sisfle
+T5	Person 316 326	Jan Sisfle
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 1281 1291	Sourabaija
+T7	Place 1281 1291	Sourabaija
+T8	Person 1489 1511;1512 1527	dogter met naeme Maria „Elisabetsnoers
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	ProperName 1506 1511;1512 1527	Maria „Elisabetsnoers
+T10	ProperName 1772 1784	Jan Schouten
+T11	Person 1772 1784	Jan Schouten
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	Person 2282 2288	slaven
+A13	Gender T12 Group
+A14	LegalStatus T12 Enslaved
+A15	Role T12 Other
+T13	Person 2224 2239	Agnita Schouten
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 2224 2239	Agnita Schouten

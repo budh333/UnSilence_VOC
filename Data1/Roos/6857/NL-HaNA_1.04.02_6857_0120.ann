@@ -1,0 +1,5 @@
+T1	Person 20 38	Jacobus van Bommel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 20 38	Jacobus van Bommel
+A3	Role T1 Testator

@@ -1,0 +1,219 @@
+T1	ProperName 558 573	Adriaanfernando
+T2	Person 558 573	Adriaanfernando
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 580 596	Johannes Katiaen
+T4	Person 580 596	Johannes Katiaen
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 601 616	Jan Jacob Fansz
+T6	Person 601 616	Jan Jacob Fansz
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 619 634	Salomonde Costa
+T8	Person 619 634	Salomonde Costa
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 637 651	saauw de Costa
+T10	Person 637 651	saauw de Costa
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 654 670	Adriaan fernando
+T12	Person 654 670	Adriaan fernando
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 673 683	Jan Hopman
+T14	Person 673 683	Jan Hopman
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 686 702	Jan Jacob Fransz
+T16	Person 686 702	Jan Jacob Fransz
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	Person 706 721	Salomonde Costa
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 706 721	Salomonde Costa
+T19	ProperName 723 739	matthijs Termael
+T20	Person 723 739	matthijs Termael
+A28	Gender T20 Unspecified
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Other
+T21	ProperName 741 757	Adriaan fernando
+T22	Person 741 757	Adriaan fernando
+A31	Gender T22 Unspecified
+A32	LegalStatus T22 Unspecified
+A33	Role T22 Other
+T23	Person 760 783	Matt hijs aijen termael
+A34	Gender T23 Unspecified
+A35	LegalStatus T23 Unspecified
+A36	Role T23 Other
+T24	ProperName 760 783	Matt hijs aijen termael
+T25	ProperName 784 800	Salomon de Costa
+T26	Person 784 800	Salomon de Costa
+A37	Gender T26 Unspecified
+A38	LegalStatus T26 Unspecified
+A39	Role T26 Other
+T27	ProperName 803 823	matthijs ayentermael
+T28	Person 803 823	matthijs ayentermael
+A40	Gender T28 Unspecified
+A41	LegalStatus T28 Unspecified
+A42	Role T28 Other
+T29	ProperName 824 838	Raauw de Costa
+T30	Person 824 838	Raauw de Costa
+A43	Gender T30 Unspecified
+A44	LegalStatus T30 Unspecified
+A45	Role T30 Other
+T31	ProperName 839 847	Gratiaen
+T32	Person 839 847	Gratiaen
+A46	Gender T32 Unspecified
+A47	LegalStatus T32 Unspecified
+A48	Role T32 Other
+T33	ProperName 850 865	Adriaenternando
+T34	Person 850 865	Adriaenternando
+A49	Gender T34 Unspecified
+A50	LegalStatus T34 Unspecified
+A51	Role T34 Other
+T35	ProperName 867 878	Willem Eens
+T36	Person 867 878	Willem Eens
+A52	Gender T36 Unspecified
+A53	LegalStatus T36 Unspecified
+A54	Role T36 Other
+T37	ProperName 880 893	Isaak Willems
+T38	Person 880 893	Isaak Willems
+A55	Gender T38 Unspecified
+A56	LegalStatus T38 Unspecified
+A57	Role T38 Other
+T39	Person 898 917	Matthijs ayentermae
+A58	Gender T39 Unspecified
+A59	LegalStatus T39 Unspecified
+A60	Role T39 Other
+T40	ProperName 898 917	Matthijs ayentermae
+T41	ProperName 919 934	Adriaenfernando
+T42	Person 919 934	Adriaenfernando
+A61	Gender T42 Unspecified
+A62	LegalStatus T42 Unspecified
+A63	Role T42 Other
+T43	ProperName 935 955	Aattijs aijentermael
+T44	Person 935 955	Aattijs aijentermael
+A64	Gender T44 Unspecified
+A65	LegalStatus T44 Unspecified
+A66	Role T44 Other
+T45	Person 956 963	de Iood
+A67	Gender T45 Unspecified
+A68	LegalStatus T45 Unspecified
+A69	Role T45 Other
+T46	ProperName 964 979	mattijs Termael
+T47	Person 964 979	mattijs Termael
+A70	Gender T47 Unspecified
+A71	LegalStatus T47 Unspecified
+A72	Role T47 Other
+T48	ProperName 984 1000	Salomon de Costa
+T49	Person 984 1000	Salomon de Costa
+A73	Gender T49 Unspecified
+A74	LegalStatus T49 Unspecified
+A75	Role T49 Other
+T50	ProperName 1001 1015	saauw de Costa
+T51	Person 1001 1015	saauw de Costa
+A76	Gender T51 Unspecified
+A77	LegalStatus T51 Unspecified
+A78	Role T51 Other
+T52	ProperName 1019 1034	Adriaenfernando
+T53	Person 1019 1034	Adriaenfernando
+A79	Gender T53 Unspecified
+A80	LegalStatus T53 Unspecified
+A81	Role T53 Other
+T54	ProperName 1036 1052	matthijs Termael
+T55	Person 1036 1052	matthijs Termael
+A82	Gender T55 Unspecified
+A83	LegalStatus T55 Unspecified
+A84	Role T55 Other
+T56	ProperName 1053 1067	Felis de Costa
+T57	Person 1053 1067	Felis de Costa
+A85	Gender T57 Unspecified
+A86	LegalStatus T57 Unspecified
+A87	Role T57 Other
+T58	ProperName 1069 1083	Isaak Willemsz
+T59	Person 1069 1083	Isaak Willemsz
+A88	Gender T59 Unspecified
+A89	LegalStatus T59 Unspecified
+A90	Role T59 Other
+T60	ProperName 1085 1101	matthijs Tiemael
+T61	Person 1085 1100	matthijs Tiemae
+A91	Gender T61 Unspecified
+A92	LegalStatus T61 Unspecified
+A93	Role T61 Other
+T62	ProperName 1102 1112	Jan Hopman
+T63	Person 1102 1112	Jan Hopman
+A94	Gender T63 Unspecified
+A95	LegalStatus T63 Unspecified
+A96	Role T63 Other
+T64	ProperName 1115 1128	Daniel kersse
+T65	Person 1115 1128	Daniel kersse
+A97	Gender T65 Unspecified
+A98	LegalStatus T65 Unspecified
+A99	Role T65 Other
+T66	ProperName 1131 1147	Adriaen fernando
+T67	Person 1131 1147	Adriaen fernando
+A100	Gender T67 Unspecified
+A101	LegalStatus T67 Unspecified
+A102	Role T67 Other
+T68	ProperName 1152 1168	Jan Iacob fransz
+T69	Person 1152 1168	Jan Iacob fransz
+A103	Gender T69 Unspecified
+A104	LegalStatus T69 Unspecified
+A105	Role T69 Other
+T70	ProperName 1171 1184	Hendrik Homan
+T71	Person 1171 1184	Hendrik Homan
+A106	Gender T71 Unspecified
+A107	LegalStatus T71 Unspecified
+A108	Role T71 Other
+T72	Person 1188 1200	S=t martensz
+A109	Gender T72 Unspecified
+A110	LegalStatus T72 Unspecified
+A111	Role T72 Other
+T73	ProperName 1192 1200	martensz
+T74	ProperName 1212 1220	Pratiaen
+T75	Person 1212 1220	Pratiaen
+A112	Gender T75 Unspecified
+A113	LegalStatus T75 Unspecified
+A114	Role T75 Other
+T76	ProperName 1223 1239	Francisco Pieris
+T77	Person 1223 1239	Francisco Pieris
+A115	Gender T77 Unspecified
+A116	LegalStatus T77 Unspecified
+A117	Role T77 Other
+T78	ProperName 1244 1259	matthijs Pirnaa
+T79	Person 1244 1260	matthijs Pirnaal
+A118	Gender T79 Unspecified
+A119	LegalStatus T79 Unspecified
+A120	Role T79 Other
+T80	ProperName 1263 1277	Pedro Wintoere
+T81	Person 1263 1277	Pedro Wintoere
+A121	Gender T81 Unspecified
+A122	LegalStatus T81 Unspecified
+A123	Role T81 Other
+T82	Person 1282 1296	Saauw de Costa
+A124	Gender T82 Unspecified
+A125	LegalStatus T82 Unspecified
+A126	Role T82 Other
+T83	ProperName 1282 1296	Saauw de Costa
+T84	ProperName 1301 1315	Pedro wintogre
+T85	Person 1301 1315	Pedro wintogre
+A127	Gender T85 Unspecified
+A128	LegalStatus T85 Unspecified
+A129	Role T85 Other
+T86	ProperName 1320 1336	Jan Jacob fransz
+T87	Person 1320 1336	Jan Jacob fransz
+A130	Gender T87 Unspecified
+A131	LegalStatus T87 Unspecified
+A132	Role T87 Other

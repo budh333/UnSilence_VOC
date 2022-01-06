@@ -1,0 +1,15 @@
+T1	ProperName 103 111;112 126	Adriamus van der glagt,
+T2	ProperName 176 178;179 193	A„ van der geugt,
+T3	Person 103 111;112 126	Adriamus van der glagt,
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 176 178;179 193	A„ van der geugt,
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 220 227	Heerman
+T6	Person 220 227	Heerman
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other

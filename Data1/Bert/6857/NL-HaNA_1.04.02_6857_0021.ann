@@ -1,0 +1,9 @@
+T1	Person 95 111;112 145;146 174	Oppermeester der Neederlandsche Factorij te Canton in China/ Johan George Boode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 156 174	Johan George Boode
+T3	Place 112 145;146 154	Neederlandsche Factorij te Canton in China
+T4	ProperName 139 145	Canton
+T5	ProperName 149 154	China
+T6	Place 193 206	deesen Boodem

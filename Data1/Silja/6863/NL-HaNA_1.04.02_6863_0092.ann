@@ -1,0 +1,24 @@
+T1	Place 10 29	in 't fort Gustarus
+T2	ProperName 13 29	't fort Gustarus
+T3	ProperName 80 88	D E Comp
+T4	Organization 80 88	D E Comp
+T5	ProperName 125 139	J: C: Heijning
+T6	Person 125 139	J: C: Heijning
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	ProperName 181 190	Amsterdam
+T8	Place 181 190	Amsterdam
+T9	ProperName 151 166	B: C: D: Bouman
+T10	Person 151 166	B: C: D: Bouman
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	ProperName 30 36	Leijde
+T12	Place 30 36	Leijde
+T13	ProperName 39 60	Johan billem van Hald
+T14	Person 39 60	Johan billem van Hald
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other
+A10	Beneficiary T4 No

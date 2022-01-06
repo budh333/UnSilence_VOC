@@ -1,0 +1,86 @@
+T1	Place 18 34;35 39;40 46	ten Toraij Comp„ voor „toire
+T2	Person 127 142	Bruijn Harberts
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 127 142	Bruijn Harberts
+T4	ProperName 199 215	Arnoldus sitters
+T5	Person 199 215	Arnoldus sitters
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 239 249	Jan de rui
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 239 249	Jan de rui
+T8	ProperName 279 294	amoldus sitters
+T9	Person 279 294	amoldus sitters
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 389 401	Jan bertrand
+T11	Person 389 401	Jan bertrand
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 465 478	Gerrit kersse
+T13	Person 465 478	Gerrit kersse
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	Person 528 544	machadoen kandoe
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 528 544	machadoen kandoe
+T16	Person 568 578	Jan de rui
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 568 578	Jan de rui
+T18	Person 629 656	oedoema lebbe Caloe. poelle
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Other
+T19	ProperName 629 656	oedoema lebbe Caloe. poelle
+T20	Person 683 697	Amout Caspersz
+A28	Gender T20 Unspecified
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Other
+T21	ProperName 683 697	Amout Caspersz
+T22	Person 752 768	Jan Jungen wilke
+A31	Gender T22 Unspecified
+A32	LegalStatus T22 Unspecified
+A33	Role T22 Other
+T23	ProperName 752 768	Jan Jungen wilke
+T24	Person 824 843	renaldus hendriksz:
+A34	Gender T24 Unspecified
+A35	LegalStatus T24 Unspecified
+A36	Role T24 Other
+T25	ProperName 824 843	renaldus hendriksz:
+T26	ProperName 894 910	dominicus gerard
+T27	Person 894 910	dominicus gerard
+A37	Gender T27 Unspecified
+A38	LegalStatus T27 Unspecified
+A39	Role T27 Other
+T28	Person 983 995	d’E: letange
+A40	Gender T28 Unspecified
+A41	LegalStatus T28 Unspecified
+A42	Role T28 Other
+T29	ProperName 988 995	letange
+T30	ProperName 1021 1037	Arnoldus jitiers
+T31	Person 1021 1037	Arnoldus jitiers
+A43	Gender T31 Unspecified
+A44	LegalStatus T31 Unspecified
+A45	Role T31 Other
+T32	Person 1079 1089	Jan de uuw
+A46	Gender T32 Unspecified
+A47	LegalStatus T32 Unspecified
+A48	Role T32 Other
+T33	ProperName 1079 1089	Jan de uuw
+T34	Person 1154 1159	schoe
+A49	Gender T34 Unspecified
+A50	LegalStatus T34 Unspecified
+A51	Role T34 Other
+T35	ProperName 1154 1159	schoe

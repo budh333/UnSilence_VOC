@@ -1,0 +1,46 @@
+T2	ProperName 36 48	Anthonij sas
+T3	Person 94 107	Jan Sijmonsz:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 94 107	Jan Sijmonsz:
+T6	ProperName 334 355	tsiootje alias poassa
+T8	ProperName 388 395;396 409	annika. van maccasser
+T9	Place 400 409	maccasser
+T10	Person 624 633	slavinnen
+A13	Gender T10 Group
+A14	LegalStatus T10 Enslaved
+A15	Role T10 Other
+T11	Person 694 703	Elisabeth
+A16	Gender T11 Woman
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 694 703	Elisabeth
+T13	Person 705 713	Wijnanda
+A19	Gender T13 Woman
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Beneficiary
+T14	ProperName 705 713	Wijnanda
+T15	Person 718 731	Sara groening
+A22	Gender T15 Woman
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Beneficiary
+T16	ProperName 718 731	Sara groening
+T17	Place 745 754	amsterdam
+T18	ProperName 745 754	amsterdam
+T7	Person 373 379	slavin
+A10	Gender T7 Woman
+A11	LegalStatus T7 Enslaved
+A12	Role T7 Other
+T19	Person 388 395;396 409	annika. van maccasser
+A25	Gender T19 Woman
+A26	LegalStatus T19 Enslaved
+A27	Role T19 Other
+T1	Person 36 48	Anthonij sas
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T5	Person 334 355	tsiootje alias poassa
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary

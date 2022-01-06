@@ -1,0 +1,33 @@
+T1	Person 30 47	van den Bieseuvel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Place 83 95	deloepanpang
+T3	ProperName 83 95	deloepanpang
+T4	Person 124 143	Johan Godlieb Smith
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 124 143	Johan Godlieb Smith
+T6	Person 260 269	Rheeneman
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 260 269	Rheeneman
+T8	Person 299 304	slave
+A10	Gender T8 Man
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	Person 322 330	Hercules
+A13	Gender T9 Man
+A14	LegalStatus T9 Enslaved
+A15	Role T9 Other
+T10	ProperName 322 330	Hercules
+T11	Person 364 380;381 385	M„r Barthold van hijs
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 368 380;381 385	Barthold van hijs
+T13	Organization 496 503	EComp„s
+T14	Place 561 571	Sourabaija
+T15	ProperName 561 571	Sourabaija

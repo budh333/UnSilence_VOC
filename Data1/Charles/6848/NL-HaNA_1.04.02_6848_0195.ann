@@ -1,0 +1,51 @@
+T1	Person 0 9	Jan Swart
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 9	Jan Swart
+T3	Person 751 772	Abdias Liza Velingius
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 751 772	Abdias Liza Velingius
+T5	Person 776 792	Hendrik Geerling
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	ProperName 776 792	Hendrik Geerling
+T7	Person 959 972;973 995	N:s V: Bergen V:n d:n Grijp, Notaris
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Notary
+T8	ProperName 959 972;973 986	N:s V: Bergen V:n d:n Grijp
+T9	Person 1081 1095	frans Simatauw
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 1081 1095	frans Simatauw
+T11	Person 1152 1160	Simatauw
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 1152 1160	Simatauw
+T13	Place 1230 1237	Batavia
+T14	ProperName 1230 1237	Batavia
+T15	ProperName 1282 1293	F: Willemsz
+T16	Person 1282 1293	F: Willemsz
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	Person 1348 1377	Nicolaas Maas Notaris Publicq
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Notary
+T18	ProperName 1348 1361	Nicolaas Maas
+T19	Organization 1392 1427	hoogeregeringe van Nederlande India
+T20	Place 1442 1463	binnen destad Batavia
+T21	ProperName 1456 1463	Batavia
+T22	Person 1514 1537	Jan Swart van Portogale
+A25	Gender T22 Man
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Testator
+T23	ProperName 1514 1537	Jan Swart van Portogale
+T24	Place 1587 1606	Groote Roea malacca

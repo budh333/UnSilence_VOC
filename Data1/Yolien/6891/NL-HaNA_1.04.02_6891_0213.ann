@@ -1,0 +1,48 @@
+T1	TranscriptionError_Document 9 14	Copia
+T2	ProperName 117 131	David Reguleth
+T3	Person 117 131	David Reguleth
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T4	Organization 158 191	regeringe van ’t nederlands Jndia
+T5	Place 175 191	nederlands Jndia
+T6	ProperName 175 191	nederlands Jndia
+T7	ProperName 307 323;324 332	Iosua Leonardus„ Gousset;
+T8	Person 307 323;324 332	Iosua Leonardus„ Gousset;
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Notary
+T9	Organization 370 377;379 403	regelin „ge van nederlands Jnsia
+T10	ProperName 387 403	nederlands Jnsia
+T11	Place 387 403	nederlands Jnsia
+T12	Place 424 427;428 440	de, stad batavia
+T13	ProperName 433 440	batavia
+T14	ProperName 494 509	Pieter Pietersz
+T15	Person 494 509	Pieter Pietersz
+A7	Gender T15 Man
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Testator
+T16	Organization 536 549	E: Compagnie,
+T17	Place 562 570;571 576	Rola ma„ lacca
+T18	ProperName 562 570;571 576	Rola ma„ lacca
+T19	Person 1092 1125	d:E: Josephus Willelmus de Hilaan
+A10	Gender T19 Man
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Other
+T20	ProperName 1097 1125	Josephus Willelmus de Hilaan
+T21	Person 1170 1201	Iuffrouw Anna Eisabeth de mil:r
+A13	Gender T21 Woman
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Other
+T22	ProperName 1179 1200	Anna Eisabeth de mil:
+T23	Person 1218 1239	dE: Reinier Harmensz:
+A16	Gender T23 Man
+A17	LegalStatus T23 Unspecified
+A18	Role T23 Other
+T24	ProperName 1222 1239	Reinier Harmensz:
+T25	ProperName 1340 1355	Pieter Andries:
+T26	Person 1340 1355	Pieter Andries:
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Other
+T27	DuplicatePage 1455 1459	1775

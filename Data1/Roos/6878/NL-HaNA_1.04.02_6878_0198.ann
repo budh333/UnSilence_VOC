@@ -1,0 +1,58 @@
+T1	TranscriptionError_Document 1 4	van
+T3	ProperName 49 73	Johannes Mattius Hartrag
+T4	Person 94 111	Samuel Fred Botha
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 94 111	Samuel Fred Botha
+T6	Person 143 155	IC: vd Spuij
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 143 155	IC: vd Spuij
+T8	Person 200 207	L Mamel
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 200 207	L Mamel
+T11	ProperName 280 288	hristina
+T12	Person 306 309;310 323	Gen Heer Stolling
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 315 323	Stolling
+T14	Person 689 699	Jan worrel
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 689 699	Jan worrel
+T17	ProperName 1011 1020	I: worrel
+T19	ProperName 1182 1199	Gotfried Pottrich
+T21	ProperName 1216 1229	Fredrik Lucas
+T22	Place 1356 1362	padang
+T23	ProperName 1356 1362	padang
+T25	ProperName 1453 1460	Stoltin
+T2	Person 49 73	Johannes Mattius Hartrag
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T16	Person 1011 1020	I: worrel
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T18	Person 1182 1199	Gotfried Pottrich
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Other
+T20	Person 1216 1229	Fredrik Lucas
+A28	Gender T20 Unspecified
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Other
+T24	Person 1453 1460	Stoltin
+A31	Gender T24 Man
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Other
+T10	Person 280 288	hristina
+A13	Gender T10 Woman
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other

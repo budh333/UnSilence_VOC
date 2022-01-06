@@ -1,0 +1,5 @@
+T1	ProperName 511 538	Christiaan Ludolph Neerling
+T2	Person 511 538	Christiaan Ludolph Neerling
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness

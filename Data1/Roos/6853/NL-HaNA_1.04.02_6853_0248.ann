@@ -1,0 +1,19 @@
+T1	Organization 326 343;344 390;391 431	dewel Edele groot agtb: heeren bewindhebberen der geactrooijeerd oost indiasche Comp: ter kamer amsterdam
+T2	Place 422 431	amsterdam
+T3	ProperName 422 431	amsterdam
+T5	ProperName 1206 1230	Anthonij arons Bil Jaart
+T6	Person 1256 1287	David Jansz Johannes Zoan Clerq
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 1256 1281	David Jansz Johannes Zoan
+T8	Person 1414 1431	Jacob Levier nats
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Notary
+T9	ProperName 1414 1426	Jacob Levier
+T4	Person 1203 1230	dE Anthonij arons Bil Jaart
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+A10	Beneficiary T1 No

@@ -1,0 +1,30 @@
+T1	DuplicatePage 0 6	zullen
+T2	Person 715 735	vader Isaak Eijsvele
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	Place 749 764	’s grovenhaagen
+T4	ProperName 749 764	’s grovenhaagen
+T5	Person 1063 1068;1069 1091	groot Moeder Armozin Claasz:
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 1076 1091	Armozin Claasz:
+T7	Organization 1235 1241	Comp„e
+A7	Beneficiary T7 No
+T8	ProperName 1235 1241	Comp„e
+T9	Person 1391 1399	kinderen
+A8	Gender T9 Group
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Beneficiary
+T10	Person 1475 1483	kinderen
+A11	Gender T10 Group
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Beneficiary
+T11	Person 1798 1817;1818 1825	Juff=m Cornelia van Batavia
+A14	Gender T11 Woman
+A15	LegalStatus T11 Unspecified
+A16	Role T11 Beneficiary
+T12	ProperName 1805 1817;1818 1825	Cornelia van Batavia
+T13	ProperName 1818 1825	Batavia
+T14	Place 1818 1825	Batavia

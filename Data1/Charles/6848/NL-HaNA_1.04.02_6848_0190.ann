@@ -1,0 +1,65 @@
+T1	Place 8 15	Batavia
+T2	ProperName 8 15	Batavia
+T3	Person 56 64;65 72	J:b HCk: Rueland
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 56 64;65 72	J:b HCk: Rueland
+T5	ProperName 162 182	Jacob Hendrik Ruland
+T6	Person 162 182	Jacob Hendrik Ruland
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	Person 200 213;214 220	Moeder Sophia Ruland
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 207 213;214 220	Sophia Ruland
+T9	Person 230 237	Tieling
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 230 237	Tieling
+T11	Person 327 333	Suster
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	Person 422 430;431 438	Theresia Rieland
+A16	Gender T12 Woman
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 422 430;431 438	Theresia Rieland
+T14	Place 652 659	Batavia
+T15	ProperName 652 659	Batavia
+T16	Person 699 713	J:b L:k Riland
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Testator
+T17	ProperName 699 713	J:b L:k Riland
+T18	Person 715 739	Johannes Cornelis Dreyer
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Testator_Beneficiary
+T19	ProperName 715 739	Johannes Cornelis Dreyer
+T20	Person 798 831	Johannes Gdeving, Notaris Publicq
+A25	Gender T20 Man
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Notary
+T21	ProperName 798 814	Johannes Gdeving
+T22	Organization 843 878	Hooge Regering van Nederlands Jndia
+T23	ProperName 843 878	Hooge Regering van Nederlands Jndia
+T24	Place 907 915	Balaviaa
+T25	ProperName 907 915	Balaviaa
+T26	Person 971 988;989 997	Johannes Corneles Eiteijer
+A28	Gender T26 Man
+A29	LegalStatus T26 Unspecified
+A30	Role T26 Testator_Beneficiary
+T27	ProperName 971 988;989 997	Johannes Corneles Eiteijer
+T28	Organization 1022 1034	E: Compagnie
+T29	Person 1048 1075;1076 1100	Huijsvrouw Iuffrouw Johanna Elizabeth Schindelhouwer
+A31	Gender T29 Woman
+A32	LegalStatus T29 Unspecified
+A33	Role T29 Testator_Beneficiary
+T30	Place 1117 1144;1145 1149	verbeurgs gragt Buiten dese Stad
+T31	ProperName 1117 1132	verbeurgs gragt
+T32	ProperName 1068 1075;1076 1100	Johanna Elizabeth Schindelhouwer

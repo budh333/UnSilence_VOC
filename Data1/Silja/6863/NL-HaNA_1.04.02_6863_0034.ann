@@ -1,0 +1,145 @@
+T1	ProperName 611 617	geling
+T2	ProperName 618 630	van der hoff
+T3	ProperName 631 637	geling
+T4	ProperName 638 648	van Paster
+T5	ProperName 649 666	jai endrik brovio
+T6	ProperName 678 684	hennis
+T7	ProperName 689 702	gerrie Kersse
+T8	ProperName 703 713	de kietser
+T9	ProperName 714 726	dommicus Ide
+T10	ProperName 744 755	Jan de ruij
+T11	ProperName 769 777	mijbanus
+T12	ProperName 759 765	tijken
+T13	ProperName 783 797	Johannes d voo
+T14	ProperName 801 810	bisschoff
+T15	ProperName 818 824	d moor
+T16	ProperName 848 855	pulipia
+T17	ProperName 830 838	wijbanus
+T18	ProperName 944 952	mijbanus
+T19	ProperName 875 888	rendrik roman
+T20	ProperName 862 871	bijjchoff
+T21	ProperName 900 908	byschoff
+T22	ProperName 915 922	tornnij
+T23	ProperName 928 937	Jongvroed
+T24	ProperName 972 978	pieris
+T25	ProperName 1059 1065	D moor
+T26	ProperName 987 995	Cranuwal
+T27	ProperName 1082 1087	weepe
+T28	ProperName 1030 1035	weepe
+T29	ProperName 1043 1051	van bore
+T30	Person 1082 1087	weepe
+A1	Gender T30 Unspecified
+A2	LegalStatus T30 Unspecified
+A3	Role T30 Other
+T31	Person 1059 1065	D moor
+A4	Gender T31 Unspecified
+A5	LegalStatus T31 Unspecified
+A6	Role T31 Other
+T32	Person 1043 1051	van bore
+A7	Gender T32 Unspecified
+A8	LegalStatus T32 Unspecified
+A9	Role T32 Other
+T33	Person 1030 1035	weepe
+A10	Gender T33 Unspecified
+A11	LegalStatus T33 Unspecified
+A12	Role T33 Other
+T34	Person 987 995	Cranuwal
+A13	Gender T34 Unspecified
+A14	LegalStatus T34 Unspecified
+A15	Role T34 Other
+T35	Person 972 978	pieris
+A16	Gender T35 Unspecified
+A17	LegalStatus T35 Unspecified
+A18	Role T35 Other
+T36	Person 944 952	mijbanus
+A19	Gender T36 Unspecified
+A20	LegalStatus T36 Unspecified
+A21	Role T36 Other
+T37	Person 928 937	Jongvroed
+A22	Gender T37 Unspecified
+A23	LegalStatus T37 Unspecified
+A24	Role T37 Other
+T38	Person 915 922	tornnij
+A25	Gender T38 Unspecified
+A26	LegalStatus T38 Unspecified
+A27	Role T38 Other
+T39	Person 900 908	byschoff
+A28	Gender T39 Man
+A29	LegalStatus T39 Unspecified
+A30	Role T39 Other
+T40	Person 875 888	rendrik roman
+A31	Gender T40 Unspecified
+A32	LegalStatus T40 Unspecified
+A33	Role T40 Other
+T41	Person 862 871	bijjchoff
+A34	Gender T41 Unspecified
+A35	LegalStatus T41 Unspecified
+A36	Role T41 Other
+T42	Person 848 855	pulipia
+A37	Gender T42 Unspecified
+A38	LegalStatus T42 Unspecified
+A39	Role T42 Other
+T43	Person 830 838	wijbanus
+A40	Gender T43 Unspecified
+A41	LegalStatus T43 Unspecified
+A42	Role T43 Other
+T44	Person 818 824	d moor
+A43	Gender T44 Unspecified
+A44	LegalStatus T44 Unspecified
+A45	Role T44 Other
+T45	Person 801 810	bisschoff
+A46	Gender T45 Unspecified
+A47	LegalStatus T45 Unspecified
+A48	Role T45 Other
+T46	Person 769 777	mijbanus
+A49	Gender T46 Unspecified
+A50	LegalStatus T46 Unspecified
+A51	Role T46 Other
+T47	Person 759 765	tijken
+A52	Gender T47 Unspecified
+A53	LegalStatus T47 Unspecified
+A54	Role T47 Other
+T48	Person 744 755	Jan de ruij
+A55	Gender T48 Unspecified
+A56	LegalStatus T48 Unspecified
+A57	Role T48 Other
+T49	Person 783 797	Johannes d voo
+A58	Gender T49 Unspecified
+A59	LegalStatus T49 Unspecified
+A60	Role T49 Other
+T50	Person 703 713	de kietser
+A61	Gender T50 Unspecified
+A62	LegalStatus T50 Unspecified
+A63	Role T50 Other
+T51	Person 714 726	dommicus Ide
+A64	Gender T51 Unspecified
+A65	LegalStatus T51 Unspecified
+A66	Role T51 Other
+T52	Person 678 684	hennis
+A67	Gender T52 Unspecified
+A68	LegalStatus T52 Unspecified
+A69	Role T52 Other
+T53	Person 689 702	gerrie Kersse
+A70	Gender T53 Unspecified
+A71	LegalStatus T53 Unspecified
+A72	Role T53 Other
+T54	Person 649 666	jai endrik brovio
+A73	Gender T54 Unspecified
+A74	LegalStatus T54 Unspecified
+A75	Role T54 Other
+T55	Person 631 637	geling
+A76	Gender T55 Unspecified
+A77	LegalStatus T55 Unspecified
+A78	Role T55 Other
+T56	Person 611 617	geling
+A79	Gender T56 Unspecified
+A80	LegalStatus T56 Unspecified
+A81	Role T56 Other
+T57	Person 618 630	van der hoff
+A82	Gender T57 Unspecified
+A83	LegalStatus T57 Unspecified
+A84	Role T57 Other
+T58	Person 638 648	van Paster
+A85	Gender T58 Unspecified
+A86	LegalStatus T58 Unspecified
+A87	Role T58 Other

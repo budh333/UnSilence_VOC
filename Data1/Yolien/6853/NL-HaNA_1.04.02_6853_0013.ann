@@ -1,0 +1,28 @@
+T1	TranscriptionError_Document 0 1	C
+T2	ProperName 2 22	Gorfied Beringhuysen
+T3	Person 2 22	Gorfied Beringhuysen
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 128 133;134 156	nots: vleer seneca Jnggersen
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary
+T5	ProperName 140 156	seneca Jnggersen
+T6	Person 329 341	m:r henricus
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Organization 348 352	Comp
+T8	ProperName 333 341	henricus
+T9	ProperName 372 384	Eliza witten
+T10	Person 372 384	Eliza witten
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Witness
+T11	Organization 416 420	Comp
+T12	ProperName 537 552	Leonardus gouse
+T13	Person 537 552	Leonardus gouse
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other

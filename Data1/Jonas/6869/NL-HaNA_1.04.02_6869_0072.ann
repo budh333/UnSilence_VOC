@@ -1,0 +1,12 @@
+T1	Person 208 220	I: P: Meilsm
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Person 245 251	MMeurs
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T3	Person 252 257	M Heu
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Acting_Notary

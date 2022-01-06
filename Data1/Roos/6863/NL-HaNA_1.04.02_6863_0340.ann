@@ -1,0 +1,91 @@
+T1	Person 18 45	Heer Cornelis van Boekhoelt
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 23 45	Cornelis van Boekhoelt
+T3	Person 203 212	W kerkman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 203 212	W kerkman
+T5	Person 299 313	Daniel Lankhee
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 299 313	Daniel Lankhee
+T7	Person 473 492	heer willem Kerkman
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 478 492	willem Kerkman
+T9	Place 1165 1181	Dacca in Bengale
+T10	ProperName 1165 1170	Dacca
+T11	ProperName 1174 1181	Bengale
+T12	Person 1212 1219;1220 1232	Cornell van Boekholt
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Witness
+T13	ProperName 1212 1219;1220 1232	Cornell van Boekholt
+T14	Person 1236 1250	thomas sweeris
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Witness
+T15	ProperName 1236 1250	thomas sweeris
+T16	Person 1293 1304	W=m kerkman
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Testator
+T17	ProperName 1293 1304	W=m kerkman
+T18	Person 1354 1357;1358 1366	Dan Lankheet
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Acting_Notary
+T19	ProperName 1354 1357;1358 1366	Dan Lankheet
+T20	Person 1418 1428	V: Boekhol
+A25	Gender T20 Man
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Witness
+T21	ProperName 1418 1428	V: Boekhol
+T22	Person 1429 1441	Thos: Sweris
+A28	Gender T22 Unspecified
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Witness
+T23	ProperName 1429 1441	Thos: Sweris
+T24	Place 1729 1745	Houglij in Beng:
+T25	ProperName 1729 1736	Houglij
+T26	ProperName 1740 1744	Beng
+T27	Person 1764 1765;1766 1781	d Lodewijk franke
+A31	Gender T27 Unspecified
+A32	LegalStatus T27 Unspecified
+A33	Role T27 Witness
+T28	ProperName 1764 1765;1766 1781	d Lodewijk franke
+T29	Person 1785 1800	arnoldus heynen
+A34	Gender T29 Unspecified
+A35	LegalStatus T29 Unspecified
+A36	Role T29 Witness
+T30	ProperName 1785 1800	arnoldus heynen
+T31	Person 1853 1865	I: K: huerin
+A37	Gender T31 Unspecified
+A38	LegalStatus T31 Unspecified
+A39	Role T31 Acting_Notary
+T32	ProperName 1853 1865	I: K: huerin
+T33	Person 1910 1924	C=n L=t franke
+A40	Gender T33 Unspecified
+A41	LegalStatus T33 Unspecified
+A42	Role T33 Witness
+T34	ProperName 1910 1924	C=n L=t franke
+T35	Person 1925 1936	A„o heijnen
+A43	Gender T35 Unspecified
+A44	LegalStatus T35 Unspecified
+A45	Role T35 Witness
+T36	ProperName 1925 1936	A„o heijnen
+T37	Person 1974 1989	I: I: Guerinlgs
+A46	Gender T37 Unspecified
+A47	LegalStatus T37 Unspecified
+A48	Role T37 Other
+T38	ProperName 1974 1989	I: I: Guerinlgs
+T39	Person 2001 2010	Jerspijck
+A49	Gender T39 Unspecified
+A50	LegalStatus T39 Unspecified
+A51	Role T39 Other
+T40	ProperName 2001 2010	Jerspijck

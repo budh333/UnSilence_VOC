@@ -1,0 +1,27 @@
+T1	DuplicatePage 0 10	Inventaris
+T2	Organization 54 63	d' EComp:
+A1	Beneficiary T2 No
+T3	ProperName 54 63	d' EComp:
+T4	ProperName 104 118;83 96	van Swalenland Johannes otto
+T5	Person 104 118;83 96	van Swalenland Johannes otto
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Other
+T6	Place 981 1003;1004 1014	Nederlandsch Comptoire Sourabaija
+T7	Place 1004 1014	Sourabaija
+T8	ProperName 1004 1014	Sourabaija
+T9	Person 1047 1070	Jan Hendrik, Leijdekker
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Witness
+T10	ProperName 1047 1070	Jan Hendrik, Leijdekker
+T11	ProperName 1074 1081;1082 1089	Fredrik Helmond
+T12	Person 1074 1081;1082 1089	Fredrik Helmond
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Witness
+T13	Person 1246 1258	EP„t Exhardt
+A11	Gender T13 Man
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Acting_Notary
+T14	ProperName 1246 1258	EP„t Exhardt

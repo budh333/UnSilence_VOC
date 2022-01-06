@@ -1,0 +1,31 @@
+T1	TranscriptionError_Document 0 3	All
+T2	DuplicatePage 0 3	All
+T3	Person 109 119	Lijfeijgen
+A1	Gender T3 Group
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T4	Person 1018 1029	ijfEijgenen
+A4	Gender T4 Group
+A5	LegalStatus T4 Enslaved
+A6	Role T4 Other
+T5	Person 1040 1057	Datis van batavia
+A7	Gender T5 Man
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T6	ProperName 1040 1057	Datis van batavia
+T7	Place 1050 1057	batavia
+T8	Person 1067 1079;1080 1092	wijf Poutjou van Mandhaar
+A10	Gender T8 Woman
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	ProperName 1072 1079;1080 1092	Poutjou van Mandhaar
+T10	Person 1114 1120	Lijsje
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Enslaved
+A15	Role T10 Other
+T11	ProperName 1114 1120	Lijsje
+T12	Person 1124 1128	Arij
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Other
+T13	ProperName 1124 1128	Arij

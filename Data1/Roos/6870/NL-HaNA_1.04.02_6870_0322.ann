@@ -1,0 +1,36 @@
+T1	Person 52 75	Jacob levier Nots publ:
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 52 64	Jacob levier
+T3	Organization 79 86;87 117	de hoge regeringe van nederlonds Jndia
+A4	Beneficiary T3 No
+T4	Place 101 117	nederlonds Jndia
+T5	ProperName 101 117	nederlonds Jndia
+T6	Place 131 137;138 153	binnen bestend batavia
+T7	ProperName 146 153	batavia
+T8	Person 198 211	Cormelis geld
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 198 211	Cormelis geld
+T10	Organization 242 249	E Comp:
+A8	Beneficiary T10 No
+T11	Organization 281 289	’s Comp:
+A9	Beneficiary T11 No
+T12	Organization 780 785	EComp
+A10	Beneficiary T12 No
+T13	Person 786 801	Gerrit terhorst
+A11	Gender T13 Man
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Beneficiary
+T14	ProperName 786 801	Gerrit terhorst
+T15	Person 1367 1383	gerret Ten hooft
+A14	Gender T15 Man
+A15	LegalStatus T15 Unspecified
+A16	Role T15 Beneficiary
+T16	ProperName 1367 1383	gerret Ten hooft
+T17	Organization 1539 1595;1596 1634	d wel Ede agtb heer in bewind hebbene der geaitraijeeede oost in dische Comp: ter Camer Zeeland
+A17	Beneficiary T17 No
+T18	Place 1627 1634	Zeeland
+T19	ProperName 1627 1634	Zeeland

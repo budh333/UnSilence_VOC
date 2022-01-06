@@ -1,0 +1,99 @@
+T1	DuplicatePage 0 5	Copia
+T2	ProperName 145 155;156 161	Jan Pieter Tuure
+T3	Person 145 155;156 161	Jan Pieter Tuure
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 177 191;192 203	Stellenboschen drakenstein
+T5	Place 177 191;192 203	Stellenboschen drakenstein
+T6	Place 265 267;268 281	’t robben Eiland
+T7	ProperName 265 267;268 281	’t robben Eiland
+T8	ProperName 282 304	Diederik Wilhelm smits
+T9	Person 282 304	Diederik Wilhelm smits
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	Person 358 369;370 385	Louis Simon van Duijnkerken
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 358 369;370 385	Louis Simon van Duijnkerken
+T12	Place 399 420	op ’t schip avenhoorn
+T13	ProperName 411 420	avenhoorn
+T14	Person 740 744;745 758	Heer l: Scheijffel
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Beneficiary
+T15	ProperName 745 758	l: Scheijffel
+T16	Place 780 789;790 797	’t Robben Eijland
+T17	ProperName 783 789;790 797	Robben Eijland
+T18	Organization 936 946	EdE Comp.e
+A13	Beneficiary T18 No
+T19	ProperName 936 946	EdE Comp.e
+T20	Person 1064 1079	heer scheijffel
+A14	Gender T20 Man
+A15	LegalStatus T20 Unspecified
+A16	Role T20 Beneficiary
+T21	ProperName 1069 1079	scheijffel
+T22	ProperName 1251 1263	Louis Simons
+T23	Person 1251 1263	Louis Simons
+A17	Gender T23 Unspecified
+A18	LegalStatus T23 Unspecified
+A19	Role T23 Testator
+T24	ProperName 1385 1399	Robben Eijland
+T25	Place 1385 1399	Robben Eijland
+T26	Place 1474 1484	’t Casteel
+T27	ProperName 2127 2142	Agnita Schouten
+T28	Person 2127 2142	Agnita Schouten
+A20	Gender T28 Unspecified
+A21	LegalStatus T28 Unspecified
+A22	Role T28 Other
+T29	ProperName 1684 1696	Jan Schouten
+T30	Person 1684 1696	Jan Schouten
+A23	Gender T30 Unspecified
+A24	LegalStatus T30 Unspecified
+A25	Role T30 Other
+T31	ProperName 1610 1621	Hattheessen
+T32	Person 1610 1621	Hattheessen
+A26	Gender T32 Unspecified
+A27	LegalStatus T32 Unspecified
+A28	Role T32 Other
+T33	Person 1485 1513	Chr=s Johan Eberhard Garburg
+A29	Gender T33 Unspecified
+A30	LegalStatus T33 Unspecified
+A31	Role T33 Other
+T34	ProperName 1485 1513	Chr=s Johan Eberhard Garburg
+T35	ProperName 1514 1535	Jan Justus Ringelberg
+T36	Person 1514 1535	Jan Justus Ringelberg
+A32	Gender T36 Unspecified
+A33	LegalStatus T36 Unspecified
+A34	Role T36 Other
+T37	ProperName 1546 1559	Friedrich Ste
+T38	Person 1546 1559	Friedrich Ste
+A35	Gender T38 Unspecified
+A36	LegalStatus T38 Unspecified
+A37	Role T38 Other
+T39	ProperName 1560 1574	abrham Brastoi
+T40	Person 1560 1574	abrham Brastoi
+A38	Gender T40 Unspecified
+A39	LegalStatus T40 Unspecified
+A40	Role T40 Other
+T41	ProperName 1587 1597	Degenhardt
+T42	Person 1587 1597	Degenhardt
+A41	Gender T42 Unspecified
+A42	LegalStatus T42 Unspecified
+A43	Role T42 Other
+T43	ProperName 1575 1586	J: C: Wendt
+T44	Person 1575 1586	J: C: Wendt
+A44	Gender T44 Unspecified
+A45	LegalStatus T44 Unspecified
+A46	Role T44 Other
+T45	ProperName 1433 1446	Jacob Dielman
+T46	Person 1433 1446	Jacob Dielman
+A47	Gender T46 Unspecified
+A48	LegalStatus T46 Unspecified
+A49	Role T46 Other
+T47	Person 2185 2191	slaven
+A50	Gender T47 Group
+A51	LegalStatus T47 Enslaved
+A52	Role T47 Other

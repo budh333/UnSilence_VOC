@@ -1,0 +1,76 @@
+T1	Person 0 21	Josina Willemina Rong
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 0 21	Josina Willemina Rong
+T3	Place 38 45	Batavia
+T4	ProperName 38 45	Batavia
+T5	Person 82 92	Ian Swaart
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 82 92	Ian Swaart
+T7	ProperName 93 111	Godart van Schuldr
+T8	Person 93 111	Godart van Schuldr
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	ProperName 194 212	Cornelis van Beest
+T10	Person 194 221	Cornelis van Beest, Notaris
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Notary
+T11	Place 229 248	s' hofs van utrecht
+T12	ProperName 241 248	utrecht
+T13	Place 257 264	utrecht
+T14	ProperName 257 264	utrecht
+T15	Person 437 464	Jongheer Godart van Schuler
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Testator
+T16	ProperName 446 464	Godart van Schuler
+T17	Place 495 509	dom ’t utrecht
+T18	ProperName 502 509	utrecht
+T19	Person 568 598	vrouwe Elisabeth Iacoba Ochten
+A16	Gender T19 Woman
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	ProperName 575 598	Elisabeth Iacoba Ochten
+T21	Person 635 661	Jonkheer Louis van Schuler
+A19	Gender T21 Man
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 644 661	Louis van Schuler
+T23	Place 755 763	uitrecht
+T24	ProperName 755 763	uitrecht
+T25	Person 814 838	Joukheer Jan van Schuler
+A22	Gender T25 Man
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 823 838	Jan van Schuler
+T27	Person 872 876;877 923	Jonk vrouwe Johanna Egberta van Reede van oudshoorn
+A25	Gender T27 Woman
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 884 923	Johanna Egberta van Reede van oudshoorn
+T29	Person 954 992	wel Ed: gestreng„e Heer Abraham Du Pre
+A28	Gender T29 Man
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Other
+T30	ProperName 978 992	Abraham Du Pre
+T31	Place 1029 1050	Provintie van utrecht
+T32	ProperName 1043 1050	utrecht
+T33	Place 1169 1180;1181 1189	Groot Brit„ „tannien
+T34	ProperName 1169 1180;1181 1189	Groot Brit„ „tannien
+T35	Person 1085 1122;1123 1180;1181 1189	Excellentie den Hoog Ed: welgeb: Heer William Ferdinand Carij Lord Hunsdou Pair van Groot Brit„ „tannien
+A31	Gender T35 Man
+A32	LegalStatus T35 Unspecified
+A33	Role T35 Other
+T36	ProperName 1123 1146	William Ferdinand Carij
+T37	Person 1244 1260;1261 1324;1325 1360	Hoog Ed: welgeb: Jonkheer Pieter Baron van Reede, van oudshoorn Heere van Houds„ „thoorn, Guebhoek en ridderd buurt,
+A34	Gender T37 Man
+A35	LegalStatus T37 Unspecified
+A36	Role T37 Other
+T38	ProperName 1270 1307	Pieter Baron van Reede, van oudshoorn
+T39	Place 1385 1389;1390 1403	Cabo de Goede hoop
+T40	ProperName 1385 1389;1390 1403	Cabo de Goede hoop

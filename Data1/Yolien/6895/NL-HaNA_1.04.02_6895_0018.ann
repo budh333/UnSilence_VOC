@@ -1,0 +1,14 @@
+T1	Person 9 25	A„ P:t Bosenboom
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 16 25	Bosenboom
+T3	Place 44 64;65 85	zoldij vijite Compt: Batavia Jn't Casteel
+T4	Organization 58 63	Compt
+T5	ProperName 65 72	Batavia
+T6	Person 104 113	P V: Boek
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 109 113	Boek
+T8	TranscriptionError_Document 0 8	nagezien

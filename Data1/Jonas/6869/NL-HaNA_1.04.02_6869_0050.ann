@@ -1,0 +1,22 @@
+T1	Person 9 18	=blokland
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 1557 1580;1581 1586	huijsvrouw Mejufrouw Ma Nchot
+A4	Gender T2 Woman
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Beneficiary
+T3	ProperName 1578 1580;1581 1586	Ma Nchot
+T4	Person 1613 1623	Willem Kok
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Beneficiary
+T5	ProperName 1613 1623	Willem Kok
+T6	Person 1651 1661	Arij Wedts
+A10	Gender T6 Man
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Beneficiary
+T7	Person 1688 1699	JW Warlourg
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Other

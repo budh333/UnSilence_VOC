@@ -1,0 +1,30 @@
+T1	DuplicatePage 0 3	Jan
+T2	ProperName 0 17	Jan Willem Harmst
+T3	Person 0 17	Jan Willem Harmst
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T5	Person 243 259;260 271	Isaac Blok Eerst Gem: Clercq
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 243 253	Isaac Blok
+T7	ProperName 473 478	Comp:
+T8	Organization 473 478	Comp:
+T9	Place 546 553	Colombo
+T10	ProperName 546 553	Colombo
+T11	Person 517 535	Vrouw Anna daniete
+A7	Gender T11 Woman
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator_Beneficiary
+T12	ProperName 523 535	Anna daniete
+T13	ProperName 442 456	Jan Hendricksz
+T14	Person 442 456	Jan Hendricksz
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator_Beneficiary
+T15	Place 407 417	woonhuijse
+A13	Beneficiary T8 No
+T4	Organization 292 299	politie
+A14	Beneficiary T4 No
+T16	Place 272 299	ter secretarije van politie

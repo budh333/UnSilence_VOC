@@ -1,0 +1,15 @@
+T1	Person 200 225	Alhur Hendrik Schophoffen
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 200 225	Alhur Hendrik Schophoffen
+T3	Person 326 332	Slaven
+A4	Gender T3 Group
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	ProperName 326 332	Slaven
+T5	Person 336 344	Slaxinne
+A7	Gender T5 Group
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T6	ProperName 336 344	Slaxinne

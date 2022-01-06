@@ -1,0 +1,17 @@
+T1	Person 336 350	Daniel Sibault
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 336 350	Daniel Sibault
+T3	Person 517 521;522 538	Bar„ „thault de JJean
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 517 521;522 538	Bar„ „thault de JJean
+T5	Person 630 645	Martha Poullier
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator_Beneficiary
+T6	ProperName 630 645	Martha Poullier
+T7	Place 650 668	Cabo de Goede koop
+T8	ProperName 650 668	Cabo de Goede koop

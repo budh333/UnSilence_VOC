@@ -1,0 +1,16 @@
+T1	Person 42 56	D' E„s Lrasmus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 49 56	Lrasmus
+T3	TranscriptionError_Document 0 4	1735
+T4	Person 61 71	S„s Goosen
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 65 71	Goosen
+T6	Person 83 94;95 100	F: L: V: D: Briel
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Notary
+T7	ProperName 95 100	Briel

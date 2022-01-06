@@ -1,0 +1,19 @@
+T1	Person 85 93;94 106	Heer Pen „drik Breton
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 90 93;94 106	Pen „drik Breton
+T3	ProperName 681 692;693 696	Jan Wijnand Pan
+T4	Person 681 692;693 696	Jan Wijnand Pan
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 701 714	Jan JacobSmit
+T6	Person 701 714	Jan JacobSmit
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T7	Person 888 897	RW : Bgoo
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other

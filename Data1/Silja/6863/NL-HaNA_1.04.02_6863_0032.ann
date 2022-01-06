@@ -1,0 +1,113 @@
+T1	Person 249 264	van der straten
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 249 264	van der straten
+T3	Person 277 293	Caswan wanniappa
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 277 293	Caswan wanniappa
+T5	ProperName 294 306	pleph rokaar
+T6	Person 294 306	pleph rokaar
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 376 387	Jan de ruij
+T8	Person 376 387	Jan de ruij
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 357 375	renaldus rendutilk
+T10	ProperName 342 354	dv. van Leef
+T11	ProperName 307 323	d’ E: s„t andree
+T12	ProperName 328 339	weduwe maab
+T13	ProperName 392 404	endrik botre
+T14	ProperName 407 426	Coenaad qualenbrink
+T15	ProperName 431 449	willens wan Mastel
+T16	ProperName 469 485	Isaak hartenberg
+T17	ProperName 496 513	d’ E: hoogerwaart
+T18	ProperName 540 556	lodewijk roepels
+T19	ProperName 880 895	p: g: de Custer
+T20	ProperName 457 466	v: wisser
+T21	ProperName 529 539	van kromen
+T22	ProperName 577 590	C„ de kretser
+T23	ProperName 596 607	d’E: de bok
+T24	ProperName 633 651	renaldus hendriksz
+T25	ProperName 654 667	d E: kattorff
+T26	ProperName 683 695	Andries tijk
+T27	ProperName 673 682	van boris
+T28	ProperName 726 743	Castiaan wannappa
+T29	ProperName 758 776	renaldus hendriksz
+T30	ProperName 827 837	Carel raas
+T31	ProperName 866 877	V:P: lijker
+T32	ProperName 841 855	andries ieffer
+T33	Person 392 404	endrik botre
+A13	Gender T33 Unspecified
+A14	LegalStatus T33 Unspecified
+A15	Role T33 Other
+T34	Person 407 426	Coenaad qualenbrink
+A16	Gender T34 Unspecified
+A17	LegalStatus T34 Unspecified
+A18	Role T34 Other
+T35	Person 431 449	willens wan Mastel
+A19	Gender T35 Unspecified
+A20	LegalStatus T35 Unspecified
+A21	Role T35 Other
+T36	Person 457 466	v: wisser
+A22	Gender T36 Unspecified
+A23	LegalStatus T36 Unspecified
+A24	Role T36 Other
+T37	Person 469 485	Isaak hartenberg
+A25	Gender T37 Unspecified
+A26	LegalStatus T37 Unspecified
+A27	Role T37 Other
+T38	Person 529 539	van kromen
+A28	Gender T38 Unspecified
+A29	LegalStatus T38 Unspecified
+A30	Role T38 Other
+T39	Person 540 556	lodewijk roepels
+A31	Gender T39 Unspecified
+A32	LegalStatus T39 Unspecified
+A33	Role T39 Other
+T40	Person 577 590	C„ de kretser
+A34	Gender T40 Unspecified
+A35	LegalStatus T40 Unspecified
+A36	Role T40 Other
+T41	ProperName 601 607	de bok
+T42	Person 633 651	renaldus hendriksz
+A37	Gender T42 Unspecified
+A38	LegalStatus T42 Unspecified
+A39	Role T42 Other
+T43	Person 659 667	kattorff
+A40	Gender T43 Unspecified
+A41	LegalStatus T43 Unspecified
+A42	Role T43 Other
+T44	Person 673 682	van boris
+A43	Gender T44 Unspecified
+A44	LegalStatus T44 Unspecified
+A45	Role T44 Other
+T45	Person 683 695	Andries tijk
+A46	Gender T45 Unspecified
+A47	LegalStatus T45 Unspecified
+A48	Role T45 Other
+T46	Person 726 743	Castiaan wannappa
+A49	Gender T46 Unspecified
+A50	LegalStatus T46 Unspecified
+A51	Role T46 Other
+T47	Person 758 776	renaldus hendriksz
+A52	Gender T47 Unspecified
+A53	LegalStatus T47 Unspecified
+A54	Role T47 Other
+T48	Person 827 837	Carel raas
+A55	Gender T48 Unspecified
+A56	LegalStatus T48 Unspecified
+A57	Role T48 Other
+T49	Person 841 855	andries ieffer
+A58	Gender T49 Unspecified
+A59	LegalStatus T49 Unspecified
+A60	Role T49 Other
+T50	Person 880 895	p: g: de Custer
+A61	Gender T50 Unspecified
+A62	LegalStatus T50 Unspecified
+A63	Role T50 Other

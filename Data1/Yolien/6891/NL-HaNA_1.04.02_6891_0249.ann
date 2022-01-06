@@ -1,0 +1,34 @@
+T1	TranscriptionError_Document 0 3	Dan
+T2	DuplicatePage 0 3	Dan
+T3	DuplicatePage 38 42	1775
+T4	ProperName 106 119	Carel Telkamp
+T5	Person 106 119	Carel Telkamp
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Acting_Notary
+T6	Place 247 269	konings Fort de Diaman
+T7	ProperName 260 270	de Diamant
+T8	Person 295 335	Trompetter Frans Peijtscher van Klaufort
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 306 335	Frans Peijtscher van Klaufort
+T10	Person 847 861	slavinne Rosie
+A7	Gender T10 Woman
+A8	LegalStatus T10 Enslaved
+A9	Role T10 Other
+T11	ProperName 856 861	Rosie
+T12	ProperName 870 876	Bantam
+T13	Place 870 876	Bantam
+T14	Person 1129 1156	Dogtertjie Nicoliena Aurora
+A10	Gender T14 Woman
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Beneficiary
+T15	ProperName 1140 1156	Nicoliena Aurora
+T16	Place 1166 1173	Batavia
+T17	ProperName 1166 1173	Batavia
+T18	Person 1471 1475;1476 1482	Heer Barend
+A13	Gender T18 Man
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	ProperName 1476 1482	Barend

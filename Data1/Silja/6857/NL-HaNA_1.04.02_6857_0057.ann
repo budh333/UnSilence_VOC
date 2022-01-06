@@ -1,0 +1,30 @@
+T1	Place 69 84	Canton in China
+T2	ProperName 69 84	Canton in China
+T3	Person 43 64	Heer Johannes Nebbens
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+T4	ProperName 48 64	Johannes Nebbens
+T5	ProperName 18 22	Cabo
+T6	Place 18 22	Cabo
+T7	Person 122 140;141 151	Wel Ed heer Willem In't Anker
+A3	Gender T7 Man
+A4	LegalStatus T7 Unspecified
+T8	ProperName 134 140;141 151	Willem In't Anker
+T9	Person 344 354	I: G: Bode
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+T10	ProperName 344 354	I: G: Bode
+T11	DuplicatePage 0 5	Copia
+A7	Role T3 Other
+A8	Role T7 Other
+A9	Role T9 Other
+T12	ProperName 413 418	Johan
+T13	Person 413 418	Johan
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	Person 522 533	C: Rijnnagh
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 522 533	C: Rijnnagh

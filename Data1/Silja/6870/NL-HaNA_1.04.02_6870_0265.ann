@@ -1,0 +1,20 @@
+T1	Person 0 24	Cristiaan Casper Evertrz
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 24	Cristiaan Casper Evertrz
+T3	ProperName 187 207	Cornelis Jan bogaart
+T4	Person 187 207	Cornelis Jan bogaart
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	Organization 225 237	gouvernement
+A7	Beneficiary T5 No
+T6	ProperName 322 347	Christiaan Caspar Evertsz
+T7	Person 322 347	Christiaan Caspar Evertsz
+A8	Gender T7 Unspecified
+A9	LegalStatus T7 Unspecified
+A10	Role T7 Testator
+T8	ProperName 373 378	Ecomp
+T9	Organization 373 378	Ecomp
+A11	Beneficiary T9 No

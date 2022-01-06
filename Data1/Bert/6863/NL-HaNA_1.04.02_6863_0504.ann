@@ -1,0 +1,22 @@
+T1	Person 87 106	Engelberta plantina
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 87 106	Engelberta plantina
+T3	Person 1100 1134	schoon zoon Johannes van den Broek
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 1112 1134	Johannes van den Broek
+T5	Person 1196 1220	geleende meijt albertina
+A7	Gender T5 Woman
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T6	ProperName 1211 1220	albertina
+T7	Person 1358 1370	van den broe
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+#1	AnnotatorNotes T7	van den broek
+T8	ProperName 1358 1370	van den broe
+#2	AnnotatorNotes T8	van den broek

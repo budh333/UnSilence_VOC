@@ -1,0 +1,27 @@
+T1	Place 70 76;83 91	Holdij Comploir
+T2	Person 138 148	Kretschman
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 432 450	Jan dacuil de Iong
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 432 450	Jan dacuil de Iong
+T5	Place 495 500	hospi
+T6	Place 508 512	taal
+T7	Person 561 576	harmanus donken
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 561 576	harmanus donken
+T9	Person 589 602	Bamel de sp0k
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+#1	AnnotatorNotes T9	Signature
+T10	Person 37 47	Mij Cluijk
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	TranscriptionError_Document 9 11	30

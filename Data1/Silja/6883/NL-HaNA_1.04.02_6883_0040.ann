@@ -1,0 +1,82 @@
+T1	Person 232 238	Reemer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 242 251	Mesterton
+T3	ProperName 232 238	Reemer
+T4	Person 242 251	Mesterton
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 579 585	Rossel
+T6	ProperName 587 595	De Klerk
+T7	ProperName 597 603	Reemer
+T8	ProperName 607 617	Mestersoon
+T9	Person 607 617	Mestersoon
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Person 597 603	Reemer
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	Person 579 585	Rossel
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	Person 587 595	De Klerk
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	Organization 965 985	uijtersche weeshuijs
+A19	Beneficiary T13 Yes
+T14	Person 989 997	orthling
+A20	Gender T14 Unspecified
+A21	LegalStatus T14 Unspecified
+A22	Role T14 Beneficiary
+T15	Organization 1247 1284	het luijtersche weeshuijs in den haag
+A23	Beneficiary T15 Yes
+T16	ProperName 1276 1284	den haag
+T17	Place 1276 1284	den haag
+T18	ProperName 1456 1462	Reemer
+T19	ProperName 1466 1476	Mestertoon
+T20	Person 1466 1476	Mestertoon
+A24	Gender T20 Man
+A25	LegalStatus T20 Unspecified
+A26	Role T20 Other
+T21	Person 1456 1462	Reemer
+A27	Gender T21 Man
+A28	LegalStatus T21 Unspecified
+A29	Role T21 Other
+T22	ProperName 1948 1972	Gijsbert Iacob welgevare
+T23	Organization 1999 2024;2025 2036	het luijtersche weeshuijs in den Haag
+A30	Beneficiary T23 Yes
+T24	ProperName 2028 2036	den Haag
+T25	Place 2028 2036	den Haag
+T26	ProperName 2050 2058	orthling
+T27	ProperName 3092 3098	Rossel
+T28	ProperName 3103 3109	Reemer
+T29	ProperName 3114 3123	Mesterton
+T30	Person 3103 3109	Reemer
+A31	Gender T30 Man
+A32	LegalStatus T30 Unspecified
+A33	Role T30 Other
+T31	Person 3114 3123	Mesterton
+A34	Gender T31 Man
+A35	LegalStatus T31 Unspecified
+A36	Role T31 Other
+T32	Person 3092 3098	Rossel
+A37	Gender T32 Unspecified
+A38	LegalStatus T32 Unspecified
+A39	Role T32 Other
+T33	Person 1948 1972	Gijsbert Iacob welgevare
+A40	Gender T33 Unspecified
+A41	LegalStatus T33 Unspecified
+A42	Role T33 Other
+T34	Person 2050 2058	orthling
+A43	Gender T34 Unspecified
+A44	LegalStatus T34 Unspecified
+A45	Role T34 Beneficiary
+T35	ProperName 989 997	orthling
+T36	Organization 3237 3258	Edele agtbaeren Raede
+A46	Beneficiary T36 No

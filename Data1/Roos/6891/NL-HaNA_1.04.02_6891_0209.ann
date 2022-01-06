@@ -1,0 +1,47 @@
+T1	TranscriptionError_Document 0 5	Copia
+T2	DuplicatePage 0 5	Copia
+T3	Person 14 25	R: bereboom
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 14 25	R: bereboom
+T5	Person 69 78	N.J Beegh
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 69 78	N.J Beegh
+T7	Person 170 196	David Reguleth nots: prol:
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 170 184	David Reguleth
+T9	Place 227 243	nederlands Jndia
+T10	ProperName 227 243	nederlands Jndia
+T11	Person 314 328;329 345	Jacob van Beek openbaar Notaris
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Notary
+T12	ProperName 314 328	Jacob van Beek
+T13	Place 364 368;369 373	Hol„ land
+T14	ProperName 364 368;369 373	Hol„ land
+T15	Place 387 407	binnen de stad Hoorn
+T16	ProperName 402 407	Hoorn
+T17	Person 449 467	Alphonsius Du Pon.
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Testator
+T18	ProperName 449 466	Alphonsius Du Pon
+T19	Place 472 482	S:t Nicol:
+T20	ProperName 472 482	S:t Nicol:
+T21	Place 569 576	Zeeland
+T22	ProperName 569 576	Zeeland
+T23	Place 521 546	het schip Soetelings kerk
+T24	ProperName 531 546	Soetelings kerk
+T25	Place 649 667	schip de Magdalena
+T26	ProperName 658 667	Magdalena
+T27	Person 775 784	Jan Stoel
+A16	Gender T27 Unspecified
+A17	LegalStatus T27 Unspecified
+A18	Role T27 Other
+T28	ProperName 775 784	Jan Stoel
+T29	Organization 822 845	de oostindise Compagnie

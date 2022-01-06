@@ -1,0 +1,36 @@
+T1	TranscriptionError_Document 0 3	den
+T2	DuplicatePage 0 3	den
+T3	Person 76 93	Arij vander Aartt
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 76 93	Arij vander Aartt
+T5	Place 107 126;127 142	op E E:s Compagnies schip EHof Duno
+T6	Organization 110 126	E E:s Compagnies
+A4	Beneficiary T6 No
+T7	ProperName 133 142	EHof Duno
+T8	Person 251 266	Pieter Somerhof
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 251 266	Pieter Somerhof
+T10	Place 271 280	Amsterdam
+T11	ProperName 271 280	Amsterdam
+T12	Person 377 398;399 406	Batthazar Poutlemonde Coopman
+A8	Gender T12 Man
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Acting_Notary
+T13	ProperName 377 398	Batthazar Poutlemonde
+T14	Organization 421 428	EComp:e
+A11	Beneficiary T14 No
+T15	Person 565 588	Ernst Fredrik Sluijter,
+A12	Gender T15 Man
+A13	LegalStatus T15 Unspecified
+A14	Role T15 Testator
+T16	ProperName 565 587	Ernst Fredrik Sluijter
+T17	Place 593 602	Lempeurde
+T18	ProperName 593 602	Lempeurde
+T19	Place 613 623	guarnisoen
+T20	ProperName 613 623	guarnisoen
+T21	Place 2189 2198	Purmerent
+T22	ProperName 2189 2198	Purmerent

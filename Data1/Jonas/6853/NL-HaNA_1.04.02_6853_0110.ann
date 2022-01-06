@@ -1,0 +1,24 @@
+T1	Organization 111 133	oostindische Compagnie
+T2	Place 139 148	Amsterdam
+T3	ProperName 139 148	Amsterdam
+T4	Place 631 651	ter wooninge vandend
+T5	Person 685 691;692 700	Sittis hambalsz
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 685 691;692 700	Sittis hambalsz
+T7	Person 705 717	Salomon Ians
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 705 717	Salomon Ians
+T9	Person 831 854	Jacobus Wijnand Brengin
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 831 854	Jacobus Wijnand Brengin
+T11	Person 871 882	Van Wenking
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+#1	AnnotatorNotes T11	Signature

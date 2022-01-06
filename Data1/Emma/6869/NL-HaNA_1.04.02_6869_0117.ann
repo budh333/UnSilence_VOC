@@ -1,0 +1,39 @@
+T1	DuplicatePage 0 3	N„o
+T2	TranscriptionError_Document 4 6	11
+T3	Person 228 243	Corporaal Looth
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 238 243	Looth
+T5	Person 305 324	Den Jnlander Bagbot
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 318 324	Bagbot
+T7	ProperName 465 474	der EComp
+T8	Organization 465 474	der EComp
+T9	Place 832 840	in huijs
+T10	Person 897 901	lora
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 897 901	lora
+T12	Person 905 910	Diana
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 905 910	Diana
+T14	Person 951 967	suster Christina
+A13	Gender T14 Woman
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Beneficiary
+T15	ProperName 958 967	Christina
+T16	Person 968 985	broeders Cornelis
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Beneficiary
+T17	ProperName 977 985	Cornelis
+T18	Person 1045 1054	slavinnen
+A19	Gender T18 Group
+A20	LegalStatus T18 Enslaved
+A21	Role T18 Other

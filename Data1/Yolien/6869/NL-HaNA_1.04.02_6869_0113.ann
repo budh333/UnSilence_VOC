@@ -1,0 +1,47 @@
+T1	TranscriptionError_Document 0 1	N
+T2	DuplicatePage 14 22	Exxtract
+T3	DuplicatePage 1024 1028	Amen
+T4	ProperName 197 201	Reek
+T7	Person 438 451;452 464	Corporaal Ian George Looth
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 448 451;452 464	Ian George Looth
+T9	ProperName 494 501;502 507	Fredrik Tholt
+T10	Person 494 501;502 507	Fredrik Tholt
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Acting_Notary
+T11	ProperName 645 653;654 660	Martinus Koning
+T12	Person 645 653;654 660	Martinus Koning
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 744 763;764 769	Jan Christiaen Bur„ thand
+T14	Person 744 763;764 769	Jan Christiaen Bur„ thand
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	Noteworthy 314 322	Julander
+#1	AnnotatorNotes T15	Inlander
+T16	Person 197 201	Reek
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other
+T6	ProperName 238 243	Looth
+T5	Person 228 243	Corporaal Looth
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T17	ProperName 299 305	Bagbot
+T18	Person 299 305	Bagbot
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	Person 314 322	Julander
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	Organization 527 549	bengaelste Secretarijs
+T21	Place 861 870	Hospitaal
+T22	Organization 1141 1146	EComp

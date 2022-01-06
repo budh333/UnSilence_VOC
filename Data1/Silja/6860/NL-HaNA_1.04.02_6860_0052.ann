@@ -1,0 +1,25 @@
+T1	Organization 31 40;41 49	Raade van Iudtitie
+A1	Beneficiary T1 No
+T2	Place 54 65;66 74	Gouvernemen Samarang
+T3	ProperName 66 74	Samarang
+T4	Place 66 74	Samarang
+T5	Place 176 183	Grissee
+T6	ProperName 176 183	Grissee
+T7	ProperName 209 227	Jan Jochem Wilhelm
+T8	Person 209 227	Jan Jochem Wilhelm
+A2	Gender T8 Unspecified
+A3	LegalStatus T8 Unspecified
+A4	Role T8 Other
+T9	ProperName 279 303	Thiodorus Joh:s Hartingh
+T10	Person 279 303	Thiodorus Joh:s Hartingh
+A5	Gender T10 Man
+A6	LegalStatus T10 Unspecified
+A7	Role T10 Acting_Notary
+T11	ProperName 432 439	E Comp:
+T12	Organization 432 439	E Comp:
+A8	Beneficiary T12 No
+T13	Person 667 680	Maria Fiattla
+A9	Gender T13 Woman
+A10	LegalStatus T13 Unspecified
+A11	Role T13 Other
+T14	ProperName 667 680	Maria Fiattla

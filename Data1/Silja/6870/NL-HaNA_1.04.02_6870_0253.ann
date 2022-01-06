@@ -1,0 +1,33 @@
+T1	Place 424 439	Calmer Zeeeland
+T2	ProperName 431 439	Zeeeland
+T3	ProperName 1520 1523;1524 1525;1526 1534	Jan . Berkhout
+T4	Place 1485 1494	ten huise
+T5	Person 1520 1523;1524 1525;1526 1534	Jan . Berkhout
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 1538 1561	J:r C=l Godfries Smeder
+T7	Person 1538 1561	J:r C=l Godfries Smeder
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1608 1629	ary van Eijsendoornee
+T9	Person 1608 1629	ary van Eijsendoornee
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	Person 1763 1775	Jan Berkhout
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Witness
+T11	ProperName 1763 1775	Jan Berkhout
+T12	ProperName 1779 1802	J: C:l Goofried Smieeer
+T13	Person 1779 1802	J: C:l Goofried Smieeer
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Witness
+T14	ProperName 1813 1825	J:W: Vermond
+T15	Person 1813 1825	J:W: Vermond
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other

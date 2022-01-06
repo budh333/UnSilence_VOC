@@ -1,0 +1,90 @@
+T1	Person 115 140	Nicolaas Cornelis fransz:
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 115 140	Nicolaas Cornelis fransz:
+T3	Organization 158 170	der Eomp„e s
+A4	Beneficiary T3 No
+T4	Person 254 285;286 291	Ondercoopman Marmeliaan Lambern Faure
+A5	Gender T4 Man
+A6	LegalStatus T4 Unspecified
+A7	Role T4 Testator
+T5	ProperName 267 285;286 291	Marmeliaan Lambern Faure
+T6	Person 393 413;414 419	waxmeliaan Lambertus paure
+A8	Gender T6 Man
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Testator
+T7	ProperName 393 413;414 419	waxmeliaan Lambertus paure
+T8	Person 423 455	mejuff„r Cornelia van der Dussen
+A11	Gender T8 Woman
+A12	LegalStatus T8 Unspecified
+A13	Role T8 Testator
+T9	ProperName 432 455	Cornelia van der Dussen
+T10	Organization 935 974	de Diacomie armen te wijk te Duursteede
+A14	Beneficiary T10 Yes
+T11	Place 956 974	wijk te Duursteede
+T12	ProperName 956 974	wijk te Duursteede
+T13	Person 1185 1208;1209 1242	Mevrouwe Anna Margrieta De Bourghelles de vacarie, weduwe
+A15	Gender T13 Woman
+A16	LegalStatus T13 Unspecified
+A17	Role T13 Beneficiary
+T14	ProperName 1194 1208;1209 1234	Anna Margrieta De Bourghelles de vacarie
+T15	Person 1268 1272;1273 1285	Heer Samson Faure
+A18	Gender T15 Man
+A19	LegalStatus T15 Unspecified
+A20	Role T15 Other
+T16	ProperName 1273 1285	Samson Faure
+T17	Organization 1442 1452	de EComp„e
+A21	Beneficiary T17 No
+T18	Place 1557 1567	Neederland
+T19	ProperName 1557 1567	Neederland
+T20	Person 1568 1587;1588 1593	Lebrecht Atterander Paure
+A22	Gender T20 Man
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Beneficiary
+T21	ProperName 1568 1587;1588 1593	Lebrecht Atterander Paure
+T22	Person 1643 1647;1648 1670	vaa= der Hugo, Pieter Paure
+A25	Gender T22 Man
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Beneficiary
+T23	ProperName 1652 1670	Hugo, Pieter Paure
+T24	Person 1750 1761	Hugo Pieter
+A28	Gender T24 Man
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Beneficiary
+T25	ProperName 1750 1761	Hugo Pieter
+T26	Person 1867 1897	voorzoon Pieter Huijtert faure
+A31	Gender T26 Man
+A32	LegalStatus T26 Unspecified
+A33	Role T26 Beneficiary
+T27	ProperName 1876 1897	Pieter Huijtert faure
+T28	Person 1990 2021	Neeff gerrit Pieken broek faure
+A34	Gender T28 Man
+A35	LegalStatus T28 Unspecified
+A36	Role T28 Beneficiary
+T29	ProperName 1996 2021	gerrit Pieken broek faure
+T30	Person 2129 2153;2154 2159	vader Boudewijn versewel faure
+A37	Gender T30 Man
+A38	LegalStatus T30 Unspecified
+A39	Role T30 Other
+T31	ProperName 2135 2153;2154 2159	Boudewijn versewel faure
+T32	Person 2287 2302	vader Jan Jaure
+A40	Gender T32 Man
+A41	LegalStatus T32 Unspecified
+A42	Role T32 Other
+T33	ProperName 2293 2302	Jan Jaure
+T34	Person 2306 2345	Moeder Lucrese copte van Neijor en Pkan
+A43	Gender T34 Woman
+A44	LegalStatus T34 Unspecified
+A45	Role T34 Other
+T35	ProperName 2313 2345	Lucrese copte van Neijor en Pkan
+T36	Person 2360 2381	vader Alexander Laure
+A46	Gender T36 Man
+A47	LegalStatus T36 Unspecified
+A48	Role T36 Other
+T37	ProperName 2366 2381	Alexander Laure
+T38	Person 2390 2435	Moeder Anna Marguta de Burghelles de wil Gste
+A49	Gender T38 Woman
+A50	LegalStatus T38 Unspecified
+A51	Role T38 Other
+T39	ProperName 2397 2435	Anna Marguta de Burghelles de wil Gste

@@ -1,0 +1,21 @@
+T1	DuplicatePage 0 9	Erfgenaam
+T2	Person 13 52	klein zoon Johan Carel Melchion Siebert
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 112 134	Johan Christof Siebert
+T4	Person 112 134	Johan Christof Siebert
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 24 52	Johan Carel Melchion Siebert
+T6	ProperName 222 233;234 242	Johan Carel Melchior
+T7	Person 222 233;234 242	Johan Carel Melchior
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	Organization 479 491;492 538	generale Ne„ „derlandsche geoctroijeerde oostindische Comp:
+T9	ProperName 479 491;492 538	generale Ne„ „derlandsche geoctroijeerde oostindische Comp:
+A10	Beneficiary T8 No
+T10	Place 543 554	Camer Hoouw
+T11	ProperName 549 554	Hoouw

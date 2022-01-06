@@ -1,0 +1,9 @@
+T1	ProperName 353 362	Hans Raad
+T2	Person 353 362	Hans Raad
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Place 1835 1846	op Macassar
+T4	ProperName 1838 1846	Macassar
+T5	Place 1847 1871	in de negory vlaardingen
+T6	ProperName 1860 1871	vlaardingen

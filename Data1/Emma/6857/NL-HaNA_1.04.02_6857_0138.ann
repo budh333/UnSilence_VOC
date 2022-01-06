@@ -1,0 +1,46 @@
+T2	ProperName 49 55	Visses
+T3	Person 149 154	Vroom
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 149 154	Vroom
+T1	Person 41 55	Captijn Visses
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T5	Person 177 191	Jan Steekeling
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 177 191	Jan Steekeling
+T7	Person 207 215	Mouthaan
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 207 215	Mouthaan
+T9	Place 323 334	In ’t schip
+T10	Place 363 379	Ter Reede Wampho
+T11	ProperName 373 379	Wampho
+T12	Person 431 445	J: H: Bijnnagh
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 431 445	J: H: Bijnnagh
+T14	Person 454 469	MMG: Hemmingbou
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 454 469	MMG: Hemmingbou
+T16	Place 655 696	In t Neederlands Comptoir Canton in China
+T17	ProperName 691 696	China
+T18	ProperName 660 671	Neederlands
+T19	Person 729 741	J: H Rynnagh
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 729 741	J: H Rynnagh
+T21	Person 745 756	VBemmingion
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 745 756	VBemmingion

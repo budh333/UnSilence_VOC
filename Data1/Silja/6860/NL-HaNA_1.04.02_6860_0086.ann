@@ -1,0 +1,31 @@
+T1	ProperName 23 35	Mohamat Mina
+T2	Person 23 35	Mohamat Mina
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Organization 145 160;161 171	Nederlands Comp Sourabaija
+T4	Place 161 171	Sourabaija
+T5	ProperName 161 171	Sourabaija
+T6	ProperName 250 257	Exkardt
+T7	ProperName 323 337	G„k Deijdekker
+T8	ProperName 345 356	Hildernisse
+T9	Place 496 502;503 519	’t Jap rangse Arm huijs
+T10	Place 530 540	Sourabaijo
+T11	ProperName 530 540	Sourabaijo
+T12	ProperName 583 590	Alhardt
+T13	Person 583 590	Alhardt
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Other
+T14	Person 345 356	Hildernisse
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other
+T15	Person 323 337	G„k Deijdekker
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	Person 250 257	Exkardt
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other

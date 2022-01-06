@@ -1,0 +1,51 @@
+T1	Person 146 170;173 190	Pieter Herstad assistent en geswore scriba
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 146 160	Pieter Herstad
+T3	Place 191 210	ten dezen Comptoire
+T4	Person 235 271	Getuijgen, Francois Caffin Corporaal
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 246 261	Francois Caffin
+T6	Organization 286 291	EComp
+T7	ProperName 286 291	EComp
+T8	Person 546 572;573 580	Huijbert Kelelaar, Notaris Publicq
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Notary
+T9	ProperName 546 563	Huijbert Kelelaar
+T10	Organization 585 616;617 629	Aelele Hege Regeeven, van Hder„ „lands India
+T11	Place 611 616;617 629	Hder„ „lands India
+T12	ProperName 611 616;617 629	Hder„ „lands India
+T13	Place 642 665	buijten de stad Batavia
+T14	ProperName 658 665	Batavia
+T15	Person 713 721;722 764;765 768	getuigen D: E: Christiaan Hendrik Cramer, onderkoop man
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator
+T16	ProperName 728 753	Christiaan Hendrik Cramer
+T17	Place 804 809;810 815	Pulem „bang
+T18	ProperName 804 809;810 815	Pulem „bang
+T19	Person 1386 1402	Iacobus Lodewijk
+A13	Gender T19 Unspecified
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Beneficiary
+T20	ProperName 1386 1402	Iacobus Lodewijk
+T21	Person 1500 1521	Joemath van Maclassar
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Enslaved
+A18	Role T21 Beneficiary
+T22	ProperName 1500 1521	Joemath van Maclassar
+T23	DuplicatePage 1565 1567	de
+T24	Person 1569 1578	Kok Johan
+A19	Gender T24 Man
+A20	LegalStatus T24 Unspecified
+A21	Role T24 Other
+T25	ProperName 1573 1578	Johan
+T26	ProperName 1687 1698	H: Rijnnagh
+T27	Person 1687 1698	H: Rijnnagh
+A22	Gender T27 Unspecified
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Other

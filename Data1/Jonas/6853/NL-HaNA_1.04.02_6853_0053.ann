@@ -1,0 +1,34 @@
+T1	Person 121 139	Abraham aan Dinten
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 121 139	Abraham aan Dinten
+T3	TranscriptionError_Document 0 2	In
+T4	Person 262 270	M„r Ioan
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 294 304	Ertman Cok
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 294 304	Ertman Cok
+T7	Person 394 409;410 435	Iacobus wijnand Brengman notaris publijcq
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Notary
+T8	ProperName 394 409;410 418	Iacobus wijnand Brengman
+T9	Organization 441 449;450 486	de Edele hooge regeringe van nederlands jndia
+T10	ProperName 444 449;450 486	Edele hooge regeringe van nederlands jndia
+T11	Place 470 486	nederlands jndia
+T12	ProperName 470 486	nederlands jndia
+T13	Place 501 523	binnen de stad batavia
+T14	ProperName 516 523	batavia
+T15	Person 584 594	Ertman Cok
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Testator
+T16	ProperName 584 594	Ertman Cok
+T17	Place 604 644	in de thee water straat binnen dese stad
+T18	ProperName 610 627	thee water straat
+T19	Place 1464 1473	ads India

@@ -1,0 +1,76 @@
+T1	ProperName 0 12	Lulot Lulots
+T2	Person 0 11	Lulot Lulot
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Notary T2 No
+T3	Person 103 125	Christen lijf Eijgenen
+A4	Gender T3 Group
+A5	LegalStatus T3 Enslaved
+A6	Notary T3 No
+T4	Person 613 624	David Jansz
+A7	Gender T4 Unspecified
+T6	Person 631 656	Fredrik Balthazar Isaaksz
+A10	Gender T6 Unspecified
+T8	Person 803 811	L: Rolff
+A13	Gender T8 Man
+A14	LegalStatus T8 Unspecified
+A15	Notary T8 Yes
+T9	ProperName 803 810	L: Rolf
+T10	Person 1006 1033	me juff:r Kelena van Rugven
+A16	Gender T10 Woman
+A17	LegalStatus T10 Unspecified
+A18	Notary T10 No
+T11	ProperName 1016 1033	Kelena van Rugven
+T12	Person 999 1005	suster
+A19	Gender T12 Woman
+A20	LegalStatus T12 Unspecified
+A21	Notary T12 No
+T13	Person 1130 1160	metuss:r Maria Alida Hasebroek
+A22	Gender T13 Woman
+A23	LegalStatus T13 Unspecified
+A24	Notary T13 No
+T14	Person 1169 1186	Heer olphers Elia
+A25	Gender T14 Man
+A26	LegalStatus T14 Unspecified
+A27	Notary T14 No
+T15	ProperName 1174 1187	olphers Elias
+T16	Place 1223 1228	Japan
+T17	ProperName 1223 1228	Japan
+T18	Person 1241 1256	huijsenbovuling
+A28	Gender T18 Unspecified
+A29	LegalStatus T18 Enslaved
+A30	Notary T18 No
+T19	Person 1257 1268	slavinnatje
+A31	Gender T19 Woman
+A32	LegalStatus T19 Enslaved
+T20	Person 1275 1280	biets
+A33	Gender T20 Woman
+A34	LegalStatus T20 Enslaved
+A35	Notary T20 No
+T21	ProperName 1275 1280	biets
+T22	Person 1293 1299	moeder
+A36	Gender T22 Woman
+A37	LegalStatus T22 Unspecified
+A38	Notary T22 No
+T25	ProperName 1332 1348	flora van boeges
+T23	Person 1308 1331	geemancipeerde slavinne
+A39	Gender T23 Woman
+A40	LegalStatus T23 Freed
+A41	Notary T23 No
+T24	Person 1308 1348	geemancipeerde slavinne flora van boeges
+A42	Gender T24 Woman
+A43	LegalStatus T24 Freed
+T26	Noteworthy 1241 1256	huijsenbovuling
+#1	AnnotatorNotes T26	huisinboorling; first time came across this term
+T27	Person 1034 1053	wed„e Swellingrebal
+A44	Gender T27 Woman
+A45	LegalStatus T27 Unspecified
+A46	Notary T27 No
+T28	ProperName 1040 1053	Swellingrebal
+A8	LegalStatus T4 Unspecified
+A9	Notary T4 No
+T5	ProperName 613 625	David Jansz:
+T7	ProperName 631 656	Fredrik Balthazar Isaaksz
+A11	LegalStatus T6 Unspecified
+A12	Notary T6 No
+T29	ProperName 879 885	vervat

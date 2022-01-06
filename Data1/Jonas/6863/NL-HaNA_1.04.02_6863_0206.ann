@@ -1,0 +1,30 @@
+T1	Place 83 101	fortresse Caliture
+T2	ProperName 93 101	Caliture
+T3	Person 120 135	Andries Drijver
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 120 135	Andries Drijver
+T5	Person 140 152	Ian De Lange
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 140 152	Ian De Lange
+T7	Person 203 208	S: I:
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Person 248 261	Seijmen Iansz
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 248 261	Seijmen Iansz
+T10	Person 284 299	Andries Drijver
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Witness
+T11	ProperName 284 299	Andries Drijver
+T12	Person 382 393	Arnlatte M:
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other

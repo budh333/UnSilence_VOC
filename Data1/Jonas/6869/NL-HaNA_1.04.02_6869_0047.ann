@@ -1,0 +1,61 @@
+T1	Person 65 92	Lodewijk Thomassin schipper
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 65 83	Lodewijk Thomassin
+T3	Organization 123 132	E: Comp:s
+T4	Person 181 201	Albert dirkse Hreeft
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 181 201	Albert dirkse Hreeft
+T6	Person 411 428	Lodwijk Thomassin
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 411 428	Lodwijk Thomassin
+T8	Person 446 449	Ien
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 446 449	Ien
+T10	Person 462 470	Ter Burg
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 462 470	Ter Burg
+T12	Person 541 562	Carel Aldertse Kreeff
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 541 562	Carel Aldertse Kreeff
+T14	Organization 1067 1078	S:E: Comp:s
+T15	Person 1230 1250	alders dirkse kreeft
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Testator
+T16	ProperName 1230 1250	alders dirkse kreeft
+T17	Person 1309 1326	Wouter macquelijn
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Witness
+T18	ProperName 1309 1326	Wouter macquelijn
+T19	Person 1328 1340	Abram Faring
+A25	Gender T19 Unspecified
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Witness
+T20	ProperName 1328 1340	Abram Faring
+T21	Person 1353 1375	Rieten fredrik Chandon
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Witness
+T22	ProperName 1353 1375	Rieten fredrik Chandon
+T23	Person 1468 1476	Jndorijn
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	TranscriptionError_Document 32 40	n dienst
+T25	Person 1792 1804	lijffeigenen
+A34	Gender T25 Group
+A35	LegalStatus T25 Enslaved
+A36	Role T25 Other

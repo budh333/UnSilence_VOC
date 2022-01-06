@@ -1,0 +1,15 @@
+T1	Person 288 301	lijffeijgenen
+A1	Gender T1 Group
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 354 361	slaeven
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	Person 365 375	Slaepinnen
+A7	Gender T3 Group
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Organization 1012 1022	Esche Comp
+T5	Place 1028 1043	Camer Amsterdam
+T6	ProperName 1034 1043	Amsterdam

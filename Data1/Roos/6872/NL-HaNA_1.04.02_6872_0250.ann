@@ -1,0 +1,20 @@
+T1	Person 39 55	Anna Pourdrinies
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 39 55	Anna Pourdrinies
+T3	Person 284 310	soon Reijnault de Bartault
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 289 310	Reijnault de Bartault
+T5	Person 638 643;644 666	huijs vrouw. Martha Poullier
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 651 667	Martha Poullier,
+T7	Person 681 698	Rijnault Bertault
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 681 698	Rijnault Bertault

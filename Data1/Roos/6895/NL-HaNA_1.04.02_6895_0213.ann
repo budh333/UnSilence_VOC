@@ -1,0 +1,36 @@
+T1	TranscriptionError_Document 0 2	in
+T2	DuplicatePage 0 2	in
+T3	Person 228 252	notaris Andries IanZalle
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T4	ProperName 236 252	Andries IanZalle
+T6	ProperName 360 376	Boenga Van Timor
+T7	Place 371 376	Timor
+T8	Person 392 415	Alida Maria van Batavia
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	ProperName 392 415	Alida Maria van Batavia
+T10	Place 408 415	Batavia
+T11	Person 601 624	Alida Maria van Batavia
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 601 624	Alida Maria van Batavia
+T13	Place 617 624	Batavia
+T15	ProperName 810 822;823 833	Jan Anthonij Bosschaard
+T16	Organization 955 966	der E. Comp
+T5	Person 343 351	slavinne
+A4	Gender T5 Woman
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T17	Person 360 376	Boenga Van Timor
+A16	Gender T17 Woman
+A17	LegalStatus T17 Enslaved
+A18	Role T17 Other
+T14	Person 810 822;823 833	Jan Anthonij Bosschaard
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Beneficiary
+A19	Beneficiary T16 No

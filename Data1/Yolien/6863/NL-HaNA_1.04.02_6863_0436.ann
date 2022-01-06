@@ -1,0 +1,32 @@
+T1	Place 286 308	weeshuijs te Amsterdam
+T2	ProperName 299 308	Amsterdam
+T3	Person 442 456;457 476	zuster Mejufra Johanna Maria Lamij
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 457 476	Johanna Maria Lamij
+T5	Person 502 517;518 523	Heer Abraham Bo „daud
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 507 517;518 523	Abraham Bo „daud
+T7	ProperName 533 546	Johanna Marga
+T8	Person 533 546	Johanna Marga
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	ProperName 547 561	Martha Johanna
+T10	Person 547 561	Martha Johanna
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 565 576;577 581	Petronellas dand
+T12	Person 565 576;577 581	Petronellas dand
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary
+T13	Person 1018 1024;1025 1031	Sabina Levina
+A16	Gender T13 Woman
+A17	LegalStatus T13 Enslaved
+A18	Role T13 Beneficiary
+T14	ProperName 1018 1024;1025 1031	Sabina Levina

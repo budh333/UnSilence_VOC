@@ -1,0 +1,59 @@
+T1	DuplicatePage 1 2	3
+T2	ProperName 100 124	Frans Hendrik Wolsleeben
+T3	Person 100 124	Frans Hendrik Wolsleeben
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 519 525	Bantoe
+#1	AnnotatorNotes T4	Banjoe
+T5	Place 519 525	Bantoe
+T6	ProperName 560 570	David Iuet
+T7	Place 575 584	Amsterdam
+T8	ProperName 575 584	Amsterdam
+T9	Person 560 570	David Iuet
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	Person 640 654;655 676	d’ E M„r Johan Everhard Coop a groen
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 649 654;655 676	Johan Everhard Coop a groen
+T12	Place 709 724	Javas oost Hoek
+T13	ProperName 709 724	Javas oost Hoek
+T14	Place 820 850;877 900	Een half steenen half Bamboese met Atap gedekte woning
+T15	ProperName 856 867	Joast Hoeve
+T16	Person 856 867	Joast Hoeve
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 1007 1015	V: Hoeve
+T18	Person 1007 1015	V: Hoeve
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	Person 1139 1152	Burger Hobert
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	ProperName 1146 1152	Hobert
+T21	ProperName 1229 1237	V: Hoeve
+T22	Person 1229 1237	V: Hoeve
+A19	Gender T22 Unspecified
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T23	ProperName 1423 1430	Helmond
+T24	Person 1423 1430	Helmond
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other
+T25	Person 1441 1447;1448 1454	Burger hobert
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	ProperName 1448 1454	hobert
+T27	ProperName 1656 1663	Helmond
+T28	Person 1656 1663	Helmond
+A28	Gender T28 Unspecified
+A29	LegalStatus T28 Unspecified
+A30	Role T28 Other

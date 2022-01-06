@@ -1,0 +1,54 @@
+T1	TranscriptionError_Document 0 1	d
+T2	DuplicatePage 0 1	d
+T3	ProperName 114 127	voor de Cooij
+T4	Person 114 127	voor de Cooij
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	Person 151 173	Ian Gabriel Laagerblom
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 151 173	Ian Gabriel Laagerblom
+T7	Organization 207 212	EComp
+T8	Organization 231 236	sComp
+T9	ProperName 246 254	Gustaaff
+T10	ProperName 255 261	Willem
+T11	Organization 1296 1302	heeren
+T12	Organization 1318 1374	bewindhebberen der geoctroijeerde oost indische Compagte
+T13	ProperName 1352 1374	oost indische Compagte
+T14	ProperName 1400 1407	Zeeland
+T15	Place 1400 1407	Zeeland
+T16	ProperName 1692 1703	Christoffel
+T17	Person 1692 1703	Christoffel
+A7	Gender T17 Man
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Witness
+T18	Person 1772 1797	dE: Ian Reijnier Coortzen
+A10	Gender T18 Man
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Other
+T19	ProperName 1776 1797	Ian Reijnier Coortzen
+T20	Person 1824 1841	Jacobus du Moulin
+A13	Gender T20 Unspecified
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Other
+T21	ProperName 1824 1841	Jacobus du Moulin
+T22	ProperName 2052 2055	Pau
+T23	ProperName 2076 2120	„lus Nicolaasten Balthazar Iacobus Salomonst
+T24	Person 2052 2055	Pau
+A16	Gender T24 Unspecified
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Witness
+T25	Person 2076 2120	„lus Nicolaasten Balthazar Iacobus Salomonst
+A19	Gender T25 Unspecified
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Witness
+T26	ProperName 2337 2345	Scheltus
+T27	Person 2337 2345	Scheltus
+A22	Gender T27 Man
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Notary
+T28	Place 237 254;255 261	schip D' Gustaaff Willem
+T29	Organization 611 629;630 633	Heeren weesmeeste„ ren
+T30	ProperName 611 629;630 633	Heeren weesmeeste„ ren

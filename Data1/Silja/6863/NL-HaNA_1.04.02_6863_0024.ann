@@ -1,0 +1,34 @@
+T1	DuplicatePage 0 8	nagezien
+T2	Organization 65 83	Raede van Iustitie
+T3	ProperName 65 83	Raede van Iustitie
+T4	Organization 268 285	rand van Justitie
+T5	ProperName 268 285	rand van Justitie
+T6	Place 295 299;300 313	Stad Jaffanapatnam
+T7	ProperName 300 313	Jaffanapatnam
+T8	Place 318 328	woonhuijse
+T9	ProperName 401 415	Carolus Enniss
+T10	ProperName 418 424;425 432	gerson panneel
+T11	Person 401 415	Carolus Enniss
+A1	Gender T11 Unspecified
+A2	LegalStatus T11 Unspecified
+A3	Role T11 Witness
+T12	Person 418 424;425 432	gerson panneel
+A4	Gender T12 Unspecified
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Witness
+T13	ProperName 589 603	J: V: d: Spar:
+T14	Person 589 603	J: V: d: Spar:
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other
+T15	Person 630 644	Daniel des Lok
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	ProperName 630 644	Daniel des Lok
+T17	Person 9 25	Louis de kretser
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 9 25	Louis de kretser
+A16	Beneficiary T2 No

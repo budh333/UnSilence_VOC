@@ -1,0 +1,57 @@
+T1	Person 123 131;150 169	broeders Hendrik Willebordus
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 150 169	Hendrik Willebordus
+T3	Person 123 131;170 176	broeders Willem
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 170 176	Willem
+T5	Person 135 141;180 210;211 220	suster Maria Catharina van bergen van der Grijp
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 180 210;211 220	Maria Catharina van bergen van der Grijp
+T8	Person 320 326;397 420;421 427	dogter Geertreyjda Wilhelimina Beijts
+A13	Gender T8 Woman
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Beneficiary
+T9	ProperName 397 420;421 427	Geertreyjda Wilhelimina Beijts
+T10	ProperName 365 381;382 387	mattheus hendrik Beyts
+T11	Person 488 503;504 528	Pakhuijsmeester Samuel Constantin Saffin
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 504 528	Samuel Constantin Saffin
+T13	Person 537 565	Samuel Constantin saffin J=r
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Beneficiary
+T14	ProperName 537 565	Samuel Constantin saffin J=r
+T15	ProperName 569 592	Jacobus Cornelis Saffin
+T16	Person 569 592	Jacobus Cornelis Saffin
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Beneficiary
+T17	Person 653 688	huijsvrouw Maria Barentina Slegiter
+A25	Gender T17 Woman
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 664 688	Maria Barentina Slegiter
+T20	ProperName 992 1007	Ian vander Laer
+T21	Person 1033 1061	Gesw: Scriba Pieter Sterstad
+A31	Gender T21 Unspecified
+A32	LegalStatus T21 Unspecified
+A33	Role T21 Other
+T22	ProperName 1046 1061	Pieter Sterstad
+#1	AnnotatorNotes T21	scriba
+T7	Person 365 381;382 387	mattheus hendrik Beyts
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T19	Person 992 1007	Ian vander Laer
+A28	Gender T19 Unspecified
+A29	LegalStatus T19 Unspecified
+A30	Role T19 Other
+T23	DuplicatePage 0 2	de

@@ -1,0 +1,6 @@
+T1	Person 43 57	D' E„s Lrasmus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 50 57	Lrasmus
+T3	TranscriptionError_Document 0 4	1735

@@ -1,0 +1,21 @@
+T1	DuplicatePage 3 8	Pafel
+T2	TranscriptionError_Document 0 2	1:
+T3	Place 223 234	Fort Gustan
+T4	ProperName 223 234	Fort Gustan
+T5	Person 235 254	Johan Willem van Ma
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 235 254	Johan Willem van Ma
+T7	Organization 268 277	DE Comp„e
+T8	ProperName 268 277	DE Comp„e
+T9	Person 318 331	J: C: Heijmin
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 318 331	J: C: Heijmin
+T11	Person 343 358	B: C: D: Bouman
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 343 358	B: C: D: Bouman

@@ -1,0 +1,24 @@
+T1	DuplicatePage 0 1	P
+T2	ProperName 40 52	Mohamat Mina
+T3	Person 40 52	Mohamat Mina
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Place 145 160;161 171	Nederlands Comp Sourabaija
+T5	ProperName 161 171	Sourabaija
+T6	Place 161 171	Sourabaija
+T7	ProperName 342 357	R:t Hildernisse
+T8	ProperName 324 338	G„r Deijdekker
+T9	Person 342 357	R:t Hildernisse
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	Person 324 338	G„r Deijdekker
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 250 257	Exhards
+T12	Person 250 257	Exhards
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other

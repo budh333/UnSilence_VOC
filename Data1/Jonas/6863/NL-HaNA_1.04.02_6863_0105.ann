@@ -1,0 +1,9 @@
+T1	TranscriptionError_Document 0 7	pagnies
+T2	Person 432 443	F„ Ceijsler
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 448 458	J: Plusker
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other

@@ -1,0 +1,29 @@
+T1	Person 830 849	m:r Egbert Blomhert
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 834 849	Egbert Blomhert
+T3	Place 894 911	nederlands Jordia
+T4	ProperName 894 911	nederlands Jordia
+T5	Place 932 946	de stad batera
+T6	ProperName 940 946	batera
+T7	Organization 874 911	hooge regeringe van nederlands Jordia
+T8	ProperName 874 911	hooge regeringe van nederlands Jordia
+T9	Place 1074 1101	SE: Comp:s ambagts quartier
+T10	Person 1821 1840	de slaaff September
+A4	Gender T10 Man
+A5	LegalStatus T10 Enslaved
+A6	Notary T10 No
+T11	ProperName 1831 1840	September
+T12	Person 1844 1858	Slavinneolinda
+A7	Gender T12 Woman
+A8	LegalStatus T12 Enslaved
+A9	Notary T12 No
+T13	ProperName 1852 1858	olinda
+T14	Place 1879 1888	mallebaar
+T15	ProperName 1879 1888	mallebaar
+T16	Person 1791 1800;1801 1820	Erfgename Harmelina Calharina
+A10	Gender T16 Woman
+A11	LegalStatus T16 Unspecified
+A12	Notary T16 No
+T17	ProperName 1801 1820	Harmelina Calharina
+A3	Role T1 Testator

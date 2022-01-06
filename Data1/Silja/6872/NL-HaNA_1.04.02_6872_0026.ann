@@ -1,0 +1,5 @@
+T1	Person 527 539	heer Coenrag
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 532 539	Coenrag

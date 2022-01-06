@@ -1,0 +1,50 @@
+T1	Person 226 231	Elias
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 226 231	Elias
+T4	ProperName 242 256;257 264	Geete Jacobsz: Jordijn
+T5	Organization 958 966;967 971	de Compe „nie
+T6	Organization 1051 1112	de Edele hoog agtbaare heeren bewind hebberen ter camer Hoorn
+T7	Place 1107 1112	Hoorn
+T8	Place 1931 1981;1982 1991	ten neederlands hooft comptoire Padang op Sumatras West Cust
+T9	ProperName 1963 1969	Padang
+T11	ProperName 2064 2070;2071 2085	Hendri van der Hoeven
+T12	Person 2089 2108	Andries de mesmaker
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Witness
+T13	ProperName 2089 2108	Andries de mesmaker
+T14	Person 2290 2311	P: V: Baak Secretaris
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Acting_Notary
+T15	ProperName 2290 2300	P: V: Baak
+T16	Place 2550 2573;2574 2578	Padang op Sumatras West Cust
+T17	ProperName 2550 2556	Padang
+T19	ProperName 2615 2626	I:s Aalders
+T21	ProperName 2694 2705	P:s Aalders
+T22	Person 2741 2748;2749 2761	Palders LE:o: Clercq
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T23	ProperName 2741 2748	Palders
+T3	Person 242 256;257 264	Geete Jacobsz: Jordijn
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T24	ProperName 1107 1112	Hoorn
+T10	Person 2064 2070;2071 2085	Hendri van der Hoeven
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Witness
+T18	Person 2615 2626	I:s Aalders
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T20	Person 2694 2705	P:s Aalders
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+A25	Beneficiary T5 No
+A26	Beneficiary T6 No

@@ -1,0 +1,15 @@
+T1	Person 162 181	Christenvrouw Clare
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 176 181	Clare
+T3	Person 541 557	Hans Iacob Holst
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 541 557	Hans Iacob Holst
+T5	Person 922 942	Christeis vrouw Rita
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 938 942	Rita

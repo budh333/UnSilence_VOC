@@ -1,0 +1,89 @@
+T1	Person 287 316	Ian Adriaan hendrik Hodenpijl
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 287 316	Ian Adriaan hendrik Hodenpijl
+T3	Person 400 411	mans slaven
+A4	Gender T3 Group
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	Person 421 427	Tjatjo
+A7	Gender T4 Man
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Other
+T5	ProperName 421 427	Tjatjo
+T6	Person 429 438	Collandro
+A10	Gender T6 Man
+A11	LegalStatus T6 Enslaved
+A12	Role T6 Other
+T7	ProperName 429 438	Collandro
+T8	Person 443 449	Galant
+A13	Gender T8 Man
+A14	LegalStatus T8 Enslaved
+A15	Role T8 Other
+T9	ProperName 443 449	Galant
+T10	Place 463 471	mandhaar
+T11	ProperName 463 471	mandhaar
+T12	Person 476 502	Aletta Margartha Hodenpijl
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 476 502	Aletta Margartha Hodenpijl
+T14	Person 563 569	slaven
+A19	Gender T14 Group
+A20	LegalStatus T14 Enslaved
+A21	Role T14 Other
+T15	Person 578 584	sittie
+A22	Gender T15 Woman
+A23	LegalStatus T15 Enslaved
+A24	Role T15 Other
+T16	ProperName 578 584	sittie
+T17	Person 588 595	Espagie
+A25	Gender T17 Woman
+A26	LegalStatus T17 Enslaved
+A27	Role T17 Other
+T18	ProperName 588 595	Espagie
+T19	Person 596 604	slavinne
+A28	Gender T19 Group
+A29	LegalStatus T19 Enslaved
+A30	Role T19 Other
+T20	Person 608 613;615 624	maart mansslaaf
+A31	Gender T20 Man
+A32	LegalStatus T20 Enslaved
+A33	Role T20 Other
+T21	ProperName 608 613	maart
+T22	Person 647 677	hendrietta Christina hodenpijl
+A34	Gender T22 Unspecified
+A35	LegalStatus T22 Unspecified
+A36	Role T22 Beneficiary
+T23	ProperName 647 677	hendrietta Christina hodenpijl
+T24	Person 757 763	slaven
+A37	Gender T24 Group
+A38	LegalStatus T24 Enslaved
+A39	Role T24 Other
+T25	Person 768 785	martha van boutou
+A40	Gender T25 Unspecified
+A41	LegalStatus T25 Enslaved
+A42	Role T25 Other
+T26	ProperName 768 785	martha van boutou
+T27	Place 779 785	boutou
+T28	Person 786 805	Dasiene van boegies
+A43	Gender T28 Unspecified
+A44	LegalStatus T28 Enslaved
+A45	Role T28 Other
+T29	ProperName 786 805	Dasiene van boegies
+T30	Place 798 805	boegies
+T31	Person 810 832	forthuijn van mandhaar
+A46	Gender T31 Unspecified
+A47	LegalStatus T31 Enslaved
+A48	Role T31 Other
+T32	ProperName 810 833	forthuijn van mandhaar,
+T33	Place 824 832	mandhaar
+T34	Person 1217 1223	slaven
+A49	Gender T34 Group
+A50	LegalStatus T34 Enslaved
+A51	Role T34 Other
+T35	Person 1225 1233	slavinne
+A52	Gender T35 Group
+A53	LegalStatus T35 Enslaved
+A54	Role T35 Other

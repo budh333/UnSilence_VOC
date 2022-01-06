@@ -1,0 +1,22 @@
+T1	DuplicatePage 0 6	Leesen
+T2	Place 54 64	Sourabaija
+T3	ProperName 54 64	Sourabaija
+T4	ProperName 133 156	Christiaan Ernst Eckard
+T5	Person 133 156	Christiaan Ernst Eckard
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 191 193;194 220;221 229	Me Juffrouw Maria Johanna van Tongeren
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 203 220;221 229	Maria Johanna van Tongeren
+T8	Organization 360 364	Comp
+T9	Organization 485 491;492 520;521 552;553 573	heeren bewindhebberen Der Generaale G'octroyeerde oostJndische Comp ter kaamer Amsterdam
+T10	ProperName 521 552	G'octroyeerde oostJndische Comp
+T11	ProperName 564 573	Amsterdam
+T12	Place 564 573	Amsterdam
+T13	Place 642 660	het schip voorland
+T14	ProperName 652 660	voorland
+T15	Place 664 669	Jndia
+T16	ProperName 664 669	Jndia

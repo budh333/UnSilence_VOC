@@ -1,0 +1,30 @@
+T1	DuplicatePage 1 2	E
+T2	ProperName 3 19	Mlichil Hartviel
+T3	Person 3 19	Mlichil Hartviel
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Place 396 403	Batavia
+T5	ProperName 396 403	Batavia
+T6	Person 447 462	Cs V:n d:r Stam
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 447 462	Cs V:n d:r Stam
+T8	ProperName 463 471	Cs Levas
+T9	Person 463 471	Cs Levas
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Place 1059 1066	Batavia
+T11	ProperName 1059 1066	Batavia
+T12	ProperName 1110 1121	Vn d:r Stam
+T13	Person 1110 1121	Vn d:r Stam
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	Person 1122 1130	„s Levas
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 1122 1130	„s Levas

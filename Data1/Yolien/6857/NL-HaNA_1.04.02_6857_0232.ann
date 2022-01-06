@@ -1,0 +1,5 @@
+T1	ProperName 21 36	Hamnus Groppaen
+T2	Person 21 36	Hamnus Groppaen
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator

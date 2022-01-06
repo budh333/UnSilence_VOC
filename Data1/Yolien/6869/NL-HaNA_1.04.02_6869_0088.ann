@@ -1,0 +1,10 @@
+T1	Person 50 70	DE: abraham van Leeu
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	Person 75 91	DE Pieter Coster
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 54 70	abraham van Leeu
+T4	ProperName 78 91	Pieter Coster

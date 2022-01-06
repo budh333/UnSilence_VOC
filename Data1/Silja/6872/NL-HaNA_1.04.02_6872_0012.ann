@@ -1,0 +1,23 @@
+T1	Place 90 108	Cabo de Goude Hoop
+T2	Place 109 122	ten oorhuijze
+T3	ProperName 90 108	Cabo de Goude Hoop
+T5	Person 215 226;227 239	S=r Benning Joachum Pren
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T4	ProperName 219 226;227 239	Benning Joachum Pren
+T6	Person 264 288	S=n Jan Laurens Bertbier
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 268 288	Jan Laurens Bertbier
+T8	Person 492 511	I=n f=d Teinmendorf
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 492 511	I=n f=d Teinmendorf
+T10	ProperName 559 570	Danul Pfeel
+T11	Person 559 570	Danul Pfeel
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator

@@ -1,0 +1,27 @@
+T1	Organization 63 68	EComp
+T2	Organization 346 365;366 396	Edele Groot Agtbare Bewindhebberen ter Camer Amsts
+T3	ProperName 346 365;366 396	Edele Groot Agtbare Bewindhebberen ter Camer Amsts
+T4	Place 385 396	Camer Amsts
+T5	Place 420 439	P:r tschip oostrust
+T6	ProperName 431 439	oostrust
+T7	Organization 597 630;631 659	het Eerwaarde Collegie van heeren meesteren der steede Batavia
+T9	Place 645 659	steede Batavia
+T8	ProperName 601 630;631 640	Eerwaarde Collegie van heeren meesteren
+T10	ProperName 652 659	Batavia
+T11	Place 1196 1209	Comp: hospita
+T12	Organization 1196 1200	Comp
+T13	Place 1210 1216	Bantam
+T14	ProperName 1210 1216	Bantam
+T15	Person 1287 1290	kip
+A1	Gender T15 Unspecified
+A2	LegalStatus T15 Unspecified
+A3	Role T15 Acting_Notary
+T16	Person 1357 1370	I:a V=n heffe
+A4	Gender T16 Unspecified
+A5	LegalStatus T16 Unspecified
+A6	Role T16 Witness
+T17	Person 1399 1409	A: Boittin
+A7	Gender T17 Unspecified
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Other
+#1	AnnotatorNotes T17	Signature

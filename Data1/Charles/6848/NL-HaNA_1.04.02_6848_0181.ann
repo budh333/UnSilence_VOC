@@ -1,0 +1,120 @@
+T1	Person 4 11	Lusinda
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Beneficiary
+T2	ProperName 4 11	Lusinda
+T3	Person 13 20	Lafleur
+A4	Gender T3 Man
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Beneficiary
+T4	Person 22 33	Alexcandrin
+A7	Gender T4 Woman
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Beneficiary
+T5	Person 36 44	Nathalie
+A10	Gender T5 Unspecified
+A11	LegalStatus T5 Enslaved
+A12	Role T5 Beneficiary
+T6	Person 46 52	Ioseph
+A13	Gender T6 Unspecified
+A14	LegalStatus T6 Enslaved
+A15	Role T6 Beneficiary
+T7	Person 57 61;62 68	Mat„ „thijs
+A16	Gender T7 Unspecified
+A17	LegalStatus T7 Enslaved
+A18	Role T7 Beneficiary
+T8	ProperName 13 20	Lafleur
+T9	ProperName 22 34	Alexcandrina
+T10	ProperName 36 44	Nathalie
+T11	ProperName 46 52	Ioseph
+T12	ProperName 57 61;62 68	Mat„ „thijs
+T13	Person 186 212	meijdens Aliema of Minerva
+A19	Gender T13 Woman
+A20	LegalStatus T13 Enslaved
+A21	Role T13 Beneficiary
+T14	ProperName 195 201	Aliema
+T15	ProperName 205 212	Minerva
+T16	Person 214 221	Noorsia
+A22	Gender T16 Woman
+A23	LegalStatus T16 Enslaved
+A24	Role T16 Beneficiary
+T17	Person 229 241	Ionge Marcus
+A25	Gender T17 Man
+A26	LegalStatus T17 Enslaved
+A27	Role T17 Beneficiary
+T18	ProperName 235 241	Marcus
+T19	ProperName 214 221	Noorsia
+T20	Person 388 408	vrije vrouwe Dominga
+A28	Gender T20 Woman
+A29	LegalStatus T20 Freed
+A30	Role T20 Beneficiary
+T21	ProperName 401 408	Dominga
+T22	Person 430 441;442 446	zoon Antho„ „nij
+A31	Gender T22 Man
+A32	LegalStatus T22 Freed
+A33	Role T22 Beneficiary
+T23	ProperName 435 441;442 446	Antho„ „nij
+T24	Person 484 502	vrijseboorne Ionge
+A34	Gender T24 Man
+A35	LegalStatus T24 Freed
+A36	Role T24 Beneficiary
+T25	ProperName 511 534	Baaijtjo, van Mallebaar
+T26	Person 511 534	Baaijtjo, van Mallebaar
+A37	Gender T26 Man
+A38	LegalStatus T26 Freed
+A39	Role T26 Beneficiary
+T27	Person 568 588	Iuffrouw Anna Nessas
+A40	Gender T27 Woman
+A41	LegalStatus T27 Unspecified
+A42	Role T27 Beneficiary
+T28	ProperName 577 588	Anna Nessas
+T29	Person 590 595	wed:e
+A43	Gender T29 Woman
+A44	LegalStatus T29 Unspecified
+A45	Role T29 Beneficiary
+T30	ProperName 627 642	Jan Diderik Las
+T31	Person 627 642	Jan Diderik Las
+A46	Gender T31 Man
+A47	LegalStatus T31 Unspecified
+A48	Role T31 Other
+T32	Place 648 654	Cochim
+T33	ProperName 648 654	Cochim
+T34	Person 788 804;805 817;818 835	huijsvrouw Mejer ffrouw Maria Barentina Sligter
+A49	Gender T34 Woman
+A50	LegalStatus T34 Unspecified
+A51	Role T34 Other
+T35	Person 788 798	huijsvrouw
+A52	Gender T35 Woman
+A53	LegalStatus T35 Unspecified
+A54	Role T35 Other
+T36	ProperName 812 817;818 835	Maria Barentina Sligter
+T37	Person 799 804;805 811	Mejer ffrouw
+A55	Gender T37 Woman
+A56	LegalStatus T37 Unspecified
+A57	Role T37 Other
+T38	Person 920 927	zoontje
+A58	Gender T38 Man
+A59	LegalStatus T38 Unspecified
+A60	Role T38 Other
+T39	Person 943 961	Iuff=r Anna Nissas
+A61	Gender T39 Woman
+A62	LegalStatus T39 Unspecified
+A63	Role T39 Other
+T40	ProperName 950 961	Anna Nissas
+T41	Person 980 997	Samuel Barend Pas
+A64	Gender T41 Man
+A65	LegalStatus T41 Unspecified
+A66	Role T41 Beneficiary
+T42	ProperName 980 997	Samuel Barend Pas
+T43	Person 1169 1188	Pieternel Hesseling
+A67	Gender T43 Unspecified
+A68	LegalStatus T43 Unspecified
+A69	Role T43 Beneficiary
+T44	Person 1191 1210	Elisabeth Vesseling
+A70	Gender T44 Unspecified
+A71	LegalStatus T44 Unspecified
+A72	Role T44 Beneficiary
+T45	Person 1401 1411	huijsvrouw
+A73	Gender T45 Woman
+A74	LegalStatus T45 Unspecified
+A75	Role T45 Other

@@ -1,0 +1,39 @@
+T1	Person 664 695	slaaven Iongen genaamt Fortuijn
+A1	Gender T1 Man
+A2	LegalStatus T1 Enslaved
+A3	Notary T1 No
+T2	ProperName 687 695	Fortuijn
+T3	Person 755 778;779 784	de Heeren Carel Albragt Haupt
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Notary T3 No
+T4	ProperName 765 778;779 784	Carel Albragt Haupt
+T5	Person 788 810	Hendrik Pieter Warnere
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Notary T5 No
+T6	ProperName 788 810	Hendrik Pieter Warnere
+T7	Place 814 832	Cabo de Goede Hoop
+T8	ProperName 814 832	Cabo de Goede Hoop
+T9	Person 987 1001	Jan Paul Rosin
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Notary T9 No
+T10	ProperName 987 1001	Jan Paul Rosin
+T11	Person 1006 1026;1027 1032	de Heer Jan Freedrig Rosen
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Notary T11 No
+T12	ProperName 1014 1026;1027 1032	Jan Freedrig Rosen
+T13	Place 1037 1046	Amsterdam
+T14	ProperName 1037 1046	Amsterdam
+T15	Person 1157 1162;1163 1168	J: P: Rosin
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Notary T15 No
+T16	ProperName 1157 1162;1163 1168	J: P: Rosin
+T17	Person 1173 1190	Jan Fredrik Rosen
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Notary T17 No
+T18	ProperName 1173 1190	Jan Fredrik Rosen

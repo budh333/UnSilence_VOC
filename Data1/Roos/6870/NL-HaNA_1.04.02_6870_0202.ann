@@ -1,0 +1,38 @@
+T1	Organization 339 357	de diaconije Armen
+A1	Beneficiary T1 Yes
+T2	Person 561 577	Johanna de Silta
+A2	Gender T2 Woman
+A3	LegalStatus T2 Freed
+A4	Role T2 Beneficiary
+T3	ProperName 561 577	Johanna de Silta
+T4	Organization 860 867	E:Comp:
+A5	Beneficiary T4 No
+T5	Person 868 879	Jan Arersz:
+A6	Gender T5 Man
+A7	LegalStatus T5 Unspecified
+A8	Role T5 Beneficiary
+T6	ProperName 868 879	Jan Arersz:
+T7	Place 884 891	Vijkerk
+T8	ProperName 884 891	Vijkerk
+T9	Person 1000 1006	slapen
+A9	Gender T9 Group
+A10	LegalStatus T9 Enslaved
+A11	Role T9 Other
+T10	Person 1008 1012;1013 1020	sla„ „vinnen
+A12	Gender T10 Group
+A13	LegalStatus T10 Enslaved
+A14	Role T10 Other
+T11	Person 1448 1460	David sweris
+A15	Gender T11 Unspecified
+A16	LegalStatus T11 Unspecified
+A17	Role T11 Other
+T12	ProperName 1448 1460	David sweris
+T13	Person 1465 1477	Jan Krijkman
+A18	Gender T13 Unspecified
+A19	LegalStatus T13 Unspecified
+A20	Role T13 Other
+T14	ProperName 1465 1477	Jan Krijkman
+T15	Person 540 548;549 554	de vrije vrome
+A21	Gender T15 Woman
+A22	LegalStatus T15 Freed
+A23	Role T15 Beneficiary

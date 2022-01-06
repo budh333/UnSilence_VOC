@@ -1,0 +1,26 @@
+T1	Person 181 200	Joan hendrik Mulder
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 181 200	Joan hendrik Mulder
+T3	Organization 527 554;555 572	d' gereformeerde Diakony ar „men deser steede
+T4	Organization 582 593	t Sterfhuys
+T5	Person 735 766	de besorgens van dat Gods huijs
+A4	Gender T5 Group
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	Person 1119 1133	Jacob hermanus
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	Person 1135 1150	Anna Chatharina
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	Person 1155 1160;1161 1167	fred= hilker
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Beneficiary
+T9	ProperName 1119 1133	Jacob hermanus
+T10	ProperName 1135 1150	Anna Chatharina
+T11	ProperName 1155 1160;1161 1167	fred= hilker

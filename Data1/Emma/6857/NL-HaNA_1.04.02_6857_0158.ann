@@ -1,0 +1,43 @@
+T1	Organization 73 84;85 125	Groot agtb: van Bwind hebberen ter Haamens Amsterdar
+T2	Place 116 125	Amsterdar
+T3	Person 20 37	Hend=k En gelbree
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 20 37	Hend=k En gelbree
+T5	Person 226 263	Schoonzoon den indigomaaker Beumardus
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 254 263	Beumardus
+T7	Person 279 314;315 322	Chirurgijn de heer Marinus van Lee„ wondaal
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 298 314;315 322	Marinus van Lee„ wondaal
+T9	Place 1001 1015	ten woonhuijse
+T10	Person 1056 1066	M=s Elling
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 1056 1066	M=s Elling
+T12	Person 1104 1131	R=k Pongemaat Agesw: soaiba
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Acting_Notary
+T13	ProperName 1104 1117	R=k Pongemaat
+T14	Person 1149 1153;1154 1176	getu „geteekend M:s Beckman
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Witness
+T16	ProperName 1165 1176	M:s Beckman
+T17	ProperName 1180 1195	I:s B:s Devilva
+T18	Person 1209 1222;1223 1235	V Dongemaats. Ges„e Siriba
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Acting_Notary
+T19	ProperName 1209 1221	V Dongemaats
+T15	Person 1180 1195	I:s B:s Devilva
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Witness

@@ -1,0 +1,27 @@
+T1	Person 8 27	Clabo de goede hoop
+T2	ProperName 8 27	Clabo de goede hoop
+T3	Person 191 207	Heere J: G: Brde
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 378 400	Heer Jan Fredrik Rosin
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Place 409 419	Amsterdams
+T6	ProperName 409 419	Amsterdams
+T7	Person 430 442	M Nolthenius
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	Person 574 583	Kok Johan
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+A13	Gender T1 Man
+A14	LegalStatus T1 Unspecified
+A15	Role T1 Witness
+T9	Person 692 700	Rijnnagh
+A16	Gender T9 Man
+A17	LegalStatus T9 Unspecified
+A18	Role T9 Notary

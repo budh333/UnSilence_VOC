@@ -1,0 +1,56 @@
+T1	Organization 40 68	Comptoire Houglij in Bengale
+T2	Place 58 68	in Bengale
+T3	ProperName 61 68	Bengale
+T4	Person 119 123;124 141	Mic„ „hiel Bastraansz:
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	Person 145 177;178 203	P=r Clignet arnz: Clerquen dezer Secretarije als getuijgen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T7	ProperName 119 123;124 140	Mic„ „hiel Bastraansz
+T8	Person 237 246	Jan Mulie
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 237 246	Jan Mulie
+T10	Person 293 312	F=o Brouwer EClercq
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 293 304	F=o Brouwer
+T12	Person 349 364	M=r Bastiaansz:
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Witness
+T13	ProperName 349 363	M=r Bastiaansz
+T14	Person 368 384	P=r Clignet arnz
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Witness
+T15	ProperName 368 384	P=r Clignet arnz
+T6	ProperName 145 161	P=r Clignet arnz
+T16	Place 491 502	in Bengales
+T17	ProperName 494 502	Bengales
+T18	Person 556 583	Cornelis de Jonge president
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Testator
+T19	ProperName 556 573	Cornelis de Jonge
+T20	Organization 616 644	den achtb: Raad van Justitie
+T21	Person 666 688	F=k Brouwer Secretaris
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 666 677	F=k Brouwer
+T23	Person 725 728;729 744	J=z Brouwer EClercq
+A25	Gender T23 Man
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	ProperName 725 728;729 736	J=z Brouwer
+T25	Person 757 768;769 773	P PdiWe erg Citt
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	ProperName 757 768	P PdiWe erg

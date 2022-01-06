@@ -1,0 +1,23 @@
+T1	Person 65 88	Abigael Sosina Martijus
+A1	Gender T1 Woman
+A2	LegalStatus T1 Freed
+A3	Role T1 Beneficiary
+T2	ProperName 65 88	Abigael Sosina Martijus
+T3	Organization 471 533;534 553	heeren Bewind hebberen der g’octroijeerde Oost Jndiesche Comp: ter kamer Amsterdam
+T4	ProperName 498 532	g’octroijeerde Oost Jndiesche Comp
+T5	Place 544 553	Amsterdam
+T6	ProperName 544 553	Amsterdam
+T7	ProperName 773 806	Collegie van heeren weesmeesteren
+T8	Organization 773 806	Collegie van heeren weesmeesteren
+T9	Person 1324 1332	slavinne
+A4	Gender T9 Woman
+A5	LegalStatus T9 Enslaved
+A6	Role T9 Other
+T10	Person 1243 1249	slaven
+A7	Gender T10 Group
+A8	LegalStatus T10 Enslaved
+A9	Role T10 Other
+T11	Person 1561 1574	Leijfeijgenen
+A10	Gender T11 Group
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other

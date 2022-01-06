@@ -1,0 +1,26 @@
+T1	Person 77 85;86 97	Cornelis Jan Bogaard
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 77 85;86 97	Cornelis Jan Bogaard
+T3	Person 191 211;212 221	Rielemanus dionisans de groot,
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 191 211;212 220	Rielemanus dionisans de groot
+T5	Organization 239 249	der EComp:
+A7	Beneficiary T5 No
+T6	Person 260 271;272 299	me Juffrouw margareta Cuik van mijer op
+A8	Gender T6 Woman
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Testator_Beneficiary
+T7	ProperName 272 299	margareta Cuik van mijer op
+T8	Place 1581 1593	in ’t patria
+T9	Person 1614 1620	slaven
+A11	Gender T9 Group
+A12	LegalStatus T9 Enslaved
+A13	Role T9 Other
+T10	Person 1624 1633	slavinnen
+A14	Gender T10 Group
+A15	LegalStatus T10 Enslaved
+A16	Role T10 Other

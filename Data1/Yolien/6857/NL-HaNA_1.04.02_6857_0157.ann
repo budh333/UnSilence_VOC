@@ -1,0 +1,30 @@
+T1	Person 26 49	Henderik van Eyndhooven
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 26 49	Henderik van Eyndhooven
+T3	ProperName 82 105	Hendrik van Eijndhooren
+T4	Person 82 105	Hendrik van Eijndhooren
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	Person 335 353	Reinier Iongemaats
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 335 353	Reinier Iongemaats
+T7	Person 465 496	militair d’heer Matthijs Elling
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 481 496	Matthijs Elling
+T9	Person 1284 1299;1300 1319	dogter Cathari„ na Elisabeth Elling
+A13	Gender T9 Woman
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 1291 1299;1300 1319	Cathari„ na Elisabeth Elling
+T11	Organization 1483 1489	Comp:e
+T12	TranscriptionError_Document 0 10	Inventaris
+T13	Place 401 409	Cheribon
+T14	ProperName 401 409	Cheribon
+T15	Place 1066 1075	weeshuijs

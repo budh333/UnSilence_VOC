@@ -1,0 +1,46 @@
+T2	ProperName 300 308	Cheribon
+T3	Person 202 237	Hteer M„r Pieter Cornelis Hasselaer
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 212 236	Pieter Cornelis Hasselae
+T5	Place 261 268	Batavia
+T6	ProperName 261 268	Batavia
+T7	Person 406 409;410 420	Ian van Leijst
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 406 409;410 420	Ian van Leijst
+T9	Person 435 459	Fredrik Bannier Sergeant
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 435 450	Fredrik Bannier
+T11	Organization 482 492	ECompagnie
+T12	Person 522 540	Johannes Garrelman
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 522 540	Johannes Garrelman
+T14	Person 810 820;822 856	boekhouder en Pachuijsmeester Ian van derLaer
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 841 856	Ian van derLaer
+T16	Person 895 910	Pieter Sterstad
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other
+T17	ProperName 895 910	Pieter Sterstad
+T18	TranscriptionError_Document 0 5	vendu
+T19	ProperName 66 81;82 85	Johannes Garrel man
+T20	Person 66 81;82 85	Johannes Garrel man
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Testator
+T1	Place 300 308	Cheribon
+T21	ProperName 350 368	Johannes Harzelman
+T22	Person 350 368	Johannes Harzelman
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other

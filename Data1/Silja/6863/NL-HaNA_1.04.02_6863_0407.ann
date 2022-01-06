@@ -1,0 +1,17 @@
+T1	DuplicatePage 0 8	Vendutie
+T2	Place 18 28;30 38	ten zoldij Comptoir
+T3	ProperName 114 136	Carel Fredrik Leipnits
+T4	Person 114 136	Carel Fredrik Leipnits
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 196 206	Kretschmas
+T6	Person 196 206	Kretschmas
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	Person 391 404;434 441	Carel Fredrik Laepnls
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 391 404;434 441	Carel Fredrik Laepnls

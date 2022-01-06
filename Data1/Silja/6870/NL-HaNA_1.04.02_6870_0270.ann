@@ -1,0 +1,18 @@
+T1	Person 85 92	slaaven
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 97 106	slavinnen
+A4	Gender T2 Group
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	ProperName 472 488	godlieb saltsman
+T4	ProperName 523 545	Christoph Reijnhard wE
+T5	Person 472 488	godlieb saltsman
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	Person 523 545	Christoph Reijnhard wE
+A10	Gender T6 Man
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other

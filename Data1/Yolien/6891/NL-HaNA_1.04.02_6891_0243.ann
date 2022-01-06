@@ -1,0 +1,48 @@
+T1	TranscriptionError_Document 0 3	Dan
+T2	DuplicatePage 18 20	In
+T3	DuplicatePage 1246 1250	1775
+T4	ProperName 97 110	Carel Telkamp
+T5	Person 97 110	Carel Telkamp
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Acting_Notary
+T6	Place 227 250	konings Fort de Diamant
+T8	Person 263 303	Trompetter Frans Peijtscher van Klaufort
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 274 303	Frans Peijtscher van Klaufort
+T10	Person 644 662;663 675	gereformeerden dia „come armen,
+A7	Gender T10 Group
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Beneficiary
+T11	Person 705 719	Lutherse armen
+A10	Gender T11 Group
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 705 713	Lutherse
+T13	Place 724 730;731 735	amster dam,
+T14	ProperName 724 730;731 735	amster dam,
+T15	ProperName 810 828;829 836	Ioannes Schrooders kuijper
+T16	Person 810 828;829 837	Ioannes Schrooders kuijper,
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Beneficiary
+T17	ProperName 863 892;893 897	Arij Pietersz visser bosschie ter,
+T18	Person 863 892;893 897	Arij Pietersz visser bosschie ter,
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Beneficiary
+T19	Person 1068 1084;1085 1091	suster Katharina Peeper
+A19	Gender T19 Woman
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Beneficiary
+T20	ProperName 1075 1084;1085 1091	Katharina Peeper
+T21	ProperName 1108 1115;1116 1122	andries gutsen
+T22	Person 1108 1115;1116 1122	andries gutsen
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T23	ProperName 1137 1146	zeegeberg
+T24	Place 1137 1146	zeegeberg
+T7	ProperName 240 250	de Diamant

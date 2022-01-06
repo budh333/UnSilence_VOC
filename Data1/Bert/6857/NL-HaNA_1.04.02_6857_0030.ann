@@ -1,0 +1,14 @@
+T1	Person 400 411	I. H. Reijs
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 400 411	I. H. Reijs
+T4	ProperName 501 506	China
+T3	Place 491 506	Canton en China
+#1	AnnotatorNotes T3	Canton in China
+T5	ProperName 491 497	Canton
+T6	Person 530 541;543 550	J=r demans. Curator
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 530 540	J=r demans

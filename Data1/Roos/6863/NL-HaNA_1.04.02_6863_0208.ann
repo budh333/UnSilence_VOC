@@ -1,0 +1,20 @@
+T1	Person 2 17	Cornelis Teflis
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 2 17	Cornelis Teflis
+T4	ProperName 67 81	Weddig Beukman
+T6	ProperName 131 136;137 151	Johan Hendrik Maurer
+T7	Person 321 340	Luijtenant Cornelis
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 321 340	Luijtenant Cornelis
+T3	Person 67 96	Weddig Beukman p:r secaelaaus
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T5	Person 126 136;137 151	heer Johan Hendrik Maurer
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other

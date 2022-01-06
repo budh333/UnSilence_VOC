@@ -1,0 +1,24 @@
+T1	Place 0 9	Amsterdam
+T2	ProperName 0 9	Amsterdam
+T3	Place 563 573	ten huijse
+T4	Place 607 640;641 646	staende aen de vismarkt binnen de stad,
+T5	Person 698 721	Iohannes Ezechiel Felix
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	Person 725 731;732 764	Abraha Paulusz: Clercquen als getuijgen
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 698 721	Iohannes Ezechiel Felix
+T8	ProperName 726 731;732 739	braha Paulusz
+T9	Person 853 875	P„r Vobbelaar N„s prbl
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 853 866	P„r Vobbelaar
+T11	Person 888 897	P Brunner
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 888 897	P Brunner

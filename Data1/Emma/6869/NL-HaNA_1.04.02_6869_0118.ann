@@ -1,0 +1,14 @@
+T1	TranscriptionError_Document 0 1	P
+T2	DuplicatePage 2 11	Laastelyk
+T3	Person 92 122	Boekhouder Tolkert vander Leij
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 103 121	Tolkert vander Lei
+T5	Person 147 174	Siriba Egbert Arend Dewelde
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 154 174	Egbert Arend Dewelde
+T7	Place 294 303	'sE: Comp
+T8	ProperName 295 303	sE: Comp

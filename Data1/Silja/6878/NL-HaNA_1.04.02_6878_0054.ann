@@ -1,0 +1,27 @@
+T1	Organization 468 495;496 501	de Gerefermeerde kerkte sam „rang
+A1	Beneficiary T1 Yes
+T2	Place 492 495;496 501	sam „rang
+T3	ProperName 492 495;496 501	sam „rang
+T4	Person 656 678	Broeder Abraham Siffle
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Beneficiary
+T5	ProperName 664 678	Abraham Siffle
+T6	ProperName 714 729	d: E: Compagnie
+T7	Organization 714 729	d: E: Compagnie
+A5	Beneficiary T7 No
+T8	Person 943 969	:Hardewijna Adriana Siffle
+A6	Gender T8 Woman
+A7	LegalStatus T8 Unspecified
+A8	Role T8 Beneficiary
+T9	ProperName 943 969	:Hardewijna Adriana Siffle
+T10	ProperName 1018 1026;1027 1048	Wilhelma Johannes d’Everdingen
+T11	Person 1018 1026;1027 1048	Wilhelma Johannes d’Everdingen
+A9	Gender T11 Man
+A10	LegalStatus T11 Unspecified
+A11	Role T11 Other
+T12	ProperName 1156 1160;1161 1176	Nico Marcus Martheze
+T13	Person 1156 1160;1161 1176	Nico Marcus Martheze
+A12	Gender T13 Unspecified
+A13	LegalStatus T13 Unspecified
+A14	Role T13 Beneficiary

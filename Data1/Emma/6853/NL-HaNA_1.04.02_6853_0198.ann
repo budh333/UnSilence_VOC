@@ -1,0 +1,16 @@
+T1	Person 18 34	Jan van Wetteren
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 18 34	Jan van Wetteren
+T3	Organization 110 120	Jnstitutie
+T4	Organization 158 179;180 204	’t Eerwaarde Collegie van heeren weesmeesteren
+T5	Place 205 215	deser stad
+T8	Place 688 702;703 707	ter kamer Amst „dam
+T9	ProperName 698 702;703 707	Amst „dam
+T10	Place 1323 1348	ins Compagnies Hlospitaal
+T11	Organization 1327 1337	Compagnies
+T12	ProperName 159 179;180 204	t Eerwaarde Collegie van heeren weesmeesteren
+T13	Organization 654 702;703 707	geoctroijeerde oost Jndiche Comp: ter kamer Amst „dam
+T14	ProperName 654 702;703 707	geoctroijeerde oost Jndiche Comp: ter kamer Amst „dam
+T6	ProperName 1327 1337	Compagnies

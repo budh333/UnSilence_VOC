@@ -1,0 +1,17 @@
+T1	TranscriptionError_Document 0 1	R
+T2	ProperName 76 94	Wesselius Bertling
+T3	Person 76 94	Wesselius Bertling
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Organization 128 132	Comp
+T5	Place 165 183	’t schip Nieuwstad
+T6	ProperName 174 183	Nieuwstad
+T7	ProperName 217 243	Claas Pietersz van Dantzig
+T8	Person 217 243	Claas Pietersz van Dantzig
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 1109 1118	Amsterdam
+T10	Place 1109 1118	Amsterdam
+T11	DuplicatePage 1424 1428	1775

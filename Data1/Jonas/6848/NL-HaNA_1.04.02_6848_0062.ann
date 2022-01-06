@@ -1,0 +1,50 @@
+T1	Person 1 5;6 13;14 16;17 21	Dirk „Pieter de Haas
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	ProperName 1 5;6 13;14 16;17 21	Dirk „Pieter de Haas
+T3	Person 112 142	Iohannes Peving, notaris publ:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Notary T3 Yes
+T4	Organization 150 192	Edele hooge Regeering van Nederlands India
+T5	ProperName 150 192	Edele hooge Regeering van Nederlands India
+T6	ProperName 112 127	Iohannes Peving
+T7	Place 213 228	de stad Batavia
+T8	ProperName 221 228	Batavia
+T9	Person 276 316	DeE: Pieter Dirk de Haas, ordinair Klerk
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Notary T9 No
+T10	ProperName 281 300	Pieter Dirk de Haas
+T11	Organization 322 343	Generaale Secretarije
+T12	Person 354 380	Juffrouw Catharina Veisser
+A10	Gender T12 Woman
+A11	LegalStatus T12 Unspecified
+A12	Notary T12 No
+T13	ProperName 363 380	Catharina Veisser
+T14	Organization 753 763	den Comp:e
+T16	ProperName 885 898;900 907	Maria Adriana de Haas
+T15	Person 876 898;900 907	Juffrouw Maria Adriana de Haas
+A13	Gender T15 Woman
+A14	LegalStatus T15 Unspecified
+A15	Notary T15 No
+T17	Person 920 933	Frans Bakhoff
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Notary T17 No
+T18	ProperName 920 933	Frans Bakhoff
+T19	Organization 964 978	Borger Boeijen
+T20	Person 1318 1339;1340 1353	universeele Erfgenaam of Erfgenaeme
+A19	Gender T20 Group
+A20	LegalStatus T20 Unspecified
+A21	Notary T20 No
+T21	Person 1619 1635	kind of kinderen
+A22	Gender T21 Group
+A23	LegalStatus T21 Unspecified
+A24	Notary T21 No
+T22	Person 1794 1818	bafgenaar of Erfgenaemen
+A25	Gender T22 Group
+A26	LegalStatus T22 Unspecified
+A27	Notary T22 No
+#1	AnnotatorNotes T19	Not sure it is an organization yet. It needs further research.

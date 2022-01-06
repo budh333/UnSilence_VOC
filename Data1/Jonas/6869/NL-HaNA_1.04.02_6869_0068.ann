@@ -1,0 +1,37 @@
+T1	Person 20 27	Phensia
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Person 31 42	Eca Meijrin
+A4	Gender T2 Woman
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Beneficiary
+T3	ProperName 31 42	Eca Meijrin
+T4	Person 201 222	Jan George Krasberger
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	ProperName 201 222	Jan George Krasberger
+T6	Place 233 241;242 255	te Tokol in bongarijen
+T7	ProperName 236 241;242 255	Tokol in bongarijen
+T8	Place 314 344;345 356	in de stad: ofen staande armen Krankenhuis
+T9	Organization 336 344;345 356	de armen Krankenhuis
+T10	Person 818 827	Elisabeth
+A10	Gender T10 Woman
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary
+T11	Person 831 847	Maria Krasbetger
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	ProperName 831 847	Maria Krasbetger
+T13	Place 857 878	te ofen in bongaoijen
+T14	ProperName 868 878	bongaoijen
+T15	Place 1367 1387;1388 1440;1441 1457	in het hem testateur toe behoorend huis staande in de S„t Iohannes Straat N„o 406: te osen
+T16	ProperName 1421 1440;1441 1448	S„t Iohannes Straat N„o 406
+T17	ProperName 1453 1457	osen
+T18	Place 1469 1478	Welk huis
+T19	Person 2111 2118	AC Heur
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other

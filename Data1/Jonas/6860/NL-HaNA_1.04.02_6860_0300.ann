@@ -1,0 +1,12 @@
+T1	Organization 32 43;44 76	Christelike Gereeformeerde Kerke te Samarang
+T2	Place 68 76	Samarang
+T3	ProperName 32 43;44 76	Christelike Gereeformeerde Kerke te Samarang
+T4	ProperName 68 76	Samarang
+T5	Person 197 203	Gendol
+A1	Gender T5 Woman
+A2	LegalStatus T5 Freed
+A3	Role T5 Beneficiary
+T6	ProperName 197 203	Gendol
+T7	Organization 759 790;791 810	Edele Oostindische Maatschappye ter Kamer Amsterdam
+T8	Place 801 810	Amsterdam
+T9	ProperName 801 810	Amsterdam

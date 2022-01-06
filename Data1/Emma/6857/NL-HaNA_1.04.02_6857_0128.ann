@@ -1,0 +1,13 @@
+T1	DuplicatePage 1 4	opi
+T2	Person 20 38	Jacobus van Bommel
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 20 37	Jacobus van Bomme
+T4	Organization 43 75	de Edele oost Jndische Compagnie
+T5	ProperName 43 75	de Edele oost Jndische Compagnie
+T6	Organization 391 406	Hooge overheijd
+T7	Person 790 798	lijfEijg
+A4	Gender T7 Group
+A5	LegalStatus T7 Enslaved
+A6	Role T7 Beneficiary

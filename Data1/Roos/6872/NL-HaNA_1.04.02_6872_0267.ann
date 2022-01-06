@@ -1,0 +1,22 @@
+T1	Place 118 127	Amsteldam
+T2	ProperName 118 127	Amsteldam
+T3	Person 146 167	Joannes Crams Junior,
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 146 166	Joannes Crams Junior
+T5	Person 171 180	Jan Giger
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 171 180	Jan Giger
+T7	Person 257 277	Philippus Pot, Not:s
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 257 270	Philippus Pot
+T9	Person 340 351	D: D: Hilij
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 340 351	D: D: Hilij

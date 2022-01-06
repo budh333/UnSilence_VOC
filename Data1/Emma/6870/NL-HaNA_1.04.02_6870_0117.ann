@@ -1,0 +1,24 @@
+T1	Person 68 79;80 93	onses Heere Jesus Christi
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 80 93	Jesus Christi
+T3	Person 161 168;169 193	Ian van Rijkevorsel onderCoopman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 161 168;169 180	Ian van Rijkevorsel
+T5	DuplicatePage 0 2	Ao
+T6	TranscriptionError_Document 3 6	194
+T7	Place 222 245	op ’t schip west Cappel
+T8	ProperName 234 245	west Cappel
+T9	Person 269 294	Schieman Jan Van den Berg
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 278 294	Jan Van den Berg
+T11	Organization 771 778	dE Comp
+T12	ProperName 771 778	dE Comp
+T13	Organization 832 852;853 892	Edele Groot Agtbaare Heeren Bevindhebberen ter kamer Zeeland
+T14	Place 875 892	ter kamer Zeeland
+T15	ProperName 885 892	Zeeland

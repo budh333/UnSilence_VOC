@@ -1,0 +1,12 @@
+T1	Place 1365 1378;1379 1386	in de jonker„ „straat
+T2	ProperName 1371 1378;1379 1386	jonker„ „straat
+T3	Person 1439 1459	Abraham Jsaac Gromme
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 1439 1459	Abraham Jsaac Gromme
+T5	Person 1477 1482;1483 1510	Moses Carel Willem de Tommerolles
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 1477 1482;1483 1510	Moses Carel Willem de Tommerolles

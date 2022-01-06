@@ -1,0 +1,14 @@
+T2	ProperName 482 495	Alida Lefeber
+T3	Place 504 513	ouwerkerk
+T4	ProperName 504 513	ouwerkerk
+T6	ProperName 624 636	Lucas Cramer
+T7	Place 913 919	Europa
+T8	ProperName 913 919	Europa
+T1	Person 482 495	Alida Lefeber
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T5	Person 618 636	den E Lucas Cramer
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other

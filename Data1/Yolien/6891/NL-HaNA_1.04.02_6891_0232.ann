@@ -1,0 +1,6 @@
+T1	TranscriptionError_Document 33 37	seer
+T2	ProperName 227 240	Jan van Raams
+T3	Person 227 240	Jan van Raams
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other

@@ -1,0 +1,42 @@
+T1	Person 0 6;7 12;13 19	Iurgen Johan Peimig
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 0 6;7 12;13 19	Iurgen Johan Peimig
+T3	Person 287 303	Abraham Salomons
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+T4	ProperName 287 303	Abraham Salomons
+T5	ProperName 307 313;314 328	Antho„ „Wij Cornelisz
+T6	Person 307 313;314 328	Antho„ „Wij Cornelisz
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+T7	Person 491 507	Johannes Preving
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+T8	ProperName 491 507	Johannes Preving
+T9	ProperName 578 591	Nicolaas Maas
+T10	Person 578 591	Nicolaas Maas
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+T11	Organization 628 660	Regeeringe van Neederlands India
+T12	ProperName 643 660	Neederlands India
+T13	Place 643 660	Neederlands India
+T14	Place 682 697	de stad Batavia
+T15	ProperName 690 697	Batavia
+T16	ProperName 748 751;752 770	Io= „han Iurgen Teimig
+T17	Person 748 751;752 771	Io= „han Iurgen Teimig,
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+T18	Organization 796 809	Ed: Compagnie
+T19	Person 814 840	Juffrouw Albertina Krimmel
+A19	Gender T19 Woman
+A20	LegalStatus T19 Unspecified
+T20	ProperName 814 839	Juffrouw Albertina Krimme
+T21	Place 869 883	antjolse vaart
+A3	Role T1 Other
+A6	Role T3 Witness
+A9	Role T6 Witness
+A12	Role T7 Notary
+A15	Role T10 Notary
+A18	Role T17 Testator
+A21	Role T19 Testator

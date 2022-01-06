@@ -1,0 +1,12 @@
+T1	Organization 7 23	de Ed: Compagnie
+A1	Beneficiary T1 No
+T2	Organization 125 149;150 199	de hoof Edele Groot Acht „baare Heeren Bewindhebber en ter kamer Amsterdam
+A2	Beneficiary T2 No
+T3	Place 190 199	Amsterdam
+T4	ProperName 190 199	Amsterdam
+T5	Place 279 300;301 305	het schip Het Huijste Meij
+T6	ProperName 289 300;301 305	Het Huijste Meij
+T7	Person 921 931	Lijdeigene
+A3	Gender T7 Group
+A4	LegalStatus T7 Enslaved
+A5	Role T7 Other

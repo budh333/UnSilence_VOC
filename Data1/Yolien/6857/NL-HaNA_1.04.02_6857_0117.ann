@@ -1,0 +1,42 @@
+T1	Person 12 28	Jacob van Bommel
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 12 28	Jacob van Bommel
+T3	Organization 164 170	E Comp
+T4	Person 270 279;280 302	heer Rob„ bert Hendrik Armenault
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 275 279;280 302	Rob„ bert Hendrik Armenault
+T6	Place 336 343	Batavia
+T7	ProperName 336 343	Batavia
+T8	Person 412 430	Jacobus van Bommel
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	ProperName 412 430	Jacobus van Bommel
+T10	Organization 453 459	E Comp
+T11	Person 125 139	Ian van Zeijst
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 125 139	Ian van Zeijst
+T13	Person 1619 1629;1630 1644	Johan Lode „wijk Hendriks
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	ProperName 1619 1629;1630 1644	Johan Lode „wijk Hendriks
+T15	Organization 1886 1890	Comp
+T16	TranscriptionError_Document 0 2	22
+T17	Person 1592 1615	Ian van den wildenbergh
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Beneficiary
+T18	ProperName 1592 1615	Ian van den wildenbergh
+T19	Place 1428 1437	weeshuijs
+T20	Person 2207 2218	H: Rijnnagh
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	ProperName 2210 2218	Rijnnagh

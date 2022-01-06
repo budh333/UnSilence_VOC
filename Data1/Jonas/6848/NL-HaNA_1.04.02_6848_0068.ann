@@ -1,0 +1,22 @@
+T1	Person 133 158	Vrouwe Alida Tidith Veuge
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	Place 169 186	buijten dese stad
+T3	Place 747 755;756 762	te Banda Neijra
+T4	ProperName 750 755;756 762	Banda Neijra
+T5	Person 804 812;813 835	Adrianus Anthonij 'S Gravesande
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Notary T5 No
+T6	Person 1633 1662	hei Paulus Wilhelmus Pelters,
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Notary T6 No
+T7	Person 1722 1733;1734 1759	Jong Vrouwe Johanna Iacoba Grimmelius
+A10	Gender T7 Woman
+A11	LegalStatus T7 Unspecified
+A12	Notary T7 No
+T8	ProperName 1637 1661	Paulus Wilhelmus Pelters
+T9	ProperName 805 812;813 835	drianus Anthonij 'S Gravesande
+T10	ProperName 1734 1759	Johanna Iacoba Grimmelius

@@ -1,0 +1,32 @@
+T1	Person 865 886	Rossen den Chirurgijn
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 865 871	Rossen
+T3	Place 991 998	hoeglij
+T4	ProperName 991 997	hoegli
+T5	Place 1435 1472	ten Neederlandse kantoor kassembazaar
+T6	Place 1460 1472	kassembazaar
+T7	ProperName 1460 1471	kassembazaa
+T8	Person 1512 1533	Nicolaas Daniel Leyen
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	Person 1534 1538;1539 1545	melt meijer
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 1512 1533	Nicolaas Daniel Leyen
+T11	ProperName 1534 1538;1539 1545	melt meijer
+T12	Person 1698 1708	P: Brueijs
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 1720 1732	L= Wersprick
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 1698 1708	P: Brueijs
+T15	ProperName 1720 1732	L= Wersprick
+#1	AnnotatorNotes T15	Verspeijck
+#2	AnnotatorNotes T13	Verspeijck

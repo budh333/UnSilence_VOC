@@ -1,0 +1,24 @@
+T1	ProperName 14 39	Barend van Der Claashorst
+T2	Person 14 39	Barend van Der Claashorst
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Place 258 265	Batavia
+T4	ProperName 258 265	Batavia
+T5	Organization 283 297;298 311	Collegie van R weesmeesteren
+T6	ProperName 283 297;298 311	Collegie van R weesmeesteren
+T7	Place 383 390	Batavia
+T8	ProperName 383 390	Batavia
+T9	Person 410 436	Dogtertju Nicoliena Aurora
+A4	Gender T9 Woman
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Beneficiary
+T10	ProperName 420 436	Nicoliena Aurora
+T11	Place 758 768	sterfhuijs
+T12	Organization 912 921	Compagnie
+T13	Organization 1052 1097;1098 1107	Heeren Bewendhebberen der Edele Oostindis che Compagnie
+T14	ProperName 1084 1097;1098 1107	Oostindis che Compagnie
+T15	ProperName 1119 1128	Rotterdam
+T16	Place 1119 1128	Rotterdam
+T17	Place 1167 1189	het sChip de Elisabeth
+T18	ProperName 1177 1189	de Elisabeth
