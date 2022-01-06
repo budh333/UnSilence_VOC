@@ -6,3 +6,4 @@ class EntityTagType(ArgumentEnum):
     Gender = 'gender'
     LegalStatus = 'legal-status'
     Role = 'role'
+    OrganizationBeneficiary = 'organization-beneficiary'

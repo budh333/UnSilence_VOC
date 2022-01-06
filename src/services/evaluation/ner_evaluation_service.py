@@ -78,7 +78,8 @@ class NEREvaluationService(BaseEvaluationService):
             EntityTagType.Name: 'NE-PER-NAME',
             EntityTagType.Gender: 'NE-PER-GENDER',
             EntityTagType.LegalStatus: 'NE-PER-LEGAL-STATUS',
-            EntityTagType.Role: 'NE-PER-ROLE'
+            EntityTagType.Role: 'NE-PER-ROLE',
+            EntityTagType.OrganizationBeneficiary: 'NE-ORG-BENEFICIARY'
         }
 
         checkpoints_path = self._file_service.get_checkpoints_path()

@@ -53,7 +53,7 @@
                 "--validation-dataset-limit-size", "1",
                 "--patience", "1000",
 
-                "--entity-tag-types", "main", "name", "gender", "legal-status", "role",
+                "--entity-tag-types", "main", "name", "gender", "legal-status", "role", "organization-beneficiary",
                 "--merge-subwords",
 
                 "--overwrite-previous-model",

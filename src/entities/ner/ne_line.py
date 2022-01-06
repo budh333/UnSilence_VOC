@@ -19,6 +19,7 @@ class NELine:
         self.ne_person_gender = []
         self.ne_person_legal_status = []
         self.ne_person_role = []
+        self.ne_organization_beneficiary = []
 
         self.original_length = 0
         self.position_changes: Dict[int, List[int]] = None
@@ -63,6 +64,10 @@ class NELine:
             self._add_entity_if_available(
                 csv_row, 'NE-PER-ROLE', self.ne_person_role, use_none_if_empty=True)
 
+        if EntityTagType.OrganizationBeneficiary in possible_entity_tag_types:
+            self._add_entity_if_available(
+                csv_row, 'NE-ORG-BENEFICIARY', self.ne_organization_beneficiary, use_none_if_empty=True)
+
     def _get_token_features(self, token: str) -> Dict[WordFeature, bool]:
         result = {
             WordFeature.AllLower: self._get_feature_value(token.islower(), WordFeature.AllLower),
@@ -100,6 +105,8 @@ class NELine:
             return self.ne_person_legal_status
         elif entity_tag_type == EntityTagType.Role:
             return self.ne_person_role
+        elif entity_tag_type == EntityTagType.OrganizationBeneficiary:
+            return self.ne_organization_beneficiary
         else:
             raise Exception(f'Unsupported entity tag type {entity_tag_type}')
 
@@ -131,6 +138,7 @@ class NELine:
             new_ne_person_gender = deepcopy(self.ne_person_gender)
             new_ne_person_legal_status = deepcopy(self.ne_person_legal_status)
             new_ne_person_role = deepcopy(self.ne_person_role)
+            new_ne_organization_beneficiary = deepcopy(self.ne_organization_beneficiary)
 
             position_changes = {}
             corresponding_counter = 0
@@ -159,6 +167,8 @@ class NELine:
                             new_ne_person_legal_status, corresponding_counter+1, self.ne_person_legal_status[i])
                         self._insert_entity_tag(
                             new_ne_person_role, corresponding_counter+1, self.ne_person_role[i])
+                        self._insert_entity_tag(
+                            new_ne_organization_beneficiary, corresponding_counter+1, self.ne_organization_beneficiary[i])
 
                     corresponding_counter += 1
                     position_changes[i].append(corresponding_counter)
@@ -172,6 +182,7 @@ class NELine:
             self.ne_person_gender = new_ne_person_gender
             self.ne_person_legal_status = new_ne_person_legal_status
             self.ne_person_role = new_ne_person_role
+            self.ne_organization_beneficiary = new_ne_organization_beneficiary
 
         self.position_changes = position_changes
 
@@ -224,6 +235,7 @@ class NELine:
             self.ne_person_gender[pos],
             self.ne_person_legal_status[pos],
             self.ne_person_role[pos],
+            self.ne_organization_beneficiary[pos],
         ]
 
     def _add_entity_if_available(self, csv_row: dict, key: str, obj: list, use_none_if_empty: bool = False):
