@@ -1,5 +1,0 @@
-T1	Person 0 18	Pieter Paulus Pame
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Testator_Beneficiary
-T2	ProperName 0 18	Pieter Paulus Pame

@@ -1,9 +1,0 @@
-T1	Person 145 155	C: Telkamp
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Acting_Notary
-T2	Person 184 199	J: HrCattenbarg
-A4	Gender T2 Unspecified
-A5	LegalStatus T2 Unspecified
-A6	Role T2 Other
-T3	ProperName 187 199	HrCattenbarg

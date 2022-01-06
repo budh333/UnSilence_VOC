@@ -1,9 +1,0 @@
-T1	Place 238 247	amsterdam
-T2	ProperName 238 247	amsterdam
-T3	Place 310 322	hildersheijm
-T4	ProperName 310 322	hildersheijm
-T5	ProperName 1069 1093	Marcus hendrik fabritius
-T6	Person 1069 1093	Marcus hendrik fabritius
-A1	Gender T6 Unspecified
-A2	LegalStatus T6 Unspecified
-A3	Role T6 Other

@@ -1,7 +1,0 @@
-T1	Person 18 34	Jan van wetteren
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Testator
-T3	Place 35 44	Amsterdam
-T4	ProperName 35 44	Amsterdam
-T2	ProperName 18 34	Jan van wetteren

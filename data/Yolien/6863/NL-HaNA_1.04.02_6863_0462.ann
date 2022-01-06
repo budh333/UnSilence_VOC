@@ -1,9 +1,0 @@
-T1	Place 48 57	sterfhuij
-T2	ProperName 232 243	Conjungaale
-T3	Person 1508 1533	vader D’ heer Gideon Mens
-A1	Gender T3 Man
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Other
-T4	ProperName 1522 1533	Gideon Mens
-T5	ProperName 1557 1566	Amsterdam
-T6	Place 1557 1566	Amsterdam
