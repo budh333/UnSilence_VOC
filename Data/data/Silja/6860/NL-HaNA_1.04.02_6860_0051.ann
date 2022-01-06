@@ -1,0 +1,59 @@
+T1	DuplicatePage 0 2	De
+T2	ProperName 26 40	Jelles Mellema
+T3	Person 26 40	Jelles Mellema
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 174 184	Jan La Pro
+T5	Person 174 184	Jan La Pro
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	Place 218 227	Comptoirs
+T7	Place 262 271	Ten huize
+T8	ProperName 343 357	Jelles Nellema
+T9	Place 365 373	scheemda
+T10	ProperName 365 373	scheemda
+T11	ProperName 409 417	Samarang
+T12	Place 409 417	Samarang
+T13	ProperName 377 404	Dorothea Elisabekh Abrahams
+T14	Person 377 404	Dorothea Elisabekh Abrahams
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Testator_Beneficiary
+T15	Person 343 357	Jelles Nellema
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator_Beneficiary
+T16	Place 835 845;846 861	Nederlands Compt:r Grissee
+T17	ProperName 854 861	Grissee
+T18	Place 854 861	Grissee
+T19	Person 892 910	Jan Joenem Wilhelm
+A13	Gender T19 Unspecified
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Other
+T20	ProperName 952 974	Theodorus Joh Hartings
+T21	Person 952 974	Theodorus Joh Hartings
+A16	Gender T21 Man
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Acting_Notary
+T22	Person 1013 1020	7 Josee
+A19	Gender T22 Unspecified
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Witness
+T23	ProperName 1013 1020	7 Josee
+T24	ProperName 1109 1119	C: EEchard
+T25	Person 1109 1119	C: EEchard
+A22	Gender T25 Unspecified
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 1075 1084	Jan Lapro
+T27	Person 1075 1084	Jan Lapro
+A25	Gender T27 Man
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Acting_Notary
+T28	ProperName 1021 1035	Jan Van Putten
+T29	Person 1021 1035	Jan Van Putten
+A28	Gender T29 Unspecified
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Witness

@@ -1,0 +1,33 @@
+T1	TranscriptionError_Document 0 2	We
+T2	Person 8 19	J Adermarld
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 10 19	Adermarld
+T4	ProperName 114 128	Tesus Chrustus
+T5	Organization 306 325	bengolse secretarie
+T6	ProperName 306 314	bengolse
+T7	ProperName 268 281;282 286	Elso sterven„ berg
+T8	Person 268 281;282 286	Elso sterven„ berg
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Acting_Notary
+T9	ProperName 367 372	adolp
+T10	ProperName 375 387	Freddik Roos
+T11	Person 367 372	adolp
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	Person 375 387	Freddik Roos
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	Organization 481 485	Comp
+T14	Place 543 558	schip dels land
+T15	ProperName 549 558	dels land
+T16	ProperName 1000 1010	Enkhuijsen
+T17	Place 990 1010	Ter Camer Enkhuijsen
+T18	Place 1043 1060	schiep Geertruijd
+T19	ProperName 1050 1060	Geertruijd
+T20	DuplicatePage 1259 1263	Amen
+T21	ProperName 1360 1372	Jesu Christi

@@ -1,0 +1,15 @@
+T1	Person 104 132	DE Fredrik Brukman ad Judant
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 107 122	Fredrik Brukman
+T3	Person 156 185	George Fredrik Roth adsistent
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 156 175	George Fredrik Roth
+T5	Person 361 378	GarrisJon notaris
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	ProperName 361 370	GarrisJon

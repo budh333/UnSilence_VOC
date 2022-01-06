@@ -1,0 +1,15 @@
+T1	Person 143 172	Reynier maartensz: secretaris
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+#1	AnnotatorNotes T1	secretary acts as notary
+T2	ProperName 143 161	Reynier maartensz:
+T3	Place 414 421	malacca
+T4	ProperName 414 421	malacca
+T5	Person 457 465;466 487	Reijnier Maartensz: Secretaris
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 457 465;466 476	Reijnier Maartensz:
+T7	Noteworthy 414 421;422 465;466 487	malacca den 23:e 7ber: 1707. was, getekent Reijnier Maartensz: Secretaris
+#2	AnnotatorNotes T7	No notary in this testament written in Malacca

@@ -1,0 +1,66 @@
+T2	ProperName 37 46	Rijnhardt
+T3	Person 118 125	Laurens
+A4	Gender T3 Man
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	ProperName 118 125	Laurens
+T1	Person 29 46	De Heer Rijnhardt
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T5	Person 137 155	Inlander Nottoersa
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 146 155	Nottoersa
+T8	Person 184 196	Inlander Jam
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 193 196	Jam
+T11	Person 303 317	Sergeant Smith
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 312 317	Smith
+T13	Person 421 444	Sold=t Jan Van den Berg
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 428 444	Jan Van den Berg
+T15	ProperName 516 524	Brengman
+T16	Person 513 524	D= Brengman
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	Person 567 593	Stuurman Matthijs Schruder
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 576 593	Matthijs Schruder
+T19	Person 619 638	Kapitain Vagtendonk
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 628 638	Vagtendonk
+T21	ProperName 661 666	Maria
+T22	Person 661 666	Maria
+A28	Gender T22 Woman
+A29	LegalStatus T22 Enslaved
+A30	Role T22 Other
+T23	Person 680 710	bombardier Karel Willem Dresde
+A31	Gender T23 Man
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 691 710	Karel Willem Dresde
+T25	Person 740 755	Inlander Maniek
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Freed
+A36	Role T25 Other
+T26	ProperName 749 755	Maniek
+T27	ProperName 908 913	Ronin
+T28	Person 904 913	M=r Ronin
+A37	Gender T28 Unspecified
+A38	LegalStatus T28 Unspecified
+A39	Role T28 Other
+T29	TranscriptionError_Document 2 6	Door

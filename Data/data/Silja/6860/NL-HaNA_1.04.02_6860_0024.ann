@@ -1,0 +1,17 @@
+T1	Person 36 42	slaven
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 46 55	slavinnen
+A4	Gender T2 Group
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	Place 718 725	Batavia
+T4	ProperName 718 725	Batavia
+T5	ProperName 1153 1175	Iohan Christoff Sieber
+T6	Person 1153 1175	Iohan Christoff Sieber
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Place 1369 1375	Europa
+T8	ProperName 1369 1375	Europa

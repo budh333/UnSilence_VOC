@@ -1,0 +1,8 @@
+T1	Person 994 1003	Kok Johan
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 1114 1122	Rijnnagh
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Notary

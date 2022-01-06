@@ -1,0 +1,30 @@
+T1	Place 485 519	ot Maccasser int Casteel Rotterdam
+T2	ProperName 488 497	Maccasser
+T3	ProperName 510 519	Rotterdam
+T4	Person 547 558	C: C: Braun
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 547 558	C: C: Braun
+T6	Person 594 608;609 618	G: Bremer Eers geswlercq
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 594 603	G: Bremer
+T8	Person 653 665	Thomas Lange
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 669 688	Fredrrik Hooijmeije
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 653 665	Thomas Lange
+T11	ProperName 669 689	Fredrrik Hooijmeijer
+T12	Place 839 848	Maccasser
+T13	ProperName 839 848	Maccasser
+T14	Person 922 930	Bostelek
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 922 930	Bostelek

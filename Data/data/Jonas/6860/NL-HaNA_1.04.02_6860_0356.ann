@@ -1,0 +1,26 @@
+T1	Person 105 111	P: Ras
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Person 152 164	S: A: Dreier
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T3	Person 216 222	Dreier
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Organization 275 292;293 301	Raade van Iustibi Samarang
+T5	Place 293 301	Samarang
+T6	ProperName 293 301	Samarang
+T7	TranscriptionError_Document 331 337	mutsen
+T8	Person 983 1000	Nicolaas Pietertz
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 983 1000	Nicolaas Pietertz
+T10	Person 1004 1017	Johannes Born
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 1004 1017	Johannes Born

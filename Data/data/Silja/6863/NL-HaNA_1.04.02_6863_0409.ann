@@ -1,0 +1,139 @@
+T1	Place 44 54;56 64	ten holdij Comptoir
+T2	ProperName 140 162	Carel Fredrik Leipnits
+T3	Person 140 162	Carel Fredrik Leipnits
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 240 250	M.: Cramer
+T5	ProperName 282 291	van Cleef
+T6	Person 240 250	M.: Cramer
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	Person 282 291	van Cleef
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 317 324	Hugonis
+T9	Person 317 324	Hugonis
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	Person 377 402	Pieter G:s orge De Kuster
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 377 402	Pieter G:s orge De Kuster
+T12	Person 461 476	D:E: Kretschmar
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 466 476	Kretschmar
+T14	ProperName 347 353	Kuster
+T15	Person 347 353	Kuster
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	Person 517 540	Pieter G.orge de Zuster
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	Person 517 540	Pieter G.orge de Zuster
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	Person 590 604	D.E. Jonkheere
+A28	Gender T18 Unspecified
+A29	LegalStatus T18 Unspecified
+A30	Role T18 Other
+T19	ProperName 595 604	Jonkheere
+T20	ProperName 639 649	Kretschmar
+T21	Person 639 649	Kretschmar
+A31	Gender T21 Unspecified
+A32	LegalStatus T21 Unspecified
+A33	Role T21 Other
+T22	Person 673 684	dE: nugonis
+A34	Gender T22 Unspecified
+A35	LegalStatus T22 Unspecified
+A36	Role T22 Other
+T23	ProperName 677 684	nugonis
+T24	ProperName 701 722	Pieter Porg De kuster
+T25	Person 701 722	Pieter Porg De kuster
+A37	Gender T25 Unspecified
+A38	LegalStatus T25 Unspecified
+A39	Role T25 Other
+T26	Person 754 766	J=r Martensz
+A40	Gender T26 Unspecified
+A41	LegalStatus T26 Unspecified
+A42	Role T26 Other
+T27	ProperName 754 766	J=r Martensz
+T28	Person 836 849	DE: Ionkheere
+A43	Gender T28 Unspecified
+A44	LegalStatus T28 Unspecified
+A45	Role T28 Other
+T29	ProperName 840 849	Ionkheere
+T30	ProperName 922 929	Pugonis
+T31	Person 922 929	Pugonis
+A46	Gender T31 Unspecified
+A47	LegalStatus T31 Unspecified
+A48	Role T31 Other
+T32	ProperName 1071 1076	Smith
+T33	Person 1071 1076	Smith
+A49	Gender T33 Unspecified
+A50	LegalStatus T33 Unspecified
+A51	Role T33 Other
+T34	Person 1146 1157	Dirk Lolken
+A52	Gender T34 Unspecified
+A53	LegalStatus T34 Unspecified
+A54	Role T34 Other
+T35	ProperName 1146 1157	Dirk Lolken
+T36	Person 1221 1236	dE: franchimont
+A55	Gender T36 Unspecified
+A56	LegalStatus T36 Unspecified
+A57	Role T36 Other
+T37	ProperName 1225 1236	franchimont
+T38	ProperName 1274 1282	Martentz
+T39	Person 1274 1282	Martentz
+A58	Gender T39 Unspecified
+A59	LegalStatus T39 Unspecified
+A60	Role T39 Other
+T40	ProperName 1337 1359	Domenic- van den Bosch
+T41	Person 1337 1359	Domenic- van den Bosch
+A61	Gender T41 Unspecified
+A62	LegalStatus T41 Unspecified
+A63	Role T41 Other
+T42	Person 1372 1387	dE: Franchimont
+A64	Gender T42 Unspecified
+A65	LegalStatus T42 Unspecified
+A66	Role T42 Other
+T43	ProperName 1376 1387	Franchimont
+T44	ProperName 1416 1430	Andries Rumond
+T45	Person 1416 1430	Andries Rumond
+A67	Gender T45 Unspecified
+A68	LegalStatus T45 Unspecified
+A69	Role T45 Other
+T46	ProperName 1566 1574	Martensz
+T47	Person 1566 1574	Martensz
+A70	Gender T47 Unspecified
+A71	LegalStatus T47 Unspecified
+A72	Role T47 Other
+T48	Person 1535 1551	Carel otto meyer
+A73	Gender T48 Unspecified
+A74	LegalStatus T48 Unspecified
+A75	Role T48 Other
+T49	ProperName 1535 1551	Carel otto meyer
+T50	ProperName 1507 1522	vander sleijden
+T51	Person 1507 1522	vander sleijden
+A76	Gender T51 Unspecified
+A77	LegalStatus T51 Unspecified
+A78	Role T51 Other
+T52	ProperName 1596 1611	Lsaauw D' Costa
+T53	Person 1596 1611	Lsaauw D' Costa
+A79	Gender T53 Unspecified
+A80	LegalStatus T53 Unspecified
+A81	Role T53 Other
+T54	ProperName 1487 1495	Steijger
+T55	Person 1487 1495	Steijger
+A82	Gender T55 Unspecified
+A83	LegalStatus T55 Unspecified
+A84	Role T55 Other

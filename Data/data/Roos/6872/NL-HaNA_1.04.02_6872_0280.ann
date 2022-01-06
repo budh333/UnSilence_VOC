@@ -1,0 +1,17 @@
+T1	Place 763 776;777 781	Cabo de goede Hoop
+T2	ProperName 763 776;777 781	Cabo de goede Hoop
+T3	Person 880 902	Otto Wilhelm Rotenburg
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 880 902	Otto Wilhelm Rotenburg
+T5	Person 906 912;913 930	Jochem Hendrik Borgwedel
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 906 912;913 930	Jochem Hendrik Borgwedel
+T7	Person 1139 1158	J=n f=k Tiemmendort
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 1139 1158	J=n f=k Tiemmendort

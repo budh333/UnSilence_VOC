@@ -1,0 +1,24 @@
+T1	Place 60 103;104 113	binnen destad Cochim, ten woonhuijse van de testateur
+T2	ProperName 74 80	Cochim
+T3	Person 183 209	Johannes Coenraad dekrouse
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 183 209	Johannes Coenraad dekrouse
+T5	Person 214 228	Johannes Wolff
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 214 228	Johannes Wolff
+T7	Person 999 1008	Garrelman
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Person 1212 1228	P: C:s Hasselaer
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	Person 1240 1248;1249 1261	HHerstad Gesw: Scriba
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Notary

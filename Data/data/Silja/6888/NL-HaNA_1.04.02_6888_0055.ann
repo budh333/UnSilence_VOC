@@ -1,0 +1,27 @@
+T1	DuplicatePage 0 5	Copia
+T2	Person 380 403	Josephus de grand preez
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 380 403	Josephus de grand preez
+T4	Organization 423 436;437 446;447 480	E: agtb: raad tenoemere van Justitie deezes gouvernements
+A4	Beneficiary T4 No
+T5	Place 467 480	gouvernements
+T6	ProperName 571 584;585 590	Hendrik gouts „berg
+T7	Person 571 584;585 590	Hendrik gouts „berg
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Testator_Beneficiary
+T8	Place 595 602	schagen
+T9	ProperName 595 602	schagen
+T10	ProperName 698 716	anna van den oever
+T11	Place 721 731	famsterdam
+T12	ProperName 721 731	famsterdam
+#1	AnnotatorNotes T12	Amsterdam
+T13	Person 698 716	anna van den oever
+A8	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Testator_Beneficiary
+T14	ProperName 2990 2995	Comp=
+T15	Organization 2990 2995	Comp=
+A11	Beneficiary T15 No

@@ -1,0 +1,27 @@
+T1	Person 113 129;90 108	van der Niepoott Rudolph Florentius
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Place 148 154;155 157;158 167	deesen 8. Comptoire
+T3	Person 268 284	Frederik Helmont
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 268 284	Frederik Helmont
+T5	Person 369 376;381 391	Agnetta Lachariasz
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator_Beneficiary
+T6	Place 397 404	Batavia
+T7	ProperName 397 404	Batavia
+T8	Organization 1036 1069;1072 1080	Diaconij armen ten hooft Comptoir Samarang
+T9	Place 1055 1069;1072 1080	hooft Comptoir Samarang
+T10	ProperName 1072 1080	Samarang
+T11	Person 1376 1383	slaaven
+A10	Gender T11 Group
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other
+T12	Person 1387 1395	slavinne
+A13	Gender T12 Group
+A14	LegalStatus T12 Enslaved
+A15	Role T12 Other

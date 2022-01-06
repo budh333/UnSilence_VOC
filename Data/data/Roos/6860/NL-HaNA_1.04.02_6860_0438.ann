@@ -1,0 +1,31 @@
+T1	Place 10 19	Amsterdam
+T2	ProperName 10 19	Amsterdam
+T3	Place 74 101	het schip De Drie Papegaien
+T4	ProperName 84 101	De Drie Papegaien
+T5	Place 705 737	Neederlands Comptoire Sourabaija
+T6	ProperName 727 737	Sourabaija
+T7	Person 760 771	J: de Vries
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Testator
+T8	ProperName 760 771	J: de Vries
+T9	Person 813 823	A:s Harten
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Acting_Notary
+T10	ProperName 813 823	A:s Harten
+T11	Person 867 882	G:t Van Ripoort
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Witness
+T12	ProperName 867 882	G:t Van Ripoort
+T14	Person 886 904	J=n fredrik Waller
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T13	ProperName 886 904	J=n fredrik Waller
+T15	Person 940 947	Andries
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Acting_Notary
+T16	ProperName 940 947	Andries

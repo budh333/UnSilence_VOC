@@ -1,0 +1,18 @@
+T1	Place 210 230	In t E: Comhp: schip
+T2	Organization 215 224	E: Comhp:
+A1	Beneficiary T2 No
+T3	Person 264 285	Claas Gosen / Shieman
+A2	Gender T3 Man
+A3	LegalStatus T3 Unspecified
+A4	Role T3 Witness
+T4	ProperName 264 275	Claas Gosen
+T5	Person 287 302	Hendrik brouwel
+A5	Gender T5 Unspecified
+A6	LegalStatus T5 Unspecified
+A7	Role T5 Witness
+T6	ProperName 287 302	Hendrik brouwel
+T7	Person 453 461	J:H Hars
+A8	Gender T7 Unspecified
+A9	LegalStatus T7 Unspecified
+A10	Role T7 Acting_Notary
+T8	ProperName 453 461	J:H Hars

@@ -1,0 +1,37 @@
+T1	Person 79 88;89 103	manhaften Fredrik Luther
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 89 103	Fredrik Luther
+T3	Person 218 228;229 235	Jan Hend=k Muller
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 218 228;229 235	Jan Hend=k Muller
+T5	Person 344 363;364 372	Johannes Fransiscus Gratiaan
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 344 363;364 372	Johannes Fransiscus Gratiaan
+T7	Person 451 471	Joan Hugonis Koopman
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 451 463	Joan Hugonis
+T9	Place 893 896;897 902	Co= lambo
+T10	ProperName 893 896;897 902	Co= lambo
+T11	Person 1058 1077	J: A: van der voort
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 1058 1077	J: A: van der voort
+T13	Person 1100 1114	Banieldef Poke
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 1100 1114	Banieldef Poke
+T15	Person 1126 1139	Daniel de Bok
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 1126 1139	Daniel de Bok

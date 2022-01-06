@@ -1,0 +1,40 @@
+T3	Person 174 192	Johannes Garrelman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 174 192	Johannes Garrelman
+T5	Person 290 320;321 335	Ian van der Laer boekhouder en Pakhuijsmeeste
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 290 306	Ian van der Laer
+T7	Person 443 467	D' E: Johannes Garrelman
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 449 467	Johannes Garrelman
+T9	Organization 497 509	E: Compagnie
+T10	Person 566 591	sergeant Cornelis Fessers
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Testator
+T11	ProperName 575 591	Cornelis Fessers
+T12	Person 1107 1121;1122 1143	moeder Iuffrou Anna Margaretta Eleke
+A16	Gender T12 Woman
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 1122 1143	Anna Margaretta Eleke
+T14	Person 1172 1189	Hendrik Garrelman
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Beneficiary
+T15	ProperName 1172 1189	Hendrik Garrelman
+T16	Place 1201 1218	de stad Amsterdam
+T17	ProperName 1209 1218	Amsterdam
+T18	Organization 1485 1497	E: Compagnie
+T2	ProperName 66 81;82 85	Johannes Garrel man
+T1	Person 66 81;82 85	Johannes Garrel man
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T19	DuplicatePage 1504 1516	naagelaatene

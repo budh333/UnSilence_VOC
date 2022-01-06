@@ -1,0 +1,21 @@
+T1	Person 352 372	Willem van Kerkhoff:
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 352 371	Willem van Kerkhoff
+T3	Place 437 452	Caboe Goedehoop
+T4	ProperName 437 452	Caboe Goedehoop
+T5	Person 535 549;550 554	Pieter Pausus„ Tame
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T6	ProperName 535 549;550 554	Pieter Pausus„ Tame
+T7	Place 559 575	'S Graven Jaagen
+T8	ProperName 559 575	'S Graven Jaagen
+T9	Person 579 593;594 603	Anna Catharina Conterman
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator_Beneficiary
+T10	ProperName 579 593;594 603	Anna Catharina Conterman
+T11	Place 608 612	Cabo
+T12	ProperName 608 612	Cabo

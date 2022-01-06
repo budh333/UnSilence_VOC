@@ -1,0 +1,12 @@
+T1	ProperName 347 362	Maria Magdalena
+T2	Person 347 362	Maria Magdalena
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	Organization 488 492	Comp
+T4	Person 1193 1212;1213 1219	Christene vrouw Mar Helena
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Organization 1323 1348;1349 1359	Collegie van heer en wels „meesteren
+T6	ProperName 1323 1348;1349 1359	Collegie van heer en wels „meesteren

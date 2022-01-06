@@ -1,0 +1,22 @@
+T1	Place 629 633	Cabo
+T2	ProperName 629 633	Cabo
+T3	Person 701 713	Dirk Arendsz
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 701 713	Dirk Arendsz
+T5	Person 717 729	Laurers Lund
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 717 729	Laurers Lund
+T7	Person 938 953	C. L. Neethling
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 938 953	C. L. Neethling
+T9	Person 1032 1041	Pesternon
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 1032 1041	Pesternon

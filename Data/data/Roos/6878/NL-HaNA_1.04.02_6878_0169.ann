@@ -1,0 +1,28 @@
+T1	TranscriptionError_Document 0 1	:
+T2	Person 76 101;102 112	Christen vrouw Wilhelmina Sara Ardns
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 91 101;102 112	Wilhelmina Sara Ardns
+T4	Person 376 386	Jacob Wils
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 376 386	Jacob Wils
+T7	ProperName 542 549;550 559	Jan van Achem J„s
+T8	Organization 580 591	der E„ Comp
+T10	ProperName 732 750	Johannes Reijnouts
+T12	ProperName 874 888	Jacob Wils J„r
+T6	Person 542 549;550 559	Jan van Achem J„s
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Acting_Notary
+T9	Person 727 750	Heer Johannes Reijnouts
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T11	Person 870 888	dE: Jacob Wils J„r
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Testator
+A16	Beneficiary T8 No

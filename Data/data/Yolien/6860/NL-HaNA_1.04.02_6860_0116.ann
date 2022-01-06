@@ -1,0 +1,16 @@
+T1	Place 33 48	Schip Langewijk
+T2	ProperName 39 48	Langewijk
+T3	ProperName 117 124	Lchardt
+T4	Person 117 124	Lchardt
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Organization 159 163	Comp
+T6	Organization 315 320	EComp
+T7	Place 202 212	Sourabaija
+T8	ProperName 202 212	Sourabaija
+T9	Person 518 532	Abr: Van Jlmaa
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 523 532	Van Jlmaa

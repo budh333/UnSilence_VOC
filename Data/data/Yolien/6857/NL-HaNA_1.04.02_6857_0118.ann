@@ -1,0 +1,52 @@
+T2	Person 195 199	Anna
+A4	Gender T2 Woman
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Beneficiary
+T3	ProperName 195 199	Anna
+T4	Person 203 213	Anna Maria
+A7	Gender T4 Woman
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Beneficiary
+T5	ProperName 203 213	Anna Maria
+T6	Person 304 324	Javaense vrouw Sajem
+A10	Gender T6 Woman
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	ProperName 319 324	Sajem
+T8	ProperName 534 546	Tesu christi
+T9	Person 605 613	kinderen
+A13	Gender T9 Group
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	Organization 950 976;977 983	neederlandsche oostidische Comp=e
+T11	ProperName 950 976;977 983	neederlandsche oostidische Comp=e
+T12	Place 1115 1124	Amsterdam
+T13	ProperName 1115 1124	Amsterdam
+T15	Organization 1321 1325	Comp
+T16	Person 1334 1337;1338 1356	Ian vanden wildenbergh
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Beneficiary
+T17	ProperName 1334 1337;1338 1356	Ian vanden wildenbergh
+T18	Person 1360 1383	Johan Lodewijk Hendriks
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Beneficiary
+T19	ProperName 1360 1383	Johan Lodewijk Hendriks
+T22	Organization 1790 1798;1799 1811	gemeente Zesu christi
+T23	ProperName 1799 1811	Zesu christi
+T24	Organization 525 546	gemeente Tesu christi
+T25	Person 1860 1864	Anna
+A31	Gender T25 Woman
+A32	LegalStatus T25 Unspecified
+A33	Role T25 Beneficiary
+T26	ProperName 1860 1864	Anna
+T27	ProperName 1868 1881	Anna s Maria,
+T28	Person 1868 1881	Anna s Maria,
+A34	Gender T28 Woman
+A35	LegalStatus T28 Unspecified
+A36	Role T28 Beneficiary
+T29	Organization 1988 2016;2017 2023	collegie van Heeren weesmier „teren
+T30	ProperName 1988 2016;2017 2023	collegie van Heeren weesmier „teren
+T31	Organization 1083 1089;1090 1104	Heeren Bewindhebberen
+T1	ProperName 1083 1089;1090 1104	Heeren Bewindhebberen

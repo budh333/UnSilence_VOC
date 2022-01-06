@@ -1,0 +1,28 @@
+T1	TranscriptionError_Document 0 3	aen
+T2	DuplicatePage 4 5	t
+T3	Person 194 206	Jasa Christi
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 194 206	Jasa Christi
+T5	Person 258 289	Gijsbort Jacobselgevar boekhaue
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 258 280	Gijsbort Jacobselgevar
+T7	Place 312 327	ter secretarije
+T8	Person 328 336	Cuilliam
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 328 336	Cuilliam
+T10	Person 533 540	Alphons
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	Organization 558 565	sComp=s
+T12	ProperName 558 565	sComp=s
+T13	Person 1287 1293	willem
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other

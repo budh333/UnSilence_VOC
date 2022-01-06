@@ -1,0 +1,36 @@
+T1	Place 248 255	batavia
+T2	ProperName 248 255	batavia
+T3	Organization 716 725;726 780;781 818	D’ Ed=lle Heeren: Bewinthebberh: van de nedercants geoctroijeerd oostjndische Comp=e ter Camer Zelland
+A1	Beneficiary T3 No
+T4	Place 811 818	Zelland
+T5	ProperName 811 818	Zelland
+T6	Person 1176 1200	Pieter van zeijnschooten
+A2	Gender T6 Man
+A3	LegalStatus T6 Unspecified
+A4	Role T6 Witness
+T7	ProperName 1176 1200	Pieter van zeijnschooten
+T8	Person 1220 1248	Jan Willem P kleijn, scheman
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Witness
+T9	ProperName 1220 1239	Jan Willem P kleijn
+T10	Person 1281 1294	Corneus Sinke
+A8	Gender T10 Man
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Testator
+T11	ProperName 1281 1294	Corneus Sinke
+T12	Person 1295 1317	Piezer van Rijschooten
+A11	Gender T12 Man
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Witness
+T13	ProperName 1295 1317	Piezer van Rijschooten
+T14	Person 1318 1338	yan wellem he kleijn
+A14	Gender T14 Man
+A15	LegalStatus T14 Unspecified
+A16	Role T14 Witness
+T15	ProperName 1318 1338	yan wellem he kleijn
+T16	Person 1356 1374	Johan, ruijslander
+A17	Gender T16 Man
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Acting_Notary
+T17	ProperName 1356 1374	Johan, ruijslander

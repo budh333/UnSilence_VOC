@@ -1,0 +1,234 @@
+T1	Person 32 47	D:E: Franchimon
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 37 48	Franchimont
+T3	ProperName 56 69	Hendrik Bothe
+T4	Person 56 69	Hendrik Bothe
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 77 84	Kokaard
+T6	Person 77 84	Kokaard
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 91 107	Johannes Rodrigo
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 91 107	Johannes Rodrigo
+T9	Person 117 129	S=r Martensz
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 121 129	Martensz
+T11	ProperName 150 167	Engelbert Beekman
+T12	Person 150 167	Engelbert Beekman
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	Person 184 199	dE: Van Berchem
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 188 199	Van Berchem
+T15	ProperName 208 215	Harthum
+T16	Person 208 215	Harthum
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 224 230	Pijken
+T18	Person 224 230	Pijken
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Other
+T19	Person 238 250	Moor Soldaat
+A28	Gender T19 Man
+A29	LegalStatus T19 Unspecified
+A30	Role T19 Other
+T20	Person 257 267	DE: Hotman
+A31	Gender T20 Unspecified
+A32	LegalStatus T20 Unspecified
+A33	Role T20 Other
+T21	ProperName 261 267	Hotman
+T22	ProperName 311 320	van doorn
+T23	Person 311 320	van doorn
+A34	Gender T23 Unspecified
+A35	LegalStatus T23 Unspecified
+A36	Role T23 Other
+T24	ProperName 350 358	Berghuys
+T25	Person 350 358	Berghuys
+A37	Gender T25 Unspecified
+A38	LegalStatus T25 Unspecified
+A39	Role T25 Other
+T26	ProperName 367 376	Van Cleef
+T27	Person 367 377	Van Cleef.
+A40	Gender T27 Unspecified
+A41	LegalStatus T27 Unspecified
+A42	Role T27 Other
+T28	Person 387 399	Jutt= konijn
+A43	Gender T28 Woman
+A44	LegalStatus T28 Unspecified
+A45	Role T28 Other
+T29	ProperName 393 399	konijn
+T30	Person 404 417	d:: van Hleet
+A46	Gender T30 Unspecified
+A47	LegalStatus T30 Unspecified
+A48	Role T30 Other
+T31	ProperName 408 417	van Hleet
+T32	Person 430 440	S=b de Run
+A49	Gender T32 Unspecified
+A50	LegalStatus T32 Unspecified
+A51	Role T32 Other
+T33	ProperName 434 440	de Run
+T34	Person 446 458	d.E: Harthum
+A52	Gender T34 Unspecified
+A53	LegalStatus T34 Unspecified
+A54	Role T34 Other
+T35	ProperName 451 458	Harthum
+T36	ProperName 467 475	Gratiaen
+T37	Person 467 475	Gratiaen
+A55	Gender T37 Unspecified
+A56	LegalStatus T37 Unspecified
+A57	Role T37 Other
+T38	Person 490 500	Heer Meije
+A58	Gender T38 Man
+A59	LegalStatus T38 Unspecified
+A60	Role T38 Other
+T39	ProperName 495 501	Meijer
+T40	Person 510 524	dE: Hogerwaard
+A61	Gender T40 Unspecified
+A62	LegalStatus T40 Unspecified
+A63	Role T40 Other
+T41	ProperName 514 524	Hogerwaard
+T42	ProperName 534 543	Ionkheere
+T43	Person 534 543	Ionkheere
+A64	Gender T43 Unspecified
+A65	LegalStatus T43 Unspecified
+A66	Role T43 Other
+T44	ProperName 553 567	Lourens Lerera
+T45	Person 553 567	Lourens Lerera
+A67	Gender T45 Unspecified
+A68	LegalStatus T45 Unspecified
+A69	Role T45 Other
+T46	ProperName 574 589	Barbert Volmers
+T47	Person 574 589	Barbert Volmers
+A70	Gender T47 Unspecified
+A71	LegalStatus T47 Unspecified
+A72	Role T47 Other
+T48	Person 598 608	dE: Tijken
+A73	Gender T48 Unspecified
+A74	LegalStatus T48 Unspecified
+A75	Role T48 Other
+T49	ProperName 602 608	Tijken
+T50	ProperName 619 635	Carel otto meyer
+T51	Person 619 635	Carel otto meyer
+A76	Gender T51 Unspecified
+A77	LegalStatus T51 Unspecified
+A78	Role T51 Other
+T52	ProperName 661 673	Lanscheerken
+T53	Person 661 673	Lanscheerken
+A79	Gender T53 Unspecified
+A80	LegalStatus T53 Unspecified
+A81	Role T53 Other
+T54	ProperName 698 714	Domingo De Saram
+T55	Person 698 714	Domingo De Saram
+A82	Gender T55 Unspecified
+A83	LegalStatus T55 Unspecified
+A84	Role T55 Other
+T56	ProperName 733 738	Bothe
+T57	Person 733 738	Bothe
+A85	Gender T57 Unspecified
+A86	LegalStatus T57 Unspecified
+A87	Role T57 Other
+T58	ProperName 755 768	Willem Mulder
+T59	Person 755 768	Willem Mulder
+A88	Gender T59 Unspecified
+A89	LegalStatus T59 Unspecified
+A90	Role T59 Other
+T60	ProperName 785 807	Engelb: Franc- Beekman
+T61	Person 785 807	Engelb: Franc- Beekman
+A91	Gender T61 Unspecified
+A92	LegalStatus T61 Unspecified
+A93	Role T61 Other
+T62	ProperName 825 842	Christoffel Luijk
+T63	Person 825 842	Christoffel Luijk
+A94	Gender T63 Unspecified
+A95	LegalStatus T63 Unspecified
+A96	Role T63 Other
+T64	ProperName 861 877	Pieter Pabricius
+T65	Person 861 877	Pieter Pabricius
+A97	Gender T65 Unspecified
+A98	LegalStatus T65 Unspecified
+A99	Role T65 Other
+T66	ProperName 896 911	van Haselendonk
+T67	Person 896 911	van Haselendonk
+A100	Gender T67 Unspecified
+A101	LegalStatus T67 Unspecified
+A102	Role T67 Other
+T68	ProperName 930 945	Michiel Panneel
+T69	Person 930 945	Michiel Panneel
+A103	Gender T69 Unspecified
+A104	LegalStatus T69 Unspecified
+A105	Role T69 Other
+T70	ProperName 961 977	Isaak Hertenberg
+T71	Person 961 977	Isaak Hertenberg
+A106	Gender T71 Unspecified
+A107	LegalStatus T71 Unspecified
+A108	Role T71 Other
+T72	ProperName 993 1004	Stemmingson
+T73	Person 993 1004	Stemmingson
+A109	Gender T73 Unspecified
+A110	LegalStatus T73 Unspecified
+A111	Role T73 Other
+T74	ProperName 1022 1029	van Aek
+T75	Person 1022 1029	van Aek
+A112	Gender T75 Unspecified
+A113	LegalStatus T75 Unspecified
+A114	Role T75 Other
+T76	ProperName 1072 1082	Isaak Rake
+T77	Person 1072 1083	Isaak Raket
+A115	Gender T77 Unspecified
+A116	LegalStatus T77 Unspecified
+A117	Role T77 Other
+T78	ProperName 1108 1124	Salomon de Costa
+T79	Person 1108 1124	Salomon de Costa
+A118	Gender T79 Unspecified
+A119	LegalStatus T79 Unspecified
+A120	Role T79 Other
+T80	ProperName 1132 1142	Jant opman
+T81	Person 1132 1142	Jant opman
+A121	Gender T81 Unspecified
+A122	LegalStatus T81 Unspecified
+A123	Role T81 Other
+T82	ProperName 1151 1168	Iohannes Nratiaen
+T83	Person 1151 1168	Iohannes Nratiaen
+A124	Gender T83 Unspecified
+A125	LegalStatus T83 Unspecified
+A126	Role T83 Other
+T84	ProperName 1176 1192	Salomon De Costa
+T85	Person 1176 1192	Salomon De Costa
+A127	Gender T85 Unspecified
+A128	LegalStatus T85 Unspecified
+A129	Role T85 Other
+T86	ProperName 1201 1211	Jan Ditker
+T87	Person 1201 1211	Jan Ditker
+A130	Gender T87 Unspecified
+A131	LegalStatus T87 Unspecified
+A132	Role T87 Other
+T88	ProperName 1221 1230	grati aen
+T89	Person 1221 1230	grati aen
+A133	Gender T89 Unspecified
+A134	LegalStatus T89 Unspecified
+A135	Role T89 Other
+T90	ProperName 1241 1257	Jan Jacob fransz
+T91	Person 1241 1257	Jan Jacob fransz
+A136	Gender T91 Unspecified
+A137	LegalStatus T91 Unspecified
+A138	Role T91 Other
+T92	Person 1280 1296	Adriaen Ternando
+A139	Gender T92 Unspecified
+A140	LegalStatus T92 Unspecified
+A141	Role T92 Other
+T93	ProperName 1280 1296	Adriaen Ternando

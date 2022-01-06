@@ -1,0 +1,73 @@
+T1	TranscriptionError_Document 5 10	14573
+T2	DuplicatePage 12 17	Slaat
+T3	Organization 205 227	E: Comp: den manhaften
+T4	ProperName 228 243	Iacobus Clacijs
+T5	Person 228 243	Iacobus Clacijs
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 328 346	heer Simon Iosephe
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 333 346	Simon Iosephe
+T8	ProperName 423 438	Iacobus Claeijs
+T9	Person 423 438	Iacobus Claeijs
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	DuplicatePage 2077 2081	Amen
+T11	ProperName 2148 2155	Batavia
+T12	Place 2148 2155	Batavia
+T13	ProperName 521 538	Andries Jan Zalle
+T14	Person 521 538	Andries Jan Zalle
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Notary
+T15	ProperName 579 586	holland
+T16	Place 579 586	holland
+T17	Organization 592 636	Edele hooge Regeeringe van neederlands Jndin
+T18	ProperName 619 636	neederlands Jndin
+T19	Place 619 636	neederlands Jndin
+T20	Place 660 675	de stad Batavia
+T21	ProperName 668 675	Batavia
+T22	ProperName 749 763	Iacobus Claijs
+T23	Person 749 763	Iacobus Claijs
+A13	Gender T23 Man
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Testator
+T24	Organization 803 810	E: Comp
+T25	Organization 1512 1546	Aride nederduijtsche gereformeerde
+T26	Place 1579 1598	in stads vlaanderen
+T27	ProperName 1588 1598	vlaanderen
+T28	Place 1558 1570	dorp Grroede
+T29	ProperName 1563 1570	Grroede
+T30	ProperName 1657 1669	Michiel Faro
+T31	Person 1657 1669	Michiel Faro
+A16	Gender T31 Unspecified
+A17	LegalStatus T31 Unspecified
+A18	Role T31 Other
+T32	ProperName 1749 1758	Sara Saro
+T33	Person 1749 1758	Sara Saro
+A19	Gender T33 Unspecified
+A20	LegalStatus T33 Unspecified
+A21	Role T33 Other
+T34	ProperName 1860 1871	van der Net
+T35	Person 1860 1871	van der Net
+A22	Gender T35 Unspecified
+A23	LegalStatus T35 Unspecified
+A24	Role T35 Other
+T36	ProperName 1895 1904	Rotterdam
+T37	Place 1895 1904	Rotterdam
+T38	ProperName 1967 1973	Dijken
+T39	ProperName 1977 1983	Mulder
+T40	ProperName 1988 1997	amsterdam
+T41	Place 1988 1997	amsterdam
+T42	Person 1967 1973	Dijken
+A25	Gender T42 Man
+A26	LegalStatus T42 Unspecified
+A27	Role T42 Beneficiary
+T43	Person 1977 1983	Mulder
+A28	Gender T43 Man
+A29	LegalStatus T43 Unspecified
+A30	Role T43 Beneficiary

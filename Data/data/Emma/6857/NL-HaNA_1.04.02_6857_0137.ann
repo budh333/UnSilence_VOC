@@ -1,0 +1,102 @@
+T1	Person 57 94	Hok Johan Casper Ceuler van Stijnhijm
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 61 94	Johan Casper Ceuler van Stijnhijm
+T4	ProperName 119 134	Willem de Vyfde
+T5	Person 196 210	Captijn Visser
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 204 210	Visser
+T7	Person 353 363	Joost Coen
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 353 363	Joost Coen
+T9	Person 413 427	Captijn Visser
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 421 427	Visser
+T11	Person 484 494	Willem Bor
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 484 494	Willem Bor
+T13	Person 533 548	Cuptijes Visses
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 542 548	Visses
+T15	Person 642 652	Joost Coen
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 642 652	Joost Coen
+T17	Person 706 721	Castor Hendriks
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 713 721	Hendriks
+T19	Person 755 769	Captijs Visser
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 763 769	Visser
+T21	Person 804 819	Pieter Halleman
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Other
+T22	ProperName 804 819	Pieter Halleman
+T23	Person 844 860	Willem Bodemijer
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 844 860	Willem Bodemijer
+T25	Person 898 920	luteris Johannis Mulde
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Other
+T26	ProperName 898 921	luteris Johannis Mulder
+T27	Person 1062 1076	Captijn Visses
+A37	Gender T27 Man
+A38	LegalStatus T27 Unspecified
+A39	Role T27 Other
+T28	ProperName 1070 1076	Visses
+T29	Person 1122 1139	Hendrik Van Amste
+A40	Gender T29 Unspecified
+A41	LegalStatus T29 Unspecified
+A42	Role T29 Other
+T30	ProperName 1122 1140	Hendrik Van Amstel
+T31	Person 1181 1193	Jan Opperman
+A43	Gender T31 Unspecified
+A44	LegalStatus T31 Unspecified
+A45	Role T31 Other
+T32	ProperName 1181 1193	Jan Opperman
+T33	Person 1240 1254	Captijn Visser
+A46	Gender T33 Man
+A47	LegalStatus T33 Unspecified
+A48	Role T33 Other
+T34	ProperName 1248 1254	Visser
+T35	Person 1290 1307	Simon van der Wol
+A49	Gender T35 Unspecified
+A50	LegalStatus T35 Unspecified
+A51	Role T35 Other
+T36	ProperName 1290 1307	Simon van der Wol
+T37	Person 1362 1380	Hendrik van amstel
+A52	Gender T37 Unspecified
+A53	LegalStatus T37 Unspecified
+A54	Role T37 Other
+T38	ProperName 1362 1380	Hendrik van amstel
+T39	Person 1408 1416	G: Uwens
+A55	Gender T39 Unspecified
+A56	LegalStatus T39 Unspecified
+A57	Role T39 Other
+T40	ProperName 1408 1416	G: Uwens
+T41	Person 1428 1439	A: Evexhart
+A58	Gender T41 Unspecified
+A59	LegalStatus T41 Unspecified
+A60	Role T41 Other
+T42	ProperName 1428 1439	A: Evexhart
+T43	Place 96 112;113 134	aan boord van 't Schip Willem de Vyfde

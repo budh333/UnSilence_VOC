@@ -1,0 +1,43 @@
+T1	Person 832 859	Frtermanus Aorham Rimonszz:
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 832 858	Frtermanus Aorham Rimonszz
+T3	Person 863 897	Kraraus Thomas Pennemak, clercquin
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+T4	ProperName 863 886	Kraraus Thomas Pennemak
+T5	Person 1051 1085	Van Bergen van der Grijp, Notaris:
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+T6	ProperName 1051 1075	Van Bergen van der Grijp
+T7	Person 1088 1109	Bernardus van Pleuren
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+T8	ProperName 1088 1109	Bernardus van Pleuren
+T9	Person 1198 1219;1220 1235	M: Nicolaus Matthaus, notaris publicq
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+T10	ProperName 1198 1218	M: Nicolaus Matthaus
+T11	Organization 1240 1269;1270 1271;1272 1288	de Edele hooge regeeringe van 1 Nederlands Jndia
+T12	Place 1272 1288	Nederlands Jndia
+T13	Place 1303 1322;1323 1328	buijten de stad Ba„ tavia
+T14	ProperName 1319 1322;1323 1328	Ba„ tavia
+T15	Person 1388 1503	Den Wel Edelen Gestrengen
+Heer Bernardus van Pleuren. raad
+Ex„
+tra ordnair van nederlands Jndia in Directeur
+van de
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Notary T15 No
+T16	ProperName 1419 1440	Bernardus van Pleuren
+T17	Place 1467 1483	nederlands Jndia
+A3	Role T1 Witness
+A6	Role T3 Witness
+A9	Role T5 Notary
+A12	Role T7 Testator
+A15	Role T9 Notary
+T18	Person 1414 1440	Heer Bernardus van Pleuren
+A19	Gender T18 Man
+A20	Role T18 Testator
+A21	Beneficiary T11 No

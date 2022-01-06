@@ -1,0 +1,16 @@
+T1	DuplicatePage 0 13	Weesmeesteren
+T2	Place 326 353	Kamer middelburg in Seeland
+T3	Place 332 342	middelburg
+T4	ProperName 332 342	middelburg
+T5	ProperName 346 353	Seeland
+T6	Place 346 353	Seeland
+T7	Person 2022 2061	de Cristen mardijkster albertina aclams
+A1	Gender T7 Woman
+A2	LegalStatus T7 Freed
+A3	Role T7 Beneficiary
+T8	ProperName 2045 2061	albertina aclams
+T9	Person 2162 2168	sladen
+A4	Gender T9 Group
+A5	LegalStatus T9 Enslaved
+A6	Role T9 Other
+#1	AnnotatorNotes T9	slaven

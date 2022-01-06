@@ -1,0 +1,12 @@
+T1	Organization 604 637	de hooge overigheid deezer landen
+T3	ProperName 1400 1419	Adam Huijser Muller
+T5	ProperName 1443 1465	Johan Iurgen Otto Mihl
+T2	Person 1400 1419	Adam Huijser Muller
+A7	Gender T2 Man
+A8	LegalStatus T2 Unspecified
+A9	Role T2 Witness
+T4	Person 1443 1466	Johan Iurgen Otto Mihl;
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+A10	Beneficiary T1 No

@@ -1,0 +1,48 @@
+T1	Organization 17 25;26 48;49 55	de Edele hooge Regeeringe deser landen
+T3	ProperName 224 228;229 247;248 253	Tho„ mas fredrik Wanne„ maker
+T4	Place 341 361	Batavia in't stadh„s
+T5	ProperName 341 348	Batavia
+T6	Person 412 425	Lijffeijgenen
+A4	Gender T6 Group
+A5	LegalStatus T6 Enslaved
+A6	Role T6 Other
+T7	Person 431 443;444 470	de slavinnen Diana te Kleine van Timor,
+A7	Gender T7 Woman
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	ProperName 444 459	Diana te Kleine
+T9	Place 464 469	Timor
+T10	ProperName 464 469	Timor
+T11	Person 471 477	Estria
+A10	Gender T11 Woman
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other
+T12	ProperName 471 477	Estria
+T13	Person 481 499	Kananga van boegis
+A13	Gender T13 Woman
+A14	LegalStatus T13 Enslaved
+A15	Role T13 Other
+T14	TranscriptionError_Document 0 3	bij
+T15	DuplicatePage 0 3	bij
+T16	ProperName 481 488	Kananga
+T17	Place 493 499	boegis
+T18	ProperName 493 499	boegis
+T20	Place 527 534	Kananga
+T21	ProperName 527 534	Kananga
+T22	ProperName 543 548	Maart
+T23	Person 561 569	Carolina
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Enslaved
+A21	Role T23 Other
+T24	ProperName 561 569	Carolina
+T25	Organization 798 810	der E. Comp:
+T19	Person 543 548	Maart
+A16	Gender T19 Man
+A17	LegalStatus T19 Enslaved
+A18	Role T19 Other
+T2	Person 219 228;229 247;248 253	heer Tho„ mas fredrik Wanne„ maker
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+A22	Beneficiary T1 No
+A23	Beneficiary T25 No

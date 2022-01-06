@@ -1,0 +1,36 @@
+T1	ProperName 45 63	Adriaan Bodenstein
+T2	Person 45 63	Adriaan Bodenstein
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator_Beneficiary
+T3	ProperName 112 136	Frans Adriaan Bovenstein
+T4	Person 112 136	Frans Adriaan Bovenstein
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator_Beneficiary
+T5	Person 217 237	Johan eintonij Ducam
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 217 237	Johan eintonij Ducam
+T7	Organization 254 262	Bolittie
+A10	Beneficiary T7 No
+T8	Place 271 284	Gouvernements
+T9	Organization 471 478	EComp:e
+A11	Beneficiary T9 No
+T10	ProperName 471 478	EComp:e
+T11	ProperName 486 508	Frans Adrian Bovenstem
+T12	Person 486 508	Frans Adrian Bovenstem
+A12	Gender T12 Man
+A13	LegalStatus T12 Unspecified
+A14	Role T12 Testator_Beneficiary
+T13	Person 518 524;525 547	vrreuw Pancina van Moesbergen
+A15	Gender T13 Woman
+A16	LegalStatus T13 Unspecified
+A17	Role T13 Testator_Beneficiary
+T14	ProperName 525 547	Pancina van Moesbergen
+T15	ProperName 1238 1261;1262 1267	Johannes Reovonch Hoven „stem
+T16	Person 1221 1261;1262 1267	zoontge met name Johannes Reovonch Hoven „stem
+A18	Gender T16 Man
+A19	LegalStatus T16 Unspecified
+A20	Role T16 Beneficiary

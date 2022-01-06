@@ -1,0 +1,6 @@
+T1	Person 384 387;388 397	Clo Hulsthoff
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Organization 571 600;601 611	herwaarde Collegie van heelen „meesteren
+T3	ProperName 571 600;601 611	herwaarde Collegie van heelen „meesteren

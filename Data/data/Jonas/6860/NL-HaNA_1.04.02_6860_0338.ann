@@ -1,0 +1,50 @@
+T1	Place 85 118	Nederlandsch Comptoire sourabaija
+T2	ProperName 108 118	sourabaija
+T3	Person 143 158	J: P: Leijdeker
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	Person 162 169;170 179	Gijfber prijsoort
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	Person 345 356	J: A: Dreie
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	Person 362 372	Mans Slaef
+A10	Gender T6 Man
+A11	LegalStatus T6 Enslaved
+A12	Role T6 Other
+T7	Person 382 400	Spadelje van Bdata
+A13	Gender T7 Man
+A14	LegalStatus T7 Enslaved
+A15	Role T7 Other
+T8	ProperName 382 400	Spadelje van Bdata
+T9	Place 395 400	Bdata
+T10	ProperName 395 400	Bdata
+#1	AnnotatorNotes T10	Proper name: Batavia
+T11	Person 455 471	Mercules van 8oe
+A16	Gender T11 Man
+A17	LegalStatus T11 Enslaved
+A18	Role T11 Other
+T12	ProperName 455 471	Mercules van 8oe
+#2	AnnotatorNotes T12	Proper name: Hercules van Balij
+T13	Place 468 471	8oe
+T14	ProperName 468 471	8oe
+#3	AnnotatorNotes T14	Proper name: Balij
+T15	Place 536 568	Neerlands Comptoire Oeloepanpang
+T16	ProperName 556 568	Oeloepanpang
+T17	Person 613 625	Hendrik Scho
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	Person 675 688	Willem Schaar
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	ProperName 675 688	Willem Schaar
+T20	Person 693 707	N„s C„s Fransz
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other

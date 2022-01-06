@@ -1,0 +1,35 @@
+T1	Person 592 598	slaaff
+A1	Gender T1 Man
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 607 626	Mandre van macasser
+A4	Gender T2 Man
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	ProperName 607 626	Mandre van macasser
+T4	Person 833 849;850 859	Mons=r Balthazak Thavanier
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Beneficiary
+T5	ProperName 833 849;850 859	Mons=r Balthazak Thavanier
+T6	Person 1547 1567	Heer Theodorus Bosch
+A10	Gender T6 Man
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Beneficiary
+T7	ProperName 1552 1567	Theodorus Bosch
+T9	ProperName 1516 1525	maccasser
+T11	ProperName 871 880	maccasser
+T12	Noteworthy 1677 1686	Jnbooling
+#1	AnnotatorNotes T12	inboorling
+T13	Person 1695 1699	Coro
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 1695 1699	Coro
+T15	Person 1752 1756;1757 1759;1760 1768	Tile te macCaper
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	ProperName 1752 1756;1757 1759;1760 1768	Tile te macCaper
+T10	Place 871 880	maccasser
+T8	Place 1516 1525	maccasser

@@ -1,0 +1,31 @@
+T1	Place 49 56	grissee
+T2	ProperName 49 56	grissee
+T3	Person 93 102;103 120	Theodorus Johannes Hartingh
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 93 102;103 120	Theodorus Johannes Hartingh
+T5	Organization 207 214	E Comp:
+A4	Beneficiary T5 No
+T6	ProperName 207 214	E Comp:
+T7	ProperName 488 500	J: G: Helmke
+T8	Person 488 500	J: G: Helmke
+A5	Gender T8 Unspecified
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Other
+T9	ProperName 551 560	Jan Lapro
+T10	Person 551 560	Jan Lapro
+A8	Gender T10 Unspecified
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Other
+T11	ProperName 618 631	C: E: Echardt
+T12	Person 618 631	C: E: Echardt
+A11	Gender T12 Unspecified
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Other
+T13	Person 654 664	EE Eckardt
+A14	Gender T13 Unspecified
+A15	LegalStatus T13 Unspecified
+A16	Role T13 Other
+T14	ProperName 654 664	EE Eckardt
+T15	DuplicatePage 0 2	en

@@ -1,0 +1,27 @@
+T1	ProperName 122 138	I: F: van senden
+T2	Person 122 138	I: F: van senden
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 40 50	P: H: Maes
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	Person 54 68	S: B: woutersz
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	ProperName 54 68	S: B: woutersz
+T6	ProperName 40 50	P: H: Maes
+T7	Person 445 463	Dirk Iacob De Moor
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator_Beneficiary
+T8	Person 504 531	Adriana Carolina van Buuren
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Testator_Beneficiary
+T9	ProperName 445 463	Dirk Iacob De Moor
+T10	ProperName 504 531	Adriana Carolina van Buuren
+#1	AnnotatorNotes T8	beneficiary
+#2	AnnotatorNotes T7	beneficiary

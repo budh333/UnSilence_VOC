@@ -1,0 +1,10 @@
+T1	ProperName 529 543	David Davidsz:
+T2	Person 529 542	David Davidsz
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	Person 578 597	zoon Pieter Jacobus
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 583 598	Pieter Jacobus,

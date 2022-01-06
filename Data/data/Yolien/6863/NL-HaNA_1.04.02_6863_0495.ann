@@ -1,0 +1,18 @@
+T1	DuplicatePage 8 12	voor
+T2	TranscriptionError_Document 1 2	=
+T3	ProperName 17 39;40 46	Gerrardus Johannes van sanden
+T4	Person 17 39;40 46	Gerrardus Johannes van sanden
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T5	Organization 78 101	secretarije van politie
+T6	Place 179 188	weeskamer
+T7	ProperName 192 209	Engelbert de moor
+T8	Person 192 209	Engelbert de moor
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	Place 215 222	Colombo
+T10	ProperName 215 222	Colombo
+T11	DuplicatePage 401 402	e
+T12	ProperName 403 409	Muller

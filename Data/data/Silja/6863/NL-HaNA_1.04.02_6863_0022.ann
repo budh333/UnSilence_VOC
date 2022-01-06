@@ -1,0 +1,5 @@
+T1	DuplicatePage 0 3	Dit
+T2	Organization 35 53	Raede van Iustitie
+T3	Organization 239 256	rand van Justitie
+A1	Beneficiary T2 No
+A2	Beneficiary T3 No

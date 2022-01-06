@@ -1,0 +1,49 @@
+T1	TranscriptionError_Document 22 25	Oop
+T2	DuplicatePage 22 25	Oop
+T3	Person 0 21	Jurgen Paulus Jkerman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 21	Jurgen Paulus Jkerman
+T5	Person 74 102;103 156;157 162	M=r Jan van der voortnotaris Publicq: bij de Edele hooge reegeringe van nederlands India
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 74 95	M=r Jan van der voort
+T7	Organization 116 156;157 162	de Edele hooge reegeringe van nederlands India
+T8	Place 146 156;157 162	nederlands India
+T9	ProperName 146 156;157 162	nederlands India
+T10	Place 176 198	binnen de stad batavia
+T11	ProperName 191 198	batavia
+T12	Person 236 253	Jan Jurgen de Wit
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T13	ProperName 236 253	Jan Jurgen de Wit
+T15	ProperName 401 419	Abraham van dinter
+T16	Organization 442 469	den Edelen hove van holland
+T17	Place 462 469	holland
+T18	ProperName 462 469	holland
+T19	Organization 485 530	de Edele hooge regeringe van nederlands India
+T20	Place 514 530	nederlands India
+T21	ProperName 514 530	nederlands India
+T22	Place 545 567	binnen de stad batavia
+T23	ProperName 560 567	batavia
+T25	ProperName 619 629;630 636	Jan Iurger de wit
+T26	Place 663 675	braendenburg
+T27	ProperName 663 675	braendenburg
+T28	Organization 715 725	’s E Comp:
+T14	Person 401 420;421 436	Abraham van dinter, notaris publicq
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Notary
+T24	Person 619 629;630 636	Jan Iurger de wit
+A13	Gender T24 Man
+A14	LegalStatus T24 Unspecified
+A15	Role T24 Testator
+T30	Place 641 650	bijleveld
+T31	ProperName 641 650	bijleveld
+A16	Beneficiary T7 No
+A17	Beneficiary T16 No
+A18	Beneficiary T19 No
+A19	Beneficiary T28 No

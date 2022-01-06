@@ -1,0 +1,50 @@
+T1	Person 15 27	Ian de fries
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 15 27	Ian de fries
+T3	Person 84 122	Andries Hartsinck Junior, ondercoopman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 84 108	Andries Hartsinck Junior
+T5	Person 247 265	Johan Fredrik Buse
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 247 265	Johan Fredrik Buse
+T7	Place 290 297	Batavia
+T8	ProperName 290 297	Batavia
+T9	Person 312 338	Onderstuurman Jan de Vries
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 326 338	Jan de Vries
+T11	Place 343 349	tessel
+T12	ProperName 343 349	tessel
+T13	Organization 1167 1188	den armen te Samarang
+A13	Beneficiary T13 Yes
+T14	Place 1180 1188	Samarang
+T15	ProperName 1180 1188	Samarang
+T16	TranscriptionError_Document 0 1	3
+T17	DuplicatePage 0 1	3
+T18	Person 1602 1609	Claasen
+A14	Gender T18 Unspecified
+A15	LegalStatus T18 Unspecified
+A16	Role T18 Other
+T19	ProperName 1602 1609	Claasen
+T20	Person 1662 1670	Rijsoort
+A17	Gender T20 Unspecified
+A18	LegalStatus T20 Unspecified
+A19	Role T20 Other
+T21	ProperName 1662 1670	Rijsoort
+T22	Person 1714 1724	Wendelstig
+A20	Gender T22 Unspecified
+A21	LegalStatus T22 Unspecified
+A22	Role T22 Other
+T23	ProperName 1714 1724	Wendelstig
+T24	Person 1773 1780	Claasen
+A23	Gender T24 Unspecified
+A24	LegalStatus T24 Unspecified
+A25	Role T24 Other
+T25	ProperName 1773 1780	Claasen

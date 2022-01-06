@@ -1,0 +1,6 @@
+T1	DuplicatePage 0 8	Nagesien
+T2	ProperName 13 23	Van Seijge
+T3	Person 13 24	Van Seijger
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other

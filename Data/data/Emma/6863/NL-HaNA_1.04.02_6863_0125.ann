@@ -1,0 +1,75 @@
+T1	DuplicatePage 0 2	11
+T2	TranscriptionError_Document 3 4	e
+T3	Person 5 49	Den WelEdele Heer I: C: Heijning als Curater
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 23 37	I: C: Heijning
+T5	Person 87 97;108 124	den asses, tent Um van Hall
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 113 123	Um van Hal
+T7	Person 125 139	toffel Heijnse
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 125 139	toffel Heijnse
+T9	Place 209 217	Chinsura
+T10	ProperName 209 217	Chinsura
+T11	Person 308 342;343 351	Den WelEdele Heer: S: C: Heijning, als Curo
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 327 341	S: C: Heijning
+T13	Organization 352 358	Comp„s
+T14	ProperName 352 358	Comp„s
+T15	Person 463 490	Boekhouder Johan Willem Uan
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Testator
+T16	ProperName 474 490	Johan Willem Uan
+T17	Person 877 928	De WelEdele Heer J: C: Heijning, als Couraten Adlie
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 894 908	J: C: Heijning
+T19	Person 933 954	Fistaal Carels Willem
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 941 954	Carels Willem
+T21	Person 1001 1006;1029 1051	Boek„ „houder J: W: van Mall
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Testator
+T22	ProperName 1037 1051	J: W: van Mall
+T23	Organization 1053 1075	aan ’t fonds der armen
+A25	Beneficiary T23 Yes
+T24	Person 1249 1280	De WelEdele Heer J: C: Heijning
+A26	Gender T24 Man
+A27	LegalStatus T24 Unspecified
+A28	Role T24 Other
+T25	ProperName 1266 1280	J: C: Heijning
+T26	Person 1356 1379	den Heer J: W: Van Hall
+A29	Gender T26 Man
+A30	LegalStatus T26 Unspecified
+A31	Role T26 Other
+T27	ProperName 1365 1379	J: W: Van Hall
+T28	Person 1728 1731	Jan
+A32	Gender T28 Unspecified
+A33	LegalStatus T28 Unspecified
+A34	Role T28 Other
+T29	ProperName 1728 1731	Jan
+T30	Place 1698 1706	Chinsura
+T31	ProperName 1698 1706	Chinsura
+T32	Person 1763 1774;1775 1780	C: Jan Neey Percq
+A35	Gender T32 Man
+A36	LegalStatus T32 Unspecified
+A37	Role T32 Other
+T33	ProperName 1763 1774	C: Jan Neey
+T34	Person 1795 1808	Wieman G: Har
+A38	Gender T34 Unspecified
+A39	LegalStatus T34 Unspecified
+A40	Role T34 Other
+T35	ProperName 1795 1808	Wieman G: Har

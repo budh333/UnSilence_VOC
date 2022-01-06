@@ -1,0 +1,45 @@
+T1	Place 361 389	ten huijse van den testateur
+T2	ProperName 407 418	Mases Iansz
+T3	ProperName 423 438	Ionas Domingosz
+T4	Person 407 418	Mases Iansz
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	Person 423 438	Ionas Domingosz
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 585 600	And=s Ian Zalle
+T7	Person 585 600	And=s Ian Zalle
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 838 855	Andries Ian Zalle
+T9	Person 838 855	Andries Ian Zalle
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Notary
+T10	Organization 876 899	Edelen hove van holland
+T11	ProperName 892 899	holland
+T12	Place 892 899	holland
+T13	Organization 911 938;939 951	hooge regeeringe van neder„ „lands india
+T14	ProperName 932 938;939 951	neder„ „lands india
+T15	Place 932 938;939 951	neder„ „lands india
+T16	Place 973 988	de stad batavia
+T17	ProperName 981 988	batavia
+T18	Organization 1087 1096	burgerije
+T19	Person 1054 1061;1062 1075	E: heer Simon Josephe
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Other
+T20	ProperName 1062 1075	Simon Josephe
+T21	ProperName 1222 1237	Jacobus Claeijs
+T22	Person 1222 1237	Jacobus Claeijs
+A16	Gender T22 Man
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Testator
+T23	ProperName 1463 1470	Claeijs
+T24	Person 1463 1470	Claeijs
+A19	Gender T24 Man
+A20	LegalStatus T24 Unspecified
+A21	Role T24 Testator

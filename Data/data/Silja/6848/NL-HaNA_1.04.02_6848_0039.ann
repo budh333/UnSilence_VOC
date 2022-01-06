@@ -1,0 +1,56 @@
+T1	Place 180 189	Amsterdam
+T2	ProperName 180 189	Amsterdam
+T4	Organization 527 551;552 560	de Eeule hooge indensche legering
+T5	ProperName 527 551;552 560	de Eeule hooge indensche legering
+T6	Person 613 619	sloven
+A4	Gender T6 Group
+A5	LegalStatus T6 Enslaved
+T7	Place 997 1021	huijse van den Testateur
+T8	Person 1071 1087	Cornelis Jacobuz
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+T9	ProperName 1071 1087	Cornelis Jacobuz
+T10	Person 1091 1106	Iacobus vingger
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+T11	ProperName 1091 1106	Iacobus vingger
+T12	Person 1241 1260	J:s Greving Notaris
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+T13	ProperName 1241 1252	J:s Greving
+T14	Person 1261 1282	Herman Jongs Huldinga
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+T15	ProperName 1261 1282	Herman Jongs Huldinga
+T16	Person 1367 1390;1391 1411	Nicolaas van Bergen van der Grijp Not: publ:
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+T17	ProperName 1367 1390;1391 1400	Nicolaas van Bergen van der Grijp
+T18	Organization 1415 1453;1454 1459	de Edele hooge regering van nnderlands Inder
+T19	ProperName 1415 1453;1454 1459	de Edele hooge regering van nnderlands Inder
+T20	Place 1443 1453;1454 1459	nnderlands Inder
+T21	ProperName 1443 1453;1454 1459	nnderlands Inder
+T22	Place 1480 1495	de stad Batavia
+T23	ProperName 1488 1495	Batavia
+T25	ProperName 1546 1565;1566 1571	Hermanus Ionas Mil„ Singa
+T26	Person 1669 1687;1688 1702	Mejust=r Anna bli„ sabeln vermeer
+A25	Gender T26 Woman
+A26	LegalStatus T26 Unspecified
+T27	ProperName 1678 1687;1688 1702	Anna bli„ sabeln vermeer
+T28	DuplicatePage 0 2	35
+A1	Role T6 Other
+A2	Role T10 Witness
+A3	Role T8 Witness
+A6	Role T12 Notary
+A9	Role T14 Testator
+A12	Role T16 Notary
+T3	Person 1543 1565;1566 1571	E: Hermanus Ionas Mil„ Singa
+A15	Gender T3 Unspecified
+A18	LegalStatus T3 Unspecified
+A21	Role T3 Testator
+T24	Organization 1609 1627;1628 1653	’t Eerex: Collegie van heeden boedelmisterin
+T29	ProperName 1609 1627;1628 1653	’t Eerex: Collegie van heeden boedelmisterin
+T30	Place 1654 1665	deser slede
+A22	Role T26 Testator
+A23	Beneficiary T4 No
+A24	Beneficiary T18 No

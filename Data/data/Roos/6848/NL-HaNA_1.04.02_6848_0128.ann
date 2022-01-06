@@ -1,0 +1,66 @@
+T1	Person 0 8;9 15;16 19	Johannes Santen van
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 0 8;9 15;16 19	Johannes Santen van
+T3	Person 166 183;184 193	P=s N=s Bestbier, notaris :
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+T4	ProperName 166 182	P=s N=s Bestbier
+T5	Place 241 246	weesk
+T6	ProperName 241 246	weesk
+T7	Place 331 338	Batavia
+T8	ProperName 331 338	Batavia
+T9	Person 396 420	W=m Kraame, / Secretaris
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+T10	ProperName 396 406	W=m Kraame
+T12	ProperName 520 536	Johannes Greving
+T13	Place 579 595	nederlands India
+T14	Organization 550 595	de Edele hooge regeering van nederlands India
+T15	Place 609 631	binnen de stad Batavia
+T16	ProperName 624 631	Batavia
+T18	ProperName 684 703	Iohannes van Jantee
+T19	Organization 730 741	Ed:e Comp:e
+T20	Place 752 768;769 789	op de Roeamallac ca binnen deeze stad
+T21	Person 1243 1276;1277 1282	Juff=r Henriatta oostwald, weduwe Bloem
+A16	Gender T21 Woman
+A17	LegalStatus T21 Unspecified
+T22	ProperName 1250 1268	Henriatta oostwald
+T23	Person 1310 1325;1326 1342	slainnen namens Regina, van Java
+A19	Gender T23 Woman
+A20	LegalStatus T23 Enslaved
+T24	ProperName 1326 1342	Regina, van Java
+T25	Place 1338 1342	Java
+T26	Person 1347 1367	Dianira, van batavia
+A22	Gender T26 Woman
+A23	LegalStatus T26 Enslaved
+T27	ProperName 1347 1367	Dianira, van batavia
+T28	Place 1360 1367	batavia
+T29	ProperName 1452 1457	Bloem
+T30	Person 1506 1518	Lijffeigenen
+A25	Gender T30 Group
+A26	LegalStatus T30 Enslaved
+T31	Person 1570 1583;1584 1613	Juffrouw Hen„ rectta oostwald, weduwe Blaem
+A28	Gender T31 Woman
+A29	LegalStatus T31 Unspecified
+T32	ProperName 1579 1583;1584 1599	Hen„ rectta oostwald
+T33	ProperName 1608 1613	Blaem
+T34	ProperName 1277 1282	Bloem
+A3	Role T1 Testator
+A6	Role T3 Notary
+A9	Role T9 Other
+A18	Role T21 Beneficiary
+A21	Role T23 Other
+A24	Role T26 Other
+A27	Role T30 Other
+A30	Role T31 Beneficiary
+T11	Person 520 545	Johannes Greving, Notaris
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Notary
+T17	Person 680 703	dE: Iohannes van Jantee
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Testator
+A31	Beneficiary T14 No
+A32	Beneficiary T19 No

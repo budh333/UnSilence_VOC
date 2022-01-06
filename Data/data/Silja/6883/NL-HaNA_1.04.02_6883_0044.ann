@@ -1,0 +1,57 @@
+T1	Person 393 441	de vrije Christen vrouw Johanna Elisabeth Paulus
+A1	Gender T1 Woman
+A2	LegalStatus T1 Freed
+A3	Role T1 Beneficiary
+T2	ProperName 417 441	Johanna Elisabeth Paulus
+T3	Person 777 801	E: Hendrik August Rossel
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 780 801	Hendrik August Rossel
+T5	ProperName 1197 1225;1226 1239	geoctroijeerde oost indische maatschappije
+T6	Organization 1197 1225;1226 1239	geoctroijeerde oost indische maatschappije
+A7	Beneficiary T6 No
+T7	Place 1244 1255	kamer Delft
+T8	ProperName 1250 1255	Delft
+T9	Organization 1514 1561	het Eerwaerde Collegie van heeren weesmeesteren
+A8	Beneficiary T9 No
+T10	Person 1832 1845	lijffeijgenen
+A9	Gender T10 Group
+A10	LegalStatus T10 Enslaved
+A11	Role T10 Other
+T11	ProperName 3292 3315	Moses Simon Abrahamzoon
+T12	Person 3292 3315	Moses Simon Abrahamzoon
+A12	Gender T12 Unspecified
+A13	LegalStatus T12 Unspecified
+A14	Role T12 Witness
+T13	ProperName 3319 3343	Iohannes Iosias Lodewijk
+T14	Person 3319 3343	Iohannes Iosias Lodewijk
+A15	Gender T14 Unspecified
+A16	LegalStatus T14 Unspecified
+A17	Role T14 Witness
+T15	Person 3500 3527	M: D: D: Haak Notaris publ:
+A18	Gender T15 Man
+A19	LegalStatus T15 Unspecified
+A20	Role T15 Notary
+T16	ProperName 3500 3513	M: D: D: Haak
+T17	ProperName 3614 3637	Johan Diederik ohrtting
+T18	ProperName 3751 3760	Amsterdam
+T19	Place 3751 3760	Amsterdam
+T20	Person 3788 3803	Robbert Marceel
+A21	Gender T20 Unspecified
+A22	LegalStatus T20 Unspecified
+A23	Role T20 Other
+T21	Organization 3867 3902	het lutersche weeshuijs in den Haag
+A24	Beneficiary T21 Yes
+T22	Place 3894 3902	den Haag
+T23	ProperName 3894 3902	den Haag
+T24	ProperName 3788 3803	Robbert Marceel
+T25	Person 3761 3784	Johan Christiaan Dispal
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	ProperName 3761 3784	Johan Christiaan Dispal
+T27	Person 3614 3637	Johan Diederik ohrtting
+A31	Gender T27 Unspecified
+A32	LegalStatus T27 Unspecified
+A33	Role T27 Other

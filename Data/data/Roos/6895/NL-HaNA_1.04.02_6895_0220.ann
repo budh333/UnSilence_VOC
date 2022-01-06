@@ -1,0 +1,87 @@
+T1	TranscriptionError_Document 0 1	„
+T2	DuplicatePage 0 1	„
+T4	ProperName 24 40	August van Timor
+T5	Person 92 108	David van Padand
+A4	Gender T5 Man
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T6	ProperName 92 108	David van Padand
+T7	Place 102 108	Padand
+T9	ProperName 129 151	Fortuijn van Maccasser
+T10	Place 142 151	Maccasser
+T12	ProperName 178 196	Batjo van Mandhaer
+T13	Place 188 196	Mandhaer
+T15	ProperName 262 268;269 277	Pieter Haksteen
+T16	Place 303 317	neederlands In
+T17	Person 485 497	DE: Disscher
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Beneficiary
+T18	ProperName 489 497	Disscher
+T19	Person 603 622	DE: Fredrik Brugman
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Beneficiary
+T20	ProperName 607 622	Fredrik Brugman
+T21	Person 774 788	leijffEijgenen
+A22	Gender T21 Group
+A23	LegalStatus T21 Enslaved
+A24	Role T21 Other
+T22	Person 878 889	E: Disscher
+A25	Gender T22 Unspecified
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Beneficiary
+T23	ProperName 878 889	E: Disscher
+T24	Person 905 915	E: Brugman
+A28	Gender T24 Unspecified
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Beneficiary
+T25	ProperName 905 915	E: Brugman
+T27	ProperName 942 948;949 961	Canang van Salaijar
+T28	Person 987 1001	Tob van Boeton
+A34	Gender T28 Unspecified
+A35	LegalStatus T28 Enslaved
+A36	Role T28 Other
+T29	ProperName 987 1001	Tob van Boeton
+T30	Place 995 1001	Boeton
+T32	ProperName 1493 1503	Jan Daniel
+T33	Person 1517 1524;1525 1537	Thobias Pieter Ernst
+A40	Gender T33 Unspecified
+A41	LegalStatus T33 Unspecified
+A42	Role T33 Beneficiary
+T34	ProperName 1517 1524;1525 1537	Thobias Pieter Ernst
+T35	Person 1625 1630;1631 1648	Alida Maria van Batavia
+A43	Gender T35 Unspecified
+A44	LegalStatus T35 Unspecified
+A45	Role T35 Other
+T36	ProperName 1625 1630;1631 1648	Alida Maria van Batavia
+T37	Place 1641 1648	Batavia
+T38	Person 1700 1722	Ian Anthoni Bosschaard
+A46	Gender T38 Unspecified
+A47	LegalStatus T38 Unspecified
+A48	Role T38 Other
+T39	ProperName 1700 1722	Ian Anthoni Bosschaard
+T26	Person 934 948;949 961	slaeven Canang van Salaijar
+A31	Gender T26 Unspecified
+A32	LegalStatus T26 Enslaved
+A33	Role T26 Other
+T3	Person 24 40	August van Timor
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T8	Person 129 151	Fortuijn van Maccasser
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Enslaved
+A9	Role T8 Other
+T11	Person 178 196	Batjo van Mandhaer
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T14	Person 257 268;269 277	Heer Pieter Haksteen
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Beneficiary
+T31	Person 1493 1503	Jan Daniel
+A37	Gender T31 Unspecified
+A38	LegalStatus T31 Unspecified
+A39	Role T31 Beneficiary

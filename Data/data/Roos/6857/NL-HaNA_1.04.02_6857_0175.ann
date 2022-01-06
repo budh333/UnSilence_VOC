@@ -1,0 +1,42 @@
+T2	ProperName 39 55	Seneca Inggersen
+T4	ProperName 195 208	Ian van Heist
+T5	Organization 233 238	Comp:
+T6	Person 258 269;270 274	Hendrik van Elst
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 258 269;270 274	Hendrik van Elst
+T9	ProperName 314 324;325 332	Cornelis — Tessers
+T10	Person 418 428;429 439	Zaniel van Fokkenberg
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Testator
+T11	ProperName 418 428;429 439	Zaniel van Fokkenberg
+T12	Person 545 575	zuster Cornelia van fokkenberg
+A16	Gender T12 Woman
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 552 575	Cornelia van fokkenberg
+T14	Person 796 806	fokkenberg
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Testator
+T15	ProperName 796 806	fokkenberg
+T16	Person 1320 1330	fokkenberg
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Testator
+T17	ProperName 1320 1330	fokkenberg
+T1	Person 34 38;39 55	Heer Seneca Inggersen
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T3	Person 195 208	Ian van Heist
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T8	Person 314 324;325 332	Cornelis — Tessers
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+A25	Beneficiary T5 No

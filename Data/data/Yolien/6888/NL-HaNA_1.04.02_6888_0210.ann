@@ -1,0 +1,13 @@
+T1	TranscriptionError_Document 0 4	1735
+T2	Person 43 57;58 64	D' E:s Lrasmus Mulder
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 50 57;58 64	Lrasmus Mulder
+T4	Place 82 88	Capite
+T5	ProperName 82 88	Capite
+T6	ProperName 68 78	Pieter Tim
+T7	Person 68 78	Pieter Tim
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other

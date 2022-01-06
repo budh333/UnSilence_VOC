@@ -1,0 +1,20 @@
+T1	Person 281 291	Bimmingbon
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 281 291	Bimmingbon
+T3	Person 234 246	Jan Stekling
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 234 246	Jan Stekling
+T5	ProperName 259 271	Joseph Boege
+T6	Person 259 271	Joseph Boege
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 297 308	Dirk Barens
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 297 308	Dirk Barens

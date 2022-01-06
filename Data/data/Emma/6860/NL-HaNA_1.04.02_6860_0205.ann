@@ -1,0 +1,55 @@
+T1	DuplicatePage 0 2	en
+T2	TranscriptionError_Document 3 11	Leesiere
+T3	Place 37 50	te Banjoealit
+T4	ProperName 40 50	Banjoealit
+T5	Place 51 64	op Balemboang
+T6	ProperName 54 63	Balemboan
+T7	Organization 126 135	'sEComp:s
+T8	ProperName 126 135	'sEComp:s
+T9	Person 382 408	J: g„d Belmsre, Secretaris
+A1	Gender T9 Man
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Other
+T10	ProperName 382 396	J: g„d Belmsre
+T11	Person 479 505	M:s van Rhijn gesw: scriba
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Other
+T12	ProperName 483 492	van Rhijn
+T13	Person 518 527	M dashijn
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 518 527	M dashijn
+T16	ProperName 528 539	J H: Msusch
+T15	Person 528 558	J H: Msusch, onder Chijrurgijn
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T17	Person 573 581;582 586	Johannes Born
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 573 581;582 586	Johannes Born
+T19	Person 598 627	Jacob Pordrom Slerius Keseler
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	ProperName 598 628	Jacob Pordrom Slerius Keseler,
+T21	Person 664 686	Pierer Frans Fmieheijm
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Enslaved
+A21	Role T21 Other
+T22	ProperName 664 686	Pierer Frans Fmieheijm
+T23	Place 715 728	na Sourabaija
+T24	Place 718 728	Sourabaija
+T25	Person 763 787	P: vans Pieter p Meheijn
+A22	Gender T25 Unspecified
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 763 787	P: vans Pieter p Meheijn
+T27	Person 799 812	P„n MJ VRhijn
+A25	Gender T27 Unspecified
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 799 812	P„n MJ VRhijn

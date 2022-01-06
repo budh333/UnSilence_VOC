@@ -1,0 +1,24 @@
+T1	Place 503 518	Casteel Colombo
+T2	ProperName 511 518	Colombo
+T3	Place 524 547	woonhuijse der testalde
+T4	ProperName 539 547	testalde
+T5	ProperName 590 614	Pieterich Andreas Muller
+T6	Person 590 614	Pieterich Andreas Muller
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	ProperName 618 621;622 637	Jan Carel Andrietsz
+T8	Person 618 621;622 637	Jan Carel Andrietsz
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 797 816	Joan Harmanus Oucam
+T10	Person 797 816	Joan Harmanus Oucam
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Acting_Notary
+T11	Person 842 852	W„m Visser
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 846 852	Visser

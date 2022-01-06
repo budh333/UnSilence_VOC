@@ -1,0 +1,42 @@
+T1	Person 505 548	moeder mejuff=r Johanna Elisabeth Piiterzon
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 521 549	Johanna Elisabeth Piiterzon,
+T3	TranscriptionError_Document 0 1	9
+T4	Person 571 587	heer Jean Camijn
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 576 587	Jean Camijn
+T6	Place 601 607	vianen
+T7	ProperName 601 607	vianen
+T8	Person 810 817;818 850	dog ter genaamd Theodora Leentje Hulsuga
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	ProperName 826 850	Theodora Leentje Hulsuga
+T10	Person 929 958	Heer Hermanus Jonas Hulsengie
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 934 958	Hermanus Jonas Hulsengie
+T12	Organization 1023 1033;1034 1042	Guarnisoen Comptoir
+T13	ProperName 1023 1033	Guarnisoen
+T14	Organization 1122 1141;1142 1157	Collegie van heeren Boedelmeesteren
+T15	ProperName 1122 1141;1142 1157	Collegie van heeren Boedelmeesteren
+T16	Person 1539 1552;1553 1560	moeder susana Buisson
+A13	Gender T16 Woman
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Beneficiary
+T17	ProperName 1546 1552;1553 1560	susana Buisson
+T18	ProperName 1572 1589	george Cotterrell
+T19	Person 1572 1590	george Cotterrell,
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Testator
+T20	Place 1612 1623	stad London
+T21	ProperName 1617 1623	London
+T22	DuplicatePage 1851 1855	Amen
+T23	Place 1919 1926	Batavia
+T24	ProperName 1919 1926	Batavia

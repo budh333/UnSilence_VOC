@@ -1,0 +1,25 @@
+T1	Person 18 54	Mejuffrouw Sophia van Haak igteleden
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+T6	ProperName 1548 1572	Anna Cornelia de Lacoste
+T7	Person 1532 1547;1548 1572	moeder Iuffrouw Anna Cornelia de Lacoste
+A10	Gender T7 Woman
+A11	LegalStatus T7 Unspecified
+T8	ProperName 1598 1616	Adriaan van Toulon
+T9	Person 1598 1616	Adriaan van Toulon
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+T11	ProperName 1642 1649	utrecht
+T10	Place 1634 1649	de Stad utrecht
+T13	Person 1380 1388	kinderen
+A17	Gender T13 Group
+T15	ProperName 29 54	Sophia van Haak igteleden
+T17	Person 1174 1182	kinderen
+A21	Gender T17 Group
+A22	LegalStatus T17 Unspecified
+A20	LegalStatus T13 Unspecified
+A3	Role T1 Testator
+A4	Role T17 Other
+A5	Role T13 Other
+A6	Role T7 Beneficiary
+A7	Role T9 Beneficiary

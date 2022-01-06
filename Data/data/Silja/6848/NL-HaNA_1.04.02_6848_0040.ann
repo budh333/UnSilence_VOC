@@ -1,0 +1,37 @@
+T1	Person 907 915	het kind
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	Person 921 932	de kinderen
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+T3	Person 1030 1041	de kinderen
+A7	Gender T3 Group
+A8	LegalStatus T3 Unspecified
+T4	Person 1187 1195	kinderen
+A10	Gender T4 Group
+A11	LegalStatus T4 Unspecified
+T5	Person 1287 1304	E: Ionas Hulsinga
+A13	Gender T5 Man
+A14	LegalStatus T5 Unspecified
+T6	Person 1317 1321;1322 1348	huis Vrouw Rf=rs Leentje Iacobs
+A16	Gender T6 Woman
+A17	LegalStatus T6 Unspecified
+T7	ProperName 1290 1304	Ionas Hulsinga
+T8	ProperName 1334 1348	Leentje Iacobs
+T9	ProperName 1368 1377	groningen
+T10	Place 1368 1377	groningen
+T11	Person 1398 1417;1418 1440	vader den wel Eerw: hoer Theodorus Vermeer
+A19	Gender T11 Man
+A20	LegalStatus T11 Unspecified
+T12	ProperName 1423 1440	Theodorus Vermeer
+T14	Person 1713 1721	kinderen
+A22	Gender T14 Group
+A23	LegalStatus T14 Unspecified
+A3	Role T1 Beneficiary
+A6	Role T2 Beneficiary
+A9	Role T3 Beneficiary
+A12	Role T4 Beneficiary
+A18	Role T6 Beneficiary
+A15	Role T5 Beneficiary
+A21	Role T11 Beneficiary
+A24	Role T14 Beneficiary

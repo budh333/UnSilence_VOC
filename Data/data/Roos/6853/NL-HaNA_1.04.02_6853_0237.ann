@@ -1,0 +1,15 @@
+T1	Person 341 353	david Tansz:
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 341 353	david Tansz:
+T3	Person 360 377;378 393	Iacob augastijnsz d’ Ionge Clerq:
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 360 377;378 386	Iacob augastijnsz d’ Ionge
+T5	Person 484 501;502 511	Albertus dombeung note pub:
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	ProperName 484 501	Albertus dombeung

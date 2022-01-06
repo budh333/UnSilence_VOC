@@ -1,0 +1,26 @@
+T1	Place 107 127;128 134	de weescaamer deeser Steede
+T2	Place 144 159	het sterffhuijs
+T3	Place 666 683	Cabo de goedehoop
+T4	ProperName 666 683	Cabo de goedehoop
+T5	Place 684 693	en huijse
+T6	Person 776 793	Christoffel Brand
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	ProperName 776 793	Christoffel Brand
+T8	ProperName 796 802	Tulbag
+T9	Person 796 802	Tulbag
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Witness
+T10	ProperName 964 973	:van Saak
+T11	Person 964 973	:van Saak
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Acting_Notary
+T12	Place 998 1001;1002 1017	ten Zoldij Comptoir
+T13	ProperName 1028 1038	PDu tillij
+T14	Person 1028 1038	PDu tillij
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other

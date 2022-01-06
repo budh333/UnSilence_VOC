@@ -1,0 +1,19 @@
+T1	Place 29 33;34 47	Cabo de goede hoop
+T2	ProperName 29 33;34 47	Cabo de goede hoop
+T3	Person 85 100	I: v: D: Sluijs
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 94 100	Sluijs
+T5	ProperName 102 117;118 131	Johanna Alberta van dersluijs
+T6	Person 102 117;118 131	Johanna Alberta van dersluijs
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator_Beneficiary
+T7	ProperName 138 149	Clonpenburg
+T8	Place 182 196	Soldij Compt:r
+T9	Person 207 220	PJ: esterhoff
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 211 220	esterhoff

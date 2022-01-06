@@ -1,0 +1,45 @@
+T1	TranscriptionError_Document 0 5	soude
+T2	DuplicatePage 989 993	1787
+T3	ProperName 995 1012	Adriaan Poolvliet
+T4	ProperName 1056 1067	Jan Hendrik
+T5	ProperName 78 99	Heeren Bewindhebberen
+T6	Organization 78 99	Heeren Bewindhebberen
+T7	Place 102 111	Middelbur
+T8	ProperName 102 111	Middelbur
+T9	Place 112 119	Zeeland
+T10	ProperName 112 119	Zeeland
+T11	ProperName 131 140	Amsterdam
+T12	Place 131 140	Amsterdam
+T13	Place 362 378;379 397	In’t Retourschip 'T wapen van Hoorn
+T14	ProperName 380 397	T wapen van Hoorn
+T15	ProperName 468 493	Pieter van Essen schieman
+T16	Person 468 493	Pieter van Essen schieman
+A1	Gender T16 Unspecified
+A2	LegalStatus T16 Unspecified
+A3	Role T16 Witness
+T17	ProperName 497 523	Adriaan Claasz: Constabel,
+T18	Person 497 522	Adriaan Claasz: Constabel
+A4	Gender T18 Unspecified
+A5	LegalStatus T18 Unspecified
+A6	Role T18 Witness
+T19	ProperName 644 654;655 663	Reijsendij Dirk van
+T20	Person 644 654;655 663	Reijsendij Dirk van
+A7	Gender T20 Unspecified
+A8	LegalStatus T20 Unspecified
+A9	Role T20 Other
+T21	ProperName 625 643	Pieter van Eijtzen
+T22	Person 625 643	Pieter van Eijtzen
+A10	Gender T22 Unspecified
+A11	LegalStatus T22 Unspecified
+A12	Role T22 Other
+T23	ProperName 664 674	Ari Claase
+T24	Person 664 674	Ari Claase
+A13	Gender T24 Unspecified
+A14	LegalStatus T24 Unspecified
+A15	Role T24 Other
+T25	ProperName 685 690	BouwD
+T26	Person 685 690	BouwD
+A16	Gender T26 Unspecified
+A17	LegalStatus T26 Unspecified
+A18	Role T26 Other
+T27	DuplicatePage 715 727	Gelegentheyt

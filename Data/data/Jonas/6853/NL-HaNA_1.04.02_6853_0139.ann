@@ -1,0 +1,24 @@
+T1	Person 370 383;384 393	Arent Arentsz Bootsmann
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 370 383;384 393	Arent Arentsz Bootsmann
+T3	Person 397 420	Iacob Dockert Schiemann
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 397 420	Iacob Dockert Schiemann
+T5	Person 514 532	W: M: Coegs Adfist
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	Person 551 558	Jannner
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+#1	AnnotatorNotes T6	Signature
+T7	Person 635 651	Jan Iusius Kroon
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Other
+T8	ProperName 635 651	Jan Iusius Kroon

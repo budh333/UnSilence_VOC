@@ -1,0 +1,10 @@
+T1	Person 554 566;567 580	Vader Barend van der Frans
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 560 566;567 580	Barend van der Frans
+T3	Person 624 651	Vader Jsaak van der Transte
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 630 651	Jsaak van der Transte

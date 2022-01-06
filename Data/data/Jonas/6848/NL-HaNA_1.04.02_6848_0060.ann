@@ -1,0 +1,30 @@
+T1	Person 14 44	na telatene onmondige kinderen
+A1	Gender T1 Group
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	Person 229 238	Curatoren
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+A6	Notary T2 No
+T3	Person 276 296	Heeren weesmeesteren
+A7	Gender T3 Man
+A8	LegalStatus T3 Unspecified
+A9	Notary T3 No
+T4	Person 322 343	magistraats perzoonen
+A10	Gender T4 Group
+A11	LegalStatus T4 Unspecified
+A12	Notary T4 No
+T5	Organization 501 514	D'E Compagnie
+T6	Person 610 631	Heeren Bewindhebberen
+A13	Gender T6 Man
+A14	LegalStatus T6 Unspecified
+A15	Notary T6 No
+T7	Organization 651 694	ooft Jndische Compagnie ter kamer Amsterdam
+T8	ProperName 651 674	ooft Jndische Compagnie
+T9	Place 685 694	Amsterdam
+T10	ProperName 685 694	Amsterdam
+T11	Organization 890 921	Edele Hooge Jndiasche Regeering
+T12	Person 1934 1943	getuijgen
+A16	Gender T12 Group
+A17	LegalStatus T12 Unspecified
+A18	Notary T12 No

@@ -1,0 +1,11 @@
+T1	Place 891 900	hospitaal
+T2	ProperName 919 930;931 946	Joan Simon. pieter Cadenshi
+T3	Person 919 930;931 946	Joan Simon. pieter Cadenshi
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 950 962;963 975	Johannes Val qualenbrinck
+T5	Person 950 962;963 975	Johannes Val qualenbrinck
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness

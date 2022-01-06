@@ -1,0 +1,14 @@
+T1	ProperName 242 246	Comp
+T2	Organization 242 246	Comp
+A1	Beneficiary T2 No
+T3	Organization 444 449	CComp
+A2	Beneficiary T3 No
+T4	ProperName 444 449	CComp
+T5	Person 472 479;480 493	De Heer Jacobus Evers
+A3	Gender T5 Man
+A4	LegalStatus T5 Unspecified
+A5	Role T5 Other
+T6	ProperName 480 493	Jacobus Evers
+T7	Organization 551 555	Comp
+A6	Beneficiary T7 No
+T8	ProperName 551 555	Comp

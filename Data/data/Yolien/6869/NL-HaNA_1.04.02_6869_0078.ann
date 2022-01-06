@@ -1,0 +1,43 @@
+T1	TranscriptionError_Document 0 12	geabsirveerd
+T2	Place 171 178	Nederla
+T3	ProperName 171 178	Nederla
+T4	Person 233 245	Casper krall
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 233 245	Casper krall
+T6	ProperName 293 301	De Wilde
+T7	Person 293 301	De Wilde
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	ProperName 332 342	Meicharlis
+T9	Person 332 342	Meicharlis
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 373 380	De Blij
+T11	Person 373 380	De Blij
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 623 636	Hendrik Swari
+T13	Person 623 636	Hendrik Swari
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 685 689;690 701	Cor„ nelis Eyken
+T15	Person 685 689;690 701	Cor„ nelis Eyken
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	Organization 735 747	E: Compagnie
+T17	Organization 1250 1296;1297 1311	heeren bewind hebberen der geoctroijeerde oost indische compe
+T18	ProperName 1292 1296;1297 1311	oost indische compe
+T19	ProperName 1322 1331	Amsterdam
+T20	Place 1322 1331	Amsterdam
+T21	Place 189 199	souracaata
+T22	ProperName 189 199	souracaata
+T23	ProperName 350 357	Zildaar
+T24	ProperName 987 991;992 1005	heer weesmeesteren
+T25	Organization 987 991;992 1005	heer weesmeesteren

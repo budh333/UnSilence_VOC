@@ -1,0 +1,10 @@
+T1	Person 0 8	S„t Jewe
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 0 8	S„t Jewe
+T3	Person 14 32	Barthault de Htean
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 14 32	Barthault de Htean

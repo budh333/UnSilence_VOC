@@ -1,0 +1,102 @@
+T1	ProperName 34 43	JanScherm
+T2	Person 34 43	JanScherm
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 75 84	Wendelboe
+T4	Person 75 84	Wendelboe
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 102 115	moor soldaat.
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	Person 128 143	dE: van Berchem
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	ProperName 136 143	Berchem
+T8	ProperName 173 189	Jan Jacob franst
+T9	Person 173 189	Jan Jacob franst
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	Person 232 243	dE: De Leij
+A16	Gender T10 Unspecified
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	ProperName 236 242	De Lei
+T12	ProperName 250 256	Tijken
+T13	Person 250 256	Tijken
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 290 299	Jonkheere
+T15	Person 290 299	Jonkheere
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	ProperName 330 340	and Luijk.
+T17	Person 330 339	and Luijk
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	Person 392 404	Moor Soldaat
+A28	Gender T18 Man
+A29	LegalStatus T18 Unspecified
+A30	Role T18 Other
+T19	ProperName 457 472	Domine Partwijk
+T20	Person 457 472	Domine Partwijk
+A31	Gender T20 Unspecified
+A32	LegalStatus T20 Unspecified
+A33	Role T20 Other
+T21	ProperName 517 527	Jan Lachon
+T22	Person 517 527	Jan Lachon
+A34	Gender T22 Unspecified
+A35	LegalStatus T22 Unspecified
+A36	Role T22 Other
+T23	Person 590 599	S=t Ducam
+A37	Gender T23 Unspecified
+A38	LegalStatus T23 Unspecified
+A39	Role T23 Other
+T24	ProperName 594 599	Ducam
+T25	Person 664 676	Moor Soldaat
+A40	Gender T25 Unspecified
+A41	LegalStatus T25 Unspecified
+A42	Role T25 Other
+T26	ProperName 811 816	Homan
+T27	Person 811 816	Homan
+A43	Gender T27 Unspecified
+A44	LegalStatus T27 Unspecified
+A45	Role T27 Other
+T28	Person 851 861	St Ladiges
+A46	Gender T28 Unspecified
+A47	LegalStatus T28 Unspecified
+A48	Role T28 Other
+T29	ProperName 854 861	Ladiges
+T30	ProperName 915 924	Siffening
+T31	Person 915 924	Siffening
+A49	Gender T31 Unspecified
+A50	LegalStatus T31 Unspecified
+A51	Role T31 Other
+T32	ProperName 977 985	Gratiaan
+T33	Person 977 985	Gratiaan
+A52	Gender T33 Unspecified
+A53	LegalStatus T33 Unspecified
+A54	Role T33 Other
+T34	Person 1042 1054	daniel Raket
+A55	Gender T34 Unspecified
+A56	LegalStatus T34 Unspecified
+A57	Role T34 Other
+T35	ProperName 1042 1054	daniel Raket
+T36	Person 1129 1140	dE: Teijken
+A58	Gender T36 Unspecified
+A59	LegalStatus T36 Unspecified
+A60	Role T36 Other
+T37	ProperName 1133 1140	Teijken
+T38	ProperName 1167 1175	Tamelaar
+T39	Person 1167 1175	Tamelaar
+A61	Gender T39 Unspecified
+A62	LegalStatus T39 Unspecified
+A63	Role T39 Other

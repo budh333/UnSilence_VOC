@@ -1,0 +1,28 @@
+T1	DuplicatePage 0 2	41
+T2	Place 951 969	in’t schip t' slot
+T3	ProperName 962 969	t' slot
+T4	ProperName 1030 1046	Adriaan Evertsz:
+T5	Person 1030 1046	Adriaan Evertsz:
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 1087 1104	Joh:s Bloemendaal
+T7	Person 1087 1104	Joh:s Bloemendaal
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 1152 1168	J: J:s De kester
+T9	Person 1152 1168	J: J:s De kester
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 1173 1188	Richard, Church
+T11	Person 1173 1188	Richard, Church
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1202 1210	PBBurgna
+T13	Person 1202 1210	PBBurgna
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other

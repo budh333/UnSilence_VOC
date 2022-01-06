@@ -1,0 +1,58 @@
+T1	DuplicatePage 0 4	Ende
+T2	TranscriptionError_Document 5 8	bij
+T3	Person 211 226;227 236	de heer Hendrik Castelijn
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 219 226;227 236	Hendrik Castelijn
+T5	Organization 461 469	dE: Comp
+T6	ProperName 461 469	dE: Comp
+T7	Organization 496 519	der g'octroijeerde oost
+T8	ProperName 496 519	der g'octroijeerde oost
+T9	Organization 599 604	dE Co
+T10	ProperName 599 604	dE Co
+T11	Organization 734 790;791 797	eerde Neederlandsche oostjndische Maatschappij ter kamer Costam
+T12	ProperName 734 790;791 797	eerde Neederlandsche oostjndische Maatschappij ter kamer Costam
+T13	Place 781 790;791 797	ter kamer Costam
+T14	Place 863 886	met ’t schip westerveld
+T15	ProperName 876 885	westervel
+T16	Place 2115 2140	Boelecomba ter woonhuijse
+T17	ProperName 2115 2125	Boelecomba
+T18	Place 2178 2205	in de negorij Serang Serang
+T19	ProperName 2192 2205	Serang Serang
+T20	Person 2249 2277	Johan Martin Heijer Zergeant
+A4	Gender T20 Man
+A5	LegalStatus T20 Unspecified
+A6	Role T20 Witness
+T21	ProperName 2249 2268	Johan Martin Heijer
+T22	ProperName 2281 2288	Joachim
+T23	Person 2281 2288	Joachim
+A7	Gender T23 Unspecified
+A8	LegalStatus T23 Unspecified
+A9	Role T23 Other
+T24	Organization 2334 2340	Comp:s
+T25	ProperName 2334 2340	Comp:s
+T26	ProperName 2420 2427	J: Rets
+T27	Person 2420 2427	J: Rets
+A10	Gender T27 Unspecified
+A11	LegalStatus T27 Unspecified
+A12	Role T27 Other
+T28	Person 2519 2545	G: I: G Doser gesw: scriba
+A13	Gender T28 Man
+A14	LegalStatus T28 Unspecified
+A15	Role T28 Other
+T29	ProperName 2519 2532	G: I: G Doser
+T30	Organization 2635 2649	zoldij Comptoi
+T31	Place 2674 2695;2696 2705	Maccasser in 't Cashe Rotterdam
+T32	ProperName 2674 2683	Maccasser
+T33	ProperName 2696 2705	Rotterdam
+T34	Person 2749 2761;2762 2771	J:n G„s Buls secetaris
+A16	Gender T34 Man
+A17	LegalStatus T34 Unspecified
+A18	Role T34 Other
+T35	ProperName 2749 2761	J:n G„s Buls
+T36	Person 2783 2791	BBisumas
+A19	Gender T36 Unspecified
+A20	LegalStatus T36 Unspecified
+A21	Role T36 Other
+T37	ProperName 2783 2791	BBisumas

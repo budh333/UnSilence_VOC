@@ -1,0 +1,59 @@
+T1	Person 16 37	Jan Christiaan Malsch
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 16 37	Jan Christiaan Malsch
+T3	Person 95 119	Iacobus Wijnand brengman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	Person 197 220;221 229	Joan van der voortnot=s publicq:
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Notary
+T5	ProperName 197 215	Joan van der voort
+T6	Organization 233 278	de Edele hooge regeringe van nnderlands Jndia
+T7	ProperName 236 278	Edele hooge regeringe van nnderlands Jndia
+T8	Place 262 278	nnderlands Jndia
+T9	ProperName 262 278	nnderlands Jndia
+T10	Place 292 317	binnen deses stad batavia
+T11	ProperName 310 317	batavia
+T12	Person 330 350	gosen van der Meulen
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 330 350	gosen van der Meulen
+T14	Person 120 140	Gosen van der Meulen
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator
+T15	ProperName 120 140	Gosen van der Meulen
+T16	Organization 373 381	d’ Ecomp
+T17	Organization 401 407	EComp:
+T18	Place 396 417	in s EComp: hospitaal
+T19	Person 1093 1120;1121 1131	de heer Willem Hendrik van„ ossenberch
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Beneficiary
+T20	ProperName 1101 1120;1121 1131	Willem Hendrik van„ ossenberch
+T21	Person 1336 1355	heer van ossenberch
+A19	Gender T21 Man
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Beneficiary
+T22	Person 1420 1439	heer van ossenberch
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Beneficiary
+T23	Person 1667 1673;1674 1697	moeder Hendrina van der Meulen
+A25	Gender T23 Woman
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Beneficiary
+T24	ProperName 1674 1697	Hendrina van der Meulen
+T25	Place 1707 1711;1712 1753	inde Laarpoort agter de Leeuwerberg te zutghen
+T26	ProperName 1746 1753	zutghen
+T27	Person 1795 1811	M:r menno neouts
+A28	Gender T27 Man
+A29	LegalStatus T27 Unspecified
+A30	Role T27 Other
+T28	ProperName 1799 1811	menno neouts
+T29	ProperName 95 119	Iacobus Wijnand brengman

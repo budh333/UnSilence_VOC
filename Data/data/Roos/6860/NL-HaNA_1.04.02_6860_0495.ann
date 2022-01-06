@@ -1,0 +1,73 @@
+T1	TranscriptionError_Document 0 2	1e
+T2	DuplicatePage 0 2	1e
+T3	Person 122 129	Neijman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 122 129	Neijman
+T5	Person 158 166	heyneman
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 158 166	heyneman
+T7	Person 194 198	Beun
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 194 198	Beun
+T9	Person 253 263	heer Rasch
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 258 263	Rasch
+T11	Person 354 362	Bastiaan
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 354 362	Bastiaan
+T13	Person 505 519	Claas van Loon
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 505 519	Claas van Loon
+T15	Person 653 664	Berkhuijsen
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 653 664	Berkhuijsen
+T17	Person 694 708	heer Hartsinck
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 699 708	Hartsinck
+T19	Organization 963 981	de samarangse arme
+A25	Beneficiary T19 Yes
+T20	Place 1151 1160	Sourabaga
+T21	ProperName 1151 1160	Sourabaga
+T22	Person 1198 1216	W: H: van Ysseldyk
+A26	Gender T22 Unspecified
+A27	LegalStatus T22 Unspecified
+A28	Role T22 Other
+T23	ProperName 1198 1216	W: H: van Ysseldyk
+T24	Person 1241 1251	PLaslouper
+A29	Gender T24 Unspecified
+A30	LegalStatus T24 Unspecified
+A31	Role T24 Other
+T25	ProperName 1241 1251	PLaslouper
+T26	Person 1278 1292	Matt schelhaas
+A32	Gender T26 Unspecified
+A33	LegalStatus T26 Unspecified
+A34	Role T26 Other
+T27	ProperName 1278 1292	Matt schelhaas
+T28	Person 1313 1327	burger v„ Loon
+A35	Gender T28 Unspecified
+A36	LegalStatus T28 Unspecified
+A37	Role T28 Other
+T29	ProperName 1313 1327	burger v„ Loon
+T30	Person 1409 1418	Erentrijk
+A38	Gender T30 Unspecified
+A39	LegalStatus T30 Unspecified
+A40	Role T30 Other
+T31	ProperName 1409 1418	Erentrijk
+T32	Place 1638 1645	batavia
+T33	Person 1638 1645	batavia

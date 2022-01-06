@@ -1,0 +1,23 @@
+T2	ProperName 203 222	reijnier maartensz:
+T3	Organization 238 260	'Tmalaxe gouverneurent
+T5	ProperName 308 324	Pieter roosebaar
+T6	Organization 366 373	sComp:s
+T8	ProperName 408 422	Jan fandertsz:
+T9	Place 427 436	dort mont
+T10	ProperName 427 436	dort mont
+T11	Organization 455 466	der E:Comp:
+T1	Person 203 233	reijnier maartensz: secretaris
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T4	Person 308 324	Pieter roosebaar
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T7	Person 408 422	Jan fandertsz:
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+A10	Beneficiary T3 No
+A11	Beneficiary T6 No
+A12	Beneficiary T11 No

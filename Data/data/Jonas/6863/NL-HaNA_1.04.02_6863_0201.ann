@@ -1,0 +1,18 @@
+T1	Organization 111 134;135 143	rade van Iustitie deses Casteels
+T2	Place 129 134;135 143	deses Casteels
+T3	Person 56 66	J=o Leeden
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 276 285	E: Leeden
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Organization 300 317	raad van Justitie
+T6	Place 318 324;325 332	alhier Colombo
+T7	ProperName 325 332	Colombo
+T8	Person 370 390	Tustinus Kriekenbeek
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	ProperName 370 390	Tustinus Kriekenbeek

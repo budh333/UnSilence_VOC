@@ -1,0 +1,37 @@
+T2	ProperName 47 77	Gerrardus Cornelis Franchimont
+T4	ProperName 206 227	Anthonij van der Laan
+T5	Place 232 239	nigombo
+#2	AnnotatorNotes T5	Negombo, Sri Lanka
+T6	ProperName 232 239	nigombo
+#3	AnnotatorNotes T6	Negombo, Sri Lanka
+T8	ProperName 267 276;277 298	Catharina Anthonia van der blom
+T9	Place 303 310	kolombo
+T10	ProperName 303 310	kolombo
+T11	Organization 768 780;781 786	de diakonie„ armen
+T12	Place 254 263	hulfsdoop
+#4	AnnotatorNotes T12	Hulfsdorp
+T13	ProperName 254 263	hulfsdoop
+T14	TranscriptionError_Document 1 2	=
+T15	Person 1463 1478	Iohannes Philip
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	ProperName 1463 1478	Iohannes Philip
+T17	Person 1856 1874	Mejuffrouw Johanna
+A13	Gender T17 Woman
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 1867 1874	Johanna
+T1	Person 47 86;87 92	Gerrardus Cornelis Franchimont Geswoore klerk
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T3	Person 206 227	Anthonij van der Laan
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T7	Person 267 276;277 298	Catharina Anthonia van der blom
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator_Beneficiary
+A16	Beneficiary T11 Yes

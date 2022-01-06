@@ -1,0 +1,13 @@
+T1	Organization 16 29	der E E Comp:
+T3	ProperName 145 160	Andreas zetting
+T4	Organization 172 180	SE Comp:
+T5	Person 657 668	lijfEijgene
+A4	Gender T5 Group
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T2	Person 145 160	Andreas zetting
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+A7	Beneficiary T1 No
+A8	Beneficiary T4 No

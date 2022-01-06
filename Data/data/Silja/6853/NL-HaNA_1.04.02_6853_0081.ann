@@ -1,0 +1,63 @@
+T1	ProperName 0 8	Jan Kreb
+T2	Person 0 8	Jan Kreb
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	DuplicatePage 0 3	Jan
+T4	ProperName 9 24	Jacob de Koning
+T5	Person 9 24	Jacob de Koning
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 80 101	Guilliam Gerard Frian
+T7	Person 80 101	Guilliam Gerard Frian
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 102 117	Coenraad Kngest
+T9	Person 102 117	Coenraad Kngest
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	Person 284 303;304 315	Johan van visvliet, not:s publ:
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Notary
+T11	ProperName 284 302	Johan van visvliet
+T12	Organization 324 347	Edelen hove van holland
+T13	ProperName 324 347	Edelen hove van holland
+T14	ProperName 340 347	holland
+T15	Place 340 347	holland
+T16	Organization 352 360;361 398	de Edele hooge regeeringe van nederlands India
+T17	ProperName 352 360;361 398	de Edele hooge regeeringe van nederlands India
+T18	ProperName 382 398	nederlands India
+T19	Place 382 398	nederlands India
+T20	Place 420 435	de stad Batavia
+T21	ProperName 428 435	Batavia
+T22	Person 488 503	Coenraad Knoest
+A16	Gender T22 Unspecified
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Testator
+T23	ProperName 488 503	Coenraad Knoest
+T24	Place 509 521	hildersheijm
+T25	ProperName 509 521	hildersheijm
+T26	ProperName 588 594	EComp:
+T27	Organization 588 594	EComp:
+T28	ProperName 1209 1216;1217 1221	Jan Har „man
+T29	Person 1209 1216;1217 1221	Jan Har „man
+A19	Gender T29 Man
+A20	LegalStatus T29 Unspecified
+A21	Role T29 Beneficiary
+T30	Person 1226 1242	Elisabeth knoest
+A22	Gender T30 Woman
+A23	LegalStatus T30 Unspecified
+A24	Role T30 Beneficiary
+T31	ProperName 1226 1242	Elisabeth knoest
+T32	Place 1258 1261;1262 1271	hil dersheijm
+T33	ProperName 1258 1261;1262 1271	hil dersheijm
+T34	Organization 1340 1352	E: Compagnie
+T35	ProperName 1340 1352	E: Compagnie
+A25	Beneficiary T12 No
+A26	Beneficiary T16 No
+A27	Beneficiary T27 No
+A28	Beneficiary T34 No

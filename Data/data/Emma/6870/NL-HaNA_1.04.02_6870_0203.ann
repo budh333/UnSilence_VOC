@@ -1,0 +1,13 @@
+T1	Organization 141 173;174 187	het Eerw: sollegie van E: heeren weesmeesteren
+T2	Place 1365 1378;1379 1386	in de jonker„ „straat
+T3	ProperName 1371 1378;1379 1386	jonker„ „straat
+T4	Person 1439 1472	Abraham Jsaac Gromme gesw: Rleecq
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 1439 1459	Abraham Jsaac Gromme
+T6	Person 1477 1482;1483 1530;1531 1540	Moses Carel Willem de Tommerolles prop, assistent als getuijgen
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 1477 1482;1483 1510	Moses Carel Willem de Tommerolles

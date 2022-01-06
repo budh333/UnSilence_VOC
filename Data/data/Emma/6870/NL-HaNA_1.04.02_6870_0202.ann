@@ -1,0 +1,31 @@
+T1	Organization 339 357;358 367	de diaconije Armen te desser
+A1	Beneficiary T1 Yes
+T2	Person 543 548;549 577	vrije vrome gen:t Johanna de Silta
+A2	Gender T2 Woman
+A3	LegalStatus T2 Unspecified
+A4	Role T2 Beneficiary
+T3	ProperName 561 577	Johanna de Silta
+T4	Person 837 845;846 891	mattroos in dienst der E:Comp: Jan Arersz: van Vijkerk
+A5	Gender T4 Man
+A6	LegalStatus T4 Unspecified
+A7	Role T4 Beneficiary
+T5	Organization 860 866	E:Comp
+T6	ProperName 860 866	E:Comp
+T7	ProperName 868 890	Jan Arersz: van Vijker
+T8	Person 1008 1012;1013 1020	sla„ „vinnen
+A8	Gender T8 Group
+A9	LegalStatus T8 Enslaved
+T9	Person 1000 1006	slapen
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Enslaved
+A12	Role T9 Other
+T10	Person 1448 1460	David sweris
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	Person 1465 1477	Jan Krijkman
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 1448 1459	David sweri
+T13	ProperName 1465 1477	Jan Krijkman

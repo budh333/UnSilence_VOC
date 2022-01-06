@@ -1,0 +1,37 @@
+T1	ProperName 13 24	Van Seijger
+T2	Person 13 24	Van Seijger
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Place 141 144;145 155	sch Giesenburg
+T4	ProperName 145 155	Giesenburg
+T5	Person 195 198;199 209	Con Van Gessen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 199 209	Van Gessen
+T7	ProperName 220 244	hendrik Siar Carel. fred
+T8	Person 220 244	hendrik Siar Carel. fred
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 294 316	dirk Sam:s Zuijdermark
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 294 316	dirk Sam:s Zuijdermark
+T11	ProperName 699 702;703 720	Her brik van der Hof:
+T12	Person 699 702;703 720	Her brik van der Hof:
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Acting_Notary
+T13	ProperName 767 776	Areno Mar
+T14	Person 767 776	Areno Mar
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	Person 780 803	Jan Christoffel Kokaard
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 780 803	Jan Christoffel Kokaard

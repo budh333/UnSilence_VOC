@@ -1,0 +1,15 @@
+T1	Person 0 22	Jurgen Paulus Rykerman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 71 99	M=r Jan van der voortnataris
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Notary
+T3	ProperName 75 92	Jan van der voort
+T4	Organization 113 153;154 159	de Edele hooge reegeringe van nederlande India
+T5	Place 143 153;154 159	nederlande India
+T6	ProperName 143 153;154 159	nederlande India
+T7	Place 173 195	binnen de stad batavia
+T8	ProperName 188 195	batavia
+T9	ProperName 0 22	Jurgen Paulus Rykerman

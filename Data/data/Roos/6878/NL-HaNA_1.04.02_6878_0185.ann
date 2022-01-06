@@ -1,0 +1,15 @@
+T2	ProperName 89 100;101 103;104 111	Jan hendrik in Withoff
+T3	Place 116 123	hanover
+T4	ProperName 116 123	hanover
+T5	Organization 581 590;591 624;625 642	Wel Edele groot Agtbaarheeren Bewindhebbers ter bamer Zeeland
+T6	Place 635 642	Zeeland
+T7	ProperName 635 642	Zeeland
+T8	Person 1098 1104	gerrit
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	ProperName 1098 1104	gerrit
+T1	Person 89 100;101 103;104 111	Jan hendrik in Withoff
+A1	Gender T1 Man
+A2	Role T1 Testator
+A3	Beneficiary T5 No

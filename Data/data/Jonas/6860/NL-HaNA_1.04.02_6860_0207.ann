@@ -1,0 +1,62 @@
+T1	Person 0 18	Iuhan Paul Coolman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 18	Iuhan Paul Coolman
+T3	Person 167 179;180 187	Iuilius Tane Coolman
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	Place 192 198	Enbeek
+T5	ProperName 192 198	Enbeek
+T6	ProperName 167 179;180 187	Iuilius Tane Coolman
+T7	Person 231 257	Marinus Vrobert Derhuijsen
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 231 257	Marinus Vrobert Derhuijsen
+T9	Place 570 580	Soerabaija
+T10	ProperName 570 580	Soerabaija
+T11	Person 1184 1196	J A: misusch
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	Person 1217 1228	Swidorschij
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Witness
+T13	Person 1230 1238;1239 1243	Iohannes Born
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Witness
+T14	ProperName 1230 1238;1239 1243	Iohannes Born
+T15	Person 1245 1253	W=m Eens
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Witness
+T16	Person 1255 1268	Jacob Pordrom
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Witness
+T17	ProperName 1255 1268	Jacob Pordrom
+T18	Person 1270 1285	Slerius Keseler
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Witness
+T19	ProperName 1270 1285	Slerius Keseler
+T20	Person 1322 1344	Pieter Frans Kmieheijm
+A28	Gender T20 Unspecified
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Other
+T21	Place 1375 1385	Sourabaija
+T22	ProperName 1375 1385	Sourabaija
+T23	ProperName 1322 1344	Pieter Frans Kmieheijm
+T24	Person 1420 1443	Frans Pieter J hieheijn
+A31	Gender T24 Unspecified
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Acting_Notary
+T25	Person 1455 1468	P„: M:J Vshin
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Acting_Notary
+#1	AnnotatorNotes T25	Signature

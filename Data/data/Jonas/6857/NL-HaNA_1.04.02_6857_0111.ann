@@ -1,0 +1,50 @@
+T1	TranscriptionError_Document 12 18	N=o 73
+T2	Person 102 125	Marinus van Leeuwendaal
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T3	ProperName 102 125	Marinus van Leeuwendaal
+T4	Person 247 275	heer M=r Willem van der Beke
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 256 275	Willem van der Beke
+T6	Place 301 316	deses Comptoirs
+T7	Person 424 435	pou tjaijko
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Person 452 462	s: m: lebe
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	Person 505 514	tan hapko
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	Person 529 537	hendriks
+A16	Gender T10 Unspecified
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	Person 702 731	I=n P=r C=s Hasselaer gscriba
+A19	Gender T11 Man
+A20	LegalStatus T11 Unspecified
+A21	Role T11 Notary
+T12	Person 772 786	A=s C=n Momsen
+A22	Gender T12 Unspecified
+A23	LegalStatus T12 Unspecified
+A24	Role T12 Witness
+T13	Person 788 804	S=s B=s De Silva
+A25	Gender T13 Unspecified
+A26	LegalStatus T13 Unspecified
+A27	Role T13 Witness
+T14	Place 818 826	Cheribon
+T15	ProperName 818 826	Cheribon
+T16	Person 881 890	Kok Johan
+A28	Gender T16 Unspecified
+A29	LegalStatus T16 Unspecified
+A30	Role T16 Other
+T17	Person 998 1009	C: Rijnnagh
+A31	Gender T17 Man
+A32	LegalStatus T17 Unspecified
+A33	Role T17 Notary

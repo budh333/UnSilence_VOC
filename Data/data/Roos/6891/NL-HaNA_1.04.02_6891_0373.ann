@@ -1,0 +1,42 @@
+T1	TranscriptionError_Document 2 4	Op
+T2	DuplicatePage 2 4	Op
+T3	Person 57 76	George Fredrik Roth
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 57 76	George Fredrik Roth
+T5	Organization 101 120	Oost Indsche Comp=e
+A4	Beneficiary T5 No
+T6	Place 121 149	op het schip Noord Nieuwland
+T7	ProperName 134 149	Noord Nieuwland
+T8	Person 302 321	Ioost van Steenland
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 302 321	Ioost van Steenland
+T10	Place 326 336	vlissingen
+T11	ProperName 326 336	vlissingen
+T12	Organization 360 368	E Comp=e
+A8	Beneficiary T12 No
+T13	Person 471 482	Pieter Boom
+A9	Gender T13 Unspecified
+A10	LegalStatus T13 Unspecified
+A11	Role T13 Acting_Notary
+T14	ProperName 471 482	Pieter Boom
+T15	Organization 507 513	EComp:
+A12	Beneficiary T15 No
+T16	Place 553 569	schip d Cornelia
+T17	ProperName 561 569	Cornelia
+T18	Person 584 600	Pieter Schuurman
+A13	Gender T18 Man
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Testator
+T19	ProperName 584 600	Pieter Schuurman
+T20	Place 606 614	Erbeveld
+T21	ProperName 606 614	Erbeveld
+T22	Organization 1794 1837	de gereformeerde armen. ter Camer amsterdam
+A16	Beneficiary T22 Yes
+T23	Place 1828 1837	amsterdam
+T24	ProperName 1828 1837	amsterdam
+T25	Place 2578 2587	Purmerent
+T26	ProperName 2578 2587	Purmerent

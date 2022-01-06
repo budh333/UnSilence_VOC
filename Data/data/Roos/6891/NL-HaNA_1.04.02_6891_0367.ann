@@ -1,0 +1,38 @@
+T1	TranscriptionError_Document 27 29	Op
+T2	DuplicatePage 27 29	Op
+T3	Person 0 20	Johan Daniel Sungman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 20	Johan Daniel Sungman
+T5	Person 162 173;174 188	Christiaan, Libregt Kloege
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 162 173;174 188	Christiaan, Libregt Kloege
+T7	Place 238 259	Casteels de Goedehoop
+T8	ProperName 247 259	de Goedehoop
+T9	Person 308 313;314 328	Johan daniel Sungman
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 308 313;314 328	Johan daniel Sungman
+T11	Place 333 343	Bastenburg
+T12	ProperName 333 343	Bastenburg
+T13	Place 347 353;354 362	hessen darmstad
+T14	ProperName 347 353;354 362	hessen darmstad
+T15	Person 366 380	Elsje Roelofsz
+A10	Gender T15 Woman
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator
+T16	ProperName 366 380	Elsje Roelofsz
+T17	Place 385 396;397 418	Swallenberg in’t graafschap lippe
+T18	ProperName 385 396	Swallenberg
+T19	ProperName 413 418	lippe
+T20	Person 1562 1580	Heer Carel Telkamp
+A13	Gender T20 Man
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Beneficiary
+T21	ProperName 1567 1580	Carel Telkamp
+T22	Place 2070 2079	purmerent
+T23	ProperName 2070 2079	purmerent

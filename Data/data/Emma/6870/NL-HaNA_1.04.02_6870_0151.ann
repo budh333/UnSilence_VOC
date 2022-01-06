@@ -1,0 +1,61 @@
+T1	Person 0 13	Lourens Craay
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	DuplicatePage 19 21	Op
+T3	TranscriptionError_Document 22 29	Huijden
+T4	Person 75 98	Jan de Baerij assistend
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 75 88	Jan de Baerij
+T6	Organization 109 121	der E: Comp:
+T7	ProperName 109 120	der E: Comp
+T8	Place 150 156;157 173	op het schip Hinkensand
+T9	ProperName 163 173	Hinkensand
+T10	Person 200 206;207 213	ouvens Craaij
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 200 206;207 213	ouvens Craaij
+T12	Place 214 224	van mettor
+T13	ProperName 218 224	mettor
+T14	Person 435 444	Carbonier
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 435 444	Carbonier
+T16	Person 510 530;531 573	Carel Bernardus Swa„ „nevelder, Boekhouder en geswooren, Clercq
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Acting_Notary
+T17	ProperName 510 530;531 540	Carel Bernardus Swa„ „nevelder
+T18	Person 637 689;690 703	Den Metselaar in dienst der ECompagnie alhier Atjen„ „ne Carbonier
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Testator
+T19	ProperName 683 689;690 703	Atjen„ „ne Carbonier
+T20	Organization 661 675	der ECompagnie
+T21	ProperName 661 675	der ECompagnie
+T22	Person 707 732;733 743	Anna Catharina gunter Eg„ „te Lieden
+A19	Gender T22 Woman
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Testator
+T23	ProperName 707 728	Anna Catharina gunter
+T24	Person 1834 1837;1838 1842	Jo„ Seph
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Beneficiary
+T25	Person 1846 1868	Bartholomeus Carbonier
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Beneficiary
+T26	ProperName 1834 1837;1838 1842	Jo„ Seph
+T27	ProperName 1846 1868	Bartholomeus Carbonier
+T28	Organization 2339 2347	'sComp=s
+T29	ProperName 2339 2347	'sComp=s
+T30	Person 2919 2925	Willem
+A28	Gender T30 Unspecified
+A29	LegalStatus T30 Unspecified
+A30	Role T30 Other
+T31	ProperName 2919 2925	Willem

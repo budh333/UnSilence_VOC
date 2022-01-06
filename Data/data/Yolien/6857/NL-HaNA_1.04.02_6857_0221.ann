@@ -1,0 +1,75 @@
+T1	TranscriptionError_Document 0 5	Copia
+T2	DuplicatePage 2021 2037	Ter naagelaatene
+T3	ProperName 2054 2062	Hoogland
+T4	Person 2054 2062	Hoogland
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Person 81 108	M„r Willem Arnold velingius
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 85 108	Willem Arnold velingius
+T7	Place 157 165	Cheribon
+T8	ProperName 157 165	Cheribon
+T9	Person 212 222;223 258	Christiaan Gottlieb Gelsdorff van Pangerhousen
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 212 222;223 258	Christiaan Gottlieb Gelsdorff van Pangerhousen
+T11	Place 291 302	Jndramaijoe
+T12	ProperName 291 302	Jndramaijoe
+T13	ProperName 621 624;625 649	Bar tholomeus De Toutlemonde
+T14	Person 621 624;625 649	Bar tholomeus De Toutlemonde
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Notary
+T15	Organization 676 682	E Comp
+T16	Person 782 816	heer M:r Pieter Cornelis Hasselaer
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 791 816	Pieter Cornelis Hasselaer
+T18	Person 942 954	Jsaac Gouijn
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Witness
+T19	ProperName 942 954	Jsaac Gouijn
+T20	Person 1322 1329	slaeven
+A19	Gender T20 Group
+A20	LegalStatus T20 Enslaved
+A21	Role T20 Other
+T21	Person 1441 1458	soon Iacob Gouijn
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary
+T22	ProperName 1446 1458	Iacob Gouijn
+T23	Person 1759 1788	wijf de verpandeling Jientang
+A25	Gender T23 Woman
+A26	LegalStatus T23 Enslaved
+A27	Role T23 Other
+T24	Noteworthy 1767 1779	verpandeling
+T25	ProperName 1780 1788	Jientang
+T26	Person 1812 1819	slavine
+A28	Gender T26 Woman
+A29	LegalStatus T26 Unspecified
+A30	Role T26 Other
+T27	Person 1852 1884	ingt Iohanna Catharina Steuphaas
+A31	Gender T27 Woman
+A32	LegalStatus T27 Unspecified
+A33	Role T27 Beneficiary
+T28	ProperName 1857 1884	Iohanna Catharina Steuphaas
+T29	Person 1890 1898	slavinne
+A34	Gender T29 Group
+A35	LegalStatus T29 Enslaved
+A36	Role T29 Other
+T30	ProperName 2002 2009	Montong
+T31	ProperName 2013 2019	Pindik
+T32	Person 2002 2009	Montong
+A37	Gender T32 Unspecified
+A38	LegalStatus T32 Unspecified
+A39	Role T32 Other
+T33	Person 2013 2019	Pindik
+A40	Gender T33 Unspecified
+A41	LegalStatus T33 Unspecified
+A42	Role T33 Other

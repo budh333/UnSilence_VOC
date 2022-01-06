@@ -1,0 +1,27 @@
+T1	ProperName 242 253	Sesubhristi
+T2	TranscriptionError_Document 1 3	In
+T3	DuplicatePage 1 3	In
+T4	ProperName 333 347	Wolfer t Johan
+T5	Person 333 347	Wolfer t Johan
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 441 451	Phristiaan
+T7	Person 608 614	slaven
+A4	Gender T7 Group
+A5	LegalStatus T7 Enslaved
+A6	Role T7 Other
+T8	Person 639 648	slavinnen
+A7	Gender T8 Group
+A8	LegalStatus T8 Enslaved
+A9	Role T8 Other
+T9	Organization 675 681	EEcomp
+T10	ProperName 1207 1214	Amboina
+T11	Place 1207 1214	Amboina
+T12	Organization 1413 1431	Eerwaarde Callegie
+T13	ProperName 1413 1431	Eerwaarde Callegie
+T14	Organization 1458 1477	Heeren Weesmeester,
+T15	ProperName 1458 1477	Heeren Weesmeester,
+T16	Place 1478 1496	ter steede Batavia
+T17	ProperName 1489 1496	Batavia
+T18	Organization 1940 1944	Comp

@@ -1,0 +1,37 @@
+T2	ProperName 118 128;129 152	M„r Willem Nicolaas van Levenhoven
+T3	Person 176 191	Daniel Pronlhet
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 176 191	Daniel Pronlhet
+T5	Place 215 220	Dolft
+T6	ProperName 215 220	Dolft
+T7	Organization 566 574	dE Comp:
+T8	Organization 646 672;673 742;743 748	de Wel Edeler Groot Agtb:r Hderen bewindhebberen der geactrojeerde cost Indische Comp: ter Camor Delft
+T9	Place 743 748	Delft
+T10	ProperName 743 748	Delft
+T11	Person 1095 1109	Lijff Eijgenen
+A7	Gender T11 Group
+A8	LegalStatus T11 Enslaved
+A9	Role T11 Other
+T12	Person 1791 1804	David Ianszen
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Witness
+T13	ProperName 1791 1804	David Ianszen
+T14	Person 1808 1822	Carel Francois
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	ProperName 1808 1822	Carel Francois
+T16	Person 1961 1978	L„t Rolff notaris
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Notary
+T17	ProperName 1961 1970	L„t Rolff
+T1	Person 118 128;129 152	M„r Willem Nicolaas van Levenhoven
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+A19	Beneficiary T7 No
+A20	Beneficiary T8 No

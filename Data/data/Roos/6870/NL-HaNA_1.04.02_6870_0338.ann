@@ -1,0 +1,20 @@
+T1	Person 116 128	Thomas Remer
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 116 128	Thomas Remer
+T3	Person 132 142;143 150	Huijbertus Overree
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 132 142;143 150	Huijbertus Overree
+T5	Person 308 325	J„s J=bs sas seer
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 308 325	J„s J=bs sas seer
+T7	Person 338 348	Midelwaart
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 338 348	Midelwaart

@@ -1,0 +1,14 @@
+T1	Person 865 886	Gose Theodore vermeer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 865 886	Gose Theodore vermeer
+T3	Place 929 962	pakhuijsen bezeijden de waterpoor
+T4	Organization 1020 1037	Raad van Justitie
+T5	Place 1045 1053	Casteels
+T6	Person 1057 1070;1071 1076	Johan Hendrik holle
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 1057 1070;1071 1077	Johan Hendrik holle,
+T8	Organization 1117 1148	Comptoir van den opperEquipagie

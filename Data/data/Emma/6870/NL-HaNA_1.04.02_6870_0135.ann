@@ -1,0 +1,42 @@
+T1	Person 3 20	Henderik Cornelis
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 3 20	Henderik Cornelis
+T3	Person 88 113	George Bremer gesw Clercq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 88 101	George Bremer
+T5	Organization 226 237	der E: Comp
+T6	ProperName 226 237	der E: Comp
+T7	Person 246 253;254 262	Hendrik Cornelis
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	ProperName 246 253;254 262	Hendrik Cornelis
+T9	Person 267 294	Hendrica Anthonia Krookwits
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 267 294	Hendrica Anthonia Krookwits
+T11	Person 1069 1075;1076 1093	vader„ Cornelis Hendriks
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	ProperName 1076 1093	Cornelis Hendriks
+T13	Place 1105 1130	te west Cappel in Zeeland
+T14	ProperName 1108 1119	west Cappel
+T15	ProperName 1123 1130	Zeeland
+T16	ProperName 1158 1166	hollands
+T17	Place 1158 1166	hollands
+T18	Person 1437 1454;1455 1463	moeder Anna Maria Josephus
+A16	Gender T18 Woman
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Beneficiary
+T19	ProperName 1444 1454;1455 1463	Anna Maria Josephus
+T20	Person 1481 1514;1515 1532	manhaften Luijtenant militair Ian Hendrik krookwits
+A19	Gender T20 Man
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	ProperName 1512 1514;1515 1532	an Hendrik krookwits

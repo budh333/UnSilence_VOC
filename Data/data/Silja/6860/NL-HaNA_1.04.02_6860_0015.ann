@@ -1,0 +1,6 @@
+T1	DuplicatePage 0 9	Testament
+T2	ProperName 14 31	Pieter De Lahayse
+T3	Person 14 31	Pieter De Lahayse
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator

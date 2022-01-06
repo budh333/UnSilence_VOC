@@ -1,0 +1,20 @@
+T1	Person 369 384	PLoses Simonsz:
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 369 383	PLoses Simonsz
+T3	Person 388 423	Jacob Cori, donszoon mijne Clercken
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 388 408	Jacob Cori, donszoon
+T5	Person 493 515;516 523	Johannes van der voort nataris
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	ProperName 493 515	Johannes van der voort
+T7	Person 547 558	Van Wenkink
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 547 558	Van Wenkink

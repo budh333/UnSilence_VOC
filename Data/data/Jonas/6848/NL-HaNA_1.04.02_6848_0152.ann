@@ -1,0 +1,32 @@
+T1	Person 1058 1081	Hermanus Abraham Simons
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Notary T1 No
+T2	Person 1085 1105	Simon Thomas Cavelsz
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Notary T2 No
+T3	Person 1263 1269;1270 1299	N=s V: Bergen v=n d=to Grijp Notaris
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Notary T3 Yes
+T4	Person 1423 1464	Notaris Nicolaas van Bergen van der Grijp
+A10	Gender T4 Unspecified
+A11	LegalStatus T4 Unspecified
+A12	Notary T4 Yes
+T5	ProperName 1431 1464	Nicolaas van Bergen van der Grijp
+T6	Person 1591 1615;1616 1631	vrij beoprokene Slavinul Soedag van Macc
+A13	Gender T6 Woman
+A14	LegalStatus T6 Freed
+T7	ProperName 1616 1631	Soedag van Macc
+T8	Person 1668 1675	Emerent
+A15	Gender T8 Unspecified
+A16	LegalStatus T8 Unspecified
+A17	Notary T8 No
+T9	Person 1679 1698	Samila van Mangarij
+A18	Gender T9 Unspecified
+A19	LegalStatus T9 Unspecified
+A20	Notary T9 No
+T10	ProperName 1679 1698	Samila van Mangarij
+T12	ProperName 1856 1865	Rotterdam
+T11	Place 1832 1865;1866 1906	buijten deese stadsport Rotterdam En oosteweld het 15 deel van het blck L:

@@ -1,0 +1,58 @@
+T1	Place 21 25	Cabo
+T2	ProperName 21 25	Cabo
+T3	Person 46 67	Heer Johannes Nebbens
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+T4	ProperName 51 67	Johannes Nebbens
+T5	ProperName 72 87	Canton in China
+T6	Place 72 87	Canton in China
+T7	Person 124 141;142 152	Wel Edheer Willem In't Anker
+A3	Gender T7 Man
+A4	LegalStatus T7 Unspecified
+T8	ProperName 135 141;142 152	Willem In't Anker
+T9	ProperName 345 355	I: G: Bode
+T10	Person 345 355	I: G: Bode
+A5	Gender T10 Unspecified
+A6	LegalStatus T10 Unspecified
+T11	Person 388 406	de Heer J: G: Bode
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+T12	ProperName 396 406	J: G: Bode
+T13	Place 616 623	Batavia
+T14	ProperName 616 623	Batavia
+T15	ProperName 648 665	Christiaan Behnee
+T16	Person 648 665	Christiaan Behnee
+A9	Gender T16 Unspecified
+A10	LegalStatus T16 Unspecified
+T17	Person 739 757;758 765	de Heer Jan Jacob: Jdemans
+A11	Gender T17 Man
+A12	LegalStatus T17 Unspecified
+T18	ProperName 747 757;758 765	Jan Jacob: Jdemans
+T19	Person 829 838	Heer Bode
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+T20	ProperName 834 838	Bode
+T21	ProperName 904 919	Canton in China
+T22	Place 904 919	Canton in China
+T23	ProperName 949 966	Christiaan Behnee
+T24	Person 949 966	Christiaan Behnee
+A15	Gender T24 Unspecified
+A16	LegalStatus T24 Unspecified
+T25	DuplicatePage 0 1	L
+A17	Role T3 Other
+A18	Role T7 Other
+A19	Role T10 Other
+A20	Role T11 Other
+A21	Role T16 Other
+A22	Role T19 Other
+A23	Role T24 Other
+T26	Person 991 996	Johan
+A24	Gender T26 Unspecified
+A25	LegalStatus T26 Unspecified
+A26	Role T26 Other
+T27	ProperName 991 996	Johan
+T28	Person 1100 1111	C: Rijnnagh
+A27	Gender T28 Unspecified
+A28	LegalStatus T28 Unspecified
+A29	Role T28 Other
+T29	ProperName 1100 1111	C: Rijnnagh

@@ -1,0 +1,21 @@
+T1	TranscriptionError_Document 0 1	5
+T2	ProperName 88 106	Ian Ambrosius Douw
+T3	Person 88 106	Ian Ambrosius Douw
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Organization 135 152	Oostindische Comp
+T5	ProperName 135 152	Oostindische Comp
+T6	Place 194 205;206 224	Retourschip 'T wapen van Hoorn
+T7	ProperName 207 225	T wapen van Hoorn,
+T8	ProperName 251 270	Dirk van Reijsenoij
+T9	Person 251 270	Dirk van Reijsenoij
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	Place 285 291	Buuren
+T11	ProperName 285 291	Buuren
+T12	DuplicatePage 772 779	nastgts
+T13	DuplicatePage 1061 1065	1787
+T14	ProperName 1067 1084	Adriaan Poolvliet
+T15	ProperName 1127 1138	Jan Hendrik

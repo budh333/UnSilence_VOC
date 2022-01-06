@@ -1,0 +1,11 @@
+T2	Person 588 601	Anna Carlomna
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+T3	ProperName 588 601	Anna Carlomna
+T4	Person 605 620	Reijnier Gerard
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+T5	ProperName 605 620	Reijnier Gerard
+T1	Place 1723 1729	wiesk:
+A1	Role T2 Other
+A2	Role T4 Other

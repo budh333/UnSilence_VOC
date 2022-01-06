@@ -1,0 +1,10 @@
+T1	TranscriptionError_Document 0 1	P
+T2	DuplicatePage 0 1	P
+T3	Organization 576 585	de Comp„e
+A1	Beneficiary T3 No
+T4	Organization 650 683;684 711	de Edele hoog agtb: heeren bewind „hebberen ter Camer Zeeland
+A2	Beneficiary T4 No
+T5	Place 704 711	Zeeland
+T6	ProperName 704 711	Zeeland
+T7	Place 792 795;796 820	het schip scheerenarendskerk
+T8	ProperName 802 820	scheerenarendskerk

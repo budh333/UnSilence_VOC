@@ -1,0 +1,41 @@
+T1	DuplicatePage 0 7	persoun
+T2	Place 532 550	’t Kasteel kolombo
+T3	ProperName 532 550	’t Kasteel kolombo
+T4	Place 556 566	woonhuijse
+T5	ProperName 604 614;615 625	Ian Karel. Andrieszen
+T6	Person 604 614;615 625	Ian Karel. Andrieszen
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	Person 629 650;651 654	Hendrik Brinkmankler„ ken
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 629 650;651 654	Hendrik Brinkmankler„ ken
+T9	Person 686 700	P: C: Herscher
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 686 700	P: C: Herscher
+T11	ProperName 824 838	P: C: Andrisz:
+T12	Person 824 838	P: C: Andrisz:
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 842 844;845 847;848 856	A: te Brinkman
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 842 844;845 847;848 856	A: te Brinkman
+T15	Person 895 923	Matth:s Tietgens gesw: klerk
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Acting_Notary
+T16	ProperName 895 911	Matth:s Tietgens
+T17	Person 761 765;767 782	Euff Maria Pietersz:
+A19	Gender T17 Woman
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 767 782	Maria Pietersz:
+T19	ProperName 1707 1718	Ameliswaerd
+T20	Place 1707 1718	Ameliswaerd

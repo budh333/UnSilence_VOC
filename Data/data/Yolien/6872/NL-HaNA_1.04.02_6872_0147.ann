@@ -1,0 +1,42 @@
+T1	Organization 11 28	Lutherse gemeynte
+T2	Place 32 41	amsterdam
+T3	ProperName 32 41	amsterdam
+T4	Person 80 104	Kleyn zoon Pieter Cesueu
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Beneficiary
+T5	ProperName 91 105	Pieter Cesueur
+T6	Person 167 179	heer Thedens
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 172 179	Thedens
+T8	Person 237 250;251 260	kleijn dogter Christina
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	ProperName 251 260	Christina
+T10	Person 264 282	klijn zoon hendrik
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary
+T11	ProperName 275 282	hendrik
+T12	ProperName 290 297	Lesueur
+T13	Person 290 297	Lesueur
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	Place 376 393	Cabo de goedehoop
+T15	ProperName 376 393	Cabo de goedehoop
+T16	ProperName 434 447	Scellingjebel
+T17	Person 434 447	Scellingjebel
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 481 497	zoldij Comptoire
+T19	Organization 481 497	zoldij Comptoire
+T20	Person 508 520	D„r D: Ailij
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	ProperName 515 520	Ailij

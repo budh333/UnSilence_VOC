@@ -1,0 +1,20 @@
+T1	Place 5 17	Voor Zeeland
+T2	ProperName 10 17	Zeeland
+T3	Place 47 67	in’t Casteel Calombo
+T4	ProperName 60 67	Calombo
+T5	Organization 114 121	E: Comp
+T6	ProperName 114 121	E: Comp
+T7	Place 213 234	in ’t Casteel Colombo
+T8	ProperName 227 234	Colombo
+T9	Person 312 327	Iordaan Carelsz
+A1	Gender T9 Unspecified
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Testator
+T10	ProperName 312 327	Iordaan Carelsz
+T11	Organization 436 444	E: Comp:
+T12	ProperName 436 444	E: Comp:
+T13	Person 655 665	P: Schokma
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Other
+T14	ProperName 655 665	P: Schokma

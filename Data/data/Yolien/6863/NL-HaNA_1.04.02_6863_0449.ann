@@ -1,0 +1,92 @@
+T1	Person 149 158	J J Meyer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 153 158	Meyer
+T3	ProperName 85 94	Ian Iacob
+T4	Person 85 94	Ian Iacob
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 176 182	bouman
+T6	Person 176 182	bouman
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 239 253	pedrg de Tilia
+T8	Person 239 253	pedrg de Tilia
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 308 313	hekel
+T10	Person 308 313	hekel
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 341 355	pedro de Silva
+T12	Person 341 355	pedro de Silva
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	Person 412 423	a: de Costa
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 415 423	de Costa
+T15	ProperName 517 524	kokaart
+T16	Person 517 524	kokaart
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 446 462	hebbene maircair
+T18	Person 446 462	hebbene maircair
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Other
+T19	Person 604 617	C: de Kretsen
+A28	Gender T19 Unspecified
+A29	LegalStatus T19 Unspecified
+A30	Role T19 Other
+T20	ProperName 607 617	de Kretsen
+T21	ProperName 557 567	mag: pulle
+T22	Person 557 567	mag: pulle
+A31	Gender T22 Unspecified
+A32	LegalStatus T22 Unspecified
+A33	Role T22 Other
+T23	Person 637 648	p: de Silva
+A34	Gender T23 Unspecified
+A35	LegalStatus T23 Unspecified
+A36	Role T23 Other
+T24	ProperName 640 648	de Silva
+T25	Person 664 673	h: broeks
+A37	Gender T25 Unspecified
+A38	LegalStatus T25 Unspecified
+A39	Role T25 Other
+T26	ProperName 667 673	broeks
+T27	Person 699 709	d: gerrart
+A40	Gender T27 Unspecified
+A41	LegalStatus T27 Unspecified
+A42	Role T27 Other
+T28	ProperName 702 709	gerrart
+T29	ProperName 758 766	lamsvoet
+T30	Person 758 766	lamsvoet
+A43	Gender T30 Unspecified
+A44	LegalStatus T30 Unspecified
+A45	Role T30 Other
+T31	Person 800 810	db: Chevet
+A46	Gender T31 Unspecified
+A47	LegalStatus T31 Unspecified
+A48	Role T31 Other
+T32	ProperName 804 810	Chevet
+T33	Person 837 853	Ob: fran Chimont
+A49	Gender T33 Unspecified
+A50	LegalStatus T33 Unspecified
+A51	Role T33 Other
+T34	ProperName 841 853	fran Chimont
+T35	ProperName 935 949	agadaem Candoe
+T36	Person 935 949	agadaem Candoe
+A52	Gender T36 Unspecified
+A53	LegalStatus T36 Unspecified
+A54	Role T36 Other
+T37	ProperName 1021 1027	Muller
+T38	DuplicatePage 1021 1027	Muller

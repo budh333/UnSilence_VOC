@@ -1,0 +1,17 @@
+T1	Person 468 472;473 486	Dirk Pasquel Iansz
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 468 472;473 486	Dirk Pasquel Iansz
+T3	Person 492 509	Abralam Abrahamsz
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+T4	ProperName 492 510	Abralam Abrahamsz:
+T6	ProperName 854 879;880 889	Collegie van heeren Wees„ meesteren
+T12	ProperName 1218 1227	Amsterdam
+T5	Organization 854 879;880 889	Collegie van heeren Wees„ meesteren
+T7	Organization 1147 1168;1169 1206	heeren bewindhebberen der Geoctroijeerde oost Jndische Comp
+T8	ProperName 1188 1206	oost Jndische Comp
+T10	Noteworthy 431 447	jnlandsburgerije
+A3	Role T1 Beneficiary
+A6	Role T3 Beneficiary
+T9	Place 1218 1227	Amsterdam

@@ -1,0 +1,57 @@
+T1	TranscriptionError_Document 0 2	11
+T2	DuplicatePage 3 4	A
+T3	Person 245 272	Johan van Vistliet, nataris
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T4	ProperName 245 262	Johan van Vistlie
+T5	Place 285 300	ter secretarije
+T7	Place 334 341	holland
+T8	ProperName 334 341	holland
+T6	Organization 318 353	Edelen hove van holland, ende Edele
+T9	Person 354 362	Cuilliam
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 354 362	Cuilliam
+T11	Organization 378 415	hooge. regeringe van nederlands Jndia
+T12	Place 399 415	nederlands Jndia
+T13	ProperName 399 415	nederlands Jndia
+T14	Place 462 483	binnen destad batavia
+T15	ProperName 476 483	batavia
+T16	Person 564 576	Jochem Cruse
+A7	Gender T16 Unspecified
+A8	LegalStatus T16 Unspecified
+A9	Role T16 Testator
+T17	ProperName 564 576	Jochem Cruse
+T18	Organization 596 603	sComp=s
+T19	ProperName 596 603	sComp=s
+T20	ProperName 685 700	der E:Compagnie
+T21	Organization 685 700	der E:Compagnie
+T22	Place 714 735	in het ambagts quarti
+T23	Person 1780 1788	slavinne
+A10	Gender T23 Woman
+A11	LegalStatus T23 Enslaved
+A12	Role T23 Beneficiary
+T24	Person 1798 1803	Diana
+A13	Gender T24 Woman
+A14	LegalStatus T24 Enslaved
+A15	Role T24 Beneficiary
+T25	ProperName 1798 1803	Diana
+T26	Person 1817 1828	van bengale
+A16	Gender T26 Woman
+A17	LegalStatus T26 Enslaved
+A18	Role T26 Beneficiary
+T27	ProperName 1817 1828	van bengale
+T28	Place 2159 2167	in jndia
+T29	ProperName 2162 2167	jndia
+T30	Person 2466 2472	willem
+A19	Gender T30 Unspecified
+A20	LegalStatus T30 Unspecified
+A21	Role T30 Other
+T31	ProperName 2466 2472	willem
+T32	Person 2644 2650	Vertog
+A22	Gender T32 Unspecified
+A23	LegalStatus T32 Unspecified
+A24	Role T32 Other
+T33	ProperName 2644 2650	Vertog

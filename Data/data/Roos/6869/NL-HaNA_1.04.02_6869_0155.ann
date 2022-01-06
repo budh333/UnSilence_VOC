@@ -1,0 +1,64 @@
+T1	TranscriptionError_Document 0 4	ckin
+T2	Person 6 18	Frans Ledulx
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 6 18	Frans Ledulx
+T5	ProperName 110 136;137 140	Iohannes francissus Grati„ ren
+T7	ProperName 216 229	frans Ledielx
+T8	Person 279 309	Catharina Elitabeth van Gijsel
+A10	Gender T8 Woman
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 279 309	Catharina Elitabeth van Gijsel
+T11	ProperName 638 671	Nicolaas van Bergen van den Grijf
+T12	Organization 693 730;731 736	de Edele hoog negelang van nederlands Jndia
+T13	Place 720 730;731 736	nederlands Jndia
+T14	Place 748 770	binnen de stad batavia
+T15	ProperName 763 770	batavia
+T17	ProperName 821 835	Joheph: Luckig
+T18	Organization 863 879	den E: Compagnie
+T19	Organization 909 917	sE: Comp
+T20	Place 961 966	Cylen
+T21	ProperName 961 966	Cylen
+T23	ProperName 1063 1071;1072 1079	Johannes Tcheyts
+T25	ProperName 1239 1248;1249 1256	Corneliis De Coek
+T26	Person 2071 2086	Johannes Philip
+A25	Gender T26 Unspecified
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Other
+T27	ProperName 2071 2086	Johannes Philip
+T28	Person 2496 2514	Mejuffrouw Johanna
+A28	Gender T28 Woman
+A29	LegalStatus T28 Unspecified
+A30	Role T28 Other
+T29	ProperName 2507 2514	Johanna
+T4	Person 110 136;137 140	Iohannes francissus Grati„ ren
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T6	Person 211 229	d E: frans Ledielx
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T10	Person 638 671;672 688	Nicolaas van Bergen van den Grijf notaris punblicq
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Notary
+T30	ProperName 720 730;731 736	nederlands Jndia
+T16	Person 814 835	den E: Joheph: Luckig
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Testator
+T22	Person 1058 1071;1072 1079	heer Johannes Tcheyts
+A19	Gender T22 Man
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T24	Person 1234 1248;1249 1256	heer Corneliis De Coek
+A22	Gender T24 Man
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other
+A31	Beneficiary T12 No
+A32	Beneficiary T18 No
+A33	Beneficiary T19 No
+T31	ProperName 932 946	De Deggensbank

@@ -1,0 +1,48 @@
+T1	Person 88 97	heer Bode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 93 97	Bode
+T3	Place 206 221	France Eijlandt
+T4	Place 440 465	de Nederlandsche Factorij
+T5	Person 486 497	J== demans.
+A3	Gender T5 Unspecified
+A4	LegalStatus T5 Unspecified
+T6	ProperName 486 496	J== demans
+T7	Person 408 423	Capitain de Wit
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+T8	ProperName 417 423	de Wit
+T9	Person 389 393	Smit
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+T10	Person 368 373	Reijs
+A9	Gender T10 Unspecified
+A10	LegalStatus T10 Unspecified
+T11	Person 357 362	Mines
+A11	Gender T11 Unspecified
+A12	LegalStatus T11 Unspecified
+T12	Person 346 356	Himmingson
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T1 Other
+A16	Role T12 Other
+T13	ProperName 346 356	Himmingson
+A17	Role T11 Other
+T14	ProperName 357 362	Mines
+A18	Role T10 Other
+T15	ProperName 368 373	Reijs
+A19	Role T9 Other
+T16	ProperName 389 393	Smit
+A20	Role T7 Other
+T17	ProperName 440 465	de Nederlandsche Factorij
+A21	Role T5 Other
+T18	ProperName 650 661	C: Rijnnagh
+T19	Person 650 661	C: Rijnnagh
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	ProperName 547 552	Johan
+T21	Person 547 552	Johan
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other

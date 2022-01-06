@@ -1,0 +1,38 @@
+T1	Organization 273 320;321 338	d’ hoog Edele Groot agtbareleeren bewinthebbere ter Camer Zeeland
+A1	Beneficiary T1 No
+T2	Place 331 338	Zeeland
+T3	ProperName 331 338	Zeeland
+T4	Place 1589 1599	Boelecomba
+T5	ProperName 1589 1599	Boelecomba
+T6	Organization 1603 1612	’s Comp„s
+A2	Beneficiary T6 No
+T7	Person 1677 1689	Pieter Samas
+A3	Gender T7 Unspecified
+A4	LegalStatus T7 Unspecified
+A5	Role T7 Witness
+T8	ProperName 1677 1689	Pieter Samas
+T9	Person 1704 1709;1710 1716	Evert Jansz:
+A6	Gender T9 Unspecified
+A7	LegalStatus T9 Unspecified
+A8	Role T9 Witness
+T10	ProperName 1704 1709;1710 1716	Evert Jansz:
+T11	Person 1727 1742	Gerrit de Leeuw
+A9	Gender T11 Unspecified
+A10	LegalStatus T11 Unspecified
+A11	Role T11 Witness
+T12	ProperName 1727 1742	Gerrit de Leeuw
+T13	Person 1751 1760	dirkwaman
+A12	Gender T13 Unspecified
+A13	LegalStatus T13 Unspecified
+A14	Role T13 Witness
+T14	ProperName 1751 1760	dirkwaman
+T15	Person 1820 1839	hendrist Rykhuijsen
+A15	Gender T15 Unspecified
+A16	LegalStatus T15 Unspecified
+A17	Role T15 Witness
+T16	ProperName 1820 1839	hendrist Rykhuijsen
+T17	Person 1949 1959	V Stammert
+A18	Gender T17 Unspecified
+A19	LegalStatus T17 Unspecified
+A20	Role T17 Other
+T18	ProperName 1949 1959	V Stammert

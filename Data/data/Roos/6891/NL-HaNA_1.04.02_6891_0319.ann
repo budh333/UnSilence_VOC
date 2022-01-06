@@ -1,0 +1,23 @@
+T1	Organization 355 374;375 417	de Edele Hoog Achtb Heeren Bewindhebberen ter kamer Enkhuijsen
+T2	ProperName 407 417	Enkhuijsen
+T3	Place 407 417	Enkhuijsen
+T4	Place 496 513;514 536	het schip De Jong vrouwe Cornelia Jacoba
+T5	ProperName 506 513;514 536	De Jong vrouwe Cornelia Jacoba
+T6	Place 1284 1307	binnen de stad koetsiem
+T7	ProperName 1299 1307	koetsiem
+T8	Person 1411 1424;1425 1434	Frans Hendrik schuurman
+A1	Gender T8 Man
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Witness
+T9	ProperName 1411 1424	Frans Hendrik
+T10	Person 1438 1455	Francois Martensz
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Witness
+T11	ProperName 1438 1455	Francois Martensz
+T12	Person 1618 1635	Adriaan Poolrliet
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Acting_Notary
+T13	ProperName 1618 1635	Adriaan Poolrliet
+A10	Beneficiary T1 No

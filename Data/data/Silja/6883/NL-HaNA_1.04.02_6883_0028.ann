@@ -1,0 +1,61 @@
+T1	ProperName 18 32	Maria Cernando
+T2	Person 89 97;98 104	Nicolaas Egbers
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator_Beneficiary
+T3	ProperName 89 97;98 104	Nicolaas Egbers
+T4	ProperName 107 113	silauw
+T5	Place 107 113	silauw
+T6	Person 18 32	Maria Cernando
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator_Beneficiary
+T7	ProperName 212 226	Pieter Ripsina
+T8	Person 212 226	Pieter Ripsina
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 297 300;301 315	Jan goddred Hoetz:
+T10	Person 297 300;301 315	Jan goddred Hoetz:
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Acting_Notary
+T11	DuplicatePage 0 2	Jk
+T12	ProperName 318 325	nigombo
+T13	Place 318 325	nigombo
+T14	Person 820 824	kind
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Beneficiary
+T15	Person 828 836	kinderen
+A16	Gender T15 Group
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary
+T16	Person 1117 1121	kind
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Beneficiary
+T17	Person 1125 1133	kinderen
+A22	Gender T17 Group
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Beneficiary
+T18	Place 1540 1549	rotterdam
+T19	ProperName 1540 1549	rotterdam
+T20	ProperName 1516 1535	Magteljen van Elten
+T21	Person 1494 1502;1503 1512	E: Egber van Elten
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
+T22	ProperName 1497 1502;1503 1512	Egber van Elten
+T23	Person 1516 1535	Magteljen van Elten
+A28	Gender T23 Unspecified
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Other
+T24	Person 2175 2179	kind
+A31	Gender T24 Unspecified
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Beneficiary
+T25	Person 2183 2191	kinderen
+A34	Gender T25 Group
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Beneficiary

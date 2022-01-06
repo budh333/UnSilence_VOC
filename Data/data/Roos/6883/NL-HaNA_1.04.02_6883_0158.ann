@@ -1,0 +1,35 @@
+T2	ProperName 68 82	Tanna de Jonge
+T3	Place 100 110	Vlissingen
+T4	ProperName 100 110	Vlissingen
+T5	Person 287 306	Neeltie Gernaijende
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 287 306	Neeltie Gernaijende
+T7	Person 307 324	Jacomyntie Gernai
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 307 324	Jacomyntie Gernai
+T9	Place 344 354	middelburg
+T10	ProperName 344 354	middelburg
+T11	Organization 461 515	dE: E:„ agtbaeren heeren bewindhebberen ter Camer zeel
+#1	AnnotatorNotes T11	..zeeland
+T12	Place 511 515	zeel
+#2	AnnotatorNotes T12	zeeland
+T13	ProperName 511 515	zeel
+#3	AnnotatorNotes T13	zeeland
+T14	Organization 1118 1124	E: Cor
+T16	ProperName 1226 1242	Gajetan Syemensz
+T17	Place 584 608	’t schip d’ Naerstugheyd
+T1	Person 68 82	Tanna de Jonge
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T18	ProperName 593 608	d’ Naerstugheyd
+T15	Person 1226 1242	Gajetan Syemensz
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Witness
+A13	Beneficiary T11 No
+A14	Beneficiary T14 No

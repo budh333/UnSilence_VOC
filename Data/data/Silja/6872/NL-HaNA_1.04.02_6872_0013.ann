@@ -1,0 +1,21 @@
+T1	Person 188 194;195 218	Oogter Engela Christina Pheijl
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 195 218	Engela Christina Pheijl
+T3	Person 252 273;274 279	Clercq, Carel albregt Haupt
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 260 273;274 279	Carel albregt Haupt
+T5	Place 597 605	in huijs
+T6	Person 842 873	Schoon Soen Carel dlbregt Haupt
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 854 873	Carel dlbregt Haupt
+T8	Person 1077 1082	Plaaf
+A10	Gender T8 Man
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+#1	AnnotatorNotes T8	slaaf

@@ -1,0 +1,45 @@
+T1	Organization 2 62	geoctroijeerde ooft Indiasche Companie ter Camer Enckhuijsen
+T2	ProperName 17 40	ooft Indiasche Companie
+T3	ProperName 51 62	Enckhuijsen
+T4	Place 51 62	Enckhuijsen
+T5	Place 127 145	scheepe de Baanman
+T6	ProperName 135 145	de Baanman
+T7	Place 151 156	Jndia
+T8	ProperName 151 156	Jndia
+T9	Organization 1317 1324	Haroeko
+T10	Place 1317 1324	Haroeko
+T11	ProperName 1317 1324	Haroeko
+T12	Place 1325 1349	aan de Redouwt Zeelandia
+T13	ProperName 1340 1349	Zeelandia
+T14	Person 1458 1466;1467 1482	Sergiant Hendrik Beekman
+A1	Gender T14 Man
+A2	LegalStatus T14 Unspecified
+A3	Role T14 Witness
+T15	ProperName 1467 1482	Hendrik Beekman
+T16	Person 1486 1505	Chirurgien Iohannes
+A4	Gender T16 Man
+A5	LegalStatus T16 Unspecified
+A6	Role T16 Witness
+T17	ProperName 1497 1505	Iohannes
+T18	ProperName 1523 1530	Annaque
+T19	Person 1523 1530	Annaque
+A7	Gender T19 Man
+A8	LegalStatus T19 Unspecified
+A9	Role T19 Witness
+T20	Organization 1539 1544	sComp
+T21	Person 1781 1796	Ian Jacob Meijs
+A10	Gender T21 Man
+A11	LegalStatus T21 Unspecified
+A12	Role T21 Acting_Notary
+T22	ProperName 1781 1796	Ian Jacob Meijs
+T23	ProperName 1826 1834	Gronardo
+T24	Person 1826 1834	Gronardo
+A13	Gender T24 Unspecified
+A14	LegalStatus T24 Unspecified
+A15	Role T24 Other
+T25	TranscriptionError_Document 0 1	6
+T26	Person 1884 1917	Secrataris Baethazar thoutlemonde
+A16	Gender T26 Man
+A17	LegalStatus T26 Unspecified
+A18	Role T26 Other
+T27	ProperName 1895 1917	Baethazar thoutlemonde

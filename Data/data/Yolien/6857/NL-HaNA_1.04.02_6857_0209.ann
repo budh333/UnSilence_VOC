@@ -1,0 +1,35 @@
+T1	Person 79 94;95 98	Johannes Garrel man
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 79 94;95 98	Johannes Garrel man
+T3	TranscriptionError_Document 0 2	J.
+T4	Organization 270 275	EComp
+T5	Person 284 302	Johannes Garrelman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 284 302	Johannes Garrelman
+T7	Person 383 390;391 397	Jan van Zeijst
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 383 390;391 397	Jan van Zeijst
+T9	ProperName 412 419;420 427	Fredrik Bannier
+T10	Person 412 419;420 427	Fredrik Bannier
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 546 552;553 571	Pieter Cornelis Hasselaar
+T12	Person 546 552;553 571	Pieter Cornelis Hasselaar
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 957 965	loogland
+T14	DuplicatePage 929 941	naagelaatene
+T15	DuplicatePage 13 18	vendu
+T16	ProperName 3 12	Gavrelman
+T17	Person 3 12	Gavrelman
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other

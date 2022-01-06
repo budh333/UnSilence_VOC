@@ -1,0 +1,72 @@
+T1	Person 0 10	Jan george
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 0 10	Jan george
+T3	Person 575 594	Christoffel Claasz:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 575 594	Christoffel Claasz:
+T5	Person 628 649	Jan Pieter scruijler,
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 628 648	Jan Pieter scruijler
+T7	Person 1033 1056	vader Jan Fred„k Jansz:
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 1039 1056	Jan Fred„k Jansz:
+T9	Organization 1212 1242;1243 1274	de Edele Hoog Agtb: heeren be„ „winthebberen ter Kamer Zeeland
+A13	Beneficiary T9 No
+T10	Place 1267 1274	Zeeland
+T11	ProperName 1267 1274	Zeeland
+T12	Place 1313 1331	t schip d Cornelia
+T13	ProperName 1323 1331	Cornelia
+T14	Person 1513 1538	vader, Jan Fred„k Jansz:,
+A14	Gender T14 Man
+A15	LegalStatus T14 Unspecified
+A16	Role T14 Beneficiary
+T15	ProperName 1520 1537	Jan Fred„k Jansz:
+T16	Place 2268 2279	banda neira
+T17	ProperName 2268 2279	banda neira
+T18	Person 2402 2416	afred:k Jansz:
+A17	Gender T18 Man
+A18	LegalStatus T18 Unspecified
+A19	Role T18 Testator
+T19	ProperName 2402 2416	afred:k Jansz:
+T20	Person 2576 2586	G: D: Bons
+A20	Gender T20 Man
+A21	LegalStatus T20 Unspecified
+A22	Role T20 Acting_Notary
+T21	ProperName 2576 2586	G: D: Bons
+T22	Person 2633 2644	I=s Roeling
+A23	Gender T22 Unspecified
+A24	LegalStatus T22 Unspecified
+A25	Role T22 Witness
+T23	ProperName 2633 2644	I=s Roeling
+T24	Person 2648 2660	C=s Chavonne
+A26	Gender T24 Unspecified
+A27	LegalStatus T24 Unspecified
+A28	Role T24 Witness
+T25	ProperName 2648 2660	C=s Chavonne
+T26	Place 2743 2772	Banda nassauw op de weescamer
+T27	ProperName 2743 2756	Banda nassauw
+T28	Person 2811 2827	J=s V„n rijdegem
+A29	Gender T28 Unspecified
+A30	LegalStatus T28 Unspecified
+A31	Role T28 Other
+T29	ProperName 2811 2827	J=s V„n rijdegem
+T30	Place 2934 2939	banda
+T31	ProperName 2934 2939	banda
+T32	Person 2998 3009	C„s Greeven
+A32	Gender T32 Unspecified
+A33	LegalStatus T32 Unspecified
+A34	Role T32 Other
+T33	ProperName 2998 3009	C„s Greeven
+T34	Person 3030 3038	refulden
+A35	Gender T34 Unspecified
+A36	LegalStatus T34 Unspecified
+A37	Role T34 Other
+T35	ProperName 3030 3038	refulden

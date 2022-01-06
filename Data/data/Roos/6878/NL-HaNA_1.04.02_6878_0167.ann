@@ -1,0 +1,45 @@
+T2	ProperName 182 200	Machiel Bastiaanse
+T3	Person 204 222	Cornelis, rietveld
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 204 222	Cornelis, rietveld
+T6	ProperName 303 320	Johannes Mattheus
+T7	Person 398 420	boss„r Jurrij wijnands
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 405 420	Jurrij wijnands
+T10	ProperName 545 562	Hendrik Wanninken
+T11	Person 857 878	M„s Koning secretaris
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 857 867	M„s Koning
+T13	Person 910 934	M„s Koning E: g: Clercq:
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 910 920	M„s Koning
+T15	Person 965 977	s„t Overbeek
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	ProperName 965 977	s„t Overbeek
+T17	Person 989 999	M„s Koning
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 989 999	M„s Koning
+T1	Person 182 200	Machiel Bastiaanse
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T5	Person 303 320	Johannes Mattheus
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T9	Person 545 562	Hendrik Wanninken
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other

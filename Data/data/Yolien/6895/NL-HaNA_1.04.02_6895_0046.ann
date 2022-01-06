@@ -1,0 +1,25 @@
+T1	TranscriptionError_Document 0 8	overlijd
+T2	DuplicatePage 24 34	gehoorende
+T3	Place 80 85	Hoorn
+T4	ProperName 80 85	Hoorn
+T5	Place 438 456;457 467	ten huijse van den testateur,
+T6	ProperName 486 497	Moses Iansz
+T7	ProperName 501 516	Jonas Domingosz
+T8	Person 486 497	Moses Iansz
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Witness
+T9	Person 501 516	Jonas Domingosz
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Witness
+T10	ProperName 669 674;675 684	And=s Jan Zalle
+T11	Person 669 674;675 684	And=s Jan Zalle
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T12	ProperName 715 719	Bart
+T13	Person 715 719	Bart
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other

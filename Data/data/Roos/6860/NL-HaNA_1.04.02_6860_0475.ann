@@ -1,0 +1,39 @@
+T1	Person 68 101	Ioan Adriaan Dreier, ondercoopman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 68 87	Ioan Adriaan Dreier
+T3	Person 235 258	Johan Christoffel Smit,
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 235 257	Johan Christoffel Smit
+T5	Place 263 271	Ratenauw
+T6	ProperName 263 271	Ratenauw
+T7	Organization 904 933;934 957	de chrittelijke gereformeerde kerk hier ten Comptoire
+A7	Beneficiary T7 Yes
+T8	Organization 1017 1047;1048 1066	de vaderloose weesen ten hoofd Comptoire Samarang
+A8	Beneficiary T8 Yes
+T9	Person 1146 1152	Tappie
+A9	Gender T9 Woman
+A10	LegalStatus T9 Unspecified
+A11	Role T9 Beneficiary
+T10	ProperName 1146 1152	Tappie
+T11	Person 1215 1224	Manslaaff
+A12	Gender T11 Man
+A13	LegalStatus T11 Enslaved
+A14	Role T11 Other
+T12	Person 1233 1238	Naalt
+A15	Gender T12 Man
+A16	LegalStatus T12 Enslaved
+A17	Role T12 Other
+T13	ProperName 1233 1238	Naalt
+T14	Person 1246 1252	slavin
+A18	Gender T14 Woman
+A19	LegalStatus T14 Enslaved
+A20	Role T14 Other
+T15	Person 1261 1266	seria
+A21	Gender T15 Woman
+A22	LegalStatus T15 Enslaved
+A23	Role T15 Other
+T16	ProperName 1261 1266	seria

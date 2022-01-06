@@ -1,0 +1,16 @@
+T1	DuplicatePage 0 1	1
+T2	ProperName 274 290;291 297	Ramporsaat Pora„ „manik
+T3	Person 274 290;291 297	Ramporsaat Pora„ „manik
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 403 419	B: C: D: Bouman:
+T5	Person 403 419	B: C: D: Bouman:
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 379 391	I C: Heyning
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 379 391	I C: Heyning
