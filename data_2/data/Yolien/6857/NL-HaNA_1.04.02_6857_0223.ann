@@ -1,8 +1,0 @@
-T1	TranscriptionError_Document 0 3	Nan
-T2	DuplicatePage 2205 2217	naagelaatene
-T3	DuplicatePage 32 34	Op
-T4	ProperName 2234 2242	Hoogland
-T5	Person 2234 2242	Hoogland
-A1	Gender T5 Unspecified
-A2	LegalStatus T5 Unspecified
-A3	Role T5 Testator

@@ -1,9 +1,0 @@
-T1	Person 11 26	Thomas Coenraad
-A1	Gender T1 Unspecified
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Other
-T2	Organization 303 307	Comp
-T3	Organization 401 405;406 434;435 453	Gene Nederlandsche g’octrooijeerd Indische Compagnie
-T4	Place 458 467	Amsterdam
-T5	ProperName 458 467	Amsterdam
-T6	Place 507 524	Westerdijks hoorn

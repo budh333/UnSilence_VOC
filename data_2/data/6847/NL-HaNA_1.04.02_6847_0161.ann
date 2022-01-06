@@ -1,9 +1,0 @@
-T1	Person 172 207	slaaff Jupiter van boegis timmerman
-A1	Gender T1 Man
-A2	LegalStatus T1 Enslaved
-A3	Notary T1 No
-T2	Person 217 230;231 241	slavin Regina van boegis
-A4	Gender T2 Woman
-A5	LegalStatus T2 Enslaved
-A6	Notary T2 No
-T3	Person 579 580	n
