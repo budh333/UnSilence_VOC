@@ -1,3 +1,4 @@
+*.DS_Store 
 /src/.logs
 __pycache__/
 /src/.cache/
