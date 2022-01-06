@@ -57,7 +57,7 @@ fi
 ENTITYTAGTYPES=""
 if [ $ENTITYTAGS == "all" ]
 then
-    ENTITYTAGTYPES="--entity-tag-types main gender legal-status role organization-beneficiary "
+    ENTITYTAGTYPES="--entity-tag-types main name gender legal-status role organization-beneficiary "
 elif [ $ENTITYTAGS == "1" ]
 then
     ENTITYTAGTYPES="--entity-tag-types main "
