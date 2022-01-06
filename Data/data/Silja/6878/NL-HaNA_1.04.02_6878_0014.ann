@@ -1,9 +1,0 @@
-T1	ProperName 279 301	Johan Christiaan Looke
-T2	Person 279 301	Johan Christiaan Looke
-A1	Gender T2 Unspecified
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Other
-T3	Organization 594 623;624 637	Eerwaarde Collegie van Heeren weesmeesteren
-A4	Beneficiary T3 No
-T4	Place 899 908;909 916	ter Camer Zeeland
-T5	ProperName 909 916	Zeeland

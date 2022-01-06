@@ -1,5 +1,0 @@
-T1	Person 70 95	I:n van Visvliet Not:s pn
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Notary
-T2	ProperName 70 86	I:n van Visvliet

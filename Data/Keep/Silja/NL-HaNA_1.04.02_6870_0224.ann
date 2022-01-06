@@ -1,6 +1,0 @@
-T1	DuplicatePage 0 3	den
-T2	Person 113 130;131 135	Curger Jan Marten Jngo
-A1	Gender T2 Man
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Other
-T3	ProperName 120 130;131 135	Jan Marten Jngo

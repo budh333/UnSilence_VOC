@@ -1,7 +1,0 @@
-T1	DuplicatePage 0 8	nagesien
-T2	TranscriptionError_Document 9 10	J
-T3	Person 11 17	J:nats
-A1	Gender T3 Unspecified
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Other
-T4	ProperName 11 17	J:nats

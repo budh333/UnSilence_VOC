@@ -1,8 +1,0 @@
-T1	Place 24 37	ter weescamen
-T2	ProperName 133 140	Batavia
-T3	Place 133 140	Batavia
-T4	Person 167 176	Ban hoeck
-A1	Gender T4 Unspecified
-A2	LegalStatus T4 Unspecified
-A3	Role T4 Other
-T5	ProperName 167 176	Ban hoeck

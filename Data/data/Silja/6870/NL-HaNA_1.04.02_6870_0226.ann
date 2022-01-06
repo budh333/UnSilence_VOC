@@ -1,6 +1,0 @@
-T1	DuplicatePage 0 3	den
-T2	Person 117 134;135 139	Burger Jan Marten Jngo
-A1	Gender T2 Man
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Other
-T3	ProperName 124 134;135 139	Jan Marten Jngo

@@ -1,8 +1,0 @@
-T1	Person 850 856	slaven
-A1	Gender T1 Group
-A2	LegalStatus T1 Enslaved
-A3	Role T1 Other
-T2	Person 862 870	Slavinne
-A4	Gender T2 Woman
-A5	LegalStatus T2 Enslaved
-A6	Role T2 Other

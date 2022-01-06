@@ -1,8 +1,0 @@
-T1	DuplicatePage 1 6	nverv
-T2	Person 39 52	I: Loefhouwer
-A1	Gender T2 Unspecified
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Other
-T3	ProperName 42 52	Loefhouwer
-T4	Place 163 171	Samarang
-T5	ProperName 163 171	Samarang

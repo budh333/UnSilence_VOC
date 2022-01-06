@@ -1,7 +1,0 @@
-T2	ProperName 893 907;908 913	Hendrik Elders hoede
-T3	Place 935 944	Amsterdam
-T4	ProperName 935 944	Amsterdam
-T1	Person 893 907;908 913	Hendrik Elders hoede
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Beneficiary

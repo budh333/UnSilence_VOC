@@ -1,9 +1,0 @@
-T1	Place 645 659	indeesen lande
-T2	Person 1139 1163;1164 1175	huijsvrouw Iuffrouw Fkas „cina Lopes
-A1	Gender T2 Woman
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Beneficiary
-T3	ProperName 1159 1163;1164 1175	Fkas „cina Lopes
-T4	Place 1189 1204	schelling woude
-T5	ProperName 1189 1204	schelling woude
-T6	Organization 1237 1239	E:

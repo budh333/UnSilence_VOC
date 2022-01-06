@@ -1,7 +1,0 @@
-T1	Place 218 240	schip slands welvaeren
-T2	ProperName 231 240	welvaeren
-T3	Person 281 300	Jan hendrik Koelman
-A1	Gender T3 Man
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Testator
-T4	ProperName 281 300	Jan hendrik Koelman

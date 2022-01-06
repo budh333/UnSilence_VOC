@@ -1,5 +1,0 @@
-T2	ProperName 53 61;62 78	Hermanus Laurens Disscher
-T1	Person 48 61;62 78	heer Hermanus Laurens Disscher
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Testator

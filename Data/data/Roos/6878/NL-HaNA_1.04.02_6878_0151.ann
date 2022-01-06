@@ -1,7 +1,0 @@
-T1	Organization 1044 1052	de EComp
-T2	Organization 1134 1162;1163 1199	d' Edele Groot Achtb: Heeren Bewind hebberen ter kamer Middelburg
-T3	Place 1189 1211	Middelburg, in Zeeland
-T4	ProperName 1189 1199	Middelburg
-T5	ProperName 1204 1211	Zeeland
-A1	Beneficiary T1 No
-A2	Beneficiary T2 No

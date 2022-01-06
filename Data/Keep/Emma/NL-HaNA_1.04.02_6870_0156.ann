@@ -1,9 +1,0 @@
-T1	Person 222 243;244 253	vader de heer Hendrik Castelijn
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Beneficiary
-T2	ProperName 236 243;244 253	Hendrik Castelijn
-T3	Organization 479 487	dE: Comp
-T4	ProperName 479 487	dE: Comp
-T5	DuplicatePage 0 7	nagesie
-T6	TranscriptionError_Document 9 13	Rats
