@@ -1,6 +1,0 @@
-T1	Place 22 28;51 59	Holdij Comptoir
-T2	Person 91 101	Kretschman
-A1	Gender T2 Unspecified
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Other
-T3	TranscriptionError_Document 102 105	han

@@ -1,7 +1,0 @@
-T1	Place 628 634	Europe
-T2	ProperName 628 634	Europe
-T3	Person 667 686	Heer Marius Harting
-A1	Gender T3 Man
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Other
-T4	ProperName 672 686	Marius Harting

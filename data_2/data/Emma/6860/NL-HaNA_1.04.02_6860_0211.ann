@@ -1,8 +1,0 @@
-T1	Place 53 85	’op ’t schip de drie Capegaaijen
-T2	ProperName 66 85	de drie Capegaaijen
-T3	Person 159 176;177 202	Johan George Smit oppermeester Johan george
-A1	Gender T3 Man
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Testator
-T4	ProperName 159 176	Johan George Smit
-T5	ProperName 190 202	Johan george

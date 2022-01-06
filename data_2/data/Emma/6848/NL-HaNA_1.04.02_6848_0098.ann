@@ -1,7 +1,0 @@
-T1	Person 638 643;644 649;650 652;653 689	Edele vader de heer Adriaan de Hoppelaar, maakelaar
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-T2	ProperName 658 678	Adriaan de Hoppelaar
-T3	Place 702 711	Amsterdam
-T4	ProperName 702 711	Amsterdam
-A3	Role T1 Beneficiary

@@ -1,8 +1,0 @@
-T1	Person 7 35	Wouter Hendrik van Gsseldijk
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Acting_Notary
-T2	ProperName 7 35	Wouter Hendrik van Gsseldijk
-T3	Organization 265 283;284 306	herwaarde Collegie meesteren deses steede
-A4	Beneficiary T3 Yes
-T4	Place 294 306	deses steede

@@ -1,7 +1,0 @@
-T1	DuplicatePage 0 2	29
-#1	AnnotatorNotes T1	half a page
-T2	ProperName 43 54	Kniekenberg
-T3	Person 43 54	Kniekenberg
-A1	Gender T3 Unspecified
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Other

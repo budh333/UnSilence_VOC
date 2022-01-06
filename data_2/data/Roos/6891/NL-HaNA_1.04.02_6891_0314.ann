@@ -1,8 +1,0 @@
-T1	Organization 705 712	DE Comp
-T2	Organization 800 848;849 903	de Wel Edele Hoog Agtbaare Heeren Bewindhebberon der Edel oost Jndiesehel Compagnie ter kamer Amsterdam
-T3	Place 894 903	Amsterdam
-T4	ProperName 894 903	Amsterdam
-T5	Place 964 982	’t schip Dordrecht
-T6	ProperName 973 982	Dordrecht
-A1	Beneficiary T1 No
-A2	Beneficiary T2 No
