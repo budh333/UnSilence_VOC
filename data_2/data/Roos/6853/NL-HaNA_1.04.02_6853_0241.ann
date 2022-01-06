@@ -1,9 +1,3 @@
-T1	Person 96 209	wingert Wargaaren, notaris publycx
-by de Edele hove van hollland, en d’ Edele hoogeregeering van
-nederlands India
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Notary
 T2	ProperName 96 113	wingert Wargaaren
 T3	Organization 134 160	de Edele hove van hollland
 T4	Organization 165 192;193 209	d’ Edele hoogeregeering van nederlands India

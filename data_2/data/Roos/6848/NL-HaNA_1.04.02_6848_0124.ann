@@ -1,9 +1,3 @@
-T1	Person 139 187;188 229;230 292	De wel Edele gestrenge Heeren Hendrik van Rockum raad Extra ordinair van neederlands India en
-President
-van t Eerwaarde Collegie van heeren weesmeesteren
-A1	Gender T1 Man
-A2	LegalStatus T1 Unspecified
-A3	Notary T1 No
 T2	ProperName 169 187	Hendrik van Rockum
 T3	Place 212 229	neederlands India
 T4	Organization 247 292	t Eerwaarde Collegie van heeren weesmeesteren

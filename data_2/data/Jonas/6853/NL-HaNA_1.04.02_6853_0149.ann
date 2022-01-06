@@ -9,7 +9,7 @@ T5	Place 179 186	Holland
 T6	ProperName 179 186	Holland
 T7	Organization 198 229	Edele Hoge regeeringe van Bed„s
 T8	Place 224 229	Bed„s
-T9	Person 1 38;39 97;98 162;163 229;230 255	In den Name des Heeren Amen Ophuijden den 18. decemb„r 1744. des morgens de klokke half agtuuren Compareerde voor mij Abraham van Dinter Notaris publijcq bij den Edelen Hose van Holland mitsgs: d’ Edele Hoge regeeringe van Bed„s Johan Christoffel Swendel
+T9	Person 230 255	Johan Christoffel Swendel
 A4	Gender T9 Unspecified
 A5	LegalStatus T9 Unspecified
 A6	Role T9 Testator
