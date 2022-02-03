@@ -345,8 +345,8 @@ Nagelaten	O	O	O	O	O	O	_
 53.	O	O	O	O	O	O	_
 Regeringe	B-Organization	B-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-Nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-Jondia	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	_
+Nederlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+Jondia	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 geadimtteerd,	O	O	O	O	O	O	_
 brnijgten	B-Place	O	O	O	O	O	_
 te	I-Place	O	O	O	O	O	_
@@ -800,9 +800,9 @@ geectroijeerde	B-Organization	B-ProperName	O	O	O	O	_
 ooft	I-Organization	I-ProperName	O	O	O	O	_
 Jndische	I-Organization	I-ProperName	O	O	O	O	_
 Compagnie	I-Organization	I-ProperName	O	O	O	O	_
-ter	B-Place,I-Organization	I-ProperName	O	O	O	O	_
-kamer	I-Place,I-Organization	I-ProperName	O	O	O	O	_
-Amsterdam	I-Place,I-Organization	I-ProperName,I-ProperName	O	O	O	O	_
+ter	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+kamer	I-Organization,I-Place	I-ProperName	O	O	O	O	_
+Amsterdam	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 waarvoor	O	O	O	O	O	O	_
 zijn	O	O	O	O	O	O	_
 E:	O	O	O	O	O	O	_
@@ -1209,7 +1209,7 @@ ment	O	O	O	O	O	O	_
 is	O	O	O	O	O	O	_
 alhier	O	O	O	O	O	O	_
 ter	B-Place	O	O	O	O	O	_
-weeskamer	I-Place,B-Organization	O	O	O	O	O	partial-Organization<0:7>
+weeskamer	B-Organization,I-Place	O	O	O	O	O	partial-Organization<0:7>
 geleesen	O	O	O	O	O	O	_
 en	O	O	O	O	O	O	_
 geristreert	O	O	O	O	O	O	_
@@ -1224,8 +1224,8 @@ deses	O	O	O	O	O	O	_
 —	O	O	O	O	O	O	_
 Batavia	B-Place	B-ProperName	O	O	O	O	_
 in	I-Place	O	O	O	O	O	_
-de	I-Place,B-Organization	O	O	O	O	O	_
-Wieskamer	I-Place,I-Organization	O	O	O	O	O	_
+de	B-Organization,I-Place	O	O	O	O	O	_
+Wieskamer	I-Organization,I-Place	O	O	O	O	O	_
 den	O	O	O	O	O	O	_
 21	O	O	O	O	O	O	_
 7ber	O	O	O	O	O	O	_
@@ -2057,9 +2057,9 @@ geoctroijeerde	B-Organization	B-ProperName	O	O	O	O	_
 oost	I-Organization	I-ProperName	O	O	O	O	_
 Indische	I-Organization	I-ProperName	O	O	O	O	_
 Compagnie	I-Organization	I-ProperName	O	O	O	O	_
-ter	B-Place,I-Organization	I-ProperName	O	O	O	O	_
-kamer	I-Place,I-Organization	I-ProperName	O	O	O	O	_
-Amsterdam	I-Place,I-Organization	I-ProperName,I-ProperName	O	O	O	O	_
+ter	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+kamer	I-Organization,I-Place	I-ProperName	O	O	O	O	_
+Amsterdam	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 voor	O	O	O	O	O	O	_
 de	O	O	O	O	O	O	_
 welke	O	O	O	O	O	O	_
@@ -2447,7 +2447,7 @@ indische	I-Organization	I-ProperName	O	O	O	O	_
 Compagnie	I-Organization	I-ProperName	O	O	O	O	_
 tn	I-Organization	I-ProperName	O	O	O	O	_
 namer	I-Organization	I-ProperName	O	O	O	O	_
-Amsterdam	B-Place,I-Organization	I-ProperName	O	O	O	O	_
+Amsterdam	I-Organization,B-Place	I-ProperName	O	O	O	O	_
 waar	O	O	O	O	O	O	_
 voor	O	O	O	O	O	O	_
 den	O	O	O	O	O	O	_
@@ -4229,9 +4229,9 @@ g'octroyeerde	B-Organization	I-ProperName	O	O	O	O	_
 oost	I-Organization	I-ProperName	O	O	O	O	_
 Jndische	I-Organization	I-ProperName	O	O	O	O	_
 Comp:	I-Organization	I-ProperName	O	O	O	O	_
-ter	B-Place,I-Organization	I-ProperName	O	O	O	O	_
-Camer	I-Place,I-Organization	I-ProperName	O	O	O	O	_
-Amsterdam	I-Place,I-Organization	I-ProperName,I-ProperName	O	O	O	O	_
+ter	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+Camer	I-Organization,I-Place	I-ProperName	O	O	O	O	_
+Amsterdam	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 voor	O	O	O	O	O	O	_
 welke	O	O	O	O	O	O	_
 hij	O	O	O	O	O	O	_
@@ -7367,7 +7367,7 @@ der	B-Organization	B-ProperName	O	O	O	O	_
 EComp:e	I-Organization	I-ProperName	O	O	O	O	_
 ten	B-Place	O	O	O	O	O	_
 dezen	I-Place	O	O	O	O	O	_
-Comptoire	I-Place,B-Organization	O	O	O	O	O	_
+Comptoire	B-Organization,I-Place	O	O	O	O	O	_
 geboortig	O	O	O	O	O	O	_
 van	O	O	O	O	O	O	_
 Cabo	B-Place	B-ProperName	O	O	O	O	_
@@ -7696,7 +7696,7 @@ BergE	I-Person	I-ProperName	I-Man	I-Unspecified	I-Other	O	_
 oppertimmerman	I-Person	O	I-Man	I-Unspecified	I-Other	O	_
 ten	B-Place	O	O	O	O	O	_
 dezen	I-Place	O	O	O	O	O	_
-Comptoire,	I-Place,B-Organization	O	O	O	O	O	partial-Place<0:8>partial-Organization<0:8>
+Comptoire,	B-Organization,I-Place	O	O	O	O	O	partial-Place<0:8>partial-Organization<0:8>
 omme	O	O	O	O	O	O	_
 na	O	O	O	O	O	O	_
 2	O	O	O	O	O	O	_
@@ -9966,7 +9966,7 @@ indische	I-Organization	I-ProperName	O	O	O	O	_
 Comp:	I-Organization	I-ProperName	O	O	O	O	_
 ter	I-Organization,B-Place	I-ProperName	O	O	O	O	_
 kamer	I-Organization,I-Place	I-ProperName	O	O	O	O	_
-zeland,	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	partial-Organization<0:5>
+zeland,	I-Organization,I-Place	I-ProperName	O	O	O	O	partial-Organization<0:5>
 voor	O	O	O	O	O	O	_
 welke	O	O	O	O	O	O	_
 hij	O	O	O	O	O	O	_
@@ -10182,7 +10182,7 @@ de	O	O	O	O	O	O	_
 Copia	O	O	O	O	O	O	_
 apthenticq	O	O	O	O	O	O	_
 ter	B-Place	O	O	O	O	O	_
-zoldij	I-Place,B-Organization	O	O	O	O	O	_
+zoldij	B-Organization,I-Place	O	O	O	O	O	_
 berustende	O	O	O	O	O	O	_
 fleest	O	O	O	O	O	O	_
 AnJartter.	O	O	O	O	O	O	_
@@ -12422,8 +12422,8 @@ Edele	B-Organization	B-ProperName	O	O	O	O	_
 hooge	I-Organization	I-ProperName	O	O	O	O	_
 regeringe	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-indra	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	_
+nederlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+indra	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 g'admitteerd	O	O	O	O	O	O	_
 binnen	B-Place	O	O	O	O	O	_
 de	I-Place	O	O	O	O	O	_
@@ -12601,8 +12601,8 @@ Edele	B-Organization	B-ProperName	O	O	O	O	_
 Hooge	I-Organization	I-ProperName	O	O	O	O	_
 regeringe	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-India	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	_
+nederlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+India	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 g’admisseerd	O	O	O	O	O	O	_
 binnen	B-Place	O	O	O	O	O	_
 de	I-Place	O	O	O	O	O	_
@@ -14617,8 +14617,8 @@ Edele	I-Organization	B-ProperName	O	O	O	O	_
 hooge	I-Organization	I-ProperName	O	O	O	O	_
 regeringe	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-nnderlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-Jndia	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	_
+nnderlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+Jndia	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 een	O	O	O	O	O	O	_
 mittoridhinee	O	O	O	O	O	O	_
 Aldt	O	O	O	O	O	O	_
@@ -14910,8 +14910,8 @@ Edele	I-Organization	B-ProperName	O	O	O	O	_
 hoogt	I-Organization	I-ProperName	O	O	O	O	_
 regeeringe	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-india	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	_
+nederlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+india	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 g’admitteerd	O	O	O	O	O	O	_
 binnen	B-Place	O	O	O	O	O	_
 de	I-Place	O	O	O	O	O	_
@@ -15273,14 +15273,14 @@ den	O	O	O	O	O	O	_
 edelen	B-Organization	B-ProperName	O	O	O	O	_
 hove	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-holland	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
+holland	I-Organization,B-Place	I-ProperName	O	O	O	O	_
 mitsgs„	O	O	O	O	O	O	_
 d’edele	B-Organization	B-ProperName	O	O	O	O	partial-Organization<1:6>
 hooge	I-Organization	I-ProperName	O	O	O	O	_
 regeeringe	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-Nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-Jndia	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	_
+Nederlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+Jndia	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 geadmits„	O	O	O	O	O	O	_
 Jan	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Testator	O	_
 Henderik	I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Testator	O	_
@@ -15323,7 +15323,7 @@ den	O	O	O	O	O	O	_
 Edlen	B-Organization	B-ProperName	O	O	O	O	_
 hoove	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-holland	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
+holland	I-Organization,B-Place	I-ProperName	O	O	O	O	_
 mits	O	O	O	O	O	O	_
 gaders	O	O	O	O	O	O	_
 de	B-Organization	O	O	O	O	O	_
@@ -15331,8 +15331,8 @@ Edele	I-Organization	B-ProperName	O	O	O	O	_
 hooge	I-Organization	I-ProperName	O	O	O	O	_
 regeeringe	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-India,	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	partial-Organization<0:4>partial-Place<0:4>
+nederlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+India,	I-Organization,I-Place	I-ProperName	O	O	O	O	partial-Organization<0:4>partial-Place<0:4>
 g’admitteert	O	O	O	O	O	O	_
 binnen	B-Place	O	O	O	O	O	_
 de	I-Place	O	O	O	O	O	_
@@ -15367,7 +15367,7 @@ Leggende	O	O	O	O	O	O	_
 in	O	O	O	O	O	O	_
 S.	O	O	O	O	O	O	_
 E.	O	O	O	O	O	O	_
-Comp:s	B-Place,B-Organization	O	O	O	O	O	_
+Comp:s	B-Organization,B-Place	O	O	O	O	O	_
 ziekenhuijs	I-Place	O	O	O	O	O	_
 dogh	O	O	O	O	O	O	_
 sijne	O	O	O	O	O	O	_
@@ -15559,8 +15559,8 @@ Adsistent	O	O	O	O	O	O	_
 bescheijden	O	O	O	O	O	O	_
 op	O	O	O	O	O	O	_
 ’t	O	O	O	O	O	O	_
-E	B-Place,B-Organization	O	O	O	O	O	_
-Comp„e	I-Place,I-Organization	O	O	O	O	O	_
+E	B-Organization,B-Place	O	O	O	O	O	_
+Comp„e	I-Organization,I-Place	O	O	O	O	O	_
 schip	I-Place	O	O	O	O	O	_
 Haamsteede,	I-Place	B-ProperName	O	O	O	O	partial-Place<0:9>
 zer	O	O	O	O	O	O	_
@@ -15747,7 +15747,7 @@ den	O	O	O	O	O	O	_
 Belen	B-Organization	B-ProperName	O	O	O	O	_
 Hose	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-Holland	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
+Holland	I-Organization,B-Place	I-ProperName	O	O	O	O	_
 mitsgs:3	O	O	O	O	O	O	_
 d’	O	O	O	O	O	O	_
 Edele	B-Organization	O	O	O	O	O	_
@@ -16899,8 +16899,8 @@ alhier	I-Place	O	O	O	O	O	_
 mi„	I-Place	O	O	O	O	O	_
 „literende	I-Place	O	O	O	O	O	_
 sergeant	I-Place	O	O	O	O	O	_
-Cornelis	I-Place,B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Other	O	_
-Fessers,	I-Place,I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Other	O	partial-Place<0:6>partial-Person<0:6>
+Cornelis	B-Person,I-Place	B-ProperName	B-Unspecified	B-Unspecified	B-Other	O	_
+Fessers,	I-Person,I-Place	I-ProperName	I-Unspecified	I-Unspecified	I-Other	O	partial-Place<0:6>partial-Person<0:6>
 ziek	O	O	O	O	O	O	_
 en	O	O	O	O	O	O	_
 zwak	O	O	O	O	O	O	_
@@ -18094,9 +18094,9 @@ den	I-Place	O	O	O	O	O	_
 alhier	I-Place	O	O	O	O	O	_
 Bescheijdene	I-Place	O	O	O	O	O	_
 zergeant	I-Place	O	O	O	O	O	_
-An„	I-Place,B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Testator	O	_
-„onies	I-Place,I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Testator	O	_
-Ruijen,	I-Place,I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Testator	O	partial-Place<0:5>partial-Person<0:5>
+An„	B-Person,I-Place	B-ProperName	B-Unspecified	B-Unspecified	B-Testator	O	_
+„onies	I-Person,I-Place	I-ProperName	I-Unspecified	I-Unspecified	I-Testator	O	_
+Ruijen,	I-Person,I-Place	I-ProperName	I-Unspecified	I-Unspecified	I-Testator	O	partial-Place<0:5>partial-Person<0:5>
 van	O	O	O	O	O	O	_
 Tamburg,	B-Place	B-ProperName	O	O	O	O	partial-Place<0:6>
 zeggende	O	O	O	O	O	O	_
@@ -22572,10 +22572,10 @@ Den	B-Person	O	B-Man	B-Unspecified	O	O	_
 Wel	I-Person	O	I-Man	I-Unspecified	O	O	_
 Edelen	I-Person	O	I-Man	I-Unspecified	O	O	_
 Gestrengen	I-Person	O	I-Man	I-Unspecified	O	O	_
-Heer	I-Person,I-Person	O	I-Man,I-Man	I-Unspecified	B-Testator	O	_
-Bernardus	I-Person,I-Person	B-ProperName	I-Man,I-Man	I-Unspecified	I-Testator	O	_
-van	I-Person,I-Person	I-ProperName	I-Man,I-Man	I-Unspecified	I-Testator	O	_
-Pleuren.	I-Person,I-Person	I-ProperName	I-Man,I-Man	I-Unspecified	I-Testator	O	_
+Heer	I-Person	O	I-Man	I-Unspecified	B-Testator	O	_
+Bernardus	I-Person	B-ProperName	I-Man	I-Unspecified	I-Testator	O	_
+van	I-Person	I-ProperName	I-Man	I-Unspecified	I-Testator	O	_
+Pleuren.	I-Person	I-ProperName	I-Man	I-Unspecified	I-Testator	O	_
 raad	I-Person	O	I-Man	I-Unspecified	O	O	_
 Ex„	I-Person	O	I-Man	I-Unspecified	O	O	_
 tra	I-Person	O	I-Man	I-Unspecified	O	O	_
@@ -25654,7 +25654,7 @@ Bo	I-Person	I-ProperName	I-Unspecified	I-Freed	I-Other	O	_
 —	I-Person	I-ProperName	I-Unspecified	I-Freed	I-Other	O	_
 „kers	I-Person	I-ProperName	I-Unspecified	I-Freed	I-Other	O	_
 en	O	O	O	O	O	O	_
-inlands	B-Noteworthy	O	O	O	O	O	_
+inlands	O	O	O	O	O	O	_
 dito	O	O	O	O	O	O	_
 Ioseph	B-Person	B-ProperName	B-Unspecified	B-Freed	B-Other	O	_
 van	I-Person	I-ProperName	I-Unspecified	I-Freed	I-Other	O	_
@@ -25674,10 +25674,10 @@ behoorlijk	O	O	O	O	O	O	_
 geteken	O	O	O	O	O	O	_
 Mod	O	O	O	O	O	O	_
 Attestor	O	O	O	O	O	O	_
-T	B-Person,B-Noteworthy	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
-Herstag	I-Person,I-Noteworthy	I-ProperName	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
-gesp:	I-Noteworthy	O	O	O	O	O	_
-Sriba	I-Noteworthy	O	O	O	O	O	_
+T	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
+Herstag	I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
+gesp:	O	O	O	O	O	O	_
+Sriba	O	O	O	O	O	O	_
 							
 # language = nl							
 # document_path = ..\data_2\Keep\C\NL-HaNA_1.04.02_6857_0175.txt							
@@ -26102,9 +26102,9 @@ thans	O	O	O	O	O	O	_
 onder	O	O	O	O	O	O	_
 mij	O	O	O	O	O	O	_
 berustende	O	O	O	O	O	O	_
-AHerstad	B-Person,B-Noteworthy	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
-getd:	I-Noteworthy	O	O	O	O	O	_
-scriba	I-Noteworthy	O	O	O	O	O	_
+AHerstad	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
+getd:	O	O	O	O	O	O	_
+scriba	O	O	O	O	O	O	_
 							
 # language = nl							
 # document_path = ..\data_2\Keep\C\NL-HaNA_1.04.02_6857_0180.txt							
@@ -26183,10 +26183,10 @@ door	O	O	O	O	O	O	_
 mij	O	O	O	O	O	O	_
 (:en	O	O	O	O	O	O	_
 getekend:)	O	O	O	O	O	O	_
-P:r	B-Person,B-Noteworthy	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
-herstal	I-Person,I-Noteworthy	I-ProperName	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
-Gesw:	I-Noteworthy	O	O	O	O	O	_
-scriba,	I-Noteworthy	O	O	O	O	O	_
+P:r	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
+herstal	I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
+Gesw:	O	O	O	O	O	O	_
+scriba,	O	O	O	O	O	O	_
 (:ter	O	O	O	O	O	O	_
 zijden	O	O	O	O	O	O	_
 stond:)	O	O	O	O	O	O	_
@@ -26203,9 +26203,9 @@ Zeijst	I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Witness	O	_
 W:	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Witness	O	_
 Beukers	I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Witness	O	_
 Accordeerd	O	O	O	O	O	O	_
-JHerstad	B-Person,B-Noteworthy	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
-Gesw:	I-Noteworthy	O	O	O	O	O	_
-Scriba	I-Noteworthy	O	O	O	O	O	_
+JHerstad	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
+Gesw:	O	O	O	O	O	O	_
+Scriba	O	O	O	O	O	O	_
 							
 # language = nl							
 # document_path = ..\data_2\Keep\C\NL-HaNA_1.04.02_6857_0186.txt							
@@ -30454,7 +30454,7 @@ zoon,	O	O	O	O	O	O	_
 Elias	B-Person	B-ProperName	B-Man	B-Unspecified	B-Beneficiary	O	_
 Jacob	I-Person	I-ProperName	I-Man	I-Unspecified	I-Beneficiary	O	_
 Beynon,	I-Person	I-ProperName	I-Man	I-Unspecified	I-Beneficiary	O	partial-Person<0:5>
-Vier	B-Noteworthy	O	O	O	O	O	_
+Vier	O	O	O	O	O	O	_
 stukx	O	O	O	O	O	O	_
 Manslave	B-Person	O	B-Group	B-Enslaved	B-Other	O	_
 genaemt	O	O	O	O	O	O	_
@@ -32514,9 +32514,9 @@ Gedaan	O	O	O	O	O	O	_
 en	O	O	O	O	O	O	_
 Gepasseert	O	O	O	O	O	O	_
 te	O	O	O	O	O	O	_
-Houglij	B-Place,B-Noteworthy	B-ProperName	O	O	O	O	_
-in	I-Place,I-Noteworthy	O	O	O	O	O	_
-Bengale	I-Place,I-Noteworthy	B-ProperName	O	O	O	O	_
+Houglij	B-Place	B-ProperName	O	O	O	O	_
+in	I-Place	O	O	O	O	O	_
+Bengale	I-Place	B-ProperName	O	O	O	O	_
 ten	O	O	O	O	O	O	_
 dage	O	O	O	O	O	O	_
 oors:	O	O	O	O	O	O	_
@@ -32608,7 +32608,7 @@ demptis	O	O	O	O	O	O	_
 den	O	O	O	O	O	O	_
 koopman	O	O	O	O	O	O	_
 van	B-Person	O	B-Man	B-Unspecified	B-Other	O	_
-Schevicha	B-Place,I-Person	B-ProperName	I-Man	I-Unspecified	I-Other	O	_
+Schevicha	I-Person,B-Place	B-ProperName	I-Man	I-Unspecified	I-Other	O	_
 en	O	O	O	O	O	O	_
 onderkoopman	O	O	O	O	O	O	_
 Pibant	B-Person	B-ProperName	B-Man	B-Unspecified	B-Other	O	_
@@ -36915,10 +36915,10 @@ was	O	O	O	O	O	O	_
 geteekend	O	O	O	O	O	O	_
 Accordeert	O	O	O	O	O	O	_
 /:	O	O	O	O	O	O	_
-Jacob	B-Person,B-Noteworthy	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
-Eilbracht	I-Person,I-Noteworthy	I-ProperName	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
-Eg:	I-Person,I-Noteworthy	O	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
-flerag	I-Person,I-Noteworthy	O	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
+Jacob	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Acting_Notary	O	_
+Eilbracht	I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
+Eg:	I-Person	O	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
+flerag	I-Person	O	I-Unspecified	I-Unspecified	I-Acting_Notary	O	_
 Saturdag	O	O	O	O	O	O	_
 den	O	O	O	O	O	O	_
 6.	O	O	O	O	O	O	_
@@ -37726,13 +37726,13 @@ uuren	O	O	O	O	O	O	_
 Compareerde	O	O	O	O	O	O	_
 voor	O	O	O	O	O	O	_
 mij	O	O	O	O	O	O	_
-Hendrik	B-Noteworthy	B-ProperName	O	O	O	O	_
-Jannink	I-Noteworthy,B-Person	I-ProperName	B-Man	B-Unspecified	B-Acting_Notary	O	_
-gesworen	I-Noteworthy,I-Person	O	I-Man	I-Unspecified	I-Acting_Notary	O	_
-Clercq	I-Noteworthy,I-Person	O	I-Man	I-Unspecified	I-Acting_Notary	O	_
-der	I-Noteworthy	O	O	O	O	O	_
-Bengaalse	I-Noteworthy	O	O	O	O	O	_
-secretarije	I-Noteworthy	O	O	O	O	O	_
+Hendrik	O	B-ProperName	O	O	O	O	_
+Jannink	B-Person	I-ProperName	B-Man	B-Unspecified	B-Acting_Notary	O	_
+gesworen	I-Person	O	I-Man	I-Unspecified	I-Acting_Notary	O	_
+Clercq	I-Person	O	I-Man	I-Unspecified	I-Acting_Notary	O	_
+der	O	O	O	O	O	O	_
+Bengaalse	O	O	O	O	O	O	_
+secretarije	O	O	O	O	O	O	_
 present	O	O	O	O	O	O	_
 de	O	O	O	O	O	O	_
 na	O	O	O	O	O	O	_
@@ -37752,7 +37752,7 @@ man	O	O	O	O	O	O	_
 oud	O	O	O	O	O	O	_
 35	O	O	O	O	O	O	_
 Jaaren	O	O	O	O	O	O	_
-bosschieter	B-Noteworthy	O	O	O	O	O	_
+bosschieter	O	O	O	O	O	O	_
 in	O	O	O	O	O	O	_
 ’s	B-Organization	O	O	O	O	B-No	_
 Comp„s	I-Organization	O	O	O	O	I-No	_
@@ -38650,7 +38650,7 @@ Wijders.	O	O	O	O	O	O	_
 							
 # language = nl							
 # document_path = ..\data_2\Keep\C\NL-HaNA_1.04.02_6878_0182.txt							
-deeses	B-Noteworthy	O	O	O	O	O	partial-Noteworthy<0:0>
+deeses	O	O	O	O	O	O	_
 bleek	O	O	O	O	O	O	_
 den	O	O	O	O	O	O	_
 Welken	O	O	O	O	O	O	_
@@ -38876,7 +38876,7 @@ zal	O	O	O	O	O	O	_
 							
 # language = nl							
 # document_path = ..\data_2\Keep\C\NL-HaNA_1.04.02_6878_0190.txt							
-Drie	B-Noteworthy	O	O	O	O	O	_
+Drie	O	O	O	O	O	O	_
 Kruie	O	O	O	O	O	O	_
 gispus.	O	O	O	O	O	O	_
 Een	O	O	O	O	O	O	_
@@ -39379,7 +39379,7 @@ slavin	B-Person	O	B-Woman	B-Enslaved	B-Other	O	_
 genaamt	O	O	O	O	O	O	_
 annika.	B-Person	B-ProperName	B-Woman	B-Enslaved	B-Other	O	_
 van	I-Person	I-ProperName	I-Woman	I-Enslaved	I-Other	O	_
-maccasser	B-Place,I-Person	I-ProperName	I-Woman	I-Enslaved	I-Other	O	_
+maccasser	I-Person,B-Place	I-ProperName	I-Woman	I-Enslaved	I-Other	O	_
 Stelt	O	O	O	O	O	O	_
 nu	O	O	O	O	O	O	_
 verders	O	O	O	O	O	O	_
@@ -40013,18 +40013,18 @@ Transporteerde	O	O	O	O	O	O	_
 ik	O	O	O	O	O	O	_
 mi	O	O	O	O	O	O	_
 ondergesz:	O	O	O	O	O	O	_
-Eerste	B-Noteworthy	O	O	O	O	O	_
-Clercq	I-Noteworthy	O	O	O	O	O	_
-ter	I-Noteworthy	O	O	O	O	O	_
-secretaii	I-Noteworthy	O	O	O	O	O	_
-van	I-Noteworthy	O	O	O	O	O	_
-den	I-Noteworthy	O	O	O	O	O	_
-E:	I-Noteworthy	O	O	O	O	O	_
-E:	I-Noteworthy	O	O	O	O	O	_
-Heer	I-Noteworthy,B-Person	O	B-Man	B-Unspecified	B-Acting_Notary	O	_
-Hermanus	I-Noteworthy,I-Person	B-ProperName	I-Man	I-Unspecified	I-Acting_Notary	O	_
-van	I-Noteworthy,I-Person	I-ProperName	I-Man	I-Unspecified	I-Acting_Notary	O	_
-Suchtelen	I-Noteworthy,I-Person	I-ProperName	I-Man	I-Unspecified	I-Acting_Notary	O	_
+Eerste	O	O	O	O	O	O	_
+Clercq	O	O	O	O	O	O	_
+ter	O	O	O	O	O	O	_
+secretaii	O	O	O	O	O	O	_
+van	O	O	O	O	O	O	_
+den	O	O	O	O	O	O	_
+E:	O	O	O	O	O	O	_
+E:	O	O	O	O	O	O	_
+Heer	B-Person	O	B-Man	B-Unspecified	B-Acting_Notary	O	_
+Hermanus	I-Person	B-ProperName	I-Man	I-Unspecified	I-Acting_Notary	O	_
+van	I-Person	I-ProperName	I-Man	I-Unspecified	I-Acting_Notary	O	_
+Suchtelen	I-Person	I-ProperName	I-Man	I-Unspecified	I-Acting_Notary	O	_
 met	O	O	O	O	O	O	_
 de	O	O	O	O	O	O	_
 getuygen	O	O	O	O	O	O	_
@@ -40685,10 +40685,10 @@ prelegateren	O	O	O	O	O	O	_
 aen	O	O	O	O	O	O	_
 haar	O	O	O	O	O	O	_
 dogtertije	O	O	O	O	O	O	_
-bij	B-Noteworthy	O	O	O	O	O	_
-den	I-Noteworthy	O	O	O	O	O	_
-ande	I-Noteworthy	O	O	O	O	O	_
-verwekt	I-Noteworthy	O	O	O	O	O	_
+bij	O	O	O	O	O	O	_
+den	O	O	O	O	O	O	_
+ande	O	O	O	O	O	O	_
+verwekt	O	O	O	O	O	O	_
 genaamt:	O	O	O	O	O	O	_
 Chatstarna	B-Person	B-ProperName	B-Woman	B-Unspecified	B-Beneficiary	O	_
 Maria	I-Person	I-ProperName	I-Woman	I-Unspecified	I-Beneficiary	O	_
@@ -42588,8 +42588,8 @@ ende	O	O	O	O	O	O	_
 Gepasseert	O	O	O	O	O	O	_
 In	B-Place	O	O	O	O	O	_
 t	I-Place	O	O	O	O	O	_
-E:	I-Place,B-Organization	O	O	O	O	B-No	_
-Comhp:	I-Place,I-Organization	O	O	O	O	I-No	_
+E:	B-Organization,I-Place	O	O	O	O	B-No	_
+Comhp:	I-Organization,I-Place	O	O	O	O	I-No	_
 schip	I-Place	O	O	O	O	O	_
 voorn:t	O	O	O	O	O	O	_
 Jaar	O	O	O	O	O	O	_
@@ -44615,8 +44615,8 @@ nakelaken	O	O	O	O	O	O	_
 53.	O	O	O	O	O	O	_
 Regeringe	B-Organization	B-ProperName	O	O	O	B-No	_
 van	I-Organization	I-ProperName	O	O	O	I-No	_
-Nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	I-No	_
-Jondia	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	I-No	_
+Nederlands	I-Organization,B-Place	I-ProperName	O	O	O	I-No	_
+Jondia	I-Organization,I-Place	I-ProperName	O	O	O	I-No	_
 geadimtteerd,	O	O	O	O	O	O	_
 brnijgten	O	O	O	O	O	O	_
 te	O	O	O	O	O	O	_
@@ -45025,7 +45025,7 @@ voor	O	O	O	O	O	O	_
 overlijden	O	O	O	O	O	O	_
 sijn	O	O	O	O	O	O	_
 testateurs	O	O	O	O	O	O	_
-susters	B-Person,B-Person	O	B-Woman,B-Woman	B-Unspecified,B-Unspecified	B-Beneficiary,B-Beneficiary	O	_
+susters	B-Person	O	B-Woman	B-Unspecified	B-Beneficiary	O	_
 en	O	O	O	O	O	O	_
 vroeder	O	O	O	O	O	O	_
 Catharina	B-Person	B-ProperName	B-Woman	B-Unspecified	B-Beneficiary	O	_
@@ -45042,17 +45042,17 @@ en	O	O	O	O	O	O	_
 Detleffs	I-Person	I-ProperName	I-Man	I-Unspecified	I-Beneficiary	O	_
 alle	O	O	O	O	O	O	_
 tot	O	O	O	O	O	O	_
-Noordstapel	B-Place,B-Place	B-ProperName	O	O	O	O	_
+Noordstapel	B-Place	B-ProperName	O	O	O	O	_
 in	I-Place	O	O	O	O	O	_
-’t	I-Place,I-Place	B-ProperName	O	O	O	O	_
-holstijnsche	I-Place,I-Place	I-ProperName	O	O	O	O	_
+’t	I-Place	B-ProperName	O	O	O	O	_
+holstijnsche	I-Place	I-ProperName	O	O	O	O	_
 een	I-Place	O	O	O	O	O	_
 dorp	I-Place	O	O	O	O	O	_
 een	I-Place	O	O	O	O	O	_
 mijl	I-Place	O	O	O	O	O	_
 van	I-Place	O	O	O	O	O	_
-fredrik	I-Place,I-Place	B-ProperName	O	O	O	O	_
-stad	I-Place,I-Place	I-ProperName	O	O	O	O	_
+fredrik	I-Place	B-ProperName	O	O	O	O	_
+stad	I-Place	I-ProperName	O	O	O	O	_
 wonagtig,	O	O	O	O	O	O	_
 ijder	O	O	O	O	O	O	_
 voor	O	O	O	O	O	O	_
@@ -45484,9 +45484,9 @@ verdiende	O	O	O	O	O	O	_
 'tle	O	O	O	O	O	O	_
 Jan	B-Person	B-ProperName	B-Unspecified	B-Unspecified	B-Testator	O	_
 Kreb	I-Person	I-ProperName	I-Unspecified	I-Unspecified	I-Testator	O	_
-Jacob	O	I-ProperName,I-ProperName	O	O	O	O	_
-de	O	I-ProperName,I-ProperName	O	O	O	O	_
-Koning	O	I-ProperName,I-ProperName	O	O	O	O	_
+Jacob	O	I-ProperName	O	O	O	O	_
+de	O	I-ProperName	O	O	O	O	_
+Koning	O	I-ProperName	O	O	O	O	_
 P	O	O	O	O	O	O	_
 Huijden	O	O	O	O	O	O	_
 den	O	O	O	O	O	O	_
@@ -45508,8 +45508,8 @@ Edele	I-Organization	I-ProperName	O	O	O	O	_
 hoge	I-Organization	I-ProperName	O	O	O	O	_
 regeringe	I-Organization	I-ProperName	O	O	O	O	_
 van	I-Organization	I-ProperName	O	O	O	O	_
-nederlands	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	O	_
-india	I-Organization,I-Place	I-ProperName,I-ProperName	O	O	O	O	_
+nederlands	I-Organization,B-Place	I-ProperName	O	O	O	O	_
+india	I-Organization,I-Place	I-ProperName	O	O	O	O	_
 geadmitteerd,	O	O	O	O	O	O	_
 binnen	O	O	O	O	O	O	_
 de	B-Place	O	O	O	O	O	_
@@ -46477,7 +46477,7 @@ de	O	O	O	O	O	O	_
 Slavinne	B-Person	O	B-Woman	B-Enslaved	B-Beneficiary	O	_
 Esther	I-Person	B-ProperName	I-Woman	I-Enslaved	I-Beneficiary	O	_
 van	I-Person	I-ProperName	I-Woman	I-Enslaved	I-Beneficiary	O	_
-Balij,	I-Person,B-Place	I-ProperName,I-ProperName	I-Woman	I-Enslaved	I-Beneficiary	O	partial-Person<0:4>partial-Place<0:4>
+Balij,	I-Person,B-Place	I-ProperName	I-Woman	I-Enslaved	I-Beneficiary	O	partial-Person<0:4>partial-Place<0:4>
 en	O	O	O	O	O	O	_
 legateert	O	O	O	O	O	O	_
 haar	O	O	O	O	O	O	_
@@ -47798,7 +47798,7 @@ portie	O	O	O	O	O	O	_
 van	O	O	O	O	O	O	_
 wegen	O	O	O	O	O	O	_
 myner	O	O	O	O	O	O	_
-vader	B-Person,B-Person	O	B-Man,B-Man	B-Unspecified,B-Unspecified	B-Other,B-Other	O	_
+vader	B-Person	O	B-Man	B-Unspecified	B-Other	O	_
 in	O	O	O	O	O	O	_
 den	O	O	O	O	O	O	_
 Iaere	O	O	O	O	O	O	_
@@ -47815,9 +47815,9 @@ Acht„	O	O	O	O	O	O	_
 heer	O	O	O	O	O	O	_
 gaals	O	O	O	O	O	O	_
 Kommandeur	O	O	O	O	O	O	_
-Abraham	B-Person,B-Person,B-Person	B-ProperName	B-Man,B-Man,B-Man	B-Unspecified,B-Unspecified,B-Unspecified	B-Other,B-Other,B-Other	O	_
-Sam„	I-Person,I-Person,I-Person	I-ProperName	I-Man,I-Man,I-Man	I-Unspecified,I-Unspecified,I-Unspecified	I-Other,I-Other,I-Other	O	_
-„lant	I-Person,I-Person,I-Person	I-ProperName	I-Man,I-Man,I-Man	I-Unspecified,I-Unspecified,I-Unspecified	I-Other,I-Other,I-Other	O	_
+Abraham	B-Person	B-ProperName	B-Man	B-Unspecified	B-Other	O	_
+Sam„	I-Person	I-ProperName	I-Man	I-Unspecified	I-Other	O	_
+„lant	I-Person	I-ProperName	I-Man	I-Unspecified	I-Other	O	_
 welke	O	O	O	O	O	O	_
 volgens	O	O	O	O	O	O	_
 zijn	O	O	O	O	O	O	_
@@ -47911,7 +47911,7 @@ kleek	O	O	O	O	O	O	_
 ter	O	O	O	O	O	O	_
 lecretarije	B-Place	O	O	O	O	O	_
 van	I-Place	O	O	O	O	O	_
-Politie,	I-Place,B-Organization	O	O	O	O	B-No	partial-Place<0:6>partial-Organization<0:6>
+Politie,	B-Organization,I-Place	O	O	O	O	B-No	partial-Place<0:6>partial-Organization<0:6>
 ter	O	O	O	O	O	O	_
 presentie	O	O	O	O	O	O	_
 van	O	O	O	O	O	O	_
@@ -47995,7 +47995,7 @@ ter	O	O	O	O	O	O	_
 lekoe.	B-Place	O	O	O	O	O	_
 tarij	I-Place	O	O	O	O	O	_
 van	I-Place	O	O	O	O	O	_
-Politie,	I-Place,B-Organization	O	O	O	O	B-No	partial-Place<0:6>partial-Organization<0:6>
+Politie,	B-Organization,I-Place	O	O	O	O	B-No	partial-Place<0:6>partial-Organization<0:6>
 ter	O	O	O	O	O	O	_
 presentie	O	O	O	O	O	O	_
 van	O	O	O	O	O	O	_
@@ -49227,7 +49227,7 @@ Clercq:	O	O	O	O	O	O	_
 ter	B-Place	O	O	O	O	O	_
 secretarij	I-Place	O	O	O	O	O	_
 van	I-Place	O	O	O	O	O	_
-politie	I-Place,B-Organization	O	O	O	O	B-No	_
+politie	B-Organization,I-Place	O	O	O	O	B-No	_
 deses	I-Place	O	O	O	O	O	_
 gouvernements	I-Place	O	O	O	O	O	_
 present:	O	O	O	O	O	O	_
@@ -51237,7 +51237,7 @@ uijtdruc„	O	O	O	O	O	O	_
 dat	O	O	O	O	O	O	_
 desselfs	O	O	O	O	O	O	_
 mans	O	O	O	O	O	O	_
-Slaaf	B-Person,B-Person	O	B-Man,B-Man	B-Enslaved,B-Enslaved	B-Other,B-Other	O	_
+Slaaf	B-Person	O	B-Man	B-Enslaved	B-Other	O	_
 gen=t	I-Person	O	I-Man	I-Enslaved	I-Other	O	_
 May	I-Person	B-ProperName	I-Man	I-Enslaved	I-Other	O	_
 van	I-Person	I-ProperName	I-Man	I-Enslaved	I-Other	O	_
@@ -51622,7 +51622,7 @@ het	B-Organization	B-ProperName	O	O	O	B-Yes	_
 Gereformeerde	I-Organization	I-ProperName	O	O	O	I-Yes	_
 Weeshuys	I-Organization	I-ProperName	O	O	O	I-Yes	_
 te	I-Organization	I-ProperName	O	O	O	I-Yes	_
-Amsterdam	I-Organization,B-Place	I-ProperName,I-ProperName	O	O	O	I-Yes	_
+Amsterdam	I-Organization,B-Place	I-ProperName	O	O	O	I-Yes	_
 eene	O	O	O	O	O	O	_
 Somma	O	O	O	O	O	O	_
 van	O	O	O	O	O	O	_
@@ -51994,10 +51994,10 @@ Politicque	I-Place	O	O	O	O	O	_
 secretarije	I-Place	O	O	O	O	O	_
 alhier	I-Place	O	O	O	O	O	_
 aan	I-Place	O	O	O	O	O	_
-Cabo	I-Place,I-Place	B-ProperName	O	O	O	O	_
-de	I-Place,I-Place	I-ProperName	O	O	O	O	_
-goede	I-Place,I-Place	I-ProperName	O	O	O	O	_
-Hoop,	I-Place,I-Place	I-ProperName	O	O	O	O	partial-Place<0:3>
+Cabo	I-Place	B-ProperName	O	O	O	O	_
+de	I-Place	I-ProperName	O	O	O	O	_
+goede	I-Place	I-ProperName	O	O	O	O	_
+Hoop,	I-Place	I-ProperName	O	O	O	O	partial-Place<0:3>
 present	O	O	O	O	O	O	_
 de	O	O	O	O	O	O	_
 Naargen	O	O	O	O	O	O	_
@@ -52294,7 +52294,7 @@ heeren	O	O	O	O	O	O	_
 bewindhebberen	O	O	O	O	O	O	_
 ter	B-Place	O	O	O	O	O	_
 Camer	I-Place	O	O	O	O	O	_
-amsterdam	I-Place,I-Place	B-ProperName	O	O	O	O	_
+amsterdam	I-Place	B-ProperName	O	O	O	O	_
 waar	O	O	O	O	O	O	_
 Voor	O	O	O	O	O	O	_
 uijtgevoren	O	O	O	O	O	O	_
@@ -52975,9 +52975,9 @@ Iacob	I-Person	B-ProperName	I-Man	I-Unspecified	I-Other	O	_
 de	I-Person	I-ProperName	I-Man	I-Unspecified	I-Other	O	_
 Meijer	I-Person	I-ProperName	I-Man	I-Unspecified	I-Other	O	_
 en	O	O	O	O	O	O	_
-Paulus	O	B-ProperName,B-ProperName	O	O	O	O	_
-van	O	I-ProperName,I-ProperName	O	O	O	O	_
-Leliveld	O	I-ProperName,I-ProperName	O	O	O	O	_
+Paulus	O	B-ProperName	O	O	O	O	_
+van	O	I-ProperName	O	O	O	O	_
+Leliveld	O	I-ProperName	O	O	O	O	_
 raeden	O	O	O	O	O	O	_
 ordinaires	O	O	O	O	O	O	_
 in	O	O	O	O	O	O	_
@@ -53522,9 +53522,9 @@ gelegen	O	O	O	O	O	O	_
 wat	O	O	O	O	O	O	_
 buijten	B-Place	O	O	O	O	O	_
 dese	I-Place	O	O	O	O	O	_
-stad	I-Place,I-Place	B-ProperName	O	O	O	O	_
-poorte	I-Place,I-Place	I-ProperName	O	O	O	O	_
-rotterdam	I-Place,I-Place	I-ProperName	O	O	O	O	_
+stad	I-Place	B-ProperName	O	O	O	O	_
+poorte	I-Place	I-ProperName	O	O	O	O	_
+rotterdam	I-Place	I-ProperName	O	O	O	O	_
 in	I-Place	O	O	O	O	O	_
 ’t	I-Place	O	O	O	O	O	_
 oostervelt	I-Place	O	O	O	O	O	_
@@ -65477,7 +65477,7 @@ op	O	O	O	O	O	O	_
 gen„l	O	O	O	O	O	O	_
 zoldij	B-Place	O	O	O	O	O	_
 visite	I-Place	O	O	O	O	O	_
-Compt:r	I-Place,B-Organization	O	O	O	O	O	partial-Organization<0:4>
+Compt:r	B-Organization,I-Place	O	O	O	O	O	partial-Organization<0:4>
 Batavia	I-Place	B-ProperName	O	O	O	O	_
 Jn't	I-Place	O	O	O	O	O	_
 Casteel	I-Place	O	O	O	O	O	_
@@ -65700,7 +65700,7 @@ op	O	O	O	O	O	O	_
 gen„l	O	O	O	O	O	O	_
 zoldij	B-Place	O	O	O	O	O	_
 visite	I-Place	O	O	O	O	O	_
-Compt:r	I-Place,B-Organization	O	O	O	O	O	partial-Organization<0:4>
+Compt:r	B-Organization,I-Place	O	O	O	O	O	partial-Organization<0:4>
 Batavia	I-Place	B-ProperName	O	O	O	O	_
 Jn't	I-Place	O	O	O	O	O	_
 Casteel	I-Place	O	O	O	O	O	_
