@@ -104,6 +104,7 @@
                 // "legal-status",
                 // "role",
                 "--merge-subwords",
+                "--replace-all-numbers",
 
                 // "--overwrite-previous-model",
             ]

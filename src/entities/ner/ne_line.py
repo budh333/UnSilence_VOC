@@ -247,8 +247,8 @@ class NELine:
             result = None
         else:
             result = csv_row[key]
-            if key != 'TOKEN':
-                result = result.split(',')[0]
+            # if key != 'TOKEN':
+            #     result = result.split(',')[0]
 
         if result is not None or use_none_if_empty:
             obj.append(result)
