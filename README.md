@@ -98,3 +98,8 @@ Sometimes certain documents are scanned with overlaps, thus leading to incorrect
 
 ### DuplicatePage 
 Sometimes certain documents are scanned with overlaps or multiple times, thus leading to incorrect transcriptions and duplicate pages. All entities are annotated on such pages, and a single "DuplicatePage" entity is annotated on such pages. 
+
+
+## Code
+
+Please refer to the separate documentation of our Named Entity Recognition model implementation [here](src/code_documentation.md)
