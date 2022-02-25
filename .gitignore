@@ -4,3 +4,4 @@ __pycache__/
 /src/.cache/
 /src/data/
 /src/results/
+.ipynb_checkpoints
