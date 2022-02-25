@@ -1,6 +1,0 @@
-T1	Place 346 356	sterfhuijs
-T2	Person 734 745;746 773	neeff desen Ioan. berbrand van Kennings
-A1	Gender T2 Man
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Beneficiary
-T3	ProperName 746 773	Ioan. berbrand van Kennings

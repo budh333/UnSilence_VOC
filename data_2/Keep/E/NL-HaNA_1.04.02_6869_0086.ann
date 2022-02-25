@@ -1,9 +1,0 @@
-T1	ProperName 1148 1172	Casper Christiaan mulder
-T2	Person 1148 1172	Casper Christiaan mulder
-A1	Gender T2 Man
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Other
-T3	ProperName 1185 1194	amsterdam
-T4	Place 1185 1194	amsterdam
-T5	Place 512 519	omnibus
-T6	ProperName 512 519	omnibus

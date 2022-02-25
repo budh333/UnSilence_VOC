@@ -1,9 +1,0 @@
-T1	Person 180 194	willem Kerkman
-A1	Gender T1 Unspecified
-A2	LegalStatus T1 Unspecified
-A3	Role T1 Other
-T2	Person 214 222	JA van L
-A4	Gender T2 Unspecified
-A5	LegalStatus T2 Unspecified
-A6	Role T2 Other
-#1	AnnotatorNotes T2	Signature

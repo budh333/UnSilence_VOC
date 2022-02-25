@@ -1,6 +1,0 @@
-T1	DuplicatePage 0 2	20
-T2	Person 33 55	Claas Pietersz van Dan
-A1	Gender T2 Man
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Testator
-T3	ProperName 33 55	Claas Pietersz van Dan

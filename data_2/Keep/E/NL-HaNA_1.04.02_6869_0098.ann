@@ -1,9 +1,0 @@
-T1	TranscriptionError_Document 0 4	Elff
-T2	DuplicatePage 0 4	Elff
-T3	Person 1475 1513	huijs vrouw Mejuffrouw Gerritje Hoeven
-A1	Gender T3 Woman
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Other
-T4	ProperName 1498 1514	Gerritje Hoevens
-T5	Place 1524 1534	vlissingen
-T6	ProperName 1524 1534	vlissingen

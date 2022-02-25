@@ -1,9 +1,0 @@
-T1	Place 75 84	sterfhuis
-T4	Place 355 374	ter kamer Amsterdam
-T5	ProperName 365 374	Amsterdam
-T6	Organization 316 335;336 374	geoctroijeerde oost Indische Compagnie ter kamer Amsterdam
-T7	ProperName 316 335;336 374	geoctroijeerde oost Indische Compagnie ter kamer Amsterdam
-T2	Person 1124 1137	Lijf feigenen
-A1	Gender T2 Group
-A2	LegalStatus T2 Enslaved
-A3	Role T2 Beneficiary

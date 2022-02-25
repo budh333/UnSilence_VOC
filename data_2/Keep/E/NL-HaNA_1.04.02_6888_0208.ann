@@ -1,9 +1,0 @@
-T1	TranscriptionError_Document 0 4	1735
-T2	ProperName 88 101;102 117;118 123	Teodorus Elo„ „nardus van den Briel
-T3	Person 88 101;102 117;118 123	Teodorus Elo„ „nardus van den Briel
-A1	Gender T3 Man
-A2	LegalStatus T3 Unspecified
-A3	Role T3 Notary
-T4	Organization 149 164;165 172	Edelen hove van holland
-T5	ProperName 165 172	holland
-T6	Place 165 172	holland
