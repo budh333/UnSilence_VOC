@@ -1,0 +1,45 @@
+T1	TranscriptionError_Document 0 2	In
+T2	DuplicatePage 0 2	In
+T4	ProperName 120 138	Abraham van Dinter
+T5	Organization 160 163;164 187	den Edelen Hose van Holland
+T6	Organization 196 230	d’ Edele Hoge regeeringe van Ned„s
+T7	ProperName 180 187	Holland
+T8	Place 180 187	Holland
+T9	Person 231 256	Johan Christoffel Swendel
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 231 256	Johan Christoffel Swendel
+T12	ProperName 402 427	Fredrik Willem hooghcamer
+T13	Organization 450 494	de Edele hoogeregeringe van Nederlands India
+T14	Place 478 494	Nederlands India
+T15	ProperName 478 494	Nederlands India
+T16	Place 509 530	binnen destad batavia
+T17	ProperName 523 530	batavia
+T19	ProperName 586 601	Daniel De swart
+T20	Organization 632 648	der E: Compagnie
+T21	Person 738 757	Mons:r Gerrit Ploeg
+A13	Gender T21 Man
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Other
+T22	ProperName 745 757	Gerrit Ploeg
+T23	Person 1241 1254	lijffeijgenen
+A16	Gender T23 Group
+A17	LegalStatus T23 Enslaved
+A18	Role T23 Other
+T3	Person 120 155	Abraham van Dinter Notaris publijcq
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T11	Person 402 427;428 445	Fredrik Willem hooghcamer notaris publijcq:
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T18	Person 586 601	Daniel De swart
+A10	Gender T18 Man
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Testator
+A19	Beneficiary T5 No
+A20	Beneficiary T6 No
+A21	Beneficiary T13 No
+A22	Beneficiary T20 No

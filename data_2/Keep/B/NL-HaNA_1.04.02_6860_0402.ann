@@ -1,0 +1,29 @@
+T1	Place 86 96	Sourabaija
+T2	ProperName 86 96	Sourabaija
+T3	Person 128 151	Andries Hartsink Iunior
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 128 151	Andries Hartsink Iunior
+T5	Place 237 247	Sourabaija
+T6	ProperName 237 247	Sourabaija
+T7	Person 291 313	R: F: van der Niepoort
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	Person 529 543	willem Kerkman
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 529 543	willem Kerkman
+T10	Person 562 570	Jt van G
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+#1	AnnotatorNotes T10	Signature
+T11	Person 325 334	H H vange
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+#2	AnnotatorNotes T11	Signature
+T12	TranscriptionError_Document 346 347	V

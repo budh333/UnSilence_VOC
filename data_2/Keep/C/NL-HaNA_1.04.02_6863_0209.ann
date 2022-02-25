@@ -1,0 +1,42 @@
+T1	TranscriptionError_Document 0 2	op
+T2	DuplicatePage 0 2	op
+T3	Place 19 28	amsterdam
+T4	ProperName 19 28	amsterdam
+T5	Person 291 298;299 308	Abraham van Breem
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Beneficiary
+T6	ProperName 291 298;299 308	Abraham van Breem
+T7	Person 506 512	Maurer
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 506 512	Maurer
+T9	Person 520 531	H van Breem
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Beneficiary
+T10	ProperName 520 531	H van Breem
+T11	Organization 549 556	'sComp:
+T12	Place 568 575	Colombo
+T13	ProperName 568 575	Colombo
+T14	Place 1071 1075;1076 1087	i de stad kandia
+T15	ProperName 1081 1087	kandia
+T16	Person 1124 1139	Cornelis Ieklis
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 1124 1139	Cornelis Ieklis
+T18	Person 1176 1186	W: Beukman
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Witness
+T19	ProperName 1176 1186	W: Beukman
+T20	Person 1190 1203;1204 1212	P: L: van der straaten
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Witness
+T21	ProperName 1190 1203;1204 1212	P: L: van der straaten
+T22	Place 1768 1774	Holdij
+T23	ProperName 1768 1774	Holdij
+A19	Beneficiary T11 No

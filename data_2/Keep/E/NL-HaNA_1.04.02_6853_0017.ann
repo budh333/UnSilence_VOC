@@ -1,0 +1,21 @@
+T1	TranscriptionError_Document 0 1	P
+T2	Organization 66 72;73 124	heeren bewinthebberen der goectroyeer de oost indischecomp
+T3	ProperName 107 124	oost indischecomp
+T4	Place 135 144	Amsterdam
+T5	ProperName 135 144	Amsterdam
+T6	ProperName 955 973	Jacob Phijssenbrok
+T7	Person 955 973	Jacob Phijssenbrok
+A1	Gender T7 Unspecified
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Witness
+T8	Person 982 998	Lodewijk Abraham
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 982 998	Lodewijk Abraham
+T10	ProperName 1110 1116	dinter
+T11	Person 1353 1374	Ernst Anthonij Cresel
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Beneficiary
+T12	ProperName 1353 1374	Ernst Anthonij Cresel

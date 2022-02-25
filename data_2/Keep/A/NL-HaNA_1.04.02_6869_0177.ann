@@ -1,0 +1,40 @@
+T1	Person 0 5	Sinck
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 5	Sinck
+T3	Person 71 84;85 126	Fredrik Bhott geswore klerk der Bengaelsche Secretarije
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 71 84	Fredrik Bhott
+T5	Person 163 200	Manhafte George, Jacob Meier Schipper
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 163 191	Manhafte George, Jacob Meier
+T7	Person 204 234	Ingemond Ankerklauw opperstuur
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 204 223	Ingemond Ankerklauw
+T9	Place 242 271	het retour schip Scholtenburg
+T10	ProperName 259 271	Scholtenburg
+T11	Person 415 429	Christiaan Wal
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 415 429	Christiaan Wal
+T13	TranscriptionError_Document 18 23	eeden
+T14	DuplicatePage 25 27	en
+T15	Person 431 448	ssistent Johannes
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 440 448	Johannes
+T17	Place 553 569	Comparants huijs
+T18	Person 964 972	Johannes
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	ProperName 964 972	Johannes

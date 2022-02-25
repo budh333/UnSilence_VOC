@@ -1,0 +1,11 @@
+T1	Place 386 391	india
+T2	ProperName 386 391	india
+T3	Person 734 752;753 761	huijsvrouw Johanna hofstede
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 745 752;753 761	Johanna hofstede
+T5	Place 776 785	amsterdam
+T6	ProperName 776 785	amsterdam
+T7	Place 1253 1257	indi
+T8	ProperName 1253 1257	indi

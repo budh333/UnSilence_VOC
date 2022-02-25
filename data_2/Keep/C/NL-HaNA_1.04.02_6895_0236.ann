@@ -1,0 +1,14 @@
+T1	Organization 1413 1464	Eerl:e achtbaare heeren weesmeesteren van duze stad
+T2	TranscriptionError_Document 0 2	De
+T3	DuplicatePage 0 2	De
+T4	Person 2017 2041;2042 2053	Christoffel Sigvried van Redenbrecht
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 2017 2041;2042 2053	Christoffel Sigvried van Redenbrecht
+T6	Person 2057 2073	Pieter Michielsz
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 2057 2073	Pieter Michielsz
+A7	Beneficiary T1 No

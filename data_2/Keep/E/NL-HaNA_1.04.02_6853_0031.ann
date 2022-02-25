@@ -1,0 +1,32 @@
+T1	TranscriptionError_Document 0 2	80
+T2	DuplicatePage 3 10	Pierter
+T3	Person 3 20	Pierter Boedeveld
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 2;3 20	80 Pierter Boedeveld
+T5	Person 137 165	M„r Ioan van der Voort not„s
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 141 159	Ioan van der Voort
+T7	Organization 193 222	regeeringe van Nederl„s India
+T8	ProperName 208 222	Nederl„s India
+T9	Place 208 222	Nederl„s India
+T10	Person 357 385	M„r Ioan van der Voort Not„s
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	ProperName 361 379	Ioan van der Voort
+T12	Organization 410 438	regeering van Nederl:k India
+T13	Place 424 438	Nederl:k India
+T14	ProperName 424 438	Nederl:k India
+T15	Place 459 474	de stad Batavia
+T16	ProperName 467 474	Batavia
+T17	Person 529 552	Eersamen Adam Besel kok
+A10	Gender T17 Man
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Testator
+T18	ProperName 538 548	Adam Besel
+T19	Organization 561 565	Comp
+T20	Place 568 577	hospitaal

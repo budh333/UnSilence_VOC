@@ -1,0 +1,34 @@
+T2	ProperName 187 192	Filis
+T4	ProperName 233 252	olofs Martene Bergh
+T5	Person 331 346	adolff Leanders
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 331 346	adolff Leanders
+T8	ProperName 427 438	Petrus keve
+T9	Person 548 555;556 566	P=r Jan Serruerier
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 548 555;556 566	P=r Jan Serruerier
+T12	ProperName 654 669	Sr Daniel Brand
+T3	Person 228 252	heer olofs Martene Bergh
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T7	Person 427 438	Petrus keve
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T11	Person 654 669	Sr Daniel Brand
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T1	Person 164 171;172 178	slaave. Jongen
+A1	Gender T1 Man
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T13	Person 187 192	Filis
+A19	Gender T13 Man
+A20	LegalStatus T13 Enslaved
+A21	Role T13 Other

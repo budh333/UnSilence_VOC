@@ -1,0 +1,36 @@
+T1	Person 11 18	JJasman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 11 18	JJasman
+T3	Person 26 45	Gysbert van Leeuwen
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator_Beneficiary
+T4	ProperName 26 45	Gysbert van Leeuwen
+T5	Person 123 142	J:s R:t Kriekenbeek
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 123 142	J:s R:t Kriekenbeek
+T7	Person 260 288	Tustinus Rutgart Kriekenbelk
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Acting_Notary
+T8	ProperName 260 288	Tustinus Rutgart Kriekenbelk
+T9	Person 365 385	Gijsbert van leeuwen
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Testator_Beneficiary
+T10	ProperName 365 385	Gijsbert van leeuwen
+T11	Place 390 403	jasfanapatnam
+T12	ProperName 390 403	jasfanapatnam
+T13	Organization 418 426	’sComp:s
+T14	Person 437 449	sara hoepels
+A16	Gender T14 Woman
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Testator_Beneficiary
+T15	ProperName 437 449	sara hoepels
+T16	Place 454 461	Colombo
+T17	ProperName 454 461	Colombo
+A19	Beneficiary T13 No

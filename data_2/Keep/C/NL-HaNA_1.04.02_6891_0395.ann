@@ -1,0 +1,35 @@
+T1	TranscriptionError_Document 0 2	In
+T2	DuplicatePage 0 2	In
+T3	Person 79 97	Arij van der Aartt
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 79 98	Arij van der Aartt,
+T5	Place 111 130;131 146	op E E:l Compagnies schip Etsf Duno
+T6	Organization 114 130	E E:l Compagnies
+A4	Beneficiary T6 No
+T7	ProperName 137 146	Etsf Duno
+T8	Person 255 270	Pieter Somerhof
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 255 270	Pieter Somerhof
+T10	Place 275 284	Amsterdam
+T11	ProperName 275 284	Amsterdam
+T12	Person 972 984	Jan de Vries
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Witness
+T13	ProperName 972 984	Jan de Vries
+T14	Person 988 1001;1002 1014	Jnlandsburger Frans Manuel
+A11	Gender T14 Unspecified
+A12	LegalStatus T14 Freed
+A13	Role T14 Witness
+T15	ProperName 1002 1014	Frans Manuel
+T16	Person 1148 1163	B„r Pouttemonde
+A14	Gender T16 Unspecified
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Acting_Notary
+T17	ProperName 1148 1163	B„r Pouttemonde
+T18	Place 1623 1632	purmerent
+T19	ProperName 1623 1632	purmerent

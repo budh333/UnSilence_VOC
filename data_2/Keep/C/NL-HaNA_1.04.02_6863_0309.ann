@@ -1,0 +1,43 @@
+T1	TranscriptionError_Document 0 4	1003
+T2	DuplicatePage 0 4	1003
+T3	Person 5 25	Diederik Kloppenburg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 5 25	Diederik Kloppenburg
+T5	Person 288 297	magdaling
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+#1	AnnotatorNotes T5	magdalena
+T6	ProperName 288 297	magdaling
+T7	Person 643 657;658 663	Christen vrouw clara
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 658 663	clara
+T9	Person 673 679	Marten
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 673 679	Marten
+T11	Person 681 691	Ianenstana
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	ProperName 681 691	Ianenstana
+T13	Person 736 755	Christen vrouw Rita
+A16	Gender T13 Woman
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Beneficiary
+T14	ProperName 751 755	Rita
+T15	Person 766 777	Pedro Bento
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Beneficiary
+T16	ProperName 766 777	Pedro Bento
+T17	Person 781 795;796 803	Lijsje Paus de Rosairo
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Beneficiary
+T18	ProperName 781 795;796 803	Lijsje Paus de Rosairo

@@ -1,0 +1,30 @@
+T1	Place 22 29	Batavia
+T2	ProperName 22 29	Batavia
+T3	Person 760 770;771 774	J: v: Bom„ mel
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+T4	ProperName 760 770;771 774	J: v: Bom„ mel
+T5	Person 882 884;885 892	L. Rulijgh
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+T6	ProperName 882 884;885 892	L. Rulijgh
+T7	Person 897 907	P=t Iacobs
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+T8	ProperName 897 907	P=t Iacobs
+T9	Organization 1129 1134	comp=
+T10	TranscriptionError_Document 0 1	W
+T11	Person 1334 1347	den Kok Johan
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1342 1347	Johan
+T13	ProperName 1453 1464	H: Rijnnagh
+T14	Person 1453 1464	H: Rijnnagh
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+A3	Role T3 Testator
+A6	Role T5 Other
+A9	Role T7 Other
+A16	Beneficiary T9 No

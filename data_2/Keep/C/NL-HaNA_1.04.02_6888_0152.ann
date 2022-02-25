@@ -1,0 +1,29 @@
+T1	Person 441 459	Pandeling Januarij
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 451 459	Januarij
+T4	ProperName 512 527	Jan van banchem
+T5	Person 848 865	Hendrik Steenkamp
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 848 865	Hendrik Steenkamp
+T7	Person 882 896	Zirk sijmonsz:
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 882 896	Zirk sijmonsz:
+T9	Person 900 918	Gossel bruijnereus
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 900 918	Gossel bruijnereus
+T11	Organization 1149 1157	dE Comp:
+T12	Organization 1415 1447	Colegie van heeren weesmeesteren
+T3	Person 512 527	Jan van banchem
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+A16	Beneficiary T11 No
+A17	Beneficiary T12 No

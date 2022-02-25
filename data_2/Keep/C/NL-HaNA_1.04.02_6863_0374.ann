@@ -1,0 +1,43 @@
+T1	TranscriptionError_Document 0 6	zouden
+T2	DuplicatePage 0 6	zouden
+T3	Organization 149 168;169 203	de Edele hoog agtb: bewindhebberen ter kamer Amsterdam
+T4	Place 194 203	Amsterdam
+T5	ProperName 194 203	Amsterdam
+T6	Place 258 271	schip Haarlem
+T7	ProperName 264 271	Haarlem
+T8	Organization 345 352	d’E: Co
+T9	Person 977 994	heer Joan Hugonus
+A1	Gender T9 Man
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Beneficiary
+T10	ProperName 982 994	Joan Hugonus
+T11	Person 1204 1221	heer Joan Hugonis
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Beneficiary
+T12	ProperName 1209 1221	Joan Hugonis
+T13	Person 1291 1303	slave jonger
+A7	Gender T13 Man
+A8	LegalStatus T13 Enslaved
+A9	Role T13 Beneficiary
+T14	Person 1312 1315	Dav
+A10	Gender T14 Man
+A11	LegalStatus T14 Enslaved
+A12	Role T14 Beneficiary
+T15	ProperName 1312 1315	Dav
+T16	Person 1337 1350	slave meijsje
+A13	Gender T16 Woman
+A14	LegalStatus T16 Enslaved
+A15	Role T16 Beneficiary
+T17	ProperName 1359 1365	amelia
+T18	Person 1359 1365	amelia
+A16	Gender T18 Woman
+A17	LegalStatus T18 Enslaved
+A18	Role T18 Beneficiary
+T19	Person 1538 1565	Catharina Elisabeth Hugonis
+A19	Gender T19 Woman
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Beneficiary
+T20	ProperName 1538 1565	Catharina Elisabeth Hugonis
+A22	Beneficiary T3 No
+A23	Beneficiary T8 No

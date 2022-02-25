@@ -1,0 +1,54 @@
+T1	Person 116 135	Joan Adriaan Dreier
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 116 135	Joan Adriaan Dreier
+T3	Place 157 173	Deesen Comptoire
+T4	Place 226 273;278 291	huijse van den alhier Bescheijdene zergeant An„ „dries Ruijen
+T5	Person 270 273;278 291	An„ „dries Ruijen
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 270 273;278 291	An„ „dries Ruijen
+T7	Place 297 304	Hamburg
+T8	ProperName 297 304	Hamburg
+T9	Person 962 977	Jacoba Isabella
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Beneficiary
+T10	ProperName 962 977	Jacoba Isabella
+T11	Person 1028 1047	Francois van Hoeven
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1028 1047	Francois van Hoeven
+T13	Person 1076 1091	Helena Hendrika
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	ProperName 1076 1091	Helena Hendrika
+T15	Person 1192 1198	slaven
+A16	Gender T15 Group
+A17	LegalStatus T15 Enslaved
+A18	Role T15 Other
+T16	Person 1202 1211	slavinnen
+A19	Gender T16 Group
+A20	LegalStatus T16 Enslaved
+A21	Role T16 Other
+T17	Organization 1491 1534	vaderloose weese ten gouvernemente samarang
+A22	Beneficiary T17 Yes
+T18	Place 1526 1534	samarang
+T19	ProperName 1526 1534	samarang
+T20	Person 1661 1668	koening
+A23	Gender T20 Woman
+A24	LegalStatus T20 Freed
+A25	Role T20 Beneficiary
+T21	ProperName 1661 1668	koening
+T22	Organization 2030 2050	Samarangse weeshuijs
+A26	Beneficiary T22 Yes
+T23	Place 2204 2214	souracarta
+T24	ProperName 2204 2214	souracarta
+T25	Person 2148 2162	Jaraense meijd
+A27	Gender T25 Woman
+A28	LegalStatus T25 Freed
+A29	Role T25 Beneficiary

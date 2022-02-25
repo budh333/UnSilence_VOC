@@ -1,0 +1,44 @@
+T1	DuplicatePage 0 6	Copia.
+T2	TranscriptionError_Document 8 10	Jn
+T3	Person 91 108;109 119	Pieter Loeshouwer Boekhouder
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 91 108	Pieter Loeshouwer
+T5	Person 199 232;233 253	Den E: Manhaften vaandrig Hendrik Wipperman van Archem
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 225 232;233 253	Hendrik Wipperman van Archem
+T7	Person 266 272;273 308;309 316	huijs„ vrouw Anna Theodora Allers van Sou„ rabaija
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	ProperName 279 308;309 316	Anna Theodora Allers van Sou„ rabaija
+T9	Place 304 308;309 316	Sou„ rabaija
+T10	Person 440 465;466 479	schoon zoon Fredrik Habig Genaamt Jacob
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary
+T11	ProperName 474 479	Jacob
+T12	ProperName 452 465	Fredrik Habig
+T13	Person 863 893	aan den armen te Deeser steede
+A13	Gender T13 Group
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	Place 933 939	Holl„s
+T15	ProperName 933 939	Holl„s
+T16	Person 974 991;992 1008	Dogter sebastiena Elisabeth kroese
+A16	Gender T16 Woman
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Beneficiary
+T17	ProperName 981 991;992 1008	sebastiena Elisabeth kroese
+T18	Person 1049 1073	stads Doctor Pred„ Habig
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	ProperName 1062 1073	Pred„ Habig
+T20	Organization 1618 1632;1633 1673	t eerw: Colle„ gie van Heeren weesmeesteren tot Batavia
+T21	ProperName 1618 1632;1633 1673	t eerw: Colle„ gie van Heeren weesmeesteren tot Batavia
+T22	Place 1662 1673	tot Batavia
+T23	ProperName 1666 1673	Batavia

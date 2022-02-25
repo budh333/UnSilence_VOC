@@ -1,0 +1,17 @@
+T1	Organization 241 245	Comp
+T2	Organization 1108 1112	Comp
+T3	Person 1590 1623	huijsvrouw Me Juff:r Alida Miclas
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 1611 1623	Alida Miclas
+T6	ProperName 1634 1652	hendrik Molkenboer
+T7	Person 1656 1663;1664 1671	Anvries Barends
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 1656 1663;1664 1671	Anvries Barends
+T5	Person 1634 1652	hendrik Molkenboer
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other

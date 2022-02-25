@@ -1,0 +1,30 @@
+T1	TranscriptionError_Document 0 1	7
+T2	DuplicatePage 0 1	7
+T4	ProperName 87 111	Anna, Margareta Pijffers
+T5	Person 118 138	Iohannes Hagenbergh:
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 118 138	Iohannes Hagenbergh:
+Hagenberg:
+T8	ProperName 1060 1073;1074 1084	Frans Hendrik Hagenberg:
+T9	Place 1095 1106	in 's: hage
+T10	ProperName 1098 1106	's: hage
+T12	ProperName 1430 1444	Agatha Amberg:
+T13	Person 1866 1881	Willem Iacobsz:
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 1866 1881	Willem Iacobsz:
+T3	Person 80 111;112 117	Jnffr: Anna, Margareta Pijffers wed=e
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T7	Person 1055 1073;1074 1084	heer Frans Hendrik Hagenberg:
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T11	Person 1421 1429;1430 1444	Juffrouw Agatha Amberg:
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary

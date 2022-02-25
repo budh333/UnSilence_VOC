@@ -1,0 +1,58 @@
+T1	Person 0 21	Jurgen Paulus Jkerman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 21	Jurgen Paulus Jkerman
+T3	Person 72 100	M=r Jan van der voortnotaris
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 76 93	Jan van der voort
+T5	Organization 114 154;155 160	de Edele hooge reegeringe van nederlands India
+T6	Place 144 154;155 160	nederlands India
+T7	ProperName 144 154;155 160	nederlands India
+T8	Place 174 196	binnen de stad batavia
+T9	ProperName 189 196	batavia
+T10	Person 251 268	Jan Jurgen de Wit
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 251 268	Jan Jurgen de Wit
+T12	Person 302 323	Carel Gustarus Wikman
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 302 323	Carel Gustarus Wikman
+T14	Person 337 343	Witman
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 337 343	Witman
+T16	Person 458 492	Abraham van Dinter notaris publicq
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Notary
+T17	ProperName 458 476	Abraham van Dinter
+T18	Organization 497 525	den Edelen hoore van holland
+T19	Place 518 525	holland
+T20	ProperName 518 525	holland
+T21	Organization 538 552;553 583	de Edele hooge legeringe van Nederlands Jndia
+T22	ProperName 567 583	Nederlands Jndia
+T23	Place 567 583	Nederlands Jndia
+T24	Place 598 611;612 619	binne de stad Batavia
+T25	ProperName 612 619	Batavia
+T26	Person 659 668;669 690	Getuijgen Carel Gustarus wikman
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Testator
+T28	Place 692 704	van Stokkolm
+T29	ProperName 696 704	Stokkolm
+T30	Organization 712 721	Compagnie
+T31	Person 735 761	Carel Gusta Witman soldaat
+A22	Gender T31 Man
+A23	LegalStatus T31 Unspecified
+A24	Role T31 Testator
+T32	ProperName 735 752	Carel Gusta Witma
+T33	Organization 777 789	E CCompagnie
+T34	Organization 852 860	den Comp
+T27	ProperName 669 690	Carel Gustarus wikman

@@ -1,0 +1,10 @@
+T1	Person 11 23	El: Claavsen
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 11 23	El: Claavsen
+T3	Person 38 53	Dirk Hendricksz
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 38 53	Dirk Hendricksz

@@ -1,0 +1,39 @@
+T1	Person 16 28	lijffeigenen
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+T2	Person 1044 1045;1046 1047;1048 1070	I „ manus Abraham Simonsz:
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+T3	ProperName 1044 1045;1046 1047;1048 1069	I „ manus Abraham Simonsz
+T4	Person 1074 1088;1089 1098	Pieter Pattij, Clercquen
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+T5	ProperName 1074 1087	Pieter Pattij
+T6	Person 1250 1277;1278 1292	Nicolaas van Bergen van der Grijp: notaris
+A10	Gender T6 Man
+A11	LegalStatus T6 Unspecified
+T7	ProperName 1250 1277;1278 1283	Nicolaas van Bergen van der Grijp
+T8	Place 1434 1437;1438 1443	Ba„ tavia
+T9	ProperName 1434 1437;1438 1443	Ba„ tavia
+T10	Person 1478 1480;1481 1487;1488 1498	W: Kraane secretaris
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+T11	ProperName 1478 1480;1481 1487	W: Kraane
+T12	Person 1499 1507;1508 1515;1516 1522	Nicolaas Adtolph Pothot
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+T13	ProperName 1499 1507;1508 1515;1516 1522	Nicolaas Adtolph Pothot
+T14	Person 1580 1610;1611 1626	M: Johannes Nicolaas Bestbier„ Notaris publicq
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+T15	ProperName 1580 1609	M: Johannes Nicolaas Bestbier
+T16	Organization 1631 1672;1673 1679	de Edele hooge regeering van na der lands Paptia
+T17	Place 1660 1672;1673 1679	na der lands Paptia
+A3	Role T1 Other
+A6	Role T2 Witness
+A9	Role T4 Witness
+A12	Role T6 Notary
+A15	Role T10 Other
+A18	Role T12 Testator
+A21	Role T14 Notary
+A22	Beneficiary T16 No

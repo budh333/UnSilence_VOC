@@ -1,0 +1,106 @@
+T1	DuplicatePage 0 8	Henderik
+T2	Person 84 101;102 104;105 119	Andries Ian Balle en notaris publ:,
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Notary
+T3	ProperName 84 101	Andries Ian Balle
+T4	Organization 134 151	hoove van holland
+T5	ProperName 134 151	hoove van holland
+T6	ProperName 144 151	holland
+T7	Place 144 151	holland
+T8	Organization 155 163;164 201	de Edele hooge regeeringe van Nederlands India
+T9	ProperName 155 163;164 201	de Edele hooge regeeringe van Nederlands India
+T10	ProperName 185 201	Nederlands India
+T11	Place 185 201	Nederlands India
+T12	Place 222 236	destad Batavia
+T13	ProperName 229 236	Batavia
+T14	Person 312 316;317 331	Heer Hendrik Mulder
+A4	Gender T14 Man
+A5	LegalStatus T14 Unspecified
+A6	Role T14 Testator
+T15	Organization 368 377	E: Comp:e
+T16	ProperName 368 377	E: Comp:e
+T17	ProperName 317 331	Hendrik Mulder
+T18	Person 0 15	Henderik Mulder
+A7	Gender T18 Man
+A8	LegalStatus T18 Unspecified
+A9	Role T18 Testator
+T19	ProperName 0 15	Henderik Mulder
+T20	Place 431 443	kruijt huijs
+T21	Person 381 400	Mejufrouw Anna Kemp
+A10	Gender T21 Woman
+A11	LegalStatus T21 Unspecified
+A12	Role T21 Testator
+T22	ProperName 391 400	Anna Kemp
+T23	Organization 815 845	Nederlands Comptoire Suracasta
+T24	ProperName 815 845	Nederlands Comptoire Suracasta
+#1	AnnotatorNotes T24	Surakarta
+T25	Person 933 960	F: van Boekholt Gesw: Kriba
+A13	Gender T25 Unspecified
+A14	LegalStatus T25 Unspecified
+A15	Role T25 Acting_Notary
+T26	ProperName 933 948	F: van Boekholt
+T27	ProperName 874 888	A: J: C: Meyer
+T28	Person 874 888	A: J: C: Meyer
+A16	Gender T28 Unspecified
+A17	LegalStatus T28 Unspecified
+A18	Role T28 Other
+T29	ProperName 1003 1018	A: P: Michaalis
+T30	ProperName 1022 1037	J: Van der Leij
+T31	Person 1003 1018	A: P: Michaalis
+A19	Gender T31 Unspecified
+A20	LegalStatus T31 Unspecified
+A21	Role T31 Witness
+T32	Person 1022 1037	J: Van der Leij
+A22	Gender T32 Unspecified
+A23	LegalStatus T32 Unspecified
+A24	Role T32 Witness
+T33	Place 1155 1169	stede samarang
+T34	ProperName 1161 1169	samarang
+T35	ProperName 1186 1195	Samaraorg
+T36	Place 1186 1195	Samaraorg
+#2	AnnotatorNotes T36	Samarang
+T37	Organization 1121 1150;1178 1185	Raade van Justitie ten Gouver nemente
+T38	ProperName 1229 1233	Poll
+T39	Person 1229 1233	Poll
+A25	Gender T39 Unspecified
+A26	LegalStatus T39 Unspecified
+A27	Role T39 Other
+T40	Place 1331 1336;1337 1343	Soura „caota
+#3	AnnotatorNotes T40	Surakarta
+T41	ProperName 1331 1336;1337 1343	Soura „caota
+T42	Place 1424 1433	Comptoire
+T43	ProperName 1387 1397;1398 1411	August Jan Casper Meijer
+T44	Person 1387 1397;1398 1411	August Jan Casper Meijer
+A28	Gender T44 Unspecified
+A29	LegalStatus T44 Unspecified
+A30	Role T44 Other
+T45	Person 1461 1473	GJon: Scriba
+A31	Gender T45 Unspecified
+A32	LegalStatus T45 Unspecified
+A33	Role T45 Other
+T46	ProperName 1461 1466	GJon:
+T47	ProperName 1483 1504	Francois van Boekholt
+T48	Person 1483 1504	Francois van Boekholt
+A34	Gender T48 Unspecified
+A35	LegalStatus T48 Unspecified
+A36	Role T48 Other
+T49	Organization 1628 1637	s' Comp„s
+T50	ProperName 1628 1637	s' Comp„s
+T51	Person 1887 1908	G: Poll: Gesw: Clercq
+A37	Gender T51 Unspecified
+A38	LegalStatus T51 Unspecified
+A39	Role T51 Other
+T52	ProperName 1887 1895	G: Poll:
+T53	ProperName 1921 1928	A Meurs
+T54	Person 1921 1928	A Meurs
+A40	Gender T54 Unspecified
+A41	LegalStatus T54 Unspecified
+A42	Role T54 Other
+T55	ProperName 1121 1150;1178 1185	Raade van Justitie ten Gouver nemente
+A43	Beneficiary T4 No
+A44	Beneficiary T8 No
+A45	Beneficiary T15 No
+A46	Beneficiary T23 No
+A47	Beneficiary T37 No
+A48	Beneficiary T49 No

@@ -1,0 +1,40 @@
+T1	DuplicatePage 0 4	Vier
+T2	Person 154 166;167 213	g’adopteerde kleijn Dogter genaamt Albertina ficilia Staeds
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 189 213	Albertina ficilia Staeds
+T4	Place 229 287;288 320	met adapt gedekte wooning staende, ende geleegen besuijden ’t fortres, zijnde Een hoekhuijs
+T5	Person 629 668	zoon, in naame Pieter Christiaan Staets
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 644 668	Pieter Christiaan Staets
+T7	Person 795 799	slas
+A7	Gender T7 Group
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+#1	AnnotatorNotes T7	slaven
+T8	Person 803 812	slavinnen
+A10	Gender T8 Group
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	Person 1283 1289;1290 1319	Dogter „naemt Maria Dorothea Staets,
+A13	Gender T9 Woman
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 1297 1318	Maria Dorothea Staets
+T11	ProperName 1398 1415	Samuel De Koninck
+T12	Person 1398 1415	Samuel De Koninck
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	Person 1516 1530	Andries Pardil
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 1516 1530	Andries Pardil
+T15	Place 1690 1708	ter steede Batavia
+T16	ProperName 1701 1708	Batavia
+T17	Organization 1643 1668;1669 1689	’t herwaarde Collegie van heeren weesmeesteren
+A22	Beneficiary T17 No

@@ -1,0 +1,35 @@
+T1	Person 1 19	Johannes Schreuder
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 1 19	Johannes Schreuder
+T4	ProperName 73 85	JaCab Levier
+T5	Organization 101 109;110 144	d. Edek= hoogeregeringe van nedertons india
+T6	Place 129 144	nedertons india
+T7	ProperName 129 144	nedertons india
+T8	Place 158 167;168 180	binnen de stad batavia
+T9	ProperName 173 180	batavia
+T11	ProperName 228 245	Johonnes scherken
+T12	Organization 260 269	’s Comp:s
+T13	Organization 313 321	’s Comp:
+T15	ProperName 953 971	Philip Reijnbergen
+T16	Person 1228 1235;1236 1248	philip„ „Steinbergen
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Beneficiary
+T17	ProperName 1228 1235;1236 1248	philip„ „Steinbergen
+T3	Person 73 96	JaCab Levier nats pund:
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T10	Person 228 245	Johonnes scherken
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T14	Person 953 971	Philip Reijnbergen
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Beneficiary
+A16	Beneficiary T5 No
+A17	Beneficiary T12 No
+A18	Beneficiary T13 No

@@ -1,0 +1,35 @@
+T1	Person 5 19	Samnel Carelsz
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 5 19	Samnel Carelsz
+T3	Person 98 102;103 136	Joan hendrik Brand Eerste getw: Clencq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 98 102;103 116	Joan hendrik Brand
+T5	Person 216 245	Mons=r Sammel Carelsz: burger
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 223 237	Sammel Carelsz
+T7	Person 280 312	huysvrouw Elisabeth van Macassar
+A10	Gender T7 Woman
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T8	ProperName 290 312	Elisabeth van Macassar
+T9	Person 697 701	Godt
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 697 701	Godt
+T11	Person 1598 1604	slaven
+A16	Gender T11 Group
+A17	LegalStatus T11 Enslaved
+A18	Role T11 Other
+T12	Person 1608 1616	slavimen
+A19	Gender T12 Group
+A20	LegalStatus T12 Enslaved
+A21	Role T12 Other
+T13	ProperName 1598 1604	slaven
+T14	ProperName 1608 1616	slavimen

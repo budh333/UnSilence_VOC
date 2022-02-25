@@ -1,0 +1,10 @@
+T1	TranscriptionError_Document 3 8	14573
+T3	ProperName 224 239	Iacobus Clacijs
+T4	Person 224 240	Iacobus Clacijs,
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 406 413	Batavia
+T6	Place 406 413	Batavia
+T7	DuplicatePage 337 341	Amen
+T2	Organization 201 223	E: Comp: den manhaften

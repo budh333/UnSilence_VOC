@@ -1,0 +1,19 @@
+T1	DuplicatePage 0 3	N:o
+T2	TranscriptionError_Document 4 8	1788
+T3	Organization 67 80	’s Compagnies
+T4	ProperName 67 80	’s Compagnies
+T5	Person 88 111	Jchaan wilhelm van Halt
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	ProperName 88 111	Jchaan wilhelm van Halt
+T7	Person 873 887	t: Je: Plusker
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 873 887	t: Je: Plusker
+T9	Person 899 911	P„r Ceijsler
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 899 911	P„r Ceijsler

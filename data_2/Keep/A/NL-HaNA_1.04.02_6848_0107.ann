@@ -1,0 +1,18 @@
+T1	Person 6 47;48 54	moeder Juffvruud Johanna Gabrieds laatste weduwe
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+T2	ProperName 23 39	Johanna Gabrieds
+T3	Person 62 104;105 131	E: Pieter Overzeijde /in leeven boekhouder in dienst der E: Compagnie
+A3	Gender T3 Man
+A4	LegalStatus T3 Unspecified
+T4	ProperName 65 82	Pieter Overzeijde
+T5	Person 275 308	Legatripe Johanna Ruusanna Radder
+A5	Gender T5 Woman
+A6	LegalStatus T5 Unspecified
+T6	ProperName 285 308	Johanna Ruusanna Radder
+T7	Organization 115 131	der E: Compagnie
+T8	ProperName 115 131	der E: Compagnie
+T9	Organization 471 494	de Heeren Weesmeesteren
+T10	Place 495 508	deezer steede
+T11	Organization 1350 1383	Collegie van heeren Weesmeesteren
+T12	Place 1486 1495	sterfhuis

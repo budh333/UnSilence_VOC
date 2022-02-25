@@ -1,0 +1,20 @@
+T1	DuplicatePage 1984 1988	Amen
+T2	Place 2054 2061	Batavia
+T3	ProperName 2054 2061	Batavia
+T4	ProperName 177 185	Maternel
+T5	Organization 387 414	gereformeerde diaconijarmen
+T6	Place 418 436	’t dorp watterland
+T7	ProperName 426 436	watterland
+T8	Organization 487 508	gereformeerde religie
+T9	Person 838 848;849 856	heer Simon Josephe
+A1	Gender T9 Man
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Beneficiary
+T10	ProperName 843 848;849 856	Simon Josephe
+T11	Organization 868 877	burgerije
+T12	Organization 1257 1277	heeren weesmeesteren
+T13	ProperName 1257 1277	heeren weesmeesteren
+T14	Organization 1565 1611;1612 1625	heeren bewindhebberen den geoctroij Eerde oost indische comp
+T15	ProperName 1607 1611;1612 1625	oost indische comp
+T16	ProperName 1637 1646	Rotterdam
+T17	Place 1637 1646	Rotterdam

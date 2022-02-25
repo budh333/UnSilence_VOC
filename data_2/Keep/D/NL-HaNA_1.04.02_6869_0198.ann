@@ -1,0 +1,35 @@
+T1	Place 289 293	stad
+T3	ProperName 557 578	Johannes van der Hiel
+T4	Person 582 591;592 597	CornelisD burgh
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 582 591;592 596	CornelisD burg
+T6	Person 628 633;634 653	Heere lem Meth: I:acobsz.
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 634 652	lem Meth: I:acobsz
+T8	Place 685 692	Batavia
+T9	ProperName 685 692	Batavia
+T10	Place 822 835	d’ oostindien
+T11	ProperName 822 835	d’ oostindien
+T12	Organization 866 887;888 892	oostindische Maar sch pije
+T13	Organization 1171 1180	Compagnie
+T14	Person 1257 1267	Iacob Beth
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 1257 1267	Iacob Beth
+T16	Organization 1690 1699	Commissie
+T17	Organization 217 228	Rechtbanken
+T2	Person 557 578	Johannes van der Hiel
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T18	ProperName 866 887;888 892	oostindische Maar sch pije
+T19	ProperName 1171 1180	Compagnie
+A13	Beneficiary T17 No
+A14	Beneficiary T12 No
+A15	Beneficiary T13 No
+A16	Beneficiary T16 No

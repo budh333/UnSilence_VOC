@@ -1,0 +1,54 @@
+T1	TranscriptionError_Document 0 2	re
+T2	ProperName 109 122	Daniel Loisel
+T3	ProperName 87 93	Daniel
+T4	Place 150 161	op ’t schip
+T5	Organization 168 184	dost Jndise Comp
+T6	ProperName 168 184	dost Jndise Comp
+T7	Place 224 238	schip kerkwijk
+T8	ProperName 230 238	kerkwijk
+T9	ProperName 251 265	pieter Lamense
+T10	Person 251 265	pieter Lamense
+A1	Gender T10 Man
+A2	LegalStatus T10 Unspecified
+A3	Role T10 Other
+T11	Person 109 122	Daniel Loisel
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Other
+T12	ProperName 405 423	Johan van Vissliet
+T13	Person 405 423	Johan van Vissliet
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Notary
+T14	Organization 460 482	Eeelen hove van hollan
+T15	ProperName 476 482	hollan
+T16	Organization 505 544;545 550	Edelen hooge regeringe van nederlands — Jndia
+T17	Place 532 544;545 550	nederlands — Jndia
+T18	ProperName 532 544;545 550	nederlands — Jndia
+T19	Place 571 586	de stad batavia
+T20	ProperName 579 586	batavia
+T21	Person 651 671	D'E: Rogier de laver
+A10	Gender T21 Man
+A11	LegalStatus T21 Unspecified
+A12	Role T21 Witness
+T22	ProperName 656 671	Rogier de laver
+T23	Organization 727 732	sComp
+T24	ProperName 757 762	Iapan
+T25	Place 757 762	Iapan
+T26	Organization 926 931	EComp
+T27	ProperName 934 953	Abraham van Deijnse
+T28	Person 934 953	Abraham van Deijnse
+A13	Gender T28 Man
+A14	LegalStatus T28 Unspecified
+A15	Role T28 Other
+T29	Person 1282 1289	D E Ian
+A16	Gender T29 Man
+A17	LegalStatus T29 Unspecified
+A18	Role T29 Other
+T30	Person 1306 1314	van Niel
+A19	Gender T30 Man
+A20	LegalStatus T30 Unspecified
+A21	Role T30 Other
+T31	ProperName 1286 1289	Ian
+T32	ProperName 1306 1314	van Niel
+T33	Place 1336 1343	Casteel

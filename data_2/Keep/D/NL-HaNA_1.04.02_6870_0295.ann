@@ -1,0 +1,36 @@
+T1	DuplicatePage 0 9	Testament
+T2	Person 245 265	Cornelis Schrevelius
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 245 265	Cornelis Schrevelius
+T4	Organization 287 315	Politie deeses Gouvernements
+A4	Beneficiary T4 No
+T5	Organization 377 385	E: Comp:
+A5	Beneficiary T5 No
+T6	Place 459 479;480 489	binnen deezer steede fortresse
+T7	ProperName 411 429	Clara Maria Pappon
+T8	Person 411 429	Clara Maria Pappon
+A6	Gender T8 Woman
+A7	LegalStatus T8 Unspecified
+A8	Role T8 Testator_Beneficiary
+T9	Person 393 400;401 406	Iacobus Geluk
+A9	Gender T9 Man
+A10	LegalStatus T9 Unspecified
+A11	Role T9 Testator_Beneficiary
+T10	ProperName 393 400;401 406	Iacobus Geluk
+T11	ProperName 377 385	E: Comp:
+T12	Person 18 29	Jacob Geluk
+A12	Gender T12 Man
+A13	LegalStatus T12 Unspecified
+A14	Role T12 Testator_Beneficiary
+T13	ProperName 50 60	Middelburg
+T14	Place 50 60	Middelburg
+T15	Organization 99 101;102 111	E: Compagnie
+A15	Beneficiary T15 No
+T16	ProperName 99 101;102 111	E: Compagnie
+T17	Person 14 16;35 45	Ia „cob Geluk
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Testator_Beneficiary
+T18	ProperName 14 16;36 45	Ia cob Geluk

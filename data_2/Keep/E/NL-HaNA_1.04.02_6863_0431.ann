@@ -1,0 +1,74 @@
+T1	ProperName 0 14	Cornelis Lurkn
+T2	Person 0 14	Cornelis Lurkn
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 97 119	Johannes Matthias Ross
+T4	Person 97 119	Johannes Matthias Ross
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	Person 207 231	De heeren Pieter Bruuijs
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	ProperName 217 231	Pieter Bruuijs
+T7	ProperName 254 267	Jan Gantvoort
+T8	Person 254 267	Jan Gantvoort
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Witness
+T9	ProperName 458 473	Cornelis Lurkus
+T10	Person 458 473	Cornelis Lurkus
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Testator
+T11	ProperName 593 599	Lurkus
+T12	Person 593 599	Lurkus
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Testator
+T13	ProperName 693 699	Surkus
+T14	Person 693 699	Surkus
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Testator
+T15	ProperName 893 915	Iohannes Matthias Ross
+T16	Person 893 915	Iohannes Matthias Ross
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Acting_Notary
+T17	ProperName 1011 1026	Cornelis Lurkus
+T18	Person 1011 1026	Cornelis Lurkus
+A25	Gender T18 Man
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Testator
+T19	Organization 1852 1869;1870 1876	Comptoire Cassem„ bazaar
+T20	ProperName 1862 1869;1870 1876	Cassem„ bazaar
+T21	Organization 949 958	Comptoire
+T22	Organization 160 169	Comptoire
+T23	ProperName 1930 1950	Nicolaas Daniel Leij
+T24	Person 1930 1950	Nicolaas Daniel Leij
+A28	Gender T24 Unspecified
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Witness
+T25	Person 1954 1968	Johan Godfried
+A31	Gender T25 Man
+A32	LegalStatus T25 Unspecified
+A33	Role T25 Witness
+T26	ProperName 1954 1968	Johan Godfried
+T27	Person 2035 2042	M: Ross
+A34	Gender T27 Man
+A35	LegalStatus T27 Unspecified
+A36	Role T27 Acting_Notary
+T28	ProperName 2038 2042	Ross
+T29	Person 2068 2079	N: D: Leije
+A37	Gender T29 Unspecified
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Other
+T30	ProperName 2074 2079	Leije
+T31	Person 2080 2093	S: G: Hopmans
+A40	Gender T31 Unspecified
+A41	LegalStatus T31 Unspecified
+A42	Role T31 Other
+T32	ProperName 2086 2093	Hopmans

@@ -1,0 +1,21 @@
+T1	DuplicatePage 0 1	1
+T2	Person 154 172	Pieter van Beuning
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 154 172	Pieter van Beuning
+T4	Place 192 205	gouvernements
+T5	Place 334 348	Een woonhuijse
+T6	Person 372 382	Tijs Dirkx
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 372 382	Tijs Dirkx
+T8	Place 387 403;404 437	wester broek ge„ „legen buijten de stad groeningen
+T9	ProperName 427 437	groeningen
+T10	Place 427 437	groeningen
+T11	Place 387 399	wester broek
+T12	ProperName 387 399	wester broek
+T13	ProperName 454 460	Comp:s
+T14	Organization 454 460	Comp:s
+A7	Beneficiary T14 No

@@ -1,0 +1,31 @@
+T1	DuplicatePage 1562 1566	1775
+T2	TranscriptionError_Document 1 2	3
+T3	ProperName 111 125	David Reguleth
+T4	Person 111 125	David Reguleth
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T5	DuplicatePage 3 8	Copia
+T6	Organization 151 184	regeringe van ’t nederlands Jndia
+T7	ProperName 168 184	nederlands Jndia
+T8	Place 168 184	nederlands Jndia
+T9	Place 217 232	derstad batavia
+T10	ProperName 225 232	batavia
+T11	ProperName 289 298	Ian Plack
+T12	Person 289 298	Ian Plack
+A4	Gender T12 Man
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Testator
+T13	ProperName 303 312	amsterdam
+T14	Place 303 312	amsterdam
+T15	Organization 340 345	EComp
+T17	Person 1226 1241;1242 1245	Ian. Jansen van Ed:
+A7	Gender T17 Man
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Beneficiary
+T16	ProperName 1226 1241;1242 1245	Ian. Jansen van Ed:
+T18	Person 1249 1272	Jan gerritsz, de graafs
+A13	Gender T18 Man
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Beneficiary
+T19	ProperName 1249 1272	Jan gerritsz, de graafs

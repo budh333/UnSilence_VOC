@@ -1,0 +1,23 @@
+T2	Place 400 407	Custein
+T3	ProperName 400 407	Custein
+T4	Person 333 365;366 384	moeder Iw=n Maria Iuditha Reinel Wed:e Freiedweiler
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+T5	ProperName 345 365	Maria Iuditha Reinel
+T7	Person 607 632;633 652	moeder Alexandrina Iacobs Vrin Christen Vrouw
+A10	Gender T7 Woman
+A11	LegalStatus T7 Freed
+T8	ProperName 614 632	Alexandrina Iacobs
+T11	Organization 1457 1487	Eerw: Collagie van huren wasen
+T12	Organization 1660 1667	dE Comp
+T13	Place 1840 1849	Amsterdam
+T14	ProperName 1840 1849	Amsterdam
+T15	Organization 1810 1829	oost indesche Comp:
+T16	ProperName 1810 1829	oost indesche Comp:
+A1	Role T4 Beneficiary
+A2	Role T7 Beneficiary
+T1	ProperName 1455 1487	T Eerw: Collagie van huren wasen
+T6	ProperName 1660 1667	dE Comp
+A3	Beneficiary T15 No
+A6	Beneficiary T12 No
+A7	Beneficiary T11 No

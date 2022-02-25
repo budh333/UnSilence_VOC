@@ -1,0 +1,68 @@
+T1	Person 0 9	Jan Muier
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 9	Jan Muier
+T3	Person 169 184;185 207	Fredrik Brouwer gezworen eerste Clercq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 169 184	Fredrik Brouwer
+T6	Organization 209 234	den Bengaaese secretarije
+T5	Person 279 291;292 312	Eerzamen Jan Muur baas wapenkamer
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T7	ProperName 288 291;292 296	Jan Muur
+T8	Place 313 332	ten dezen Comptoire
+T9	Organization 323 332	Comptoire
+T10	Person 1121 1133;1134 1163	vrijd portu„ geese vrouwe Manie de Rosaire
+A10	Gender T10 Woman
+A11	LegalStatus T10 Freed
+A12	Role T10 Beneficiary
+T11	ProperName 1147 1163	Manie de Rosaire
+T12	Place 1165 1180;1181 1189	in sComp=s dorp suntsura
+T13	ProperName 1181 1189	suntsura
+T14	Person 1241 1250	slavinnen
+A13	Gender T14 Group
+A14	LegalStatus T14 Enslaved
+A15	Role T14 Beneficiary
+T15	Person 1259 1269	Margaretha
+A16	Gender T15 Woman
+A17	LegalStatus T15 Enslaved
+A18	Role T15 Beneficiary
+T16	Person 1273 1277	Anna
+A19	Gender T16 Woman
+A20	LegalStatus T16 Enslaved
+A21	Role T16 Beneficiary
+T17	ProperName 1259 1269	Margaretha
+T18	ProperName 1273 1277	Anna
+T19	Organization 1441 1447	EComp:
+T20	ProperName 1441 1446	EComp
+T21	Person 1481 1516	Arnoldus van der horst bierschoijer
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary
+T22	Place 1517 1530	tot amsterdam
+T23	ProperName 1521 1530	amsterdam
+T24	Place 1613 1628	deses Comptoirs
+T25	Organization 1619 1628	Comptoirs
+T26	Person 1630 1632;1633 1643	an gerversman
+A25	Gender T26 Man
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Beneficiary
+T27	ProperName 1629 1632;1633 1643	Jan gerversman
+T28	ProperName 1481 1503	Arnoldus van der horst
+T29	Person 1717 1726	baas smit
+A28	Gender T29 Man
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Beneficiary
+T30	ProperName 1722 1726	smit
+T31	Person 1734 1747	Gerrit Koning
+A31	Gender T31 Unspecified
+A32	LegalStatus T31 Unspecified
+A33	Role T31 Other
+T32	ProperName 1734 1747	Gerrit Koning
+T33	Organization 1815 1826;1827 1846	de diaconij armen tot amsterdam
+T34	Place 1833 1846	tot amsterdam
+T35	ProperName 1837 1846	amsterdam

@@ -1,0 +1,21 @@
+T2	Person 420 432;433 440	Sijmon Thomp Carelsz
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T3	Person 446 468;469 482	Johannes Stevens clend als getuijgen
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 420 432;433 440	Sijmon Thomp Carelsz
+T5	ProperName 446 462	Johannes Stevens
+T6	Person 627 650	JJ„n V„n Visvliet nots:
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Notary
+T7	ProperName 627 644	JJ„n V„n Visvliet
+T8	Person 668 678	A.  Summer
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 668 678	A.  Summer
+T10	Place 379 392	in 'thospitaa

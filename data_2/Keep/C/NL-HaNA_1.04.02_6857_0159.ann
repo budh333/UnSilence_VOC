@@ -1,0 +1,12 @@
+T1	Person 26 49	Henderik van Eyndhooven
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 26 49	Henderik van Eyndhooven
+T4	ProperName 82 105	Hendrik van Eijndhooren
+T5	DuplicatePage 0 1	I
+#1	AnnotatorNotes T5	161
+A3	Role T1 Testator
+T3	Person 82 105	Hendrik van Eijndhooren
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator

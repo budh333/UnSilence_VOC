@@ -1,0 +1,31 @@
+T1	Person 3 21	Jan Fredrik Watter
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 3 22	Jan Fredrik Watter,
+T3	Place 55 63	Samarang
+T4	ProperName 55 63	Samarang
+T5	Person 90 98	G: Roghe
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 90 98	G: Roghe
+T7	Person 133 157	Andries Hartschek Juneor
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 133 157	Andries Hartschek Juneor
+T9	Place 232 257	ten Gouvernemente Samaran
+T10	ProperName 250 257	Samaran
+T11	Person 392 409	Anaries Hartsinck
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 392 409	Anaries Hartsinck
+T13	Organization 492 502	’s EComp„e
+A13	Beneficiary T13 No
+T14	Person 705 719	Willem Cerkman
+A14	Gender T14 Unspecified
+A15	LegalStatus T14 Unspecified
+A16	Role T14 Other
+T15	ProperName 705 719	Willem Cerkman

@@ -1,0 +1,23 @@
+T1	Organization 263 271	E: Comp:
+T2	Organization 344 349;350 356;357 422;423 458	de E: Heegen dees groot agtbaeren, bewinthebberen der geoctroijeerde Oostindis „sche Compagnie ter Kamer Amsterdam
+T3	Place 449 458	Amsterdam
+T4	ProperName 449 458	Amsterdam
+T5	Organization 1116 1125	’s comp:s
+T6	Person 1154 1169	Nicolaas Adamsn
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	ProperName 1154 1169	Nicolaas Adamsn
+T8	Person 1173 1208	Johannes Adrianus Weijts, Clercqoen
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 1173 1197	Johannes Adrianus Weijts
+T10	Person 1370 1380;1381 1398	I: V: Vis„ Vliet. Aots Publ:
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	ProperName 1370 1380;1381 1386	I: V: Vis„ Vliet
+A10	Beneficiary T1 No
+A11	Beneficiary T2 No
+A12	Beneficiary T5 No

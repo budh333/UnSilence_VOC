@@ -1,0 +1,38 @@
+T1	ProperName 134 153	Nieuwe Nagapatnamse
+T2	Organization 183 226	Koninglijke deense Mission te Trancquebaard
+T3	ProperName 213 226	Trancquebaard
+T4	ProperName 262 282	Nieuwe pagappatnamse
+T5	Person 323 342	Knegt Davio Davidsz
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Beneficiary
+T6	ProperName 329 343	Davio Davidsz:
+T7	ProperName 369 388	Nieuwe Nagapatnamse
+T8	ProperName 1191 1205	Pieter Jacobus
+T9	Person 1191 1205	Pieter Jacobus
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Beneficiary
+T10	ProperName 1207 1226	Josewijn Christiaan
+T11	Person 1207 1226	Josewijn Christiaan
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Beneficiary
+T12	ProperName 1231 1244	Anna Cleonora
+T13	Person 1231 1245	Anna Cleonora,
+A10	Gender T13 Woman
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Beneficiary
+T14	Person 1428 1434	slaven
+A13	Gender T14 Group
+A14	LegalStatus T14 Enslaved
+A15	Role T14 Other
+T15	Person 1439 1448	slavinnen
+A16	Gender T15 Group
+A17	LegalStatus T15 Enslaved
+A18	Role T15 Other
+T16	Person 1940 1953	Anna Eleonora
+A19	Gender T16 Woman
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Beneficiary
+T17	ProperName 1940 1953	Anna Eleonora

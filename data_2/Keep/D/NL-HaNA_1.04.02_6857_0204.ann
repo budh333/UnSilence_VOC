@@ -1,0 +1,31 @@
+T1	Place 63 76	destad Cochim
+T2	ProperName 70 76	Cochim
+T3	Person 179 205	Johannes Coenraad dekrouse
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 179 205	Johannes Coenraad dekrouse
+T5	ProperName 210 224	Johannes Wolff
+T6	Person 210 224	Johannes Wolff
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Organization 400 413;414 419	oost Indische Comp:
+T8	ProperName 400 413;414 419	oost Indische Comp:
+T9	Place 430 439	Amsterdam
+T10	ProperName 430 439	Amsterdam
+T12	ProperName 603 606;607 617	Ian van Leijst
+T14	ProperName 631 646	Fredrik Bannier
+T15	Place 703 712	Comptoire
+T16	Place 1124 1134	sterfhuijs
+T17	Place 82 92	woonhuijse
+T18	DuplicatePage 0 5	hoven
+T11	Person 631 646	Fredrik Bannier
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T13	Person 603 606;607 617	Ian van Leijst
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Notary
+A13	Beneficiary T7 No

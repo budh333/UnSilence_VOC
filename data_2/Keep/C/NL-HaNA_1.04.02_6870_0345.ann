@@ -1,0 +1,31 @@
+T1	Place 138 145;146 150	Maccas„ „ser
+T2	ProperName 138 145;146 150	Maccas„ „ser
+T3	Place 209 222	Campong Baroe
+T4	ProperName 209 222	Campong Baroe
+T5	Person 372 382	S: Rudolph
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Acting_Notary
+T6	ProperName 372 382	S: Rudolph
+T7	Person 438 448	C: Pielaat
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 438 448	C: Pielaat
+T9	Person 452 464	B Ravensberg
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 452 464	B Ravensberg
+T11	Place 649 658	Maccasser
+T12	ProperName 649 658	Maccasser
+T13	Person 701 715	J:n G„s Budach
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 701 715	J:n G„s Budach
+T15	Person 735 742	V Sumab
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 735 742	V Sumab

@@ -1,0 +1,23 @@
+T1	Person 58 89	Petrus Dabbelaar, notaris publ:
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 58 74	Petrus Dabbelaar
+T3	Organization 94 140	de Edele hooge regeringe van neederlands Jndia
+A4	Beneficiary T3 No
+T4	Place 123 140	neederlands Jndia
+T5	ProperName 123 140	neederlands Jndia
+T6	Place 156 178	binnen de stad batavia
+T7	ProperName 171 178	batavia
+T8	Person 242 265	Ioost Groening Schieman
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 242 256	Ioost Groening
+T10	Organization 277 288	der E Comp:
+A8	Beneficiary T10 No
+T11	Person 380 396	Mons Jan Geudeke
+A9	Gender T11 Man
+A10	LegalStatus T11 Unspecified
+A11	Role T11 Other
+T12	ProperName 385 396	Jan Geudeke

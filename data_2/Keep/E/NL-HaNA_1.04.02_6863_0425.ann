@@ -1,0 +1,37 @@
+T1	ProperName 8 28	Carel Godsned Lieseh
+T2	Person 8 28	Carel Godsned Lieseh
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 82 96	fredrik Wieman
+T4	Person 82 96	fredrik Wieman
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	Organization 118 139	Bengalsche secretarij
+T6	ProperName 305 328	Carel Godsieed Liesekij
+T7	Person 305 328	Carel Godsieed Liesekij
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Person 764 778	Adolpff Lisman
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Beneficiary
+T9	ProperName 753 763;764 778	Christiaan Adolpff Lisman
+T10	Person 845 871	huijshoudster Anna Rosairo
+A13	Gender T10 Woman
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Beneficiary
+T11	Person 753 763	Christiaan
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 859 871	Anna Rosairo
+T13	Person 1107 1139	Pader Johan Panholomeus Ziesehij
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Testator_Beneficiary
+T14	ProperName 1113 1139	Johan Panholomeus Ziesehij
+T15	Place 1203 1209	Poolen
+T16	ProperName 1203 1209	Poolen

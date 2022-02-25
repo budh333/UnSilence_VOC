@@ -1,0 +1,33 @@
+T1	Person 16 36	Diederik Kloppenburg
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 16 36	Diederik Kloppenburg
+T3	TranscriptionError_Document 0 3	d=o
+T4	DuplicatePage 16 24	Diederik
+T5	ProperName 60 75	Jurge Adam Kumt
+T6	Person 60 75	Jurge Adam Kumt
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	DuplicatePage 60 65	Jurge
+T8	ProperName 135 150	Henderik Koning
+T9	Person 135 150	Henderik Koning
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 231 250	Crhristiaan Ianssen
+T11	Person 231 250	Crhristiaan Ianssen
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 379 393	hendrik Koning
+T13	Person 379 393	hendrik Koning
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator
+T14	Person 1250 1281	huijshoudster Elibabeth Tesilva
+A16	Gender T14 Woman
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Beneficiary
+T15	ProperName 1264 1281	Elibabeth Tesilva

@@ -1,0 +1,25 @@
+T1	Person 96 102;103 110	Lijff. eigenen
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 313 332	Flora van mallabaar
+A4	Gender T2 Woman
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	ProperName 313 332	Flora van mallabaar
+T4	Place 323 332	mallabaar
+T5	Person 510 522	Lijffeijgene
+A7	Gender T5 Group
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T7	ProperName 899 924	Chatstarna Maria Neffens:
+T8	Noteworthy 869 881;882 889	bij den ande verwekt
+#1	AnnotatorNotes T8	kind buiten huwelijk
+T6	Person 899 924	Chatstarna Maria Neffens:
+A10	Gender T6 Woman
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Beneficiary
+T9	Person 295 303	slavinne
+A13	Gender T9 Woman
+A14	LegalStatus T9 Enslaved
+A15	Role T9 Other

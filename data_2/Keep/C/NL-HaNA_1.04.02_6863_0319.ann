@@ -1,0 +1,20 @@
+T1	Person 617 650	vrije vrouw Magdalena de Rozaijro
+A1	Gender T1 Woman
+A2	LegalStatus T1 Freed
+A3	Role T1 Beneficiary
+T2	ProperName 629 650	Magdalena de Rozaijro
+T3	Person 993 1017;1018 1036	Dogtertje Anna Cornelius Sophia Kloppenburg
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 1003 1017;1018 1036	Anna Cornelius Sophia Kloppenburg
+T5	Person 1447 1461;1462 1489	dogtertje Anna Cornelia Sophia Kloppenburg
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 1457 1461;1462 1489	Anna Cornelia Sophia Kloppenburg
+T7	Person 1692 1723	Broeder Christoffer kloppenburg
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 1700 1723	Christoffer kloppenburg

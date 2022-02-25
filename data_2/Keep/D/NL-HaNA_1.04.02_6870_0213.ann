@@ -1,0 +1,27 @@
+T1	DuplicatePage 1 5	Jaen
+T2	ProperName 193 209	Jacobus leborgne
+T3	Person 193 209	Jacobus leborgne
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Place 329 342	tenwoonhuijse
+T5	ProperName 367 387	Gerret Jans dorenbos
+T6	Person 367 387	Gerret Jans dorenbos
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	Organization 409 414	EComp
+A7	Beneficiary T7 No
+T8	ProperName 409 414	EComp
+T9	Person 427 450	huijs vrouw Maria ruwel
+A8	Gender T9 Woman
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Testator
+T10	ProperName 439 450	Maria ruwel
+T11	Organization 532 550	Raade van Justitie
+A11	Beneficiary T11 No
+T12	ProperName 681 690	versteegh
+T13	Person 681 690	versteegh
+A12	Gender T13 Unspecified
+A13	LegalStatus T13 Unspecified
+A14	Role T13 Other

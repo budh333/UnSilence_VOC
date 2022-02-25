@@ -1,0 +1,15 @@
+T1	Person 54 69	L Mes:s Crasmus
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 62 69	Crasmus
+T3	ProperName 71 79	Mulderen
+T4	ProperName 80 90	Pieter Sum
+T5	Person 80 90	Pieter Sum
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 71 79	Mulderen
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other

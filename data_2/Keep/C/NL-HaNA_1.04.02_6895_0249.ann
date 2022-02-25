@@ -1,0 +1,36 @@
+T1	TranscriptionError_Document 0 10	mitsgadens
+T2	DuplicatePage 0 10	mitsgadens
+T3	Person 484 499	Bitjo van timor
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Beneficiary
+T4	ProperName 484 499	Bitjo van timor
+T5	Person 836 849	juffrouw Mons
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 845 849	Mons
+T7	Person 965 975	slave Jong
+A7	Gender T7 Man
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	Person 1448 1459	Anna Rigina
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 1448 1459	Anna Rigina
+T10	Person 1460 1464;1465 1474	Anna Christina
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 1460 1464;1465 1474	Anna Christina
+T12	Person 1478 1496	Anna Iustina Funck
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 1478 1496	Anna Iustina Funck
+T14	Place 1531 1540;1541 1552	wilsdruff bij Dresden
+T15	ProperName 1531 1540	wilsdruff
+T16	ProperName 1545 1552	Dresden
+T17	Organization 1764 1776	der E. Comp:
+A19	Beneficiary T17 No

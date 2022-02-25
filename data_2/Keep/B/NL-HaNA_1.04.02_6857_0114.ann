@@ -1,0 +1,27 @@
+T1	Organization 81 113	’t Eerw collegie van Weesmeester
+T2	ProperName 89 113	collegie van Weesmeester
+T3	Place 683 724;725 735	ten woonhuis vanden testateur staenden op Pangeampon
+T4	ProperName 725 735	Pangeampon
+T5	Person 817 832	Alleranden Boes
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 868 887	Marinus van Leeuwen
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 868 887	Marinus van Leeuwen
+T8	Person 935 952	I=s I=s Groenenbe
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	Person 956 973	J=l J=n De Souwza
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	Place 1078 1089	Cheribonden
+T11	ProperName 1078 1089	Cheribonden
+T12	Person 1119 1132;1133 1141	P:r Stonkeers g Mribas
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Notary

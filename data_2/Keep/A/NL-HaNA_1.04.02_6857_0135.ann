@@ -1,0 +1,22 @@
+T1	Person 44 53;54 73	Kok Johan Johan Capper Ceuher
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 48 53;54 72	Johan Johan Capper Ceuhe
+T3	Person 74 87	Casper Ceuler
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 74 87	Casper Ceuler
+T5	Place 934 962	in ’t schip Willem de Vijfde
+T6	ProperName 946 962	Willem de Vijfde
+T7	Person 1011 1025	J: H: Rijnnagh
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 1011 1025	J: H: Rijnnagh
+T9	Person 1029 1039	WBimmingou
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 1029 1039	WBimmingou

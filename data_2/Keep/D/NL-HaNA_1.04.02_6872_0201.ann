@@ -1,0 +1,15 @@
+T1	Person 46 78	soon Gen=t Jan Fredrik Schrender
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 57 78	Jan Fredrik Schrender
+T3	Person 135 164	huijsvrouw Grisella Sweedmans
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 146 164	Grisella Sweedmans
+T5	Person 328 344;345 354	soon Jan Fredrik schrender
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 333 344;345 354	Jan Fredrik schrender

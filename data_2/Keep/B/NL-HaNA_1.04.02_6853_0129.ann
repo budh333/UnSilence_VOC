@@ -1,0 +1,66 @@
+T1	Person 22 31	Jan Rasel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 22 31	Jan Rasel
+T3	TranscriptionError_Document 0 3	cll
+T4	Person 90 109	Abrahdam van Dinter
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary
+T5	ProperName 90 109	Abrahdam van Dinter
+T6	Organization 133 156	edelen hove van holland
+T7	ProperName 133 156	edelen hove van holland
+T8	Place 149 156	holland
+T9	ProperName 149 156	holland
+T10	Organization 167 210	edele hooge regeeringe van Nederlands Jndia
+T11	ProperName 167 210	edele hooge regeeringe van Nederlands Jndia
+T12	Place 194 210	Nederlands Jndia
+T13	ProperName 194 210	Nederlands Jndia
+T14	Person 221 238	Jan Henderik Pots
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Testator
+T15	ProperName 221 238	Jan Henderik Pots
+T16	Person 294 305;306 311	Joan vander Voorh
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Notary
+T17	ProperName 294 305;306 311	Joan vander Voorh
+T18	Place 328 339;340 352	binnen odde Stad Batavia
+T19	ProperName 345 352	Batavia
+T20	Person 354 370	Jan Hendrik Lots
+A13	Gender T20 Unspecified
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Testator
+T21	Place 375 398	Melle in ’t Posnabrugse
+T22	ProperName 375 398	Melle in ’t Posnabrugse
+T23	Organization 433 440	E: Comp
+T24	Place 462 488;489 498	E: Comp:s Hospitaal binnen Dese Stad
+T25	Organization 462 471	E: Comp:s
+T26	Organization 614 647;648 661	Het Eerwaarde Collegie van Heeren weesmeesteren
+T27	ProperName 618 647;648 661	Eerwaarde Collegie van Heeren weesmeesteren
+T28	Person 777 792	Barend Thijssen
+A16	Gender T28 Unspecified
+A17	LegalStatus T28 Unspecified
+A18	Role T28 Other
+T29	Place 811 838	E: Comp:s Ambagts quaertier
+T30	Organization 811 820	E: Comp:s
+T31	Person 976 991;992 1001	Anna, margareta Ebsmeijer
+A19	Gender T31 Woman
+A20	LegalStatus T31 Unspecified
+A21	Role T31 Beneficiary
+T32	ProperName 976 991;992 1001	Anna, margareta Ebsmeijer
+T33	Person 1014 1029	Jan Jurgen Pots
+A22	Gender T33 Man
+A23	LegalStatus T33 Unspecified
+A24	Role T33 Other
+T34	ProperName 1014 1029	Jan Jurgen Pots
+T35	Place 1042 1047	melle
+T36	Organization 1207 1232;1233 1245	oostjndische maetschappij Te Amsterdam
+T37	Place 1236 1245	Amsterdam
+T38	Person 1375 1391	Jan Iusius Kroon
+A25	Gender T38 Unspecified
+A26	LegalStatus T38 Unspecified
+A27	Role T38 Other
+T39	ProperName 1375 1391	Jan Iusius Kroon

@@ -1,0 +1,47 @@
+T1	Person 69 80;81 89	Jopan Ernst saltsman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 69 80;81 89	Jopan Ernst saltsman
+T3	Person 315 333;334 344	Magdalina Hendriks van Cartas
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 315 333	Magdalina Hendriks
+T5	Place 338 344	Cartas
+T6	ProperName 338 344	Cartas
+T7	Person 435 441	slaven
+A7	Gender T7 Group
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	Person 445 454	slavinnen
+A10	Gender T8 Group
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	Organization 792 812	heeren weesmeesteren
+T10	Person 1048 1067	Johan Ernst Salsman
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 1048 1067	Johan Ernst Salsman
+T12	Person 1141 1159	Magdalena Hendriks
+A16	Gender T12 Woman
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 1141 1159	Magdalena Hendriks
+T14	Organization 1328 1373	Collegie van heeren weesmeesteren te samarang
+A19	Beneficiary T14 Yes
+T15	Place 1365 1373	samarang
+T16	ProperName 1365 1373	samarang
+A20	Beneficiary T9 Yes
+T17	Organization 1561 1568	E Comp:
+T18	Organization 1643 1651;1652 1703	welEdele Achtbaare heeren Bewindhebberen ter kamer Amsterdam
+T19	Place 1694 1703	Amsterdam
+T20	ProperName 1694 1703	Amsterdam
+T21	Place 1745 1761	t schip Tolsduim
+T22	ProperName 1753 1761	Tolsduim
+T23	Organization 1788 1817	Huijs Reijnsburg voor zoedaat
+T24	ProperName 1794 1804	Reijnsburg
+A21	Beneficiary T23 Yes
+T25	Place 1828 1833	Jndia
+T26	ProperName 1828 1833	Jndia

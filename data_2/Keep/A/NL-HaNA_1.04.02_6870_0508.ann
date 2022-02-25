@@ -1,0 +1,86 @@
+T1	Person 4 18	Sara Valentijn
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Person 28 39	soon Iantje
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 33 39	Iantje
+T4	Person 265 272	slaaven
+A7	Gender T4 Group
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Other
+T5	Person 317 339	Juff=re Sara Valentijn
+A10	Gender T5 Woman
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Beneficiary
+T6	ProperName 325 338	Sara Valentij
+T7	ProperName 4 17	Sara Valentij
+T8	Person 473 479	slaven
+A13	Gender T8 Group
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	Person 526 551	dogter appalonia Pietersz
+A16	Gender T9 Woman
+A17	LegalStatus T9 Unspecified
+A18	Role T9 Other
+T10	ProperName 533 551	appalonia Pietersz
+T11	Place 553 564	van batavia
+T12	ProperName 557 564	batavia
+T13	Person 663 669;670 677	moeder abigael
+A19	Gender T13 Woman
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 670 677	abigael
+T15	Place 793 803	op batavia
+T16	ProperName 796 803	batavia
+T17	Person 1367 1393;1394 1415	vrijgegeven Jongen genaemt Koridon van mallabaar
+A22	Gender T17 Man
+A23	LegalStatus T17 Freed
+A24	Role T17 Other
+T18	ProperName 1394 1415	Koridon van mallabaar
+T19	Place 1425 1435	op batavia
+T20	ProperName 1428 1435	batavia
+T21	Place 1462 1475	tot Jompongam
+T22	ProperName 1466 1475	Jompongam
+T23	Person 813 821	Fortuijn
+A25	Gender T23 Man
+A26	LegalStatus T23 Enslaved
+A27	Role T23 Other
+T24	Person 823 828	diena
+A28	Gender T24 Woman
+A29	LegalStatus T24 Enslaved
+A30	Role T24 Other
+T25	Person 830 838	Clapatra
+A31	Gender T25 Woman
+A32	LegalStatus T25 Enslaved
+A33	Role T25 Other
+T26	ProperName 830 838	Clapatra
+T27	Person 843 850	Rosetta
+A34	Gender T27 Woman
+A35	LegalStatus T27 Enslaved
+A36	Role T27 Other
+T28	ProperName 813 821	Fortuijn
+T29	ProperName 823 827	dien
+T30	ProperName 843 849	Rosett
+T32	Person 916 924;925 937	anthonij van ternaten
+A40	Gender T32 Unspecified
+A41	LegalStatus T32 Unspecified
+A42	Role T32 Other
+T31	Person 893 914	Christina van bengale
+A37	Gender T31 Unspecified
+A38	LegalStatus T31 Unspecified
+A39	Role T31 Other
+T33	Person 946 952	papoea
+A43	Gender T33 Unspecified
+A44	LegalStatus T33 Unspecified
+A45	Role T33 Other
+T34	Person 958 968;969 978	annika van mallebaar
+A46	Gender T34 Unspecified
+A47	LegalStatus T34 Unspecified
+A48	Role T34 Other
+T35	ProperName 893 914	Christina van bengale
+T36	ProperName 916 924;925 937	anthonij van ternaten
+T37	ProperName 946 952	papoea
+T38	ProperName 958 968;969 978	annika van mallebaar

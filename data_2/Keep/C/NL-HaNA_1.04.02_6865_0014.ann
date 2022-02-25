@@ -1,0 +1,15 @@
+T1	Person 9 14	J: Ba
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 9 14	J: Ba
+T3	Person 39 43	ACot
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 39 43	ACot
+T5	Person 58 61	Dek
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 58 61	Dek

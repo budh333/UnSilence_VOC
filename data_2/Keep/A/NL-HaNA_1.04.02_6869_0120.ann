@@ -1,0 +1,59 @@
+T1	Person 25 46	Aan De Heer Rijnhardt
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 37 46	Rijnhardt
+T3	Person 97 109	slave Jongen
+A4	Gender T3 Man
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	Person 118 125	Laurens
+A7	Gender T4 Man
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Other
+T5	ProperName 118 125	Laurens
+T6	Person 133 155	Den Inlander Nottoersa
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+T7	ProperName 146 155	Nottoersa
+T8	Person 180 196	Den Inlander Jam
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	ProperName 193 196	Jam
+T10	Person 303 317	Sergeant Smith
+A16	Gender T10 Man
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	ProperName 312 317	Smith
+T12	Person 417 444	Den Sold=t Jan Van den Berg
+A19	Gender T12 Man
+A20	LegalStatus T12 Unspecified
+A21	Role T12 Other
+T13	ProperName 428 444	Jan Van den Berg
+T14	Person 491 512;513 524	Den sold=t aan de pen D= Brengman
+A22	Gender T14 Man
+A23	LegalStatus T14 Unspecified
+A24	Role T14 Other
+T15	ProperName 513 524	D= Brengman
+T16	Person 563 593	Den Stuurman Matthijs Schruder
+A25	Gender T16 Man
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Other
+T17	ProperName 576 593	Matthijs Schruder
+T18	Person 676 710	Den bombardier Karel Willem Dresde
+A28	Gender T18 Man
+A29	LegalStatus T18 Unspecified
+A30	Role T18 Other
+T19	ProperName 691 710	Karel Willem Dresde
+T20	Person 736 755	Den Inlander Maniek
+A31	Gender T20 Unspecified
+A32	LegalStatus T20 Unspecified
+A33	Role T20 Other
+T21	ProperName 749 755	Maniek
+T22	Person 904 913	M=r Ronin
+A34	Gender T22 Man
+A35	LegalStatus T22 Unspecified
+A36	Role T22 Other
+T23	ProperName 908 913	Ronin

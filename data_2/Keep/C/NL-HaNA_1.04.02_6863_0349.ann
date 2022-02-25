@@ -1,0 +1,21 @@
+T1	TranscriptionError_Document 0 2	so
+T2	DuplicatePage 0 2	so
+T3	Person 7 20	P. G. Lavigne
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 7 20	P. G. Lavigne
+T5	Person 30 51	Philip George Lavigne
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T6	ProperName 30 51	Philip George Lavigne
+T7	Organization 86 99	der Ed: Comp:
+T8	Person 103 116	Elsie Velsche
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator_Beneficiary
+T9	ProperName 103 116	Elsie Velsche
+T10	Place 121 128	Colombo
+T11	ProperName 121 128	Colombo
+A10	Beneficiary T7 No

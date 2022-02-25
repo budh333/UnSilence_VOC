@@ -1,0 +1,14 @@
+T1	Organization 839 860;861 897	’t Eerwaarde Collagie van Heeren wessmiesteren te samarang
+A1	Beneficiary T1 No
+T2	Place 889 897	samarang
+T3	ProperName 889 897	samarang
+T4	ProperName 1248 1267	Hendrik Roffmeester
+T5	ProperName 1288 1310	Johan wolfgang Antrage
+T6	Person 1288 1310	Johan wolfgang Antrage
+A2	Gender T6 Unspecified
+A3	LegalStatus T6 Unspecified
+A4	Role T6 Other
+T7	Person 1248 1267	Hendrik Roffmeester
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Other

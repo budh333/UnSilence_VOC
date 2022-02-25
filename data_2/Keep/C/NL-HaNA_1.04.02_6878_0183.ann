@@ -1,0 +1,15 @@
+T1	TranscriptionError_Document 0 1	I
+T3	ProperName 89 100;102 109	Jan hendrik Withoff
+T4	Place 114 121	hanover
+T5	ProperName 114 121	hanover
+T6	Person 214 229	Lientje Wilhoff
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Beneficiary
+T7	ProperName 214 229	Lientje Wilhoff
+T8	Place 237 253;254 272	’t Laeneburgsche in 't ampt Wintzen
+T9	ProperName 265 272	Wintzen
+T2	Person 89 100;102 109	Jan hendrik Withoff
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator

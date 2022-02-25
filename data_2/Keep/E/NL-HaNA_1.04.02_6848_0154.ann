@@ -1,0 +1,33 @@
+T2	Place 21 37	Nederlands India
+T3	ProperName 21 37	Nederlands India
+T4	Place 59 66;67 74	de stad batavia
+T5	ProperName 67 74	batavia
+T6	Person 113 130;131 136	getuigen, salomon Claas
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+T7	ProperName 123 130;131 136	salomon Claas
+T8	Organization 169 182	Ed: Compagnie
+T9	Place 192 225	tegen over de werff binnen destad
+T10	Organization 597 618	Edele hooge Regeringe
+T11	ProperName 597 618	Edele hooge Regeringe
+T12	Person 726 751	slavin kananga, van timor
+A4	Gender T12 Woman
+A5	LegalStatus T12 Freed
+T13	ProperName 733 751	kananga, van timor
+T14	Person 993 1008;1009 1027	gevrijde Slavin Kananga, van timor
+A7	Gender T14 Woman
+A8	LegalStatus T14 Freed
+T15	ProperName 1009 1027	Kananga, van timor
+T17	ProperName 1279 1293	Paulus Andries
+T18	Organization 1502 1506	Comp
+T19	Place 1566 1575	Amsterdam
+T20	ProperName 1566 1575	Amsterdam
+T1	Organization 6 37	Regeeringe van Nederlands India
+A3	Role T6 Testator
+A6	Role T12 Beneficiary
+A9	Role T14 Beneficiary
+T16	Person 1264 1271;1272 1293	inlands burger Paulus Andries
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T21	Noteworthy 1264 1271;1272 1278	inlands burger

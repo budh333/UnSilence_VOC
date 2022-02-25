@@ -1,0 +1,65 @@
+T1	TranscriptionError_Document 1 8	Abraham
+T2	ProperName 1 20	Abraham van Leeuwen
+T3	Person 1 20	Abraham van Leeuwen
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	Person 92 111	m:r Egbert blomhert
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary
+T5	ProperName 96 111	Egbert blomhert
+T6	Organization 148 178	regeringe van nederlands Jndia
+T7	Place 162 178	nederlands Jndia
+T8	ProperName 162 178	nederlands Jndia
+T9	Place 199 214	de stad batavia
+T10	ProperName 207 214	batavia
+T11	Person 263 288	D: E: Abraham van Leeuwen
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 269 288	Abraham van Leeuwen
+T13	Organization 318 322	Comp
+T14	Person 410 428	DE:s Pieter Coster
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 415 428	Pieter Coster
+T16	Person 494 519	m:r Johannes martinus Sas
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 498 519	Johannes martinus Sas
+T18	Person 879 883;884 890	heer Eijken
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Testator
+T19	ProperName 884 890	Eijken
+T20	ProperName 939 954	Moses Domingosz
+T21	Person 939 954	Moses Domingosz
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Witness
+T22	Person 961 966;967 976	Ionas Domingosz
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Witness
+T23	ProperName 961 966;967 976	Ionas Domingosz
+T24	ProperName 1131 1140	Jan Lallé
+T25	Person 1131 1140	Jan Lallé
+A25	Gender T25 Man
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Notary
+T26	Place 1246 1253	Batavia
+T27	ProperName 1246 1253	Batavia
+T28	ProperName 1293 1302	Jan Balle
+T29	Person 1293 1302	Jan Balle
+A28	Gender T29 Man
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Notary
+T30	DuplicatePage 1342 1346	Amen
+T31	DuplicatePage 1 8	Abraham
+T32	Place 333 337	Loco
+T33	ProperName 333 337	Loco
+T34	Place 1391 1407	schip D' Gustaaf
+T35	ProperName 1397 1407	D' Gustaaf

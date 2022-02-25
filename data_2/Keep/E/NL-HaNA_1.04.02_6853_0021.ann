@@ -1,0 +1,18 @@
+T1	TranscriptionError_Document 0 7	Pierter
+T2	DuplicatePage 0 7	Pierter
+T3	ProperName 0 17	Pierter Boedeveld
+T4	Person 0 17	Pierter Boedeveld
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	Person 132 160	M„r Ioan van der Voort not„s
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 136 154	Ioan van der Voort
+T7	Person 352 373	Ernst Anthonij Cresel
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 352 373	Ernst Anthonij Cresel
+T9	DuplicatePage 207 209	in

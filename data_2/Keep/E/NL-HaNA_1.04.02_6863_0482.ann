@@ -1,0 +1,72 @@
+T1	ProperName 35 41	kative
+T2	Person 35 41	kative
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 107 117	De kretter
+T4	Person 107 117	De kretter
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 140 152	S„t mantensz
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 144 152	mantensz
+T7	ProperName 175 194	Cornelis De Kretser
+T8	Person 175 194	Cornelis De Kretser
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 212 219	scharff
+T10	Person 212 219	scharff
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	Person 242 255	DE. braunwald
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 246 255	braunwald
+T13	ProperName 275 287	bode egeling
+T14	Person 275 287	bode egeling
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 312 318	titius
+T16	Person 312 318	titius
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	Person 333 346	DE: braunwald
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 337 346	braunwald
+T19	ProperName 393 409	Danie De Kretber
+T20	Person 393 409	Danie De Kretber
+A28	Gender T20 Unspecified
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Other
+T21	ProperName 455 462	hoepels
+T22	Person 455 462	hoepels
+A31	Gender T22 Unspecified
+A32	LegalStatus T22 Unspecified
+A33	Role T22 Other
+T23	ProperName 800 807	Polombo
+T24	Place 800 807	Polombo
+T25	Person 824 832	H: Moens
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Other
+T26	ProperName 827 832	Moens
+T27	ProperName 871 884	Baniel de Bok
+T28	Person 871 884	Baniel de Bok
+A37	Gender T28 Unspecified
+A38	LegalStatus T28 Unspecified
+A39	Role T28 Other
+T29	ProperName 888 894	Ctuijk
+T30	Person 888 894	Ctuijk
+A40	Gender T30 Unspecified
+A41	LegalStatus T30 Unspecified
+A42	Role T30 Other

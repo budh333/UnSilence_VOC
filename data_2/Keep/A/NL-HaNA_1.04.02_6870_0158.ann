@@ -1,0 +1,14 @@
+T1	TranscriptionError_Document 0 4	Onde
+T2	DuplicatePage 5 8	bij
+T3	Person 190 197	J: Rats
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 190 197	J: Rats
+T5	Place 220 239	Batavia in ’t Caste
+T6	ProperName 220 227	Batavia
+T7	Person 270 285	Th:r van Mueker
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 270 285	Th:r van Mueker

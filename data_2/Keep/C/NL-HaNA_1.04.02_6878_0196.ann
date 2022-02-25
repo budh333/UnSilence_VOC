@@ -1,0 +1,30 @@
+T2	ProperName 47 71	Johannes Mattuus Hartrag
+T3	Person 93 110	Samuel Fred Botha
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 93 110	Samuel Fred Botha
+T5	Person 142 153	IC:vd Spuij
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 142 153	IC:vd Spuij
+T7	Person 275 285	Van Wijlen
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 275 285	Van Wijlen
+T10	ProperName 308 314;315 327	Johano Hend Wilhoff
+T11	Person 458 475	Samuel Fred Botha
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	ProperName 458 475	Samuel Fred Botha
+T1	Person 47 71	Johannes Mattuus Hartrag
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T9	Person 308 314;315 327	Johano Hend Wilhoff
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Testator

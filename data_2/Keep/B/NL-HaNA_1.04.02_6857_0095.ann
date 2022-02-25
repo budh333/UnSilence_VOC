@@ -1,0 +1,23 @@
+T1	Organization 190 197	E Comp:
+T2	Person 198 200;201 213	Ir drik Bannier
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 198 200;201 213	Ir drik Bannier
+T4	Person 286 289;290 295	Jan Montz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 286 289;290 295	Jan Montz
+T6	Person 408 423	Fredrik Bannier
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T7	Person 665 674	Rok Johan
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	Person 780 791	H: Rijnnagh
+A13	Gender T8 Man
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Notary

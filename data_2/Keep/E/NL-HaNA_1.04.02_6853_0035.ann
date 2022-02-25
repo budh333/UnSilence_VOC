@@ -1,0 +1,42 @@
+T1	DuplicatePage 0 7	Pierter
+T2	TranscriptionError_Document 0 7	Pierter
+T3	ProperName 0 17	Pierter Boedeveld
+T4	Person 0 17	Pierter Boedeveld
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Person 134 162	M„r Ioan van der Voort not„s
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 138 156	Ioan van der Voort
+T7	Organization 190 219	regeeringe van Nederl„s India
+T8	ProperName 205 219	Nederl„s India
+T9	Place 205 219	Nederl„s India
+T10	Place 240 242;243 255	de stad Batavia
+T11	ProperName 248 255	Batavia
+T12	Person 310 329	E: Pieter Boedeveld
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T13	ProperName 313 329	Pieter Boedeveld
+T14	Organization 361 365	Comp
+T15	Person 968 990	E: Hermanus Dan Kelman
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Beneficiary
+T16	ProperName 971 990	Hermanus Dan Kelman
+T17	ProperName 1013 1020	abconde
+T18	Place 1013 1020	abconde
+T19	Place 1031 1040	amsterdam
+T20	ProperName 1031 1040	amsterdam
+T21	Place 1044 1053	uijttregt
+T22	ProperName 1044 1053	uijttregt
+T23	Place 1196 1205	amsterdam
+T24	ProperName 1196 1205	amsterdam
+T25	Person 1433 1455	vader Willem Boedeveld
+A13	Gender T25 Man
+A14	LegalStatus T25 Unspecified
+A15	Role T25 Beneficiary
+T26	ProperName 1439 1455	Willem Boedeveld
+T27	Place 1474 1495	bevergern uyttekeeren

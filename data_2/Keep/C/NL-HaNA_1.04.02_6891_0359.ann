@@ -1,0 +1,45 @@
+T1	Person 63 91;92 99	M=r harman Scheltus, Notaris puplicq
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 63 82	M=r harman Scheltus
+T3	Organization 104 148	de Edele horgeregeering van Neverlands Jndia
+A4	Beneficiary T3 No
+T4	Place 132 148	Neverlands Jndia
+T5	ProperName 132 148	Neverlands Jndia
+T6	Place 161 182	binnen destad batavia
+T7	ProperName 175 182	batavia
+T8	Person 232 256	d'E: Jan Casper Swelgens
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 237 256	Jan Casper Swelgens
+T10	Place 289 294	Banda
+T11	ProperName 289 294	Banda
+T12	Person 361 382	bootsman Ian Thoiasse
+A8	Gender T12 Man
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Other
+T13	ProperName 370 382	Ian Thoiasse
+T14	Place 393 408;409 426	op ’t Jagt padt buijten dese stad
+T15	Person 946 967	Maria Jacobs Fredriks
+A11	Gender T15 Woman
+A12	LegalStatus T15 Unspecified
+A13	Role T15 Beneficiary
+T16	ProperName 946 967	Maria Jacobs Fredriks
+T17	Person 972 975;976 1003	Io„ „nanna Clara Jacob Fredriks
+A14	Gender T17 Woman
+A15	LegalStatus T17 Unspecified
+A16	Role T17 Beneficiary
+T18	ProperName 972 975;976 1003	Io„ „nanna Clara Jacob Fredriks
+T19	Place 1029 1034	Banda
+T20	ProperName 1029 1034	Banda
+T21	Organization 1216 1246	de gereformeerde diacony armen
+A17	Beneficiary T21 Yes
+T22	Organization 1317 1330;1331 1335	de luthersche kerk
+A18	Beneficiary T22 Yes
+T23	Person 1792 1800;1801 1807	Ian Tho„ „masse
+A19	Gender T23 Man
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Beneficiary
+T24	ProperName 1792 1800;1801 1807	Ian Tho„ „masse

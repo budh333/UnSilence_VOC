@@ -1,0 +1,21 @@
+T1	Person 9 20	S Batenberg
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 9 20	S Batenberg
+T3	Person 737 753;754 778	Juffrt uw Amelia Catharina Sweelen Hoesck
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 747 753;754 778	Amelia Catharina Sweelen Hoesck
+T5	Place 783 788	hoorn
+T6	ProperName 783 788	hoorn
+T7	Place 792 805	noord holland
+T8	ProperName 792 805	noord holland
+T9	Person 1425 1448;1449 1453	Pieter de spar ondercoo „man
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Beneficiary
+T10	ProperName 1425 1439	Pieter de spar
+T11	Organization 1465 1477	der E: Comp:
+A10	Beneficiary T11 No

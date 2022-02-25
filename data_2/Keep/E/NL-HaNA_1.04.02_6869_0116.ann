@@ -1,0 +1,13 @@
+T1	TranscriptionError_Document 0 1	P
+T2	DuplicatePage 2 11	Laastelyk
+T3	ProperName 105 124	Folkert vander Leij
+T4	Person 94 124	Boekhouder Folkert vander Leij
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 157 177	Egbert Arend Dewelde
+T6	Person 157 177	Egbert Arend Dewelde
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	Organization 299 303	Comp

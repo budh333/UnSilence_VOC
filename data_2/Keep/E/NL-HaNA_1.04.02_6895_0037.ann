@@ -1,0 +1,59 @@
+T1	TranscriptionError_Document 0 1	8
+T3	ProperName 216 225	manhaften
+T4	ProperName 226 241	Iacobus Claeijs
+T2	Organization 203 225	E: Comp: den manhaften
+T5	Person 226 241	Iacobus Claeijs
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 408 420	Iacob Levier
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Notary
+T7	ProperName 408 420	Iacob Levier
+T8	Organization 445 488	Edele hooge regeeringe van nederlands india
+T9	ProperName 472 488	nederlands india
+T10	Place 472 488	nederlands india
+T11	Place 513 528	de stad batavia
+T12	ProperName 521 528	batavia
+T13	Person 580 600	E: george Cotterrell
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator
+T14	ProperName 583 601	george Cotterrell,
+T15	Place 1066 1072	London
+T16	ProperName 1066 1072	London
+T17	Person 1031 1042;1043 1050	Juff=m Mar„ gristen
+A10	Gender T17 Woman
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Beneficiary
+T18	ProperName 1038 1042;1043 1050	Mar„ gristen
+T19	Person 1164 1184	Iuff=ms Ienij murrij
+A13	Gender T19 Woman
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Other
+T20	ProperName 1172 1183	Ienij murri
+T21	Person 1432 1448;1449 1470	huijsvrouwe Iuf„ „frouw Sarij gijfford
+A16	Gender T21 Woman
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Beneficiary
+T22	ProperName 1456 1470	Sarij gijfford
+T23	Place 1486 1493	mijland
+T24	ProperName 1486 1493	mijland
+T25	Place 1552 1556;1557 1563	stad London
+T26	ProperName 1557 1563	London
+T27	Person 1825 1837;1838 1845	moeder susam Buisson
+A19	Gender T27 Woman
+A20	LegalStatus T27 Unspecified
+A21	Role T27 Other
+T28	ProperName 1832 1837;1838 1845	susam Buisson
+T29	ProperName 1857 1874	george Cotterrell
+T30	Person 1857 1875	george Cotterrell,
+A22	Gender T30 Man
+A23	LegalStatus T30 Unspecified
+A24	Role T30 Testator
+T31	Place 1897 1908	stad London
+T32	ProperName 1902 1908	London
+T33	DuplicatePage 2135 2139	Amen
+T34	Place 2202 2209	Batavia
+T35	ProperName 2202 2209	Batavia

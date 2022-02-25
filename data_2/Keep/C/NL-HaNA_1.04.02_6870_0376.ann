@@ -1,0 +1,6 @@
+T1	Organization 358 375	de diaconij armen
+A1	Beneficiary T1 Yes
+T2	Person 757 773	leijff hij genen
+A2	Gender T2 Group
+A3	LegalStatus T2 Enslaved
+A4	Role T2 Other

@@ -1,0 +1,26 @@
+T1	TranscriptionError_Document 3 9	fte af
+T2	DuplicatePage 32 34	es
+T3	Person 144 168;169 186	Pieter Herstad assistent en geswore scriba
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 144 158	Pieter Herstad
+T5	Place 187 206	ten dezen Comptoire
+T6	Organization 197 206	Comptoire
+T8	Person 232 268;269 288	Getuijgen, Francois Caffin corporaal in dienst der EComp
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T7	ProperName 243 258	Francois Caffin
+T9	Organization 283 288	EComp
+T10	ProperName 283 288	EComp
+T11	Person 348 357	Kok Johan
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Other
+T12	ProperName 352 357	Johan
+T13	Person 467 478	H: Rijnnagh
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 467 478	H: Rijnnagh

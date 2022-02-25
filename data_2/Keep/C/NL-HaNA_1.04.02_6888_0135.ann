@@ -1,0 +1,43 @@
+T1	TranscriptionError_Document 0 1	t
+T2	DuplicatePage 0 1	t
+T3	Person 184 211;212 228	Reijnlaro: Johannes Wiltens Notaris publicq:
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T4	ProperName 184 211	Reijnlaro: Johannes Wiltens
+T5	Place 813 825	Banda, Neira
+T6	ProperName 813 825	Banda, Neira
+T7	Person 881 887;888 895	Zacheu Roeling
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 881 887;888 895	Zacheu Roeling
+T9	Person 900 921	Guilliams Guilliamsz:
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 900 921	Guilliams Guilliamsz:
+T12	ProperName 1108 1129	Barend hendrik Weber:
+T13	Place 1213 1218;1219 1226	Banca nassauw
+T14	ProperName 1213 1218;1219 1226	Banca nassauw
+T16	ProperName 1278 1298	Johan Dioerik Knilke
+T17	Place 1450 1463	banda nassouw
+T18	ProperName 1450 1463	banda nassouw
+T20	ProperName 1499 1512	P:„ versteegh
+T21	Person 1534 1550	J„s W„ Weijerman
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 1534 1550	J„s W„ Weijerman
+T11	Person 1108 1129	Barend hendrik Weber:
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T15	Person 1278 1298	Johan Dioerik Knilke
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T19	Person 1499 1513	P:„ versteegh,
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other

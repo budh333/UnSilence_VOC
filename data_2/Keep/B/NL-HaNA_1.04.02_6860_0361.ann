@@ -1,0 +1,37 @@
+T1	Person 91 110	Joan Adriaan Dreier
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 91 110	Joan Adriaan Dreier
+T3	Place 134 150	Deesen Comptoire
+T4	Place 199 246;247 260	huijse van den alhier Bescheijdene zergeant An„ „dries Ruijen
+T5	Person 243 246;247 260	An„ „dries Ruijen
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 243 246;247 260	An„ „dries Ruijen
+T7	Place 266 273	Hamburg
+T8	ProperName 266 273	Hamburg
+T9	Person 561 574	Willem schaar
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Person 617 633	J:s Guttenberger
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary
+T11	Person 694 707	W:t schophoff
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	Place 761 773	Lelocpampang
+T13	ProperName 761 773	Lelocpampang
+T14	Person 814 829	J: H: Smedecker
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	Person 833 849	Hendrik Westdorp
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 833 849	Hendrik Westdorp

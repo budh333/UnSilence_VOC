@@ -1,0 +1,37 @@
+T1	ProperName 418 432	Beneijs Stants
+T2	Person 418 432	Beneijs Stants
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 470 486	Johannes Brugman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 470 486	Johannes Brugman
+T5	Organization 686 718	Colegie van heeren Weesmeesteren
+T6	ProperName 686 718	Colegie van heeren Weesmeesteren
+T7	Place 1726 1735	Maccassar
+T8	ProperName 1726 1735	Maccassar
+T9	Place 1742 1762	Negoreij Vlaardingen
+T10	ProperName 1751 1762	Vlaardingen
+T11	Place 1763 1796	Ten woonhuijse van de Testateuren
+T12	Person 1835 1851	Dirk Jansz: olle
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator_Beneficiary
+T13	ProperName 1835 1851	Dirk Jansz: olle
+T14	ProperName 1971 1991	A=rs Fredrik Morell,
+T15	Person 1971 1991	A=rs Fredrik Morell,
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Acting_Notary
+T16	ProperName 2042 2046;2047 2059	Corn „lis Bouman,
+T17	ProperName 2063 2073	Jacob Cops
+T18	Person 2042 2046;2047 2059	Corn „lis Bouman,
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	Person 2063 2073	Jacob Cops
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other

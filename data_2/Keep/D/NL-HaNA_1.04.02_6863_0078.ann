@@ -1,0 +1,25 @@
+T1	Person 296 314	Matthijs Heijdaars
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 296 314	Matthijs Heijdaars
+T3	Person 479 495	zoon Matthys Haa
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 484 495	Matthys Haa
+T5	Person 976 1003	schoonzoon Matthijs Heijdal
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 987 1003	Matthijs Heijdal
+T7	Person 1008 1024	Heer Pieter Hoff
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 1013 1024	Pieter Hoff
+T9	Person 1050 1064	Andries Ouding
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T10	ProperName 1050 1064	Andries Ouding

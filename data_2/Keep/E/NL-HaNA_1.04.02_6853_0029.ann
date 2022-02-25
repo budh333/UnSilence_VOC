@@ -1,0 +1,40 @@
+T1	DuplicatePage 0 8	PPierter
+T2	TranscriptionError_Document 0 8	PPierter
+T3	DuplicatePage 243 245	In
+T4	ProperName 0 18	PPierter Boedeveld
+T5	Person 0 18	PPierter Boedeveld
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 134 162	M„r Ioan van der Voort not„s
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Notary
+T7	ProperName 138 156	Ioan van der Voort
+T8	Organization 190 219	regeeringe van Nederl„s Indir
+T9	Place 205 219	Nederl„s Indir
+T10	ProperName 205 219	Nederl„s Indir
+T11	Person 353 381	M„r Ioan van der Voort Not„s
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T12	ProperName 357 375	Ioan van der Voort
+T13	Place 357 375	Ioan van der Voort
+T14	Place 460 465	India
+T15	ProperName 460 465	India
+T16	ProperName 1094 1104	Jmploriise
+T17	ProperName 1330 1343	Stephannsroot
+T18	Person 1330 1343	Stephannsroot
+A10	Gender T18 Unspecified
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Witness
+T19	ProperName 1355 1381	Isaackszen Poseph Josephsz
+T20	Person 1355 1381	Isaackszen Poseph Josephsz
+A13	Gender T20 Unspecified
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Witness
+T21	ProperName 1533 1565	Deodorus Leonardus van den briel
+T22	Person 1533 1564	Deodorus Leonardus van den brie
+A16	Gender T22 Man
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Notary

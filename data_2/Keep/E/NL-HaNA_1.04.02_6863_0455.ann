@@ -1,0 +1,17 @@
+T1	ProperName 28 44	Jan Jacob Meijer
+T2	Person 28 44	Jan Jacob Meijer
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 316 322	Muller
+T4	DuplicatePage 316 322	Muller
+T7	Person 255 266	A: Martensz
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 258 266	Martensz
+T9	ProperName 212 228	Waalsten Augusto
+T10	Person 212 228	Waalsten Augusto
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other

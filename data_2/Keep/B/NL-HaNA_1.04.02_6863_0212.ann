@@ -1,0 +1,24 @@
+T1	Place 294 305	stad Kandia
+T2	ProperName 299 305	Kandia
+T3	Person 331 340	C: Ieklis
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	Person 384 394	W: Beukman
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	Person 398 419	P: L: van Derstraaten
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	Person 432 445	Sanielde 120t
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Other
+#1	AnnotatorNotes T6	Signature
+T7	Person 12 24	JW: Martense
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Other
+#2	AnnotatorNotes T7	Signature

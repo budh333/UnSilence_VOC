@@ -1,0 +1,9 @@
+T1	Person 194 204	F Ceijsler
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 210 220	J: Flusker
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	TranscriptionError_Document 0 7	pagnies

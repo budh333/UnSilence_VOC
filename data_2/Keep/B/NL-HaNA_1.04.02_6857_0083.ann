@@ -1,0 +1,13 @@
+T1	Person 10 22	M Nolthenius
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	Person 45 54	Kok Johan
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	Person 155 166	C: Rijnnagh
+A7	Gender T3 Man
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Notary
+T4	TranscriptionError_Document 0 9	Caenconon

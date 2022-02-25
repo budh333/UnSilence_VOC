@@ -1,0 +1,9 @@
+T1	Place 126 145	ten deesen Casteele
+T2	Person 171 186	Jan Noetemeijer
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 171 186	Jan Noetemeijer
+T4	Place 742 751;752 761	ter Camer Amsterdam
+T5	ProperName 752 761	Amsterdam
+T6	Place 752 761	Amsterdam

@@ -1,0 +1,21 @@
+T1	Organization 49 68;69 95	Rhaale van Iustitie ren gouvernemente Samarang
+T2	Place 87 95	Samarang
+T3	ProperName 87 95	Samarang
+T4	Person 212 231	Iulius Paul Koolman
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 212 231	Iulius Paul Koolman
+T6	Organization 508 514	Comp:s
+T7	Person 765 790	J:r g: Ielmsie Secretaris
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	Person 829 851	I:s N: van Tukcrarpmer
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 862 870	A„ Phijn
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other

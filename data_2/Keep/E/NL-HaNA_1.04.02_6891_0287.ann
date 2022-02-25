@@ -1,0 +1,90 @@
+T1	TranscriptionError_Document 0 1	6
+T2	DuplicatePage 319 330	Jan Roeloff
+T3	ProperName 319 330	Jan Roeloff
+T4	Person 319 330	Jan Roeloff
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 955 975	Aarnout heijman burg
+T6	Person 955 975	Aarnout heijman burg
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 996 1027	Albert Andrie van dam bottelien
+T8	Person 996 1027	Albert Andrie van dam bottelien
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	Organization 1043 1047	Comp
+T10	ProperName 1136 1146	Jacob Reek
+T11	Person 1136 1146	Jacob Reek
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 1168 1175	Aarnout
+T13	Person 1168 1175	Aarnout
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Witness
+T14	ProperName 1191 1198	heijman
+T15	Person 1191 1198	heijman
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Witness
+T16	ProperName 1202 1216	Albert Andries
+T17	Person 1202 1216	Albert Andries
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Witness
+T18	Person 1255 1269	A:m Van dinter
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Notary
+T19	ProperName 1259 1269	Van dinter
+T20	Place 1295 1304	Weescamer
+T21	Place 1397 1406	stadhuijr
+T22	Organization 1545 1568	Regeeringe deser landen
+T23	Organization 1578 1583	Compa
+T24	Person 1771 1775;1776 1788	heer Jan Cornelis
+A25	Gender T24 Man
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Other
+T25	ProperName 1776 1788	Jan Cornelis
+T26	Organization 1852 1878	Generaele Soldij Comptoir;
+T27	Place 1938 1945	Batavia
+T28	ProperName 1938 1945	Batavia
+T29	Place 1951 1960	stadhuijs
+T30	Person 2007 2020	P=r Htaksteen
+A28	Gender T30 Unspecified
+A29	LegalStatus T30 Unspecified
+A30	Role T30 Other
+T31	ProperName 2011 2020	Htaksteen
+T32	Person 2112 2119	J Gallé
+A31	Gender T32 Unspecified
+A32	LegalStatus T32 Unspecified
+A33	Role T32 Other
+T33	ProperName 2114 2119	Gallé
+T34	ProperName 2141 2152	JVannemaker
+T35	Person 2141 2152	JVannemaker
+A34	Gender T35 Unspecified
+A35	LegalStatus T35 Unspecified
+A36	Role T35 Other
+T36	ProperName 2183 2190	Iacobus
+T37	Person 2183 2190	Iacobus
+A37	Gender T37 Unspecified
+A38	LegalStatus T37 Unspecified
+A39	Role T37 Other
+T38	Place 2344 2350	patria
+T39	ProperName 2344 2350	patria
+T40	ProperName 2436 2441;2442 2455	frans Adam Carelson
+T41	ProperName 2460 2476	Arnoldus havikz,
+T42	Place 2487 2496	amsterdam
+T43	ProperName 2487 2496	amsterdam
+T44	Person 2436 2441;2442 2456	frans Adam Carelson,
+A40	Gender T44 Unspecified
+A41	LegalStatus T44 Unspecified
+A42	Role T44 Other
+T45	Person 2460 2475	Arnoldus havikz
+A43	Gender T45 Unspecified
+A44	LegalStatus T45 Unspecified
+A45	Role T45 Other

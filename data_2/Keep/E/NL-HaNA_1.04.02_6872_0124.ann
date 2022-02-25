@@ -1,0 +1,22 @@
+T1	Person 459 481;482 487	moeder Catharina Maria Esman
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 466 481;482 487	Catharina Maria Esman
+T3	ProperName 513 535	Johan fredrik Staakman
+T4	Person 513 535	Johan fredrik Staakman
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Place 544 554	saxenhagen
+T6	ProperName 544 554	saxenhagen
+T7	ProperName 631 637;638 645	Piete, Delport
+T8	ProperName 649 663;664 670	Anna Elisabeth Marais
+T9	Person 631 637;638 645	Piete, Delport
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Beneficiary
+T10	Person 649 663;664 670	Anna Elisabeth Marais
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary

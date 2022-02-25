@@ -1,0 +1,12 @@
+T1	TranscriptionError_Document 0 4	opia
+T2	DuplicatePage 0 4	opia
+T3	Person 19 39	Mans:r Paulus Elders
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 19 39	Mans:r Paulus Elders
+T5	Person 70 99	Mons:r Ioannes Conrat DEgremo
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 77 99	Ioannes Conrat DEgremo

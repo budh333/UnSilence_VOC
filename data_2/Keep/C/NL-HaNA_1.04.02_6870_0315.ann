@@ -1,0 +1,41 @@
+T1	TranscriptionError_Document 30 34	1799
+T2	DuplicatePage 30 34	1799
+T3	Person 0 29	Dingeman Basthaanse Groeneweg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 29	Dingeman Basthaanse Groeneweg
+T5	Person 91 112	Batthazar Ravensbergh
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 91 112	Batthazar Ravensbergh
+T7	Organization 226 235	’s Comp„s
+A7	Beneficiary T7 No
+T8	Person 250 259;260 280	Dingeman, Bastlaanse Groeneweg
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Testator
+T9	ProperName 250 259;260 280	Dingeman, Bastlaanse Groeneweg
+T10	Organization 662 674	sE: Compag:e
+A11	Beneficiary T10 No
+T11	Person 717 732	Gijsbert Radder
+A12	Gender T11 Unspecified
+A13	LegalStatus T11 Unspecified
+A14	Role T11 Witness
+T12	ProperName 717 732	Gijsbert Radder
+T13	Person 737 754	Johannes Brabandt
+A15	Gender T13 Unspecified
+A16	LegalStatus T13 Unspecified
+A17	Role T13 Witness
+T14	ProperName 737 754	Johannes Brabandt
+T15	Person 884 895	L:Zobbelaar
+A18	Gender T15 Man
+A19	LegalStatus T15 Unspecified
+A20	Role T15 Notary
+T16	ProperName 884 896	L:Zobbelaar,
+T17	Person 911 920	Pockestam
+A21	Gender T17 Unspecified
+A22	LegalStatus T17 Unspecified
+A23	Role T17 Other
+T18	ProperName 911 920	Pockestam

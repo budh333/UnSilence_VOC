@@ -1,0 +1,28 @@
+T1	TranscriptionError_Document 0 3	ter
+T2	DuplicatePage 4 10	Sijden
+T3	ProperName 29 37	Enstwolf
+T4	Person 29 37	Enstwolf
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	Person 99 110	boocesteijn
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 99 110	boocesteijn
+T7	Person 128 136	de Groot
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 128 136	de Groot
+T9	Organization 162 187	Generaale Soldij Comptoir
+T10	Person 199 207	CSSammel
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 199 207	CSSammel
+T12	Person 231 242	J: Schokman
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 231 242	J: Schokman

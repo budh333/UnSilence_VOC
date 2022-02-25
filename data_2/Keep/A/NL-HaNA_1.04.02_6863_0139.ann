@@ -1,0 +1,55 @@
+T1	Person 0 14	Pieter de Hoog
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	DuplicatePage 15 19	1779
+T3	TranscriptionError_Document 20 21	S
+T4	Organization 28 37	de Comp„e
+T5	ProperName 28 37	de Comp„e
+T6	Person 102 140;144 150	Izaek Huijbregt Guerin Eerste Geswoord Clercq
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Acting_Notary
+T7	ProperName 102 124	Izaek Huijbregt Guerin
+T8	Person 355 377	De Heer Pieter de Hoog
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	ProperName 363 377	Pieter de Hoog
+T10	Person 381 398;399 401	mejuffrouw Pusqui ng
+A10	Gender T10 Woman
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator
+T11	ProperName 392 398;399 401	Pusqui ng
+T12	Place 1184 1203;1204 1207	te Horiglij in Ben„ sem
+T13	ProperName 1199 1203;1204 1207	Ben„ sem
+T14	Person 1251 1266;1269 1281	Christiaan God„ „Lieb Merkel
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	ProperName 1251 1266;1269 1281	Christiaan God„ „Lieb Merkel
+T17	ProperName 1285 1300	Johannes Muller
+T16	Person 1285 1300;1326 1348	Johannes Muller Clercquen als getuigen
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Witness
+T18	Person 1377 1384	Sucanna
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Testator
+T19	ProperName 1377 1384	Sucanna
+T20	Person 1428 1436	Lootsman
+A22	Gender T20 Unspecified
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Other
+T21	ProperName 1428 1436	Lootsman
+T22	Person 1589 1615	C: J: van Nierop G: Clercq
+A25	Gender T22 Man
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Other
+T23	ProperName 1589 1605	C: J: van Nierop
+T24	Person 1714 1730	C: J: van Nierop
+A28	Gender T24 Man
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Other
+T25	ProperName 1714 1730	C: J: van Nierop

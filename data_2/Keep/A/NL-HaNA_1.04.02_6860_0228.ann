@@ -1,0 +1,9 @@
+T1	DuplicatePage 0 6	teegen
+T2	TranscriptionError_Document 15 21	ordres
+T3	Organization 7 14	sComp:s
+T4	ProperName 7 14	sComp:s
+T5	Person 322 344	J: G: Helmke Screteris
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 322 334	J: G: Helmke

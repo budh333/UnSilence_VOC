@@ -1,0 +1,21 @@
+T1	Organization 151 173	oostindische Compagnie
+T2	ProperName 151 173	oostindische Compagnie
+T3	Place 636 645	Amsterdam
+T4	ProperName 636 645	Amsterdam
+T5	ProperName 673 686	Petrus Pertat
+T6	Person 666 672;689 694;695 711	Heeren Abra„ ham Meijsenheijm
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	ProperName 689 694;695 711	Abra„ ham Meijsenheijm
+T8	Person 666 672;673 686	Heeren Petrus Pertat
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	Person 772 789	N:s Brahé Notanis
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 772 781	N:s Brahé
+T11	DuplicatePage 0 1	6
+A10	Beneficiary T1 No

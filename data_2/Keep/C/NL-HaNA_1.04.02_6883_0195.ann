@@ -1,0 +1,39 @@
+T2	ProperName 91 117	Anna Maria van Lodensteijn
+T4	ProperName 428 451	Saromina Schas voormelt
+T5	Place 1301 1308	Malacca
+T6	ProperName 1301 1308	Malacca
+T7	Noteworthy 1301 1308	Malacca
+#1	AnnotatorNotes T7	It seems that there is no official notary in Malacca
+T8	Person 1446 1481	Theodorus Jacobus van den heuvelamp
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	ProperName 1446 1481	Theodorus Jacobus van den heuvelamp
+T10	Person 1482 1485;1486 1505	van Christiaan Frashoff
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Witness
+T11	ProperName 1482 1485;1486 1505	van Christiaan Frashoff
+T12	Person 1522 1537	I: van der Harr
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Testator
+T13	ProperName 1522 1537	I: van der Harr
+T14	Person 1564 1586	C:s P:s van den Houvel
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 1564 1586	C:s P:s van den Houvel
+T16	Person 1597 1614	J„n Ch„r Frashoff
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Witness
+T17	ProperName 1597 1614	J„n Ch„r Frashoff
+T1	Person 83 117	Mevrouw Anna Maria van Lodensteijn
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T3	Person 422 451	Juff: Saromina Schas voormelt
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary

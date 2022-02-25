@@ -1,0 +1,61 @@
+T1	Person 49 84	Jacob Hendrik Nederman gesw: spriba
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 49 71	Jacob Hendrik Nederman
+T3	Place 85 88;89 132	ter Secretarij van polictie deses gouvernements
+T4	Person 167 198	D: D: Carel Jacobs ondercoopman
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T6	Person 202 226;227 249	Mons„r Christoffel Cas — =telijn Baas der smits
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 209 226;227 234	Christoffel Cas — =telijn
+T8	Person 313 333	Burger Adriaen Calle
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 320 333	Adriaen Calle
+T10	Person 435 448	Adriaen Calle
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Testator
+T11	ProperName 435 448	Adriaen Calle
+T12	Person 595 632	Nicolaas Kammert, Eerste gesw: Clercq
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Acting_Notary
+T13	ProperName 595 611	Nicolaas Kammert
+T14	Place 633 651;652 679	ter secretarij van politio deses gouvernements
+T15	Person 714 745	Mons„r Adriaen Calle was burger
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Testator
+T16	ProperName 721 734	Adriaen Calle
+T17	Place 764 771	batavia
+T18	ProperName 764 771	batavia
+T19	Place 1346 1348;1349 1382	op Maccassar in ’t Casteel Rotterd„r
+T20	ProperName 1365 1382	Casteel Rotterd„r
+T21	Person 1497 1510	Adriaen Pallo
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Testator
+T22	ProperName 1497 1510	Adriaen Pallo
+T23	Person 1551 1568;1569 1588	Nicolaas Kammert: Eerste gesw: Clercq
+A25	Gender T23 Man
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Acting_Notary
+T24	ProperName 1551 1567	Nicolaas Kammert
+T25	Person 1634 1655	Ian Hend„k Linkenbeek
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	ProperName 1634 1655	Ian Hend„k Linkenbeek
+T27	Person 1659 1681	I„r hend„k Voll Iinior
+A31	Gender T27 Unspecified
+A32	LegalStatus T27 Unspecified
+A33	Role T27 Other
+T28	ProperName 1659 1681	I„r hend„k Voll Iinior
+T5	ProperName 173 185	Carel Jacobs

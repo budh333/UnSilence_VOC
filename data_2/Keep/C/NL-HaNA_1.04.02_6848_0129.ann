@@ -1,0 +1,13 @@
+T2	ProperName 295 320	Anthonij harel van Canten
+T3	Organization 866 880;881 937;938 951	wel Ed:e vroot agtb: Heeren bewind hebberen der geoctroijeerde oost in„ fische Comp:e
+T4	Place 962 971	Amsterdam
+T5	ProperName 962 971	Amsterdam
+T6	Organization 1212 1224;1225 1258	’t Eerwaarde collegie van heeren weesmeesteren
+T7	Organization 1451 1459;1460 1482	de Hooge verigheid dezer landen
+T1	Person 283 290;291 320	Broeder VE: Anthonij harel van Canten
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+A4	Beneficiary T3 No
+A5	Beneficiary T6 No
+A6	Beneficiary T7 No

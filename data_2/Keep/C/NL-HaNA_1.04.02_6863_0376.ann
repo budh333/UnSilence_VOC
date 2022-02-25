@@ -1,0 +1,69 @@
+T1	TranscriptionError_Document 0 2	Ed
+T2	DuplicatePage 0 2	Ed
+T3	Person 135 149	Fredrik Luther
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 135 149	Fredrik Luther
+T5	Place 583 587;588 621	binn het Casteel Colombo op het Eiland
+T6	ProperName 600 607	Colombo
+T7	Person 639 651	O: F: Luther
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 639 651	O: F: Luther
+T9	Person 727 737	C: Janssen
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 727 738	C: Janssen,
+T11	Place 818 824;825 859	binnen het Casteel Colombo op het Eijland
+T12	ProperName 837 844	Colombo
+T13	Person 880 898	Jan Jacob qualenbr
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Witness
+T14	ProperName 880 898	Jan Jacob qualenbr
+T15	Person 902 917	Harmanus Meijer
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Witness
+T16	ProperName 902 917	Harmanus Meijer
+T17	Person 1067 1083	J:s F:s Gratiaen
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Acting_Notary
+T18	ProperName 1067 1083	J:s F:s Gratiaen
+T19	Person 1116 1123	P Onken
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 1116 1123	P Onken
+T21	Person 1124 1137	Daniel de fok
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 1124 1137	Daniel de fok
+T23	Person 1196 1208	slave Jongen
+A25	Gender T23 Man
+A26	LegalStatus T23 Enslaved
+A27	Role T23 Beneficiary
+T24	Person 1217 1221	Davi
+A28	Gender T24 Man
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Beneficiary
+T25	ProperName 1217 1221	Davi
+T26	Person 1243 1256	slave meijsje
+A31	Gender T26 Woman
+A32	LegalStatus T26 Enslaved
+A33	Role T26 Beneficiary
+T27	Person 1266 1272	amelia
+A34	Gender T27 Woman
+A35	LegalStatus T27 Enslaved
+A36	Role T27 Beneficiary
+T28	ProperName 1266 1272	amelia
+T29	Person 1442 1469	Catharina Elisabeth Hugonis
+A37	Gender T29 Woman
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Beneficiary
+T30	ProperName 1442 1469	Catharina Elisabeth Hugonis

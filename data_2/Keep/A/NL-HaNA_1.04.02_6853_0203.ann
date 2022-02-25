@@ -1,0 +1,44 @@
+T1	Person 0 22	Jurgen Paulus Jykerman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 73 101	M=r Jan van der voortnataris
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Notary
+T3	ProperName 77 94	Jan van der voort
+T4	Organization 114 154;155 160	de Edele hooge reegeringe van nederlands India
+T5	Place 144 154;155 160	nederlands India
+T6	ProperName 144 154;155 160	nederlands India
+T7	Place 174 196	binnen de stad batavia
+T8	ProperName 189 196	batavia
+T9	Person 249 266	Jan Jurgen de Wit
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 249 266	Jan Jurgen de Wit
+T11	ProperName 0 22	Jurgen Paulus Jykerman
+T14	Place 397 416	ter samer Amsterdam
+T15	ProperName 407 416	Amsterdam
+T16	Person 1282 1296	Davio Jubertus
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Witness
+T17	ProperName 1282 1296	Davio Jubertus
+T18	Person 1301 1344	Sijmon Thomas Carelsz: Clercquen als getuij
+A13	Gender T18 Man
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Witness
+T19	ProperName 1301 1322	Sijmon Thomas Carelsz
+T20	Person 1434 1440;1441 1464	A: Van Dinter Nnotaris publicq
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Notary
+T21	ProperName 1434 1440;1441 1447	A: Van Dinter
+T22	Person 1478 1486	CV D mme
+A19	Gender T22 Unspecified
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T23	ProperName 1478 1487	CV D mmel
+T24	ProperName 359 396;397 416	der geoctroiseerde Oost Jndische Comp ter samer Amsterdam
+T25	Organization 359 396;397 416	der geoctroiseerde Oost Jndische Comp ter samer Amsterdam

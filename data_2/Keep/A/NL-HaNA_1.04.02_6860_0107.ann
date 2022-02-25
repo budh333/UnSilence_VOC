@@ -1,0 +1,40 @@
+T1	DuplicatePage 309 318	Holle bak
+T2	TranscriptionError_Document 328 336	Pierings
+T3	Place 921 932;933 963	ten Needer„ „landschen Comptoirent Rembang
+T4	ProperName 925 932;933 943	Needer„ „landschen
+T5	ProperName 956 963	Rembang
+T6	Person 997 1022	Johan Fredtrick Scartarri
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	Person 1026 1037;1038 1056	Jacob Baste „aan als getuijgen
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 997 1022	Johan Fredtrick Scartarri
+T9	ProperName 1026 1037	Jacob Baste
+T10	Person 1239 1249	W: A: Palm
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 1239 1249	W: A: Palm
+T12	Person 1263 1278	Abr: Van Hlmert
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 1263 1278	Abr: Van Hlmert
+T14	Person 1445 1459;1460 1465	Willem Adriaan Palm,
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 1445 1459;1460 1464	Willem Adriaan Palm
+T16	Person 1741 1750;1751 1765	Adsisdent Mathije Elbers
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other
+T17	ProperName 1751 1765	Mathije Elbers
+T18	Person 1828 1852	Adsistent Johannes Knops
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	ProperName 1838 1852	Johannes Knops

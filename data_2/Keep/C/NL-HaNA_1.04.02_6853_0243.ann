@@ -1,0 +1,29 @@
+T1	TranscriptionError_Document 17 19	ee
+T2	DuplicatePage 17 19	ee
+T3	Person 0 15	Michil Hartviel
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 16	Michil Hartviel,
+T5	Person 445 459	Cs V: d:r Stam
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 445 459	Cs V: d:r Stam
+T7	Person 460 469	C:s Levas
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 460 469	C:s Levas
+T9	Place 1038 1045	Batavia
+T10	ProperName 1038 1045	Batavia
+T11	Person 1090 1105	Cs V„n d„r Stam
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 1090 1105	Cs V„n d„r Stam
+T13	Person 1106 1115	P„s Levas
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 1106 1115	P„s Levas

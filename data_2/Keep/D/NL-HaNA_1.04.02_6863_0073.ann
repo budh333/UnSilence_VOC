@@ -1,0 +1,30 @@
+T1	Person 47 50;51 68	Ian arentsz: schokman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 47 50;51 68	Ian arentsz: schokman
+T3	ProperName 85 92	Calambo
+T4	Place 85 92	Calambo
+T5	Place 1247 1256	Amsterdam
+T6	ProperName 1247 1256	Amsterdam
+T7	Organization 1392 1397	Comp:
+T8	ProperName 1392 1397	Comp:
+T9	Person 1422 1437;1438 1457	geweesene slaaf Jan Franciee Havier
+A4	Gender T9 Man
+A5	LegalStatus T9 Freed
+A6	Role T9 Beneficiary
+T10	ProperName 1438 1457	Jan Franciee Havier
+T11	Person 1461 1479;1480 1490	geweesenen Aavinne Anna Maria
+A7	Gender T11 Woman
+A8	LegalStatus T11 Freed
+A9	Role T11 Beneficiary
+T12	ProperName 1480 1490	Anna Maria
+T13	Person 1494 1500	Ioanne
+A10	Gender T13 Woman
+A11	LegalStatus T13 Enslaved
+A12	Role T13 Beneficiary
+T14	ProperName 1494 1500	Ioanne
+T15	Place 1572 1586	steene Huijsie
+T16	Place 1609 1611;1612 1627	ba zaar Merziapaer
+T17	ProperName 1609 1611;1612 1627	ba zaar Merziapaer
+A13	Beneficiary T7 No

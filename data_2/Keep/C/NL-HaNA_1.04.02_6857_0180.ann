@@ -1,0 +1,29 @@
+T1	Person 372 382	fokkenberg
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 372 382	fokkenberg
+T3	Person 459 470	P:r herstal
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 459 469	P:r hersta
+T5	Person 547 559	J: V: Zeijst
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	ProperName 547 559	J: V: Zeijst
+T7	Person 567 577	W: Beukers
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Witness
+T8	ProperName 567 577	W: Beukers
+T9	Person 589 597	JHerstad
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Acting_Notary
+T10	ProperName 589 597	JHerstad
+T11	Noteworthy 459 470;471 484	P:r herstal Gesw: scriba,
+#1	AnnotatorNotes T11	Scriba acting as notary
+T12	Noteworthy 589 597;598 610	JHerstad Gesw: Scriba
+#2	AnnotatorNotes T12	Scriba acting as notary

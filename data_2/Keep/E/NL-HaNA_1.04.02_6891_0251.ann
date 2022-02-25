@@ -1,0 +1,20 @@
+T1	TranscriptionError_Document 0 10	Dispositie
+T2	DuplicatePage 101 105	1775
+T3	ProperName 572 582	Chreijvers
+T4	Person 572 582	Chreijvers
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T5	ProperName 1287 1293	Bantam
+T6	Place 1287 1293	Bantam
+T7	ProperName 1341 1354	Nicolaas Ries
+T8	Person 1341 1354	Nicolaas Ries
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 1358 1374	Lodewijk Meulman
+T10	Person 1358 1374	Lodewijk Meulman
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Witness
+T11	DuplicatePage 1435 1437	en

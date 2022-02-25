@@ -1,0 +1,74 @@
+T1	Person 0 12	S C: Wydeman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+#1	AnnotatorNotes T1	J. C. Wydeman
+T2	ProperName 0 12	S C: Wydeman
+#2	AnnotatorNotes T2	J. C. Wydeman
+T3	Person 18 40	L: S: van E: Stuijvers
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 18 40	L: S: van E: Stuijvers
+T5	Person 42 56	geta Utabuttau
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 42 56	geta Utabuttau
+T7	Person 201 245;246 266	Andries furgen Schults geswoorene Clercq der bengalse Secretarije
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Acting_Notary
+#3	AnnotatorNotes T7	clercq acting as notary
+T8	ProperName 201 223	Andries furgen Schults
+T9	Person 303 322;323 344	Den Eersamen Ian 't Christoffel Wijdemans
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Testator
+T10	ProperName 316 322;323 344	Ian 't Christoffel Wijdemans
+T11	Place 359 371	Coppenhaagen
+T12	ProperName 359 371	Coppenhaagen
+T13	Organization 415 424	’s Comp:s
+T14	Place 1540 1561	Middelburg in Zeeland
+T15	ProperName 1540 1550	Middelburg
+T16	ProperName 1554 1561	Zeeland
+T17	Organization 1512 1530;1531 1561	Luijterse Siaconij aomen de Middelburg in Zeeland
+#4	AnnotatorNotes T17	Diaconij Armen
+T18	Person 1712 1732;1733 1751	voije Christen Vrouw Johanna de Rosairo
+A16	Gender T18 Woman
+A17	LegalStatus T18 Freed
+A18	Role T18 Beneficiary
+T19	ProperName 1733 1751	Johanna de Rosairo
+T21	ProperName 1939 1947	Marquisa
+T22	ProperName 1951 1957	Sabina
+T23	Person 2065 2083	Johanna de Rosairo
+A22	Gender T23 Woman
+A23	LegalStatus T23 Freed
+A24	Role T23 Beneficiary
+T24	ProperName 2065 2083	Johanna de Rosairo
+T25	Person 2288 2323	slaven kind; gen:t Maria de Rosairo
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Enslaved
+A27	Role T25 Beneficiary
+T26	ProperName 2307 2323	Maria de Rosairo
+T27	Person 2453 2471	Johanna de Rosairo
+A28	Gender T27 Woman
+A29	LegalStatus T27 Freed
+A30	Role T27 Beneficiary
+T28	ProperName 2453 2471	Johanna de Rosairo
+T29	Noteworthy 0 12	S C: Wydeman
+#5	AnnotatorNotes T29	This is an updated version of the testament before this from the same testator
+T20	Person 1923 1931	slavinne
+A19	Gender T20 Group
+A20	LegalStatus T20 Enslaved
+A21	Role T20 Other
+T30	Person 1939 1947	Marquisa
+A31	Gender T30 Woman
+A32	LegalStatus T30 Enslaved
+A33	Role T30 Other
+T31	Person 1951 1957	Sabina
+A34	Gender T31 Woman
+A35	LegalStatus T31 Enslaved
+A36	Role T31 Other
+A37	Beneficiary T13 No
+A38	Beneficiary T17 Yes

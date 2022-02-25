@@ -1,0 +1,21 @@
+T1	DuplicatePage 1 10	Amsterdam
+T2	Place 1 10	Amsterdam
+T3	ProperName 1 10	Amsterdam
+T4	Person 469 488	Mons=r Atrij Graver
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 476 488	Atrij Graver
+T6	ProperName 556 565	Wendschoe
+T7	Person 556 565	Wendschoe
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	Person 648 655	slaeven
+A7	Gender T8 Group
+A8	LegalStatus T8 Enslaved
+A9	Role T8 Other
+T9	Person 659 663;664 671	sloo „vinnen
+A10	Gender T9 Group
+A11	LegalStatus T9 Enslaved
+A12	Role T9 Other

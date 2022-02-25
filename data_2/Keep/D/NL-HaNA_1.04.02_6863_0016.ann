@@ -1,0 +1,51 @@
+T1	Place 85 87;88 94	Ni „gomba
+T2	ProperName 85 87;88 94	Ni „gomba
+T3	Place 49 62	Koningsbergen
+T4	ProperName 49 62	Koningsbergen
+T5	Person 20 44	Ian Christoffel Herscher
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator_Beneficiary
+T6	ProperName 20 44	Ian Christoffel Herscher
+T7	ProperName 66 80	Maria Pitersz:
+T8	Person 66 80	Maria Pitersz:
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator_Beneficiary
+T10	Organization 629 641;642 647	de diakonije aamen
+T11	Person 1079 1086;1087 1106	zoantje Cornelis Valenthijn
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 1087 1106	Cornelis Valenthijn
+T9	Person 957 964	slaaven
+A7	Gender T9 Group
+A8	LegalStatus T9 Enslaved
+A9	Role T9 Other
+T13	Person 794 801;802 808	Hlaogen Rachel
+A13	Gender T13 Woman
+A14	LegalStatus T13 Enslaved
+A15	Role T13 Other
+#1	AnnotatorNotes T13	slavin
+T14	ProperName 802 808	Rachel
+T15	Person 833 839	Keelje
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Enslaved
+A18	Role T15 Other
+T16	ProperName 833 839	Keelje
+T17	ProperName 841 847	Livind
+T18	Person 841 847	Livind
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Enslaved
+A21	Role T18 Other
+T19	ProperName 849 856	Domingo
+T20	Person 849 856	Domingo
+A22	Gender T20 Unspecified
+A23	LegalStatus T20 Enslaved
+A24	Role T20 Other
+T21	ProperName 859 865	Amelia
+T22	Person 859 865	Amelia
+A25	Gender T22 Unspecified
+A26	LegalStatus T22 Enslaved
+A27	Role T22 Other
+A28	Beneficiary T10 No

@@ -1,0 +1,20 @@
+T1	Person 402 413	David Jansz
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	Person 415 425;426 459	Jude Louis Louisz:, Clercqueen als getuijgen
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Witness
+T3	ProperName 402 413	David Jansz
+T4	ProperName 415 425;426 432	Jude Louis Louisz
+T5	Person 539 559	GFranRim ons Notat:s
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	ProperName 539 551	GFranRim ons
+T7	Person 578 586	Jan Wenk
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 578 586	Jan Wenk

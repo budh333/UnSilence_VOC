@@ -1,0 +1,7 @@
+T1	TranscriptionError_Document 0 3	dat
+T2	Organization 183 192	Comptoire
+T3	Person 599 630;631 642	Boesemvrund Hendrik Verkerk van Cuijlenburg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 611 630;631 642	Hendrik Verkerk van Cuijlenburg

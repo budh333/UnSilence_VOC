@@ -1,0 +1,99 @@
+T1	Person 108 114	P: Ras
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Person 154 166	S: A: Dreier
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T3	Person 215 217;218 224	I: Dreier
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Other
+T4	Organization 278 296;297 305	Raade van Iustitie Samarang
+T5	Place 297 305	Samarang
+T6	ProperName 297 305	Samarang
+T7	Person 380 387	Kenning
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	Person 412 427	abraham andries
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	ProperName 412 427	abraham andries
+T10	Person 447 461	d’ Heer Jnhoff
+A16	Gender T10 Man
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	Person 485 493	Cordorin
+A19	Gender T11 Unspecified
+A20	LegalStatus T11 Unspecified
+A21	Role T11 Other
+T12	Person 511 519	volborth
+A22	Gender T12 Unspecified
+A23	LegalStatus T12 Unspecified
+A24	Role T12 Other
+T13	Person 539 549	Zeijdelker
+A25	Gender T13 Unspecified
+A26	LegalStatus T13 Unspecified
+A27	Role T13 Other
+T14	Person 585 599	Cornelis Lange
+A28	Gender T14 Unspecified
+A29	LegalStatus T14 Unspecified
+A30	Role T14 Other
+T15	ProperName 585 599	Cornelis Lange
+T16	Person 764 775	Berghuijsen
+A31	Gender T16 Unspecified
+A32	LegalStatus T16 Unspecified
+A33	Role T16 Other
+T17	Person 918 935	d'hoer bescharner
+A34	Gender T17 Unspecified
+A35	LegalStatus T17 Unspecified
+A36	Role T17 Other
+T18	Person 965 973	Jan moor
+A37	Gender T18 Unspecified
+A38	LegalStatus T18 Unspecified
+A39	Role T18 Other
+T19	ProperName 965 973	Jan moor
+T20	Person 1011 1020	Witte kop
+A40	Gender T20 Unspecified
+A41	LegalStatus T20 Unspecified
+A42	Role T20 Other
+T21	ProperName 1011 1020	Witte kop
+T22	Person 1070 1081	Berkhuijsen
+A43	Gender T22 Unspecified
+A44	LegalStatus T22 Unspecified
+A45	Role T22 Other
+T23	Person 1119 1130	adj: kranij
+A46	Gender T23 Unspecified
+A47	LegalStatus T23 Unspecified
+A48	Role T23 Other
+T24	Person 1149 1162	d’heer Jmhoff
+A49	Gender T24 Man
+A50	LegalStatus T24 Unspecified
+A51	Role T24 Other
+T25	Person 1193 1203	bescharner
+A52	Gender T25 Man
+A53	LegalStatus T25 Unspecified
+A54	Role T25 Other
+T26	Person 1246 1253	Contant
+A55	Gender T26 Unspecified
+A56	LegalStatus T26 Unspecified
+A57	Role T26 Other
+T27	Person 1283 1293	Leijdekker
+A58	Gender T27 Unspecified
+A59	LegalStatus T27 Unspecified
+A60	Role T27 Other
+T28	Person 1324 1342	d’ heer bescharnen
+A61	Gender T28 Man
+A62	LegalStatus T28 Unspecified
+A63	Role T28 Other
+T29	Person 1394 1401	Helmond
+A64	Gender T29 Unspecified
+A65	LegalStatus T29 Unspecified
+A66	Role T29 Other
+T30	Person 1444 1455	Berghuijsen
+A67	Gender T30 Unspecified
+A68	LegalStatus T30 Unspecified
+A69	Role T30 Other

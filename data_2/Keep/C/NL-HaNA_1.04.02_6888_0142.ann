@@ -1,0 +1,6 @@
+T1	Organization 508 539;540 552	t' Eerwaarde Collegie van here„ Weesmesteren
+T2	Organization 1122 1140;1141 1181	de Edele Groot, A: Heeren Bewindhebberen der Kamer Enkhuijs
+T3	Place 1173 1181	Enkhuijs
+T4	ProperName 1173 1181	Enkhuijs
+A1	Beneficiary T1 No
+A2	Beneficiary T2 No

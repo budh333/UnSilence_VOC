@@ -1,0 +1,110 @@
+T1	Person 13 27	„endrik Dykman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 13 27	„endrik Dykman
+T4	Place 604 611;612 625	Houglij fort Gustavus
+T3	Person 661 676;677 681	Cornelis Breng„ „man
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T5	ProperName 661 676;677 681	Cornelis Breng„ „man
+T7	ProperName 685 698	Jan van Hoorn
+T8	Person 943 962	J„s schultz GClercq
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Acting_Notary
+#1	AnnotatorNotes T8	acting as notary
+T9	ProperName 943 954	J„s schultz
+T10	Organization 1006 1045	den Raad van Justitie desforts Gustavus
+T12	ProperName 1117 1131	Jan Kersseboom
+T13	Person 1238 1259;1260 1266	Robbert Hendrik Arme„ „naylt
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 1238 1259;1260 1266	Robbert Hendrik Arme„ „naylt
+T15	Person 1268 1288	Jan Hendrik Swenkels
+A19	Gender T15 Group
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 1268 1288	Jan Hendrik Swenkels
+T17	Person 1290 1311	Gualter van der Beets
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 1290 1311	Gualter van der Beets
+T19	Person 1313 1332	Pieter Johan Ribant
+A25	Gender T19 Unspecified
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 1313 1332	Pieter Johan Ribant
+T21	Person 1334 1360;1361 1367	Jacob Larwood van Schevic„ „haven
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Other
+T22	ProperName 1334 1360;1361 1367	Jacob Larwood van Schevic„ „haven
+T23	Person 1369 1383	Arend Hooreman
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 1369 1383	Arend Hooreman
+T25	Person 1385 1398	Simon De Hoog
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Other
+T26	ProperName 1385 1398	Simon De Hoog
+T27	Person 1402 1408;1409 1417	Daniel overbeek
+A37	Gender T27 Unspecified
+A38	LegalStatus T27 Unspecified
+A39	Role T27 Other
+T28	ProperName 1402 1408;1409 1417	Daniel overbeek
+T29	Person 1432 1456	Jsdoor Jan Jurgen Zimmer
+A40	Gender T29 Unspecified
+A41	LegalStatus T29 Unspecified
+A42	Role T29 Other
+T30	ProperName 1432 1456	Jsdoor Jan Jurgen Zimmer
+T31	Person 1508 1526	de Chaloup DE Maas
+A43	Gender T31 Unspecified
+A44	LegalStatus T31 Unspecified
+A45	Role T31 Other
+T32	ProperName 1519 1526	DE Maas
+T34	ProperName 1556 1574	Jurriden Lourensz:
+T35	Person 1660 1698	Gezworen Clercq Andries Jurgen Schultz
+A49	Gender T35 Unspecified
+A50	LegalStatus T35 Unspecified
+A51	Role T35 Acting_Notary
+#2	AnnotatorNotes T35	acts as notary
+T36	ProperName 1676 1698	Andries Jurgen Schultz
+T37	Person 1989 1999;2000 2008	M„s Koning secret:s
+A52	Gender T37 Unspecified
+A53	LegalStatus T37 Unspecified
+A54	Role T37 Other
+T38	ProperName 1989 1999	M„s Koning
+T39	Person 2053 2072	M„s Koning ElClercq
+A55	Gender T39 Unspecified
+A56	LegalStatus T39 Unspecified
+A57	Role T39 Other
+T40	ProperName 2053 2063	M„s Koning
+T41	Person 2116 2136	M„s Koning EGClercq:
+A58	Gender T41 Unspecified
+A59	LegalStatus T41 Unspecified
+A60	Role T41 Other
+T42	ProperName 2116 2126	M„s Koning
+T43	Person 2148 2158	M„s Koning
+A61	Gender T43 Unspecified
+A62	LegalStatus T43 Unspecified
+A63	Role T43 Other
+T44	ProperName 2148 2158	M„s Koning
+T6	Person 685 708	Jan van Hoorn Clercquen
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T11	Person 1112 1131	Heer Jan Kersseboom
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T33	Person 1556 1574	Jurriden Lourensz:
+A46	Gender T33 Man
+A47	LegalStatus T33 Unspecified
+A48	Role T33 Testator
+A64	Beneficiary T10 No

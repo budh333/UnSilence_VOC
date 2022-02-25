@@ -1,0 +1,25 @@
+T1	ProperName 146 168	Ernst Fredrik Sluijten
+T2	Person 146 168	Ernst Fredrik Sluijten
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 651 671	andreas arens foster
+T4	Person 651 671	andreas arens foster
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 823 836;837 848	P„l adsistent Jacob boese
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 837 848	Jacob boese
+T7	Person 993 1031;1032 1039	huijs houster den Javans Vrouw, in naw Johanna
+A10	Gender T7 Woman
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 1032 1039	Johanna
+T9	Person 1284 1307	vader claas Jillis Lave
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 1290 1307	claas Jillis Lave

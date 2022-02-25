@@ -1,0 +1,38 @@
+T1	TranscriptionError_Document 0 3	Lat
+T2	ProperName 285 291;292 297	Willem Plaak
+T3	Person 285 291;292 297	Willem Plaak
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 813 821	Sannetje
+T5	ProperName 827 844	geertruijt Plack,
+T6	Person 813 821	Sannetje
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Beneficiary
+T7	Person 827 844	geertruijt Plack,
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	Place 871 880	amsterdam
+T9	ProperName 871 880	amsterdam
+T10	ProperName 1034 1042	Sannetie
+T11	Person 1034 1042	Sannetie
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 1045 1061	geertruijt Plack
+T13	Person 1045 1061	geertruijt Plack
+A13	Gender T13 Woman
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	ProperName 1343 1360	Sannetie Willemsz
+T15	Person 1343 1361	Sannetie Willemsz:
+A16	Gender T15 Woman
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary
+T16	ProperName 1375 1385;1386 1391	Christiaen Plack
+T17	Person 1375 1385;1386 1391	Christiaen Plack
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other

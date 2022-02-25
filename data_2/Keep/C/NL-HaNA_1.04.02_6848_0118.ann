@@ -1,0 +1,9 @@
+T1	Person 826 849;850 873	moeder mejuffrouw Eliza beth van 'S Gravenweerd
+A1	Gender T1 Woman
+A2	LegalStatus T1 Unspecified
+T2	ProperName 844 849;850 873	Eliza beth van 'S Gravenweerd
+T3	Place 888 894	zeedan
+T4	ProperName 888 894	zeedan
+T5	Organization 1641 1663;1664 1688	het Eerwaarde Collegie van heeren Weesmeesteren
+A3	Role T1 Beneficiary
+A4	Beneficiary T5 No

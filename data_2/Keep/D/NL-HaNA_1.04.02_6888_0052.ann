@@ -1,0 +1,11 @@
+T1	Organization 30 35	Comp:
+A1	Beneficiary T1 No
+T2	ProperName 30 35	Comp:
+T3	Place 24 46;47 52	op s: Comp:s Equipagie werff
+T4	Person 846 861	mons van gelder
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Beneficiary
+T5	ProperName 851 861	van gelder
+T6	Organization 1142 1182;1183 1192	het Eerwaarde Collegie van, heeren wees„ meesteren
+A5	Beneficiary T6 No

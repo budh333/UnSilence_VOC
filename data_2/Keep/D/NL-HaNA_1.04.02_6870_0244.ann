@@ -1,0 +1,24 @@
+T1	Person 211 233	de vrije vrouwe Iannij
+A1	Gender T1 Woman
+A2	LegalStatus T1 Freed
+A3	Role T1 Other
+T2	ProperName 227 233	Iannij
+T3	ProperName 633 638	sComp
+T4	Organization 633 638	sComp
+A4	Beneficiary T4 No
+T5	Place 746 779	Maccasjer in 't Casteel Rotterdam
+T6	ProperName 746 755	Maccasjer
+T7	Place 746 755	Maccasjer
+T8	ProperName 759 779	't Casteel Rotterdam
+T9	Place 759 779	't Casteel Rotterdam
+T10	ProperName 433 446	J„r J„m Banse
+T11	Person 433 446	J„r J„m Banse
+A5	Gender T11 Unspecified
+A6	LegalStatus T11 Unspecified
+A7	Role T11 Other
+T12	ProperName 392 403	A„o Toorman
+T13	Person 392 403	A„o Toorman
+A8	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Other
+T14	DuplicatePage 0 3	den

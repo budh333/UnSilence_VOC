@@ -1,0 +1,31 @@
+T1	Place 30 38	Samatang
+T2	ProperName 30 38	Samatang
+T3	Person 156 169;170 178	Ernst fredrik Sluijter
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 156 169;170 178	Ernst fredrik Sluijter
+T5	Place 183 192	lemfeurde
+T6	ProperName 183 192	lemfeurde
+T7	Place 251 262	Poera Carta
+T8	ProperName 251 262	Poera Carta
+T9	ProperName 264 285	Balthazar Toutlemonde
+T10	Person 264 285	Balthazar Toutlemonde
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	Person 554 571	P„s van der velde
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 554 571	P„s van der velde
+T13	Person 614 628	B, Soutlemonde
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 614 628	B, Soutlemonde
+T15	Person 644 651	Wistaff
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 644 651	Wistaff

@@ -1,0 +1,24 @@
+T1	Place 87 95	Samarang
+T2	ProperName 87 95	Samarang
+T3	Person 212 231	Iulius Paul Koolman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 212 231	Iulius Paul Koolman
+T5	Organization 508 514	Comp:s
+T6	ProperName 508 514	Comp:s
+T7	Person 765 790	J:r g: Ielmsie Secretaris
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 765 779	J:r g: Ielmsie
+T9	Person 829 851	I:s N: van Tukcrarpmer
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 829 851	I:s N: van Tukcrarpmer
+T11	Person 862 870	A„ Phijn
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 862 870	A„ Phijn

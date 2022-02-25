@@ -1,0 +1,24 @@
+T1	Place 138 153;154 165	Jn't Casteel de goede lloop
+T2	ProperName 143 153;154 165	Casteel de goede lloop
+#1	AnnotatorNotes T2	Casteel de Goede Hoop
+T3	Person 228 240;241 250	Otto Wilhelm Rotenburg
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	Person 254 278	Oloff Christoff Karnspek
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 254 278	Oloff Christoff Karnspek
+T6	ProperName 228 240;241 250	Otto Wilhelm Rotenburg
+T7	Place 492 512	ten zoldij Comptoire
+T8	ProperName 523 534	D D' Aillij
+T9	Person 523 534	D D' Aillij
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Person 439 466	J„n fr: Tiemendorsf, secret
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Acting_Notary
+T11	ProperName 439 458	J„n fr: Tiemendorsf
