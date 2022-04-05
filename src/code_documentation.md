@@ -10,7 +10,7 @@ We use and compare single-task and multi-task approaches. The former focuses on 
 
 ## Requirements
 
-See `environment.yml` for a full list of modules and libraries that were used during development, as well as a way to restore this environment using Conda.
+See [`environment.yml`](environment.yml) for a full list of modules and libraries that were used during development, as well as a way to restore this environment using Conda.
 
 ## Implementation
 
