@@ -5,4 +5,6 @@ universal triad to encompass all mentions of entities, both named and unnamed, a
 
 ![annotationtypology](../images/AnnotationTypology.png)
 
-
+Our custom typology separates the name of an entity (always tagged separately as Proper Name) from a generic reference to an
+entity type (Person, Place or Organization). We introduce this distinction primarily because marginalized persons are frequently mentioned in the VOC testaments, and in colonial archives more generally, without name. Instead they are referred to by a variety of terms such as “slaaf” [slave], “leiffeigenen” [serf] and “inlandse burger” [formerly enslaved persons or descendants
+of freed slaves]. 
