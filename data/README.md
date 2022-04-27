@@ -14,7 +14,7 @@ The entity type Person may refer to individuals or groups of people. When annota
 ### Gender 
 When the mention of a person is followed or preceded by trigger words which reveal their gender, the text is annotated as a Person with the appropriate value of the attribute *Gender*. For each entity person, the attribute gender takes exactly one of the values from the legend in figure below:
 
-<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Gender_Legend.png" width="150" height="150">
+<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Gender_Legend.png" width="125" height="150">
 
 <!--![genderlegend](../images/Gender_Legend.png)-->
 
