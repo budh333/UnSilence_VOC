@@ -39,3 +39,6 @@ For each entity *Person*, the attribute Legal Status takes exactly one of the va
 The attribute legal status takes the value Enslaved when the trigger words clearly identify the individual(s) to be enslaved. The attribute value *Free(d)* is often triggered by the word ‘vrije’ [free]. It refers to persons who were set free (for different reasons such as when they bought themselves free, as an act of benevolence, or for economic reasons) sometimes on the condition that they adopted the Christian religion. It could also refer to children of the manumitted slaves who, although born free, kept carrying the adjective ‘vrije’ [free], or if they were Christian they were labelled as ‘free Christian’. Finally, the adjective ‘free’ was also used for groups of free indigenous (who were never enslaved) labelled for instance as ‘vrije inlander’ [free native]. The attribute value *Free(d)* captures these three different senses of the word ‘vrije’, for which there is no clear way to clearly disambiguate among. When no trigger words are used, legal status is instead annotated as *Unspecified*.
 
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/LegalStatuses.png" width="450" height="200">
+
+## Notarial Roles
+
