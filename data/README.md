@@ -24,6 +24,8 @@ When a person is mentioned without a gender trigger word, their gender is marked
 
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderGroup.png" width="450" height="200">
 
+Persons are annotated by trigger words alone, in the absence of a proper name and in the case marginalised persons such as enslaved and formerly enslaved persons. This is because such persons are often mentioned without name and are of particular interest to our research. An example of a mention of an enslaved man without name is given in figure below:
+
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderNoName.png" width="450" height="125">
 
 
