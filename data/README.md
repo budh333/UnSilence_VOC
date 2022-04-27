@@ -20,6 +20,6 @@ When the mention of a person is followed or preceded by trigger words which reve
 
 When a person is mentioned without a gender trigger word, their gender is marked as *Unspecified*. This approach restricts possible ‘annotator bias’ due to unfounded inferences.
 
-<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderNames.png" width="400" height="200">
+<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderNames.png" width="500" height="250">
 
 
