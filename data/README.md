@@ -24,6 +24,6 @@ When a person is mentioned without a gender trigger word, their gender is marked
 
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderGroup.png" width="450" height="200">
 
-<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderNoName.png" width="450" height="150">
+<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderNoName.png" width="450" height="125">
 
 
