@@ -14,7 +14,7 @@ The entity type Person may refer to individuals or groups of people. When annota
 ### Gender 
 When the mention of a person is followed or preceded by trigger words which reveal their gender, the text is annotated as a Person with the appropriate value of the attribute *Gender*. For each entity person, the attribute gender takes exactly one of the values from the legend in figure below:
 
---![genderlegend](../images/Gender_Legend.png)--
+<!--![genderlegend](../images/Gender_Legend.png)-->
 
 When a person is mentioned without a gender trigger word, their gender is marked as *Unspecified*. This approach restricts possible ‘annotator bias’ due to unfounded inferences.
 
