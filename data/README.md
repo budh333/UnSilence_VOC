@@ -32,3 +32,4 @@ Persons are annotated by trigger words alone, in the absence of a proper name an
 
 For each entity *Person*, the attribute Legal Status takes exactly one of the values explained using the legend in the figure below:
 
+<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/LegalStatus.png" width="125" height="150">
