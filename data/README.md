@@ -53,3 +53,5 @@ The attribute *Role* refers to roles specific to testaments in notarial archives
 
 An *Acting Notary* is a role taken on by a person who, in the absence of an officially recognized notary, performs the notarial deed as can be inferred from the extract in figure below (labelled in purple). The role *Testator Beneficiary*, instead, is attributed to those people who are both testator and beneficiary in the context of the testament. For instance, when man and wife collectively write down their testaments, each of them is a testator and often both of them are also each-other’s beneficiaries. The role *Other* is attributed to those persons whose role does not correspond to any of the six roles (for instance the annotation in orange in figure below) or when their role is not clearly mentioned.
 
+<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/ActingNotary.png" width="450" height="200">
+
