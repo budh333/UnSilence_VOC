@@ -43,11 +43,11 @@ The attribute legal status takes the value Enslaved when the trigger words clear
 ## Role
 
 The attribute *Role* refers to roles specific to testaments in notarial archives, which may take exactly one of the following values:
-• Notary
-• Acting Notary
-• Testator
-• Beneficiary
-• Testator Beneficiary
-• Witness
-• Other
+* Notary
+* Acting Notary
+* Testator
+* Beneficiary
+* Testator Beneficiary
+* Witness
+* Other
 
