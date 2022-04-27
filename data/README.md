@@ -40,5 +40,14 @@ The attribute legal status takes the value Enslaved when the trigger words clear
 
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/LegalStatuses.png" width="450" height="200">
 
-## Notarial Roles
+## Role
+
+The attribute *Role* refers to roles specific to testaments in notarial archives, which may take exactly one of the following values:
+• Notary
+• Acting Notary
+• Testator
+• Beneficiary
+• Testator Beneficiary
+• Witness
+• Other
 
