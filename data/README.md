@@ -8,3 +8,8 @@ universal triad to encompass all mentions of entities, both named and unnamed, a
 Our custom typology separates the name of an entity (always tagged separately as Proper Name) from a generic reference to an
 entity type (Person, Place or Organization). We introduce this distinction primarily because marginalized persons are frequently mentioned in the VOC testaments, and in colonial archives more generally, without name. Instead they are referred to by a variety of terms such as “slaaf” [slave], “leiffeigenen” [serf] and “inlandse burger” [formerly enslaved persons or descendants
 of freed slaves]. 
+
+## Person
+
+The entity type Person may refer to individuals or groups of people. When annotating a text span as a person, the span should include the proper name and/or available contextual trigger words. Trigger words in this typology also include words or phrases which provide information on the gender, legal status or notarial role of the person(s). Accordingly, the entity type person has three attributes: Gender, Role and Legal Status. When a person is mentioned multiple times across a testament (with or without trigger words), they are
+annotated with the same attribute which was inferred from the presence of the trigger words.
