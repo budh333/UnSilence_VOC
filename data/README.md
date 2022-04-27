@@ -28,4 +28,3 @@ Persons are annotated by trigger words alone, in the absence of a proper name an
 
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderNoName.png" width="450" height="125">
 
-
