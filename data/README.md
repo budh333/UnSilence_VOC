@@ -75,6 +75,6 @@ and attributes gender and legal status respectively. In our dataset, annotations
 <figure>
   <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Proper_Names.png" width="450" height="200">
   <figcaption>
-  <strong>Figure 1:</strong>Instance of Annotations of proper names
+  <strong>Figure 1: </strong>Instance of Annotations of proper names
   </figcaption>
 </figure>
