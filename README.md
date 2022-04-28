@@ -16,7 +16,7 @@ This project is concerned with [testaments of those employed by the VOC](https:/
 4% of the testaments were annotated using the brat rapid annotation tool (BRAT). 
 
 ## Annotation Schema
-Please refer to the documentation of the annotation schema [here[(data/Readm)
+Please refer to the documentation of the annotation schema [here](data/README.md)
 
 
 # Code
