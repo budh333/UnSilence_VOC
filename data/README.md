@@ -164,7 +164,12 @@ The entity *Proper Name* refers to names (proper nouns) of the other entities in
  
 When annotators encounter a fragment of text that reveals some interesting information, it is tagged under this entity. Additionally a comment may be left under the “Note” section of any annotation. For instance the note left for the noteworthy annotation may state the correct spelling, and why the annotator found the phrase noteworthy.
 
-<img src="../images/Noteworthy_notes.png" width=50% height=50%> 
+<figure>
+  <img src="../images/Noteworthy_notes.png" width="450" height="200">
+  <figcaption>
+  <strong>Figure 13: </strong>Instance of Annotations of proper names.
+  </figcaption>
+</figure>
 
 ## TranscriptionError_Document
 Sometimes certain documents are scanned with overlaps, thus leading to incorrect transcriptions. All entities are annotated on such pages, and a single "TranscriptionError_Document" entity is annotated on such pages. 
