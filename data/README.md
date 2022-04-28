@@ -59,4 +59,4 @@ An *Acting Notary* is a role taken on by a person who, in the absence of an offi
 
 The entity *Place* is used to annotate places or locations.
 
-<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Places.png" width="450" height="200">
+<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Places.png" width="450" height="160">
