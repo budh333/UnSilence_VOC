@@ -56,6 +56,3 @@ An *Acting Notary* is a role taken on by a person who, in the absence of an offi
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/ActingNotary.png" width="450" height="225">
 
 
-
-
-
