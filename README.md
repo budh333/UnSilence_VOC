@@ -13,11 +13,13 @@ This project is concerned with [testaments of those employed by the VOC](https:/
 
 # Data
 
-4% of the testaments were annotated using the brat rapid annotation tool (BRAT). 
+*statistics: #pages, percentage, duplicates, IAA, annotations, enitites, sub enitites, tokens*
 
 ## Annotation Schema
 Please refer to the documentation of the annotation schema [here](data/README.md)
 
+## Data Statement
+Please refer to the data statement of the annotated dataset here: 
 
 # Code
 
