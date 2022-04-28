@@ -63,6 +63,18 @@ The entity *Place* is used to annotate places or locations.
 
 ## Organization
 
-This entity, as the name suggests, refers to organizations such as companies, orphanages, religious institutions and other branches of the church. Organizations have the attribute Beneficiary which can take the value Yes or No depending on whether the testator decides an organization to be their beneficiary. 
+This entity, as the name suggests, refers to organizations such as companies, orphanages, religious institutions and other branches of the church. Organizations have the attribute *Beneficiary* which can take the value *Yes* or *No* depending on whether the testator decides an organization to be their beneficiary. 
 
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Organization.png" width="450" height="200">
+
+## Proper Name 
+
+The entity *Proper Name* refers to names (proper nouns) of the other entities in this typology: *Person*, *Place* and *Organization*. In the figure below proper names are annotated in pink, which can be compared with Figure 4 and Figure 9 where the same excerpt is labeled using the entity person
+and attributes gender and legal status respectively. In our dataset, annotations overlap.
+
+<figure>
+  <img src="path/to/image.png">
+  <figcaption>
+  labelname :: This is the label text.
+  </figcaption>
+</figure>
