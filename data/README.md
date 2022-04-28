@@ -60,3 +60,7 @@ An *Acting Notary* is a role taken on by a person who, in the absence of an offi
 The entity *Place* is used to annotate places or locations.
 
 <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Places.png" width="450" height="160">
+
+## Organization
+
+This entity, as the name suggests, refers to organizations such as companies, orphanages, religious institutions and other branches of the church. Organizations have the attribute Beneficiary which can take the value Yes or No depending on whether the testator decides an organization to be their beneficiary. 
