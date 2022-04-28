@@ -2,7 +2,6 @@
 
 To 'unsilence' colonial archives by broadening access, more inclusive finding aids are required, encompassing all persons mentioned in the archive with emphasis on marginalized ones. Existing generic typologies for named entity recognition and classification tasks mainly focus on the high-level 'universal' or 'ubiquitous' triad *Person*, *Organization* and *Location*. **Our custom typology extends the universal triad to encompass all mentions of entities, both named and unnamed, and further qualifies them by gender, legal status, notarial roles and other relevant attributes**. 
 
-&nbsp;
 
   <img src="../images/AnnotationTypology.png" width="700" height="300">
   <figcaption>
@@ -10,7 +9,6 @@ To 'unsilence' colonial archives by broadening access, more inclusive finding ai
   </figcaption>
 </figure>
 
-&nbsp;
 &nbsp;
 
 Our custom typology separates the name of an entity (always tagged separately as Proper Name) from a generic reference to an entity type (Person, Place or Organization). We introduce this distinction primarily because marginalized persons are frequently mentioned in the VOC testaments, and in colonial archives more generally, without name. Instead they are referred to by a variety of terms such as “slaaf” [slave], “leiffeigenen” [serf] and “inlandse burger” [formerly enslaved persons or descendants of freed slaves]. 
@@ -22,7 +20,6 @@ The entity type Person may refer to individuals or groups of people. When annota
 ### Gender 
 When the mention of a person is followed or preceded by trigger words which reveal their gender, the text is annotated as a Person with the appropriate value of the attribute *Gender*. For each entity person, the attribute gender takes exactly one of the values from the legend in figure below:
 
-&nbsp;
 
 <figure>
   <img src="../images/Gender_Legend.png" width="125" height="150">
@@ -31,7 +28,6 @@ When the mention of a person is followed or preceded by trigger words which reve
   </figcaption>
 </figure>
 
-&nbsp;
 &nbsp;
 
 
@@ -46,18 +42,15 @@ When a person is mentioned without a gender trigger word, their gender is marked
 </figure>
 
 &nbsp;
-&nbsp;
 <!--![genderlegend](../images/Gender_Legend.png)-->
 
-&nbsp;
 <figure>
   <img src="../images/GenderGroup.png" width="450" height="200">
   <figcaption>
-  <strong>Figure 2: </strong> Instance of an annotation of a group of persons.
+  <strong>Figure 3: </strong> Instance of an annotation of a group of persons.
   </figcaption>
 </figure>
 
-&nbsp;
 &nbsp;
 
 Persons are annotated by trigger words alone, in the absence of a proper name and in the case marginalised persons such as enslaved and formerly enslaved persons. This is because such persons are often mentioned without name and are of particular interest to our research. An example of a mention of an enslaved man without name is given in figure below:
