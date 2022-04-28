@@ -73,7 +73,7 @@ The entity *Proper Name* refers to names (proper nouns) of the other entities in
 and attributes gender and legal status respectively. In our dataset, annotations overlap.
 
 <figure>
-  <img src="path/to/image.png">
+  <img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/Proper_Names.png">
   <figcaption>
   labelname :: This is the label text.
   </figcaption>
