@@ -37,7 +37,7 @@ When a person is mentioned without a gender trigger word, their gender is marked
 <figure>
   <img src="../images/GenderNames.png" width="450" height="180">
   <figcaption>
-  <strong>Figure 2: </strong> Instance of annotations of genders of persons, with and without leading qualifiers.
+  <strong>Figure 3: </strong> Instance of annotations of genders of persons, with and without leading qualifiers.
   </figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ When a person is mentioned without a gender trigger word, their gender is marked
 <figure>
   <img src="../images/GenderGroup.png" width="450" height="200">
   <figcaption>
-  <strong>Figure 3: </strong> Instance of an annotation of a group of persons.
+  <strong>Figure 4: </strong> Instance of an annotation of a group of persons.
   </figcaption>
 </figure>
 
