@@ -41,7 +41,7 @@ When a person is mentioned without a gender trigger word, their gender is marked
 <figure>
   <img src="../images/GenderNames.png" width="450" height="180">
   <figcaption>
-  <strong>Figure 2: </strong> Legend for labeling person-gender attribute values.
+  <strong>Figure 2: </strong> Instance of annotations of genders of persons, with and without leading qualifiers.
   </figcaption>
 </figure>
 
@@ -49,7 +49,16 @@ When a person is mentioned without a gender trigger word, their gender is marked
 &nbsp;
 <!--![genderlegend](../images/Gender_Legend.png)-->
 
-<img src="https://github.com/budh333/UnSilence_VOC/blob/main/images/GenderGroup.png" width="450" height="200">
+&nbsp;
+<figure>
+  <img src="../images/GenderGroup.png" width="450" height="200">
+  <figcaption>
+  <strong>Figure 2: </strong> Instance of an annotation of a group of persons.
+  </figcaption>
+</figure>
+
+&nbsp;
+&nbsp;
 
 Persons are annotated by trigger words alone, in the absence of a proper name and in the case marginalised persons such as enslaved and formerly enslaved persons. This is because such persons are often mentioned without name and are of particular interest to our research. An example of a mention of an enslaved man without name is given in figure below:
 
