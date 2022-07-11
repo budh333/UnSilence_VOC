@@ -22,7 +22,7 @@ Total number of annotated tokens is 79,715 more details given in table below:
 Please refer to the documentation of the annotation schema [here](data/README.md)
 
 ## Data Statement
-Please refer to the data statement of the annotated dataset here: 
+Please refer to the data statement of the annotated dataset here (coming soon)
 
 # Code
 
