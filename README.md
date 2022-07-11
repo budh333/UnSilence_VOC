@@ -13,9 +13,7 @@ This project is concerned with [testaments of those employed by the VOC](https:/
 # Data
 
 The corpus consists of 2183 unique pages, plus 307 duplicated ones (for calculating the Inter-Annotator Agreement), resulting in a total of 2490 pages.
-Total number of annotations is 68,416 of which 32,203 at the entitiy level (47%) abd 36,213 at the attribute level (53%). 
-
-Total number of annotated tokens is 79,715 more details given in table below:
+Total number of annotations is 68,416 of which 32,203 at the entitiy level (47%) and 36,213 at the attribute level (53%). 
 
 **Entity Type**|**Number of Annotations**|**Percentage over Total**|
 -------------- | ----------------------- | ----------------------- |
@@ -24,6 +22,17 @@ Place          | 4,522                   | 14.0 %                  |
 Organization   | 1113                    | 3.5%                    |
 Proper Name    | 14,868                  | 46.2%                   |
 **Total**      | **33,203**              | **100%**                |
+
+
+Total number of annotated tokens is 79,715 more details given in table below:
+
+**Entity Type**|**Number of Tokens**     |**Average per Annotation**|
+-------------- | ----------------------- | ------------------------ |
+Person         | 32,517                  | 2.8                      | 
+Place          | 10,115                  | 2.2                      |
+Organization   | 4775                    | 4.3                      |
+Proper Name    | 32,308                  | 2.2.                     |
+**Total**      | **79,715**              | **2.7**                  |
 
 
 ## Annotation Schema
