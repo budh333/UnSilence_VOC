@@ -13,7 +13,7 @@ This project is concerned with [testaments of those employed by the VOC](https:/
 # Data
 
 The corpus consists of 2183 unique pages, plus 307 duplicated ones (for calculating the Inter-Annotator Agreement), resulting in a total of 2490 pages.
-Total number of annotations is 68,416 of which 32,203 at the entitiy level (47%) and 36,213 at the attribute level (53%). 
+Total number of annotations is 68,416 of which 32,203 at the entity level (47%) and 36,213 at the attribute level (53%). 
 
 **Entity Type**|**Number of Annotations**|**Percentage over Total**|
 -------------- | ----------------------- | ----------------------- |
