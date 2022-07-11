@@ -19,7 +19,7 @@ Total number of annotations is 68,416 of which 32,203 at the entitiy level (47%)
 -------------- | ----------------------- | ----------------------- |
 Person         | 11,700                  | 36.3 %                  | 
 Place          | 4,522                   | 14.0 %                  |
-Organization   | 1113                    | 3.5%                    |
+Organization   | 1,113                   | 3.5%                    |
 Proper Name    | 14,868                  | 46.2%                   |
 **Total**      | **33,203**              | **100%**                |
 
@@ -30,8 +30,8 @@ Total number of annotated tokens is 79,715 more details given in table below:
 -------------- | ----------------------- | ------------------------ |
 Person         | 32,517                  | 2.8                      | 
 Place          | 10,115                  | 2.2                      |
-Organization   | 4775                    | 4.3                      |
-Proper Name    | 32,308                  | 2.2.                     |
+Organization   | 4,775                   | 4.3                      |
+Proper Name    | 32,308                  | 2.2                      |
 **Total**      | **79,715**              | **2.7**                  |
 
 
