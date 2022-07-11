@@ -23,4 +23,4 @@ Please refer to the data statement of the annotated dataset here:
 
 # Code
 
-Please refer to the separate documentation of our Named Entity Recognition model implementation [here](src/code_documentation.md)
+Please refer to the separate documentation of our Entity Recognition model implementation [here](src/code_documentation.md)
