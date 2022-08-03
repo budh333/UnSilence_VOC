@@ -33,9 +33,8 @@ Bibtex:
   month        = aug,\
   year         = 2022,\
   publisher    = {Zenodo},\
-  version      = {v0.9},\
-  doi          = {10.5281/zenodo.6958431},\
-  url          = {https://doi.org/10.5281/zenodo.6958431}
+  doi          = {10.5281/zenodo.6958430},\
+  url          = {https://doi.org/10.5281/zenodo.6958430}
 }
 
 
