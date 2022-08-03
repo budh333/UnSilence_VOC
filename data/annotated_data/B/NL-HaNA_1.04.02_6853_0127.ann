@@ -1,0 +1,20 @@
+T2	Person 0 9	Jan Rasel
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 0 9	Jan Rasel
+T4	Person 67 85	Abraham van Dinter
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary
+T5	ProperName 67 85	Abraham van Dinter
+T7	ProperName 109 132	edelen hove van holland
+T8	ProperName 125 132	holland
+T10	ProperName 143 186	edele hooge regeeringe van Nederlands Jndia
+T11	ProperName 170 186	Nederlands Jndia
+T12	Place 170 186	Nederlands Jndia
+T13	Person 198 215	Jan Henderik Pots
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator
+T14	ProperName 198 215	Jan Henderik Pots

@@ -1,0 +1,36 @@
+T2	Place 277 304	in ’t Casteel de goede hoop
+T3	ProperName 283 304	Casteel de goede hoop
+T5	ProperName 461 478;479 485	Johannes Mattheus Natrog
+T7	ProperName 592 602	Foed Bolha
+T9	ProperName 901 916	Ian Boudewinsz:
+T10	Place 944 956	Aijerbangies
+T11	ProperName 944 956	Aijerbangies
+T13	ProperName 960 973	Dirk Stolting
+T14	Place 992 998	Padang
+T15	ProperName 992 998	Padang
+T16	Person 1007 1015;1016 1024	Iuffrouw Christia
+A13	Gender T16 Woman
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 1016 1024	Christia
+T18	Person 1115 1121	gerrit
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 1115 1121	gerrit
+T4	Person 461 478;479 485	Johannes Mattheus Natrog
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T6	Person 592 602	Foed Bolha
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T8	Person 894 916	Heeren Ian Boudewinsz:
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T12	Person 960 973	Dirk Stolting
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other

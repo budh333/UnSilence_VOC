@@ -1,0 +1,19 @@
+T1	Place 22 28;38 46	Holdij Comptoir
+T3	Person 92 102	Kretschman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 471 486	Pieter Blankert
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 471 486	Pieter Blankert
+T6	Person 513 519;520 526	paulus menken
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 513 519;520 526	paulus menken
+T10	Place 1013 1022	Amsterdam
+T11	ProperName 1013 1022	Amsterdam
+T12	Place 1121 1126	india
+T13	ProperName 1121 1126	india

@@ -1,0 +1,44 @@
+T1	Person 68 81;82 104	Caril Jacobsz eertie geswesen clescg
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 68 81	Caril Jacobsz
+T5	Place 120 139	vteckten woonhuijse
+T6	Person 148 173	bilrges Christiaan onkers
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 156 172	Christiaan onker
+T8	Person 199 203;204 221	mons Jan lamberts Liek
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 204 216	Jan lamberts
+T10	Person 1475 1484;1485 1512	de heeren Pacgius anthonij des vignes
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 1485 1512	Pacgius anthonij des vignes
+T13	ProperName 2130 2169;2170 2186	de Hoog Edele Heesen Bewindhebberen ten Kaper Hiddelburg
+T14	Place 2166 2169;2170 2186	ten Kaper Hiddelburg
+T15	ProperName 2170 2186	Kaper Hiddelburg
+T16	Person 2106 2122	Batjo van Oocais
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 2106 2121	Batjo van Oocai
+T18	Place 2299 2323	met het schip Valkenisse
+T19	ProperName 2313 2323	Valkenisse
+T20	Person 3676 3683;3684 3694	Theeren Choistiaan
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 3684 3694	Choistiaan
+T22	Place 3788 3796	op mocas
+T23	ProperName 3791 3796	mocas
+T24	Person 3798 3820	Jarin de Campong Berog
+A19	Gender T24 Unspecified
+A20	LegalStatus T24 Unspecified
+A21	Role T24 Other
+T25	ProperName 3798 3820	Jarin de Campong Berog
+T26	Place 3821 3835	zen woonhuijse

@@ -1,0 +1,21 @@
+T1	ProperName 45 60	Egbert Blomhert
+T2	Person 45 60	Egbert Blomhert
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Notary
+T3	Place 156 165	weeskamer
+T4	Place 178 185	Batavia
+T5	ProperName 178 185	Batavia
+T6	Person 224 236	C: L: Severm
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 230 236	Severm
+T8	Person 264 272	J: Cenig
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 267 272	Cenig
+T11	ProperName 520 538	oost-Indische Comp
+T12	Place 552 561	Amsterdam
+T13	ProperName 552 561	Amsterdam

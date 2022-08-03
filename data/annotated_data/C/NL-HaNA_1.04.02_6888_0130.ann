@@ -1,0 +1,33 @@
+T4	ProperName 43 58	Godofridusthoen
+T5	Place 223 338	binne scheepsboort van het schip
+T6	Place 223 255;256 310;311 314;315 339	binne scheepsboort van het schip Tutpenburg zeijlende op de Z:breete van 10 9rd:s 14 me een en Lengte 104: 9: ro 21:
+T7	Person 401 412	P: N: Idema
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 401 412	P: N: Idema
+T9	Person 459 470	S=n Schoena
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 459 470	S=n Schoena
+T11	Person 474 483	I: visser
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 474 483	I: visser
+T13	Person 549 567	Jacobus De sliever
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 549 567	Jacobus De sliever
+T15	Person 518 528	D=l De bot
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 518 528	D=l De bot
+T3	Person 37 42;43 58	heere Godofridusthoen
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T17	ProperName 256 266	Tutpenburg

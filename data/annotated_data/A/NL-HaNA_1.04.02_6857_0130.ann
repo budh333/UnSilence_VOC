@@ -1,0 +1,27 @@
+T2	Person 20 38	Jacobus van Bommel
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 20 37	Jacobus van Bomme
+T4	Person 286 310	zoontje Iacobus Lodewijk
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 294 310	Iacobus Lodewijk
+T6	Person 426 431;432 442	Nouse Wilhelmina
+A7	Gender T6 Woman
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Place 447 454	Batavia
+T8	ProperName 447 454	Batavia
+T9	ProperName 426 431;432 442	Nouse Wilhelmina
+T10	Person 782 798	C: n„ H:k Cramer
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 782 798	C: n„ H:k Cramer
+T12	Person 810 830	P: D: Wieteringebuye
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 810 830	P: D: Wieteringebuye

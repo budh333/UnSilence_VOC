@@ -1,0 +1,61 @@
+T3	Person 189 212	C„ greven onder coopman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 189 198	C„ greven
+T5	Person 361 380	Johannes Hardenberg
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 361 380	Johannes Hardenberg
+T7	Organization 398 405	scomp=s
+A7	Beneficiary T7 No
+T8	Person 622 649;650 657	M:r Leonard verspijk, onder Coopman
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Acting_Notary
+T9	ProperName 622 642	M:r Leonard verspijk
+T10	Person 761 779	Daniel Caspel Heer
+A11	Gender T10 Man
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Testator
+T11	ProperName 761 779	Daniel Caspel Heer
+T12	Organization 1365 1373;1374 1383	de diaco nij armen
+A14	Beneficiary T12 Yes
+T13	Person 1643 1664;1665 1672	Lucretia Daniel Mooij weeduwe
+A15	Gender T13 Woman
+A16	LegalStatus T13 Unspecified
+A17	Role T13 Beneficiary
+T14	ProperName 1643 1664	Lucretia Daniel Mooij
+T15	Person 1673 1690	Daniel Caspelheer
+A18	Gender T15 Man
+A19	LegalStatus T15 Unspecified
+A20	Role T15 Other
+T16	ProperName 1673 1690	Daniel Caspelheer
+T17	Person 1702 1716;1717 1728	suster Johanna Casper Heer
+A21	Gender T17 Woman
+A22	LegalStatus T17 Unspecified
+A23	Role T17 Beneficiary
+T18	ProperName 1709 1716;1717 1728	Johanna Casper Heer
+T19	Person 1749 1770;1771 1775	broeder Willem Caspel Heer
+A24	Gender T19 Man
+A25	LegalStatus T19 Unspecified
+A26	Role T19 Beneficiary
+T20	ProperName 1757 1770;1771 1775	Willem Caspel Heer
+T21	Place 1804 1813	amsterdam
+T22	ProperName 1804 1813	amsterdam
+T23	Person 2437 2455	D: E Vred„k Jansz:
+A27	Gender T23 Man
+A28	LegalStatus T23 Unspecified
+A29	Role T23 Testator
+T24	ProperName 2437 2455	D: E Vred„k Jansz:
+T25	Person 3018 3032	Johan faederik
+A30	Gender T25 Unspecified
+A31	LegalStatus T25 Unspecified
+A32	Role T25 Other
+T26	ProperName 3018 3032	Johan faederik
+T27	Person 3036 3046	Jan George
+A33	Gender T27 Unspecified
+A34	LegalStatus T27 Unspecified
+A35	Role T27 Other
+T28	ProperName 3036 3046	Jan George

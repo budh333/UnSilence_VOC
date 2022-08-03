@@ -1,0 +1,60 @@
+T1	Place 73 88	Canton in China
+T2	ProperName 73 88	Canton in China
+T3	Place 22 26	Cabo
+T4	ProperName 22 26	Cabo
+T5	Person 43 68	den Heer Johannes Nebbens
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+T6	ProperName 52 68	Johannes Nebbens
+T7	Person 125 143;144 153	Wel Ed heer Willem Int Anker
+A3	Gender T7 Man
+A4	LegalStatus T7 Unspecified
+T8	ProperName 137 143;144 153	Willem Int Anker
+T9	Person 346 356	J: G: Bode
+A5	Gender T9 Man
+A6	LegalStatus T9 Unspecified
+T10	ProperName 346 356	J: G: Bode
+T13	Person 456 480	den E Heer J. J. Jdemans
+A9	Gender T13 Man
+A10	LegalStatus T13 Unspecified
+T14	ProperName 467 480	J. J. Jdemans
+T11	Person 405 417;418 422	Elbert Lucas tein
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+T12	ProperName 405 417;418 422	Elbert Lucas tein
+T15	Place 545 571	de Ned: Factorij te Canton
+T16	ProperName 565 571	Canton
+T17	Person 572 590	de Heer J. G. Bode
+A11	Gender T17 Man
+A12	LegalStatus T17 Unspecified
+T18	ProperName 580 590	J. G. Bode
+T19	Person 658 667	Heer Bode
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+T20	ProperName 663 667	Bode
+T21	ProperName 671 675;676 679	Bata vja
+T22	Place 671 675;676 679	Bata vja
+T23	Place 709 724	Canton in China
+T24	ProperName 709 724	Canton in China
+T25	Person 748 756	L Steijn
+A15	Gender T25 Unspecified
+A16	LegalStatus T25 Unspecified
+T26	ProperName 748 756	L Steijn
+T27	ProperName 785 790	Johan
+T28	Person 785 790	Johan
+A17	Gender T28 Unspecified
+A18	LegalStatus T28 Unspecified
+A19	Role T28 Other
+T29	Person 895 906	C: Rijnnagh
+A20	Gender T29 Unspecified
+A21	LegalStatus T29 Unspecified
+A22	Role T29 Other
+T30	ProperName 895 906	C: Rijnnagh
+A23	Role T5 Other
+A24	Role T7 Other
+A25	Role T9 Other
+A26	Role T11 Other
+A27	Role T13 Other
+A28	Role T17 Other
+A29	Role T19 Other
+A30	Role T25 Other

@@ -1,0 +1,56 @@
+T1	Person 0 13	Jurry Wynands
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 13	Jurry Wynands
+T3	Person 19 39	F: S: van 6 Huijvers
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 19 39	F: S: van 6 Huijvers
+T5	Person 83 92	Armenaute
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 83 92	Armenaute
+T8	ProperName 231 238;239 246	Hendrik Jannink
+T10	Person 338 353	Jurrij Wijnands
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Testator
+T11	ProperName 338 353	Jurrij Wijnands
+T12	Place 369 374	sajen
+T13	ProperName 369 374	sajen
+T15	Organization 414 423	’s Comp„s
+T16	Organization 441 447	sComps
+T17	Organization 1315 1330;1331 1333;1334 1393	de Geroformeerd 13 Diaconij armen en Luttensche gemeente ter Hteede Middelburg
+T18	Place 1372 1393	ter Hteede Middelburg
+T19	ProperName 1383 1393	Middelburg
+T21	ProperName 1504 1516	Andries Feij
+T22	Organization 1760 1769	’s Comp„s
+T24	ProperName 1792 1809;1810 1817	Johannes Mattheu„ en zulx
+T25	Person 1959 1967	stavinen
+A22	Gender T25 Group
+A23	LegalStatus T25 Enslaved
+A24	Role T25 Other
+T26	Person 2376 2393	Johannes Mattheus
+A25	Gender T26 Man
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Beneficiary
+T27	ProperName 2376 2393	Johannes Mattheus
+T7	Person 239 262	Jannink gesworen Clercq
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Acting_Notary
+T20	Person 1504 1516	Andries Feij
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Beneficiary
+T23	Person 1792 1809;1810 1817	Johannes Mattheu„ en zulx
+A19	Gender T23 Man
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Beneficiary
+A28	Beneficiary T15 No
+A29	Beneficiary T16 No
+A30	Beneficiary T17 Yes
+A31	Beneficiary T22 No

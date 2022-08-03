@@ -1,0 +1,68 @@
+T5	Place 307 312	Jndia
+T6	ProperName 307 312	Jndia
+T8	ProperName 279 284	Mos=t
+T9	Person 279 284	Mos=t
+A1	Gender T9 Man
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Notary
+T11	ProperName 441 451	valkenburg
+T12	ProperName 591 598	Remming
+T13	ProperName 619 628	Nicolaasz
+T14	ProperName 634 651	Hambael Hambaelsz
+T15	Person 591 598	Remming
+A7	Gender T15 Unspecified
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Witness
+T16	Person 619 628	Nicolaasz
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Witness
+T17	Person 634 652	Hambael Hambaelsz:
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Witness
+T18	ProperName 700 714	Marten Kimmel:
+T19	Person 700 713	Marten Kimmel
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Testator
+T10	Person 333 337	Thim
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T20	Person 323 329	iulder
+A19	Gender T20 Man
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Notary
+T7	ProperName 323 329	iulder
+T21	ProperName 333 337	Thim
+T22	ProperName 771 782	Pieter Thim
+T23	Person 715 725	E:s mulder
+A22	Gender T23 Man
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Other
+T24	ProperName 719 725	mulder
+T25	Person 771 782	Pieter Thim
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	Person 804 817	R:s Nicolaaez
+A28	Gender T26 Unspecified
+A29	LegalStatus T26 Unspecified
+A30	Role T26 Witness
+T27	ProperName 808 817	Nicolaaez
+T28	Person 846 861	M:s honibaelsz:
+A31	Gender T28 Unspecified
+A32	LegalStatus T28 Unspecified
+A33	Role T28 Other
+T29	ProperName 850 860	honibaelsz
+T30	Person 871 888	F: L„ V„ D„ Briel
+A34	Gender T30 Man
+A35	LegalStatus T30 Unspecified
+A36	Role T30 Notary
+T31	ProperName 883 888	Briel
+T32	Person 1230 1244	J„ S„V S: viel
+A37	Gender T32 Unspecified
+A38	LegalStatus T32 Unspecified
+A39	Role T32 Other
+T33	ProperName 1240 1244	viel

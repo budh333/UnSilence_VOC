@@ -1,0 +1,15 @@
+T4	ProperName 64 80	Wiggert Wargaren
+T5	Organization 101 123;124 128	d’ Edele Hove van Hol„ land
+T6	Organization 134 163;164 180	de Edele Hooge regeeringe van Nederlands India
+T7	Place 119 123;124 128	Hol„ land
+T8	ProperName 119 123;124 128	Hol„ land
+T9	Place 164 180	Nederlands India
+T10	ProperName 164 180	Nederlands India
+T11	Place 194 200;201 216	binnen de stad Batavia
+T12	ProperName 209 216	Batavia
+T1	Person 64 80;81 96	Wiggert Wargaren Notaris Publicq
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+A4	Beneficiary T5 No
+A5	Beneficiary T6 No

@@ -1,0 +1,27 @@
+T2	ProperName 57 70	Jan Timmerman
+T3	Person 57 70	Jan Timmerman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Place 86 107	’t schip „ Landhorst,
+T5	ProperName 97 106	Landhorst
+T6	Place 132 141	vaderland
+T7	Person 189 214	Heer enin= Cristiaen putt
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 200 214	Cristiaen putt
+T9	Place 241 255	nederl=k Jndia
+T10	ProperName 241 255	nederl=k Jndia
+T11	ProperName 388 401	Daniel Goisel
+T12	Person 388 401	Daniel Goisel
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Acting_Notary
+T13	Place 431 445	schip Kerkwijk
+T14	ProperName 437 445	Kerkwijk
+T15	Person 458 470;471 481	Jan pietersz van Simina
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator
+T16	ProperName 458 470;471 481	Jan pietersz van Simina

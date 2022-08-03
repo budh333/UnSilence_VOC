@@ -1,0 +1,48 @@
+T4	ProperName 115 128	voor de Cooij
+T5	Person 115 128	voor de Cooij
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	Person 152 174	Ian Gabriel Laagerblom
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 152 174	Ian Gabriel Laagerblom
+T9	ProperName 248 256	Gustaaff
+T10	ProperName 257 263	Willem
+T11	ProperName 433 440	Hendrik
+T12	ProperName 455 460	swart
+T13	Person 433 440	Hendrik
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	Person 455 460	swart
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 517 532	Cornelis Eijken
+T16	Person 517 532	Cornelis Eijken
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 1144 1155	Christoffel
+T18	Person 1144 1155	Christoffel
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Beneficiary
+T19	Person 1492 1497	Moses
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Witness
+T20	ProperName 1492 1497	Moses
+T21	ProperName 1503 1512	Domingosz
+T22	Person 1503 1512	Domingosz
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Witness
+T23	Person 1519 1528;1529 1544	Gerrardus Elias Siwalette
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Witness
+T24	ProperName 1519 1528;1529 1544	Gerrardus Elias Siwalette
+T25	Place 239 256;257 263	schip D' Gustaaff Willem

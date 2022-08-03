@@ -1,0 +1,28 @@
+T1	Person 31 43;44 60	Levenus van„ Waele, Cinnonier
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 31 43;44 50	Levenus van„ Waele,
+T4	ProperName 75 82	E: Comp
+T5	Place 106 124	Comptoire Lalembar
+T6	ProperName 116 124	Lalembar
+T7	Person 777 790	H:r Wennemers
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 777 790	H:r Wennemers
+T9	Person 800 841;842 846	Alb:r Eokman, beijde Assistenten als get„ „gen
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 800 812	Alb:r Eokman
+T11	Person 987 998	M:s Kuijper
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 987 998	M:s Kuijper
+T13	Person 1010 1017	Bartman
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 1010 1017	Bartman

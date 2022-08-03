@@ -1,0 +1,137 @@
+T1	Place 216 231	France Eijlandt
+T2	Person 434 444	Nolthenius
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+T3	Person 416 421	Reijs
+A3	Gender T3 Unspecified
+A4	LegalStatus T3 Unspecified
+T4	Person 459 465	Timmer
+A5	Gender T4 Unspecified
+A6	LegalStatus T4 Unspecified
+T5	Person 468 478	Nolthenius
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+T6	Person 489 497	Trollier
+A9	Gender T6 Unspecified
+A10	LegalStatus T6 Unspecified
+T7	Person 635 640	steyn
+A11	Gender T7 Unspecified
+A12	LegalStatus T7 Unspecified
+T8	Person 622 632	Notthenens
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+T9	Person 602 608	Timmer
+A15	Gender T9 Unspecified
+A16	LegalStatus T9 Unspecified
+T10	Person 613 619	L eijs
+A17	Gender T10 Unspecified
+A18	LegalStatus T10 Unspecified
+T11	Person 587 598	Notttienens
+A19	Gender T11 Unspecified
+A20	LegalStatus T11 Unspecified
+T12	Person 576 583	Raninel
+A21	Gender T12 Unspecified
+A22	LegalStatus T12 Unspecified
+T13	Person 568 572	Thos
+A23	Gender T13 Unspecified
+A24	LegalStatus T13 Unspecified
+T14	Person 560 565	Reijs
+A25	Gender T14 Unspecified
+A26	LegalStatus T14 Unspecified
+T15	Person 545 555	Hemmingson
+A27	Gender T15 Unspecified
+A28	LegalStatus T15 Unspecified
+T16	Person 534 544	Notthenius
+A29	Gender T16 Unspecified
+A30	LegalStatus T16 Unspecified
+T17	Person 523 529	Lassen
+A31	Gender T17 Unspecified
+A32	LegalStatus T17 Unspecified
+T18	Person 514 522	Melander
+A33	Gender T18 Unspecified
+A34	LegalStatus T18 Unspecified
+T19	Person 479 485	Lassen
+A35	Gender T19 Unspecified
+A36	LegalStatus T19 Unspecified
+T20	Person 425 431	Lassen
+A37	Gender T20 Unspecified
+A38	LegalStatus T20 Unspecified
+T21	Person 366 371	Reijs
+A39	Gender T21 Unspecified
+A40	LegalStatus T21 Unspecified
+T22	Person 342 349	Jounqua
+A41	Gender T22 Unspecified
+A42	LegalStatus T22 Unspecified
+T23	Person 353 359	Iaquet
+A43	Gender T23 Unspecified
+A44	LegalStatus T23 Unspecified
+T24	Person 388 393	Hinos
+A45	Gender T24 Unspecified
+A46	LegalStatus T24 Unspecified
+T25	Person 396 403	Jounqua
+A47	Gender T25 Unspecified
+A48	LegalStatus T25 Unspecified
+T28	ProperName 746 751	Johan
+T29	Person 746 751	Johan
+A51	Gender T29 Unspecified
+A52	LegalStatus T29 Unspecified
+A53	Role T29 Other
+T30	ProperName 853 864	C: Rijnnagh
+T31	Person 853 864	C: Rijnnagh
+A54	Gender T31 Unspecified
+A55	LegalStatus T31 Unspecified
+A56	Role T31 Other
+A57	Role T22 Other
+T32	ProperName 342 349	Jounqua
+A58	Role T23 Other
+T33	ProperName 353 359	Iaquet
+A59	Role T21 Other
+T34	ProperName 366 371	Reijs
+T35	ProperName 388 393	Hinos
+A60	Role T24 Other
+T36	ProperName 396 403	Jounqua
+A61	Role T25 Other
+T38	ProperName 407 413	Jaquet
+T37	ProperName 416 421	Reijs
+A62	Role T3 Other
+A63	Role T20 Other
+T39	ProperName 425 431	Lassen
+A64	Role T2 Other
+T40	ProperName 434 444	Nolthenius
+T41	ProperName 459 465	Timmer
+A65	Role T4 Other
+A66	Role T5 Other
+T42	ProperName 468 478	Nolthenius
+A67	Role T19 Other
+T43	ProperName 479 485	Lassen
+A68	Role T6 Other
+T44	ProperName 489 497	Trollier
+A69	Role T18 Other
+T45	ProperName 514 522	Melander
+A70	Role T17 Other
+T46	ProperName 523 529	Lassen
+A71	Role T16 Other
+T47	ProperName 534 544	Notthenius
+A72	Role T15 Other
+T48	ProperName 545 555	Hemmingson
+T49	ProperName 560 565	Reijs
+A73	Role T14 Other
+T50	ProperName 568 572	Thos
+A74	Role T13 Other
+A75	Role T12 Other
+T51	ProperName 576 583	Raninel
+T52	ProperName 587 598	Notttienens
+A76	Role T11 Other
+T53	ProperName 602 608	Timmer
+A77	Role T9 Other
+T54	ProperName 613 619	L eijs
+A78	Role T10 Other
+T55	ProperName 622 632	Notthenens
+A79	Role T8 Other
+T56	ProperName 635 640	steyn
+A80	Role T7 Other
+T57	Person 96 105	heer Bode
+A81	Gender T57 Man
+A82	LegalStatus T57 Unspecified
+A83	Role T57 Other
+T58	ProperName 101 105	Bode

@@ -1,0 +1,22 @@
+T2	ProperName 104 128	Christiaan Errst Eekards
+T3	Person 104 128	Christiaan Errst Eekards
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 250 269	Jan Lacharias Prune
+T5	Person 250 269	Jan Lacharias Prune
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T7	Place 347 368	Fortres te Bancallang
+T8	ProperName 358 368	Bancallang
+T9	ProperName 1334 1357	Johan Hendrik beijdeker
+T10	Person 1334 1357	Johan Hendrik beijdeker
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 1072 1097	Emanuel Libregt schaderen
+T12	Person 1072 1097	Emanuel Libregt schaderen
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Beneficiary

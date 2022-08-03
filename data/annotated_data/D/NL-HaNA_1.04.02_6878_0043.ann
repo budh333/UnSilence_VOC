@@ -1,0 +1,26 @@
+T2	Place 371 389	't Casteel Batavia
+T3	ProperName 371 389	't Casteel Batavia
+T4	ProperName 418 423;424 431	L: f: Badden:
+T5	ProperName 432 446	A: M: freschel
+T6	Person 418 423;424 431	L: f: Badden:
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	Person 432 446	A: M: freschel
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 560 572	Jan Schouten
+T9	Person 560 572	Jan Schouten
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Person 1070 1076	slaven
+A10	Gender T10 Group
+A11	LegalStatus T10 Enslaved
+A12	Role T10 Other
+T11	ProperName 1012 1027	Agnita Schouten
+T12	Person 1012 1027	Agnita Schouten
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other

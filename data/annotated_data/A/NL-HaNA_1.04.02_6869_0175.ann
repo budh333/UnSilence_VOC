@@ -1,0 +1,63 @@
+T1	Person 0 6	BSinck
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 6	BSinck
+T3	Person 72 86;87 100	Fredrik Sshott geswore klerk
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 72 86	Fredrik Sshott
+T6	Place 101 128	der Bengaelsche Secretarije
+T7	Person 165 201	Manhafte George Jacob Meier Schipper
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	ProperName 165 201	Manhafte George Jacob Meier Schipper
+T9	Person 205 236;237 240	Ingemond Ankerklauw opperstuur; man
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 205 224	Ingemond Ankerklauw
+T11	Place 248 273	retour schip scholtenburg
+T12	ProperName 261 273	scholtenburg
+T13	Place 351 361	Te Batavia
+T14	ProperName 354 361	Batavia
+T15	Place 608 620	in amsteldam
+T16	ProperName 611 620	amsteldam
+T17	Person 639 648	Dirk Boon
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Witness
+T18	Person 659 691	francois Brouwerius als getuigen
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Witness
+T19	ProperName 659 678	francois Brouwerius
+T20	ProperName 639 648	Dirk Boon
+T21	Person 706 712;713 719	BiddeJ E Nots
+A19	Gender T21 Man
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Notary
+T22	ProperName 706 712	BiddeJ
+T24	ProperName 721 727	Maanen
+T25	Person 831 845	Christiaan Wal
+A22	Gender T25 Unspecified
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 831 845	Christiaan Wal
+T27	Person 847 864	ssistent Johannes
+A25	Gender T27 Man
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 856 864	Johannes
+T29	Place 968 984	Comparants huijs
+T30	Person 1371 1379	Johannes
+A28	Gender T30 Unspecified
+A29	LegalStatus T30 Unspecified
+A30	Role T30 Other
+T31	ProperName 1371 1379	Johannes
+T23	Person 721 727	Maanen
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other

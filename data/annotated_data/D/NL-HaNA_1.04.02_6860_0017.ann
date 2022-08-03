@@ -1,0 +1,35 @@
+T2	Organization 6 14	DE Comp:
+A1	Beneficiary T2 No
+T3	ProperName 6 14	DE Comp:
+T4	Person 109 136	Theodorus Oohannes Hartingh
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Acting_Notary
+T5	ProperName 109 136	Theodorus Oohannes Hartingh
+T6	Place 163 171	Comptoir
+T7	Place 204 213	Ten huise
+T8	Person 218 236	Pieter de Lahaijse
+A5	Gender T8 Unspecified
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator_Beneficiary
+T9	ProperName 218 236	Pieter de Lahaijse
+T10	Organization 262 270	E: Comp:
+A8	Beneficiary T10 No
+T11	ProperName 262 270	E: Comp:
+T12	Person 282 296;297 308	maria Dorothea Phefferkorn
+A9	Gender T12 Unspecified
+A10	LegalStatus T12 Unspecified
+A11	Role T12 Testator_Beneficiary
+T13	ProperName 282 296;297 308	maria Dorothea Phefferkorn
+T14	Organization 791 818;819 827	de Armen ten hoofd Comptoir Samarang
+A12	Beneficiary T14 Yes
+T15	Place 819 827	Samarang
+T16	ProperName 819 827	Samarang
+T17	Person 1128 1150	Ian Pieter de Lahaijse
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 1128 1150	Ian Pieter de Lahaijse
+T19	Place 1196 1199;1200 1223	ten hoofd Comptoir Samarang
+T20	ProperName 1215 1223	Samarang
+T21	Place 1215 1223	Samarang

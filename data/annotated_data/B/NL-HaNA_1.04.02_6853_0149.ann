@@ -1,0 +1,52 @@
+T1	Person 119 137	Abraham van Dinter
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 119 137	Abraham van Dinter
+T4	ProperName 163 186	Edelen Hose van Holland
+T5	Place 179 186	Holland
+T6	ProperName 179 186	Holland
+T8	Place 224 229	Bed„s
+T9	Person 230 255	Johan Christoffel Swendel
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 230 255	Johan Christoffel Swendel
+T11	Person 441 466	fredrik Willem hooghcamer
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T12	ProperName 441 466	fredrik Willem hooghcamer
+T14	ProperName 490 522;523 534	edele hooge regeringe van neder„ Lands india
+T15	Place 516 522;523 534	neder„ Lands india
+T16	ProperName 516 522;523 534	neder„ Lands india
+T17	Place 548 569	binnen destad batavia
+T18	ProperName 562 569	batavia
+T19	Person 620 626;627 642	Iurgen davia Scholtsen
+A10	Gender T19 Unspecified
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Testator
+T20	ProperName 620 626;627 642	Iurgen davia Scholtsen
+T21	Place 654 671	buijten branswijk
+T22	ProperName 662 671	branswijk
+T24	Place 719 734	in ’t hostitaal
+T25	Person 1451 1466	Ian PustusCroon
+A13	Gender T25 Man
+A14	LegalStatus T25 Unspecified
+A15	Role T25 Beneficiary
+T26	ProperName 1451 1466	Ian PustusCroon
+T27	Person 1910 1926	Ian Iusius Kroon
+A16	Gender T27 Unspecified
+A17	LegalStatus T27 Unspecified
+A18	Role T27 Beneficiary
+T28	ProperName 1910 1926	Ian Iusius Kroon
+T29	Person 1684 1714	guuilliam gerord Franschiemont
+A19	Gender T29 Unspecified
+A20	LegalStatus T29 Unspecified
+A21	Role T29 Other
+T30	ProperName 1684 1714	guuilliam gerord Franschiemont
+T31	Person 1789 1808	Johannes hillebaart
+A22	Gender T31 Unspecified
+A23	LegalStatus T31 Unspecified
+A24	Role T31 Other
+T32	ProperName 1789 1808	Johannes hillebaart

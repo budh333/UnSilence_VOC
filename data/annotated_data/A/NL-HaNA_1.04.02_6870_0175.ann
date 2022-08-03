@@ -1,0 +1,34 @@
+T1	Person 93 101;102 153	Adoianus Anthonij Sgrave zande, onder Coopman P„s Secretaris
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T3	Place 254 268	ten woonhuisen
+T4	Person 292 335	D E: Abraham Abel Cassals, vandrig Melitair
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T6	ProperName 350 360	DE: Comp„s
+T7	ProperName 297 317	Abraham Abel Cassals
+T8	Place 419 440	Suijdvoster Eijlanden
+T9	ProperName 419 440	Suijdvoster Eijlanden
+T10	Organization 1133 1167	aande diaconij armen Deesersteeden
+A7	Beneficiary T10 Yes
+T11	Person 1450 1482	huijsvrouw Johanna van der Hamme
+A8	Gender T11 Woman
+A9	LegalStatus T11 Unspecified
+A10	Role T11 Beneficiary
+T12	ProperName 1461 1482	Johanna van der Hamme
+T13	Person 1538 1554;1555 1558;1559 1562;1563 1575	twee kinderen in tal der Naame Helena
+A11	Gender T13 Unspecified
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Beneficiary
+T14	ProperName 1569 1575	Helena
+T15	Person 1579 1592	Maria Cassals
+A14	Gender T15 Unspecified
+A15	LegalStatus T15 Unspecified
+A16	Role T15 Beneficiary
+T16	ProperName 1579 1592	Maria Cassals
+T17	ProperName 1621 1629	waalwijk
+T18	Place 1621 1629	waalwijk
+T19	Place 1656 1673	'S Hertogen Bosch
+T20	ProperName 1656 1673	'S Hertogen Bosch

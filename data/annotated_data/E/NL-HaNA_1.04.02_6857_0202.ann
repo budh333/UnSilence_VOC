@@ -1,0 +1,27 @@
+T1	Person 1212 1228	P: C:s Hasselaer
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 1219 1228	Hasselaer
+T3	Person 1240 1248	HHerstad
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 1240 1248	HHerstad
+T6	Place 67 80	destad Cochim
+T7	ProperName 74 80	Cochim
+T9	ProperName 183 209	Johannes Coenraad dekrouse
+T10	Person 183 209	Johannes Coenraad dekrouse
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Witness
+T11	ProperName 214 228	Johannes Wolff
+T12	Person 214 228	Johannes Wolff
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Witness
+T13	ProperName 999 1008	Garrelman
+T14	Person 999 1008	Garrelman
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator

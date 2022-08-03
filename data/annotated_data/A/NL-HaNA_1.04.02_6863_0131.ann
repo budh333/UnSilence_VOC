@@ -1,0 +1,56 @@
+T3	Person 9 37	WelEdele Heer I: C: Heijning
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 23 37	I: C: Heijning
+T5	Person 103 120	tent W.m van Hall
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 103 120	tent W.m van Hall
+T7	Place 206 214	Chinsura
+T8	ProperName 206 214	Chinsura
+T10	ProperName 331 337	Comp„s
+T11	Person 762 782	Fistaal Carel Willem
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 770 782	Carel Willem
+T14	ProperName 1034 1048;1080 1107	De Edele Groot ebberen ter kamer Amsterdan
+T15	Place 1098 1107	Amsterdan
+T16	ProperName 1098 1107	Amsterdan
+T17	Place 1134 1162	schip ’t Casteel van Silburg
+T18	ProperName 1140 1162	’t Casteel van Silburg
+T19	Person 1200 1209	C: Kijtel
+A10	Gender T19 Unspecified
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Other
+T20	ProperName 1200 1209	C: Kijtel
+T21	Place 1782 1804	te Houglij in Bengalen
+T22	ProperName 1785 1792	Houglij
+T23	ProperName 1796 1804	Bengalen
+T24	Person 1823 1826;1827 1832	Jan Janze
+A13	Gender T24 Man
+A14	LegalStatus T24 Unspecified
+A15	Role T24 Witness
+T25	Person 1836 1872	Pieter De Hoog klerken als getuijgen
+A16	Gender T25 Man
+A17	LegalStatus T25 Unspecified
+A18	Role T25 Witness
+T26	ProperName 1824 1826;1827 1832	an Janze
+T27	ProperName 1836 1850	Pieter De Hoog
+T28	Person 2012 2024	I: H: Guerin
+A19	Gender T28 Man
+A20	LegalStatus T28 Unspecified
+A21	Role T28 Other
+T29	ProperName 2012 2024	I: H: Guerin
+T30	Person 2077 2086	F: Wieman
+A22	Gender T30 Unspecified
+A23	LegalStatus T30 Unspecified
+A24	Role T30 Other
+T31	ProperName 2077 2086	F: Wieman
+T32	Person 2087 2092	G: Wa
+A25	Gender T32 Unspecified
+A26	LegalStatus T32 Unspecified
+A27	Role T32 Other
+T33	ProperName 2087 2092	G: Wa

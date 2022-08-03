@@ -1,0 +1,33 @@
+T1	Person 213 227	Ceijf Eijgenen
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Organization 277 310	dele hooge kegeringe deser Landen
+T3	ProperName 276 310	Edele hooge kegeringe deser Landen
+T4	Person 504 523	broeder Rogier Blok
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 512 523	Rogier Blok
+T6	Person 771 789;790 797	suster Wilhelma al Lockman
+A7	Gender T6 Woman
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 778 789;790 797	Wilhelma al Lockman
+T8	Person 67 88	Ianuarij van sumbauwa
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	ProperName 67 88	Ianuarij van sumbauwa
+T10	ProperName 80 88	sumbauwa
+T11	Place 80 88	sumbauwa
+T12	Person 94 95;96 107	R van bengale
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Enslaved
+A15	Role T12 Other
+T13	ProperName 94 95;96 107	R van bengale
+T14	Person 51 58	tweesla
+A16	Gender T14 Group
+A17	LegalStatus T14 Enslaved
+A18	Role T14 Other
+A19	Beneficiary T2 No

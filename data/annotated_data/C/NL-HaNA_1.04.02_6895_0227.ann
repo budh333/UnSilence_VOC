@@ -1,0 +1,55 @@
+T3	Person 113 130	Rutgerus van Ess:
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 113 130	Rutgerus van Ess:
+T5	Person 153 176	C:s N:d v:n Redenbrecht
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 153 176	C:s N:d v:n Redenbrecht
+T7	Person 180 183;184 193	P:r Michielsz
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 180 183;184 193	P:r Michielsz
+T9	Person 204 217;218 225	P: W: Lammens notaris
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Notary
+T10	ProperName 204 217	P: W: Lammens
+T11	Organization 251 257;258 261	Comp=e dE:
+T13	ProperName 350 368;369 374	Pieter Willem Lam„ „mens
+T14	Organization 396 420;422 442	de Edele hoogeregeeringe van nederlands India
+T15	Place 426 442	nederlands India
+T16	ProperName 426 442	nederlands India
+T17	Place 456 471;472 474;475 482	buijten de stad Ge Batavia
+T18	ProperName 475 482	Batavia
+T19	Person 530 552	Mons=z Rutgerus van Es
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Testator
+T20	ProperName 537 552	Rutgerus van Es
+T21	Place 566 605;606 623	aan de oostzijde van de verburgse gragt buijten dese stad
+T23	ProperName 1053 1072	Diana van mand haer
+T24	Place 1063 1072	mand haer
+T25	Person 1323 1355	de vrije inlandse Christen vrouw
+A22	Gender T25 Woman
+A23	LegalStatus T25 Freed
+A24	Role T25 Beneficiary
+T26	Organization 1450 1462	der E. Comp:
+T22	Person 1036 1044	slavinne
+A19	Gender T22 Woman
+A20	LegalStatus T22 Enslaved
+A21	Role T22 Other
+T27	Person 1053 1072	Diana van mand haer
+A25	Gender T27 Woman
+A26	LegalStatus T27 Enslaved
+A27	Role T27 Other
+T12	Person 346 368;369 391	M:r Pieter Willem Lam„ „mens notaris publijcq
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Notary
+A28	Beneficiary T11 No
+A29	Beneficiary T14 No
+A30	Beneficiary T26 No

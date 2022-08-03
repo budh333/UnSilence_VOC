@@ -1,0 +1,22 @@
+T1	ProperName 0 21	Johanne Swillengrebel
+T2	Person 0 21	Johanne Swillengrebel
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 119 132	Nicolaas Leij
+T4	Person 119 132	Nicolaas Leij
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T6	ProperName 193 197;198 210	Cabo de goedehoop
+T7	Place 193 197;198 210	Cabo de goedehoop
+T8	Person 242 268	P:r Johannes Swillengrebel
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	ProperName 246 268	Johannes Swillengrebel
+T12	ProperName 770 786	Engela ten damme
+T13	Person 770 786	Engela ten damme
+A10	Gender T13 Woman
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other

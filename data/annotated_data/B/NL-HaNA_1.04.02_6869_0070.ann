@@ -1,0 +1,35 @@
+T2	Person 49 54	Keize
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Place 66 75	in Europa
+T5	Place 124 134	te Utrecht
+T6	ProperName 127 134	Utrecht
+T9	Place 531 540	t Utrecht
+T10	ProperName 533 540	Utrecht
+T12	Place 692 701	t Utrecht
+T13	ProperName 694 701	Utrecht
+T14	Place 880 891	in Pongarij
+T15	ProperName 883 891	Pongarij
+T16	Person 971 986	Pieter Magenius
+A4	Gender T16 Man
+A5	LegalStatus T16 Unspecified
+A6	Role T16 Other
+T17	Person 990 998;999 1012	Teredrib Willem Mullen
+A7	Gender T17 Man
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Other
+T18	ProperName 971 986	Pieter Magenius
+T19	ProperName 990 998;999 1012	Teredrib Willem Mullen
+T20	Place 1024 1036	te amsteodam
+T21	ProperName 1027 1036	amsteodam
+T23	ProperName 1316 1340	Collegie van Heeren Wees
+T24	Place 1359 1370	deser Custe
+T25	Person 1771 1782	Leifeigenen
+A10	Gender T25 Group
+A11	LegalStatus T25 Enslaved
+A12	Role T25 Other
+T26	Person 2240 2245	A Meu
+A13	Gender T26 Unspecified
+A14	LegalStatus T26 Unspecified
+A15	Role T26 Other

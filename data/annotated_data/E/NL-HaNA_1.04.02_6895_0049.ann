@@ -1,0 +1,14 @@
+T2	Place 2054 2061	Batavia
+T3	ProperName 2054 2061	Batavia
+T4	ProperName 177 185	Maternel
+T6	Place 418 436	’t dorp watterland
+T7	ProperName 426 436	watterland
+T9	Person 838 848;849 856	heer Simon Josephe
+A1	Gender T9 Man
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Beneficiary
+T10	ProperName 843 848;849 856	Simon Josephe
+T13	ProperName 1257 1277	heeren weesmeesteren
+T15	ProperName 1607 1611;1612 1625	oost indische comp
+T16	ProperName 1637 1646	Rotterdam
+T17	Place 1637 1646	Rotterdam

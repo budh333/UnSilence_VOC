@@ -1,0 +1,25 @@
+T3	ProperName 90 103	Carel Telkamp
+T4	Person 90 103	Carel Telkamp
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T5	Place 220 243	konings Fort de Diamant
+T7	ProperName 267 296	Frans Peijtscher van Klaufort
+T8	Person 256 296	Trompetter Frans Peijtscher van Klaufort
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 601 615	Iesus Christus
+T10	ProperName 677 684;685 691	Ioannes sateel
+T11	Person 677 684;685 691	Ioannes sateel
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Acting_Notary
+T12	Place 695 717	het schip de magdalena
+T13	ProperName 705 717	de magdalena
+T14	ProperName 773 788;789 802	Nicolaas Peeper van Zeegeberg
+T15	Person 773 788;789 802	Nicolaas Peeper van Zeegeberg
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator
+T6	ProperName 233 243	de Diamant

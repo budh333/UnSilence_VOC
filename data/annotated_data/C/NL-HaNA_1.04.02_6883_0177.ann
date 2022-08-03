@@ -1,0 +1,43 @@
+T3	Person 7 21	Adolft Gerrard
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 7 21	Adolft Gerrard
+T6	ProperName 116 129	Barend Reijke
+T8	Organization 152 162	DeE  Comp:
+T9	Place 174 216;217 235	op ’t schip genaamd Tols duyn varen de v=n Batavia naa Patria
+T10	ProperName 217 224	Batavia
+T11	Place 229 235	Patria
+T13	ProperName 271 285	Adolf Geerrard
+T14	Place 290 303	Chravan hagen
+T15	ProperName 290 303	Chravan hagen
+T16	Place 505 514	vaderland
+T18	ProperName 636 657	Gerard Hendrik Duvell
+T20	Place 743 769;770 788	’t Oorlogschip d’ Hoop ten Rheede Van Samansa
+T21	Person 1036 1046;1047 1061	Jan Chris„ „toffel Gerber
+A13	Gender T21 Man
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Testator
+T22	ProperName 1036 1046;1047 1061	Jan Chris„ „toffel Gerber
+T23	Place 1066 1073	Hamburg
+T24	ProperName 1066 1073	Hamburg
+T25	Person 2324 2336	David Juquet
+A16	Gender T25 Unspecified
+A17	LegalStatus T25 Unspecified
+A18	Role T25 Other
+T26	ProperName 2324 2336	David Juquet
+T27	ProperName 194 203	Tols duyn
+T5	Person 116 140	Barend Reijke boekhouder
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T12	Person 271 285	Adolf Geerrard
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T17	Person 636 668	Gerard Hendrik Duvell boekhouder
+A10	Gender T17 Unspecified
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Acting_Notary
+T28	ProperName 758 765	d’ Hoop
+A19	Beneficiary T8 No

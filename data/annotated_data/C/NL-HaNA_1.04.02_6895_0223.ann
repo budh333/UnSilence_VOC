@@ -1,0 +1,84 @@
+T3	Person 84 101	Rutgerus van Ess:
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 84 101	Rutgerus van Ess:
+T5	Person 124 147	C:s P:d v:n Redenbrecht
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 124 147	C:s P:d v:n Redenbrecht
+T7	Person 151 154;155 164	P:r Michielsz
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 151 154;155 164	P:r Michielsz
+T9	Person 175 188;189 196	P: W: Lammens notaris
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Notary
+T10	ProperName 175 188;189 196	P: W: Lammens notaris
+T12	ProperName 260 276;277 281	M:r Egbert Blom= Eert
+T13	Organization 304 328;329 354	de Edele hooge regeerin„ „ge van neederlands India
+T14	Place 337 354	neederlands India
+T15	ProperName 337 354	neederlands India
+T16	Place 369 379;380 392	binnen de„ Stad Batavia
+T17	ProperName 385 392	Batavia
+T18	Person 446 466	D:E: Johannes van Es
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Testator
+T19	ProperName 451 466	Johannes van Es
+T20	Place 501 523	Rimwegen in gelderland
+T21	ProperName 501 509	Rimwegen
+T22	ProperName 513 523	gelderland
+T23	Organization 538 583;584 590	der Christelijke Gereformeerde gemeente deser Steede
+T24	Place 601 636;637 641	in de nieuwpoort=straat binnen dese stad
+T25	ProperName 607 624	nieuwpoort=straat
+T26	Person 1054 1072;1073 1105	de vrije Christene vrouw Deolinda Egidius Bastiaans
+A19	Gender T26 Woman
+A20	LegalStatus T26 Freed
+A21	Role T26 Beneficiary
+T27	ProperName 1079 1105	Deolinda Egidius Bastiaans
+T28	Person 1216 1229	Lijffeijgenen
+A22	Gender T28 Group
+A23	LegalStatus T28 Enslaved
+A24	Role T28 Other
+T29	Person 1235 1247;1248 1273	de slavinnen Diana de Kleine van Timor
+A25	Gender T29 Woman
+A26	LegalStatus T29 Unspecified
+A27	Role T29 Other
+T30	ProperName 1248 1263	Diana de Kleine
+T31	Place 1268 1273	Timor
+T32	ProperName 1268 1273	Timor
+T33	Person 1275 1281	Estria
+A28	Gender T33 Woman
+A29	LegalStatus T33 Enslaved
+A30	Role T33 Other
+T34	ProperName 1275 1281	Estria
+T35	Person 1285 1303	Kananga van boegis
+A31	Gender T35 Woman
+A32	LegalStatus T35 Enslaved
+A33	Role T35 Other
+T36	ProperName 1285 1303	Kananga van boegis
+T37	Place 1297 1303	boegis
+T39	Place 1331 1338	Kananga
+T40	ProperName 1331 1338	Kananga
+T41	ProperName 1347 1352	Maart
+T42	Person 1365 1373	Carolina
+A37	Gender T42 Unspecified
+A38	LegalStatus T42 Enslaved
+A39	Role T42 Other
+T43	ProperName 1365 1373	Carolina
+T44	Organization 1606 1618	der E. Comp:
+T38	Person 1347 1352	Maart
+A34	Gender T38 Man
+A35	LegalStatus T38 Enslaved
+A36	Role T38 Other
+T11	Person 260 276;277 298	M:r Egbert Blom= Eert, notaris publicq
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Notary
+A40	Beneficiary T13 No
+A41	Beneficiary T23 No
+A42	Beneficiary T44 No

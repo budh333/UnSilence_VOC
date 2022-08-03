@@ -1,0 +1,35 @@
+T3	ProperName 46 55	JMiepoort
+T4	Person 46 55	JMiepoort
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T6	Person 137 157	Soldaat Frans Langer
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 145 157	Frans Langer
+T8	ProperName 201 208;209 213	Hendrik Rogh
+T9	Person 201 208;209 214	Hendrik Rogh,
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 215 230	Berniard Leewen
+T11	Person 215 230	Berniard Leewen
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T16	ProperName 288 301	Paulus Philip
+T17	Person 288 301	Paulus Philip
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T13	ProperName 231 256;257 261	Johan Jacob Hendrik Tuur„ Kamp
+T12	Person 231 256;257 261	Johan Jacob Hendrik Tuur„ Kamp
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Witness
+T14	ProperName 167 179	Van Allemuts
+T15	Person 167 179	Van Allemuts
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Testator

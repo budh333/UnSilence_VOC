@@ -1,0 +1,19 @@
+T1	Organization 130 137;138 156	duacou„ armen deser steede
+T2	Person 665 673;684 694;695 699	broeders Gillishan„ „jes
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	Person 665 673;703 717	broeders Jacobus hanjes
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 703 717	Jacobus hanjes
+T5	ProperName 684 694;695 699	Gillishan„ „jes
+T6	Person 1269 1275;1276 1284	Barent Jacobsz:
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 1269 1275;1276 1284	Barent Jacobsz:
+T8	Place 1299 1307	vrisland
+T9	ProperName 1299 1307	vrisland
+A10	Beneficiary T1 Yes

@@ -1,0 +1,21 @@
+T3	Person 334 342;343 361	Juffrouw Anthoneta Lavigne:
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 343 361	Anthoneta Lavigne:
+T5	Person 482 489;490 497	oom Ant Lavigne
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 486 489;490 497	Ant Lavigne
+T7	Place 502 512	dusseldorp
+T8	ProperName 502 512	dusseldorp
+T9	Person 736 751;752 767	Ester Andrietta Theodora Bagman
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Beneficiary
+T10	ProperName 736 751;752 767	Ester Andrietta Theodora Bagman
+T11	Person 772 777	slaaf
+A10	Gender T11 Man
+A11	LegalStatus T11 Enslaved
+A12	Role T11 Other

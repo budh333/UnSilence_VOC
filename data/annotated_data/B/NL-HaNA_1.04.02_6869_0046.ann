@@ -1,0 +1,18 @@
+T2	Place 368 376;377 384	kamen Am sterdam
+T3	ProperName 374 376;377 384	Am sterdam
+T6	Person 783 798;799 804	Johannes Exeche Felix
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	Person 808 823	Paulus Nicolaas
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	Person 965 967;968 982	H: scheltus not:s
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Notary
+T9	Person 995 1005	WW Walourg
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other

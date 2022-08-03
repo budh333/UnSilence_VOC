@@ -1,0 +1,111 @@
+T2	Organization 373 382	E: Comp:e
+T3	ProperName 373 382	E: Comp:e
+T4	Place 225 239	destad Batavia
+T5	ProperName 232 239	Batavia
+T6	ProperName 157 165;166 203	de Edele hooge regeeringe van Nederlands India
+T7	Organization 157 165;166 203	de Edele hooge regeeringe van Nederlands India
+T8	ProperName 187 203	Nederlands India
+T9	Place 187 203	Nederlands India
+T10	Person 85 103;104 105;106 119	Andries Ian Balle; n notaris publ:
+A1	Gender T10 Man
+A2	LegalStatus T10 Unspecified
+A3	Role T10 Notary
+T11	ProperName 85 102	Andries Ian Balle
+T12	Organization 129 152	Edelenhoove van holland
+T13	ProperName 129 152	Edelenhoove van holland
+T14	ProperName 145 152	holland
+T15	Place 145 152	holland
+T16	Person 315 319;320 334	Heer Hendrik Mulder
+A4	Gender T16 Man
+A5	LegalStatus T16 Unspecified
+A6	Role T16 Testator
+T17	ProperName 320 334	Hendrik Mulder
+T18	Person 386 405	Mejufrouw Anna Kemp
+A7	Gender T18 Woman
+A8	LegalStatus T18 Unspecified
+A9	Role T18 Testator
+T19	ProperName 396 406	Anna Kemp,
+T20	Place 436 448	kruijt huijs
+T21	ProperName 861 882	Francoes van Boekholt
+T22	Person 861 882;902 914	Francoes van Boekholt gesw: scriba
+A10	Gender T22 Man
+A11	LegalStatus T22 Unspecified
+A12	Role T22 Acting_Notary
+T23	Place 921 929	Comptoir
+T24	ProperName 996 1021	Augulst Jan Caspen Meijer
+T25	Person 985 1021	Lieutenaat Augulst Jan Caspen Meijer
+A13	Gender T25 Unspecified
+A14	LegalStatus T25 Unspecified
+A15	Role T25 Testator
+T26	Person 750 773	August Ian Caeper Meyer
+A16	Gender T26 Unspecified
+A17	LegalStatus T26 Unspecified
+A18	Role T26 Testator
+T27	ProperName 750 773	August Ian Caeper Meyer
+T28	ProperName 1599 1620	Egbest Arend de Wilde
+T29	Person 1578 1591;1599 1620	Gerw: Seerbas Egbest Arend de Wilde
+A19	Gender T29 Unspecified
+A20	LegalStatus T29 Unspecified
+A21	Role T29 Other
+T30	Person 1970 1999	vrije Javaans Vrouw Cathavina
+A22	Gender T30 Woman
+A23	LegalStatus T30 Freed
+A24	Role T30 Beneficiary
+T31	ProperName 1990 1999	Cathavina
+T32	Place 1894 1902	samarang
+T33	ProperName 1894 1902	samarang
+T34	ProperName 2242 2250	Samarang
+T35	Place 2242 2250	Samarang
+T36	ProperName 2254 2268	Johanna Meijer
+T37	ProperName 2207 2224	Fredrik de Vreede
+T38	Person 2200 2206;2254 2268	Dogter Johanna Meijer
+A25	Gender T38 Woman
+A26	LegalStatus T38 Unspecified
+A27	Role T38 Beneficiary
+T39	Person 2185 2196;2207 2224	schoon zoon Fredrik de Vreede
+A28	Gender T39 Man
+A29	LegalStatus T39 Unspecified
+A30	Role T39 Beneficiary
+T40	Person 2463 2477;2478 2484	zoon Jaa Ernst Meijer
+A31	Gender T40 Man
+A32	LegalStatus T40 Unspecified
+A33	Role T40 Beneficiary
+T41	ProperName 2468 2477;2478 2484	Jaa Ernst Meijer
+T42	Person 2640 2661	zoon Jan Ernst Meijer
+A34	Gender T42 Man
+A35	LegalStatus T42 Unspecified
+A36	Role T42 Beneficiary
+T43	ProperName 2645 2661	Jan Ernst Meijer
+T44	ProperName 2591 2614	Fredrik Willem Stroschs
+T45	Person 2591 2614	Fredrik Willem Stroschs
+A37	Gender T45 Unspecified
+A38	LegalStatus T45 Unspecified
+A39	Role T45 Other
+T46	ProperName 2821 2828	Strosch
+T47	Person 2821 2828	Strosch
+A40	Gender T47 Unspecified
+A41	LegalStatus T47 Unspecified
+A42	Role T47 Other
+T48	Person 3112 3133	zoon Jan Ernst Meijer
+A43	Gender T48 Man
+A44	LegalStatus T48 Unspecified
+A45	Role T48 Beneficiary
+T49	ProperName 3117 3133	Jan Ernst Meijer
+T50	Person 3151 3157;3212 3225	Dogten Johanna Maria
+A46	Gender T50 Woman
+A47	LegalStatus T50 Unspecified
+A48	Role T50 Beneficiary
+T51	ProperName 3212 3225	Johanna Maria
+T52	Person 3371 3388;3389 3394	Dogtertje Johanna Maria
+A49	Gender T52 Woman
+A50	LegalStatus T52 Unspecified
+A51	Role T52 Beneficiary
+T53	ProperName 3381 3388;3389 3394	Johanna Maria
+T54	ProperName 0 15	Henderik Mulder
+T55	Person 0 15	Henderik Mulder
+A52	Gender T55 Man
+A53	LegalStatus T55 Unspecified
+A54	Role T55 Testator
+A55	Beneficiary T7 No
+A56	Beneficiary T12 No
+A57	Beneficiary T2 No

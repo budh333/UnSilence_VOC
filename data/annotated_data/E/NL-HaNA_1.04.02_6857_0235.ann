@@ -1,0 +1,37 @@
+T3	Person 26 38	P: G: Herman
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 32 38	Herman
+T5	Person 39 52	G: H: S: Otte
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 48 52	Otte
+T7	Person 494 509	C: G: Gelsdorff
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 500 509	Gelsdorff
+T9	Person 521 532	Guod Atekbn
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 521 532	Guod Atekbn
+T11	Person 533 548	W: A: Velingues
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Testator
+T12	ProperName 539 548	Velingues
+T13	ProperName 559 567	Cheribon
+T14	Place 559 567	Cheribon
+T15	Person 669 684	W: J: Velingius
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Testator
+T16	ProperName 675 684	Velingius
+T17	ProperName 816 824	Hoogland
+T18	Person 816 824	Hoogland
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Testator

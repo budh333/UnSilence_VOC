@@ -1,0 +1,18 @@
+T2	Person 166 170;171 183	Ire„ drik Banmier
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 166 170;171 183	Ire„ drik Banmier
+T4	Person 257 260;261 266	Jan Montz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 257 260;261 266	Jan Montz
+T6	Person 455 464	Kok Johan
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 567 578	C: Rijnnagh
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Notary

@@ -1,0 +1,38 @@
+T3	Person 24 51	Heer Cornelis van Boekhoelt
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 29 51	Cornelis van Boekhoelt
+T5	Person 206 215	W kerkman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 206 215	W kerkman
+T7	Person 301 315	Daniel Lankhee
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 301 315	Daniel Lankhee
+T9	Person 475 494	heer willem Kerkman
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 480 494	willem Kerkman
+T11	Person 674 681	Legvand
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	ProperName 674 681	Legvand
+T13	Organization 972 984;985 1042;1043 1048	De Ed=le her bewindhebberen der Geoktvoogende nederlands oost in discr Comp:
+T14	Place 1950 1964;1965 2000	op de mars van Cadia bij het derp kanna heriepotte
+T15	Person 2209 2219	W: Beukman
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Acting_Notary
+T16	ProperName 2209 2219	W: Beukman
+T17	Person 2272 2285	W: de Kosters
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 2272 2285	W: de Kosters
+A22	Beneficiary T13 No

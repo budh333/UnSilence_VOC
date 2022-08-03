@@ -1,0 +1,60 @@
+T1	Person 61 88	Lodewijk Thomassin schipper
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 61 88	Lodewijk Thomassin schipper
+T3	Organization 108 119	'tE: Comp:s
+T4	Person 149 170	Albers dirkse ktreeft
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 149 170	Albers dirkse ktreeft
+T6	Place 254 259	bat=a
+T7	ProperName 254 259	bat=a
+T9	ProperName 365 382	Lodwijk Thomassin
+T11	ProperName 400 403;404 412	Ian Ter Burg
+T13	ProperName 482 503	Carel Aldertse Kreeff
+T14	Organization 1073 1096;1097 1149;1150 1185	de Edele groot agtbaere heeren bewind hebberen der geoctroijeerde oost Jndi„ „sche Compagnie ter kamer Amsterdam
+T15	Place 1176 1185	Amsterdam
+T16	ProperName 1176 1185	Amsterdam
+T17	Person 1490 1512	d'E: Jsaack Botercoper
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 1495 1512	Jsaack Botercoper
+T19	Person 1516 1526	Iacob Link
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 1516 1526	Iacob Link
+T21	Person 1681 1694	Lucas Andries
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Witness
+T22	ProperName 1681 1694	Lucas Andries
+T23	Person 1699 1722	Abraham Carelsz: Clercq
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Witness
+T24	ProperName 1699 1715	Abraham Carelsz:
+T25	Person 1864 1879;1880 1887	M„r H: Scheltus Notaris
+A28	Gender T25 Man
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Notary
+T26	ProperName 1864 1879	M„r H: Scheltus
+T8	Person 365 382	Lodwijk Thomassin
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T10	Person 400 403;404 412	Ian Ter Burg
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T12	Person 482 503	Carel Aldertse Kreeff
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary
+T28	Place 120 134	schip damzigt,
+T29	ProperName 126 133	damzigt
+A31	Beneficiary T3 No
+A32	Beneficiary T14 No

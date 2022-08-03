@@ -1,0 +1,50 @@
+T3	ProperName 126 147	Adoenh Fredrik Morelt
+T4	Person 126 147	Adoenh Fredrik Morelt
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T5	ProperName 219 230	Jansz: Olle
+T6	Person 219 230	Jansz: Olle
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 349 360	Arrj vander
+T8	ProperName 384 395	Vander Bart
+T10	Person 349 360	Arrj vander
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Acting_Notary
+T11	Person 384 395	Vander Bart
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	Place 424 441	schip EHloff Duns
+T13	ProperName 430 441	EHloff Duns
+T14	Person 633 651	Godsried Outsingel
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator
+T15	ProperName 633 651	Godsried Outsingel
+T16	ProperName 1125 1155	Andries Lagand, van Straalson,
+T17	Person 1125 1155	Andries Lagand, van Straalson,
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Beneficiary
+T18	ProperName 1387 1396	Amsterdam
+T19	Place 1387 1396	Amsterdam
+T23	Place 2222 2227	schip
+T24	ProperName 2296 2317	Claar Goosen schiemen
+T26	Person 2296 2317	Claar Goosen schiemen
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Notary
+T27	ProperName 2341 2368	Hendrik Brouwer Comstiapee,
+T28	Person 2341 2367	Hendrik Brouwer Comstiapee
+A22	Gender T28 Unspecified
+A23	LegalStatus T28 Unspecified
+A24	Role T28 Witness
+T29	ProperName 2581 2585	Bant
+T30	Person 2577 2584	VD: Ban
+A25	Gender T30 Unspecified
+A26	LegalStatus T30 Unspecified
+A27	Role T30 Other

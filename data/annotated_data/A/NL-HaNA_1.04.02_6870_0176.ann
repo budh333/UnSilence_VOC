@@ -1,0 +1,25 @@
+T3	ProperName 1229 1239	DE: Comp„s
+T4	Place 354 372;373 387	terwees kamer vans Hertogen Bossh
+T5	ProperName 373 387	Hertogen Bossh
+T6	Person 459 465	Helena
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Beneficiary
+T7	ProperName 459 465	Helena
+T8	Person 470 475	Maria
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Beneficiary
+T9	ProperName 470 475	Maria
+T10	Person 739 758	Heere Iacob Pelters
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 745 758	Iacob Pelters
+T12	Place 783 800	Neederlands Jndia
+T13	ProperName 783 800	Neederlands Jndia
+T15	ProperName 1317 1325;1326 1381	de Edele groot Agtbaare heeren bewind hebbenen ter kamer Zeiland
+T16	Place 1364 1381	ter kamer Zeiland
+T17	ProperName 1374 1381	Zeiland
+T18	Place 1456 1479	per ’t schip Ruijteveld
+T19	ProperName 1469 1479	Ruijteveld

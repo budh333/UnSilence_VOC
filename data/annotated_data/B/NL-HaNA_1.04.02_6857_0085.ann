@@ -1,0 +1,42 @@
+T2	Person 174 176;177 189	Ir drik Bannier
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 175 176;177 189	r drik Bannier
+T4	Person 263 266;267 272	Ian Montz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	Person 403 422;423 446	Martinus Nolthenius adsistend en Secretaris
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Notary
+T6	ProperName 403 422	Martinus Nolthenius
+T7	Person 524 551	Adsistent Jan Jacob Ioemans
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	Person 610 654;655 670	Oppermeester deses Factorij Johan Jeorc Bode van Holshuijsen
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	ProperName 639 654;655 670	ohan Jeorc Bode van Holshuijsen
+T10	Person 1039 1045	Conjak
+A16	Gender T10 Man
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	Place 1457 1472	Canton en China
+T12	ProperName 1467 1472	China
+T13	Person 1492 1504	M Nolthenues
+A19	Gender T13 Man
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Notary
+T14	Person 1529 1538	Rok Johan
+A22	Gender T14 Unspecified
+A23	LegalStatus T14 Unspecified
+A24	Role T14 Other
+T15	Person 1645 1656	C: Rijnnagh
+A25	Gender T15 Man
+A26	LegalStatus T15 Unspecified
+A27	Role T15 Notary
+T16	ProperName 263 266;267 272	Ian Montz

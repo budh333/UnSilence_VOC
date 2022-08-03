@@ -1,0 +1,20 @@
+T3	ProperName 130 159	Jutitegerrard Hendrik Duvell,
+T4	Person 130 158	Jutitegerrard Hendrik Duvell
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 329 344	Johannis D' Ree
+T6	Person 329 344	Johannis D' Ree
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 514 526	Jesu Christi
+T8	ProperName 762 773	Stervenberg
+T9	Person 762 773	Stervenberg
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 1041 1051	nederlands
+T11	Place 1041 1051	nederlands
+T12	ProperName 1068 1073	Jndia
+T13	Place 1068 1073	Jndia

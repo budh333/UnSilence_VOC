@@ -1,0 +1,9 @@
+T2	ProperName 227 235	dE: Comp
+T5	Place 411 430	ter kamer Amsterdam
+T6	ProperName 421 430	Amsterdam
+T7	Person 883 892	de slaven
+A1	Gender T7 Group
+A2	LegalStatus T7 Enslaved
+T9	Place 1054 1067	deeser landen
+T11	ProperName 372 400;401 410	geoctroijeerde oost Indische Compagnie
+A3	Role T7 Other

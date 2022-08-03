@@ -1,0 +1,7 @@
+T3	ProperName 379 397	oost indische Comp
+T4	Place 409 418	Amsterdam
+T5	ProperName 409 418	Amsterdam
+T6	Person 925 976	Hoog Edelheedens de hooge Overigheijd deeser Landen
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Beneficiary

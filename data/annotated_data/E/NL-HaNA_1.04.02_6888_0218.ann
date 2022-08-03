@@ -1,0 +1,10 @@
+T2	Person 39 53	D' E„s Lrasmus
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 46 53	Lrasmus
+T4	Person 87 104	WE: Marten Kimmie
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 91 105	Marten Kimmiel

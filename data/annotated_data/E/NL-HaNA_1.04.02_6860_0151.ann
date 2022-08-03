@@ -1,0 +1,17 @@
+T2	ProperName 110 127	Pieter Poefhouwer
+T3	Person 110 127	Pieter Poefhouwer
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T6	Person 282 285;286 318	Ian Winold Fieselaar van sulgeleegen
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T5	ProperName 282 285;286 318	Ian Winold Fieselaar van sulgeleegen
+T7	ProperName 896 904	samarang
+T8	Place 896 904	samarang
+T9	Person 1092 1120	Christene vrouw Maria Helena
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 1108 1120	Maria Helena

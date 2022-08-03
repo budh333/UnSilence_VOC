@@ -1,7 +1,0 @@
-T1	DuplicatePage 1 9	Vendutie
-T2	Place 19 29;30 38	ten Holdij Comptoir
-T3	ProperName 113 135	Carel Fredrik Leipnits
-T4	Person 113 135	Carel Fredrik Leipnits
-A1	Gender T4 Unspecified
-A2	LegalStatus T4 Unspecified
-A3	Role T4 Other

@@ -1,0 +1,14 @@
+T1	ProperName 181 191	Dirk Dirks
+T2	Person 181 191	Dirk Dirks
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 328 362	mansslaaff gen:t Ianuarij van Ende
+A4	Gender T3 Man
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	ProperName 345 362	Ianuarij van Ende
+T5	Person 345 362	Ianuarij van Ende
+A7	Gender T5 Man
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other

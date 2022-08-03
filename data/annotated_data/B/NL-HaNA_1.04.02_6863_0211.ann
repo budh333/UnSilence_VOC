@@ -1,0 +1,41 @@
+T1	Person 116 132	Johannes Reynink
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	Place 152 158	Caudia
+T3	ProperName 152 158	Caudia
+T4	ProperName 116 132	Johannes Reynink
+T5	Person 238 254	Gecatje Cornelis
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 238 254	Gecatje Cornelis
+T7	Person 302 306	Inke
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	Person 310 323	Pieter Teklis
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Beneficiary
+T9	ProperName 310 323	Pieter Teklis
+T10	Place 340 346;347 364	slands werk in amsterdam
+T11	ProperName 355 364	amsterdam
+T12	Place 557 563	Kandia
+T13	ProperName 557 563	Kandia
+T14	Person 640 647;648 657	Abraham van Boeem
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 640 647;648 657	Abraham van Boeem
+T16	Person 852 857;858 871	Johan Hend:k Maurer
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Beneficiary
+T17	Person 879 890;891 896	Abraham van Breem
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 879 890;891 896	Abraham van Breem
+T19	Place 914 920;921 939	sComp: dispens te Colombo
+T20	ProperName 932 939	Colombo

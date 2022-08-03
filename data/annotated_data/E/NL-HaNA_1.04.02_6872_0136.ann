@@ -1,0 +1,33 @@
+T5	Person 763 771	kinderen
+A1	Gender T5 Group
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Beneficiary
+T7	ProperName 826 839	Johanna Cruse
+T8	Person 826 839	Johanna Cruse
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	Person 819 839	Inthr: Johanna Cruse
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 859 866	Hendrik
+T11	Person 859 866	Hendrik
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 868 877	Elisabeth
+T13	Person 868 877	Elisabeth
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T15	Person 934 951	d’ E Rijk Tulbagh
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 939 951	Rijk Tulbagh
+T17	ProperName 953 971	Johannes balthasar
+T18	Person 953 971	Johannes balthasar
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other

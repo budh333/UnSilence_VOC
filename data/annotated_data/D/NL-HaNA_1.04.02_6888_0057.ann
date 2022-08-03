@@ -1,0 +1,27 @@
+T2	Place 489 500	kamer Hoorn
+T3	ProperName 495 500	Hoorn
+T4	ProperName 1274 1292	Cabo de goede hoop
+T5	Place 1274 1292	Cabo de goede hoop
+T6	Person 1365 1379	Martinus Heems
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	Person 1384 1391;1392 1411	Joachim Nicolaus van dessin
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1384 1391;1392 1411	Joachim Nicolaus van dessin
+T9	ProperName 1365 1379	Martinus Heems
+T10	ProperName 1612 1640	J„s de grandpreez secretaris
+T11	Person 1612 1640	J„s de grandpreez secretaris
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Acting_Notary
+T12	ProperName 1653 1659	D„Talk
+T13	Person 1653 1659	D„Talk
+A10	Gender T13 Group
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 2642 2647	Comp=
+T15	Organization 2642 2647	Comp=
+A13	Beneficiary T15 No

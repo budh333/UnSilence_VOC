@@ -1,0 +1,48 @@
+T1	Person 67 85	Theodorus Bloemers
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 67 85	Theodorus Bloemers
+T4	Place 130 145	dezen Comptoire
+T5	Place 218 231	ten huize van
+T7	Person 294 310	Hendrik Spantert
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	Place 395 413	EEComp=e hospitaal
+T10	Person 442 462	Jan Godlieb Kindeler
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 442 462	Jan Godlieb Kindeler
+T12	Person 714 735	Nicolaas Maas notaris
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Notary
+T13	ProperName 714 727	Nicolaas Maas
+T16	Place 786 796	Nederlands
+T17	Place 801 806	india
+T18	Place 820 842	binnen de stad Batavia
+T19	ProperName 835 842	Batavia
+T20	Person 924 940	Heer Iacobus Kok
+A13	Gender T20 Man
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Testator
+T21	ProperName 929 940	Iacobus Kok
+T22	Place 994 1012	op ’t Eijland Edam
+T23	ProperName 1008 1012	Edam
+T24	Person 1115 1128	Marten Visser
+A16	Gender T24 Unspecified
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Other
+T25	ProperName 1115 1128	Marten Visser
+T26	Person 1142 1157	Daniel Roel off
+A19	Gender T26 Unspecified
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Other
+T27	ProperName 1142 1157	Daniel Roel off
+T28	Place 1220 1236	de touw pakhuijs
+T29	Person 1993 2005	lijffeigenen
+A22	Gender T29 Group
+A23	LegalStatus T29 Enslaved
+A24	Role T29 Other

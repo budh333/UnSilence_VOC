@@ -1,0 +1,42 @@
+T2	Person 318 320;321 333	Ir drik Banmier
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 318 320;321 333	Ir drik Banmier
+T4	Person 407 410;411 416	Jan Montz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 407 410;411 416	Jan Montz
+T6	Person 554 557;558 569	Ian Jacob Montz
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 554 557;558 569	Ian Jacob Montz
+T8	Person 776 780;781 786	Anna Heijn
+A10	Gender T8 Woman
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 776 780;781 786	Anna Heijn
+T10	Person 902 911	Anna heyn
+A13	Gender T10 Woman
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 902 911	Anna heyn
+T12	Person 983 992	Anna heyn
+A16	Gender T12 Woman
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 983 992	Anna heyn
+T14	Person 1204 1211	fredrik
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Testator
+T15	Person 1347 1356	Kok Johan
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	Person 1464 1475	H: Rijnnagh
+A25	Gender T16 Man
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Notary

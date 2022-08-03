@@ -1,0 +1,37 @@
+T2	Organization 55 64	d' EComp:
+A1	Beneficiary T2 No
+T3	ProperName 58 64	EComp:
+T4	ProperName 90 103;104 118	Johannes otto van Lwalenland
+T5	Person 90 103;104 118	Johannes otto van Lwalenland
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Other
+T6	ProperName 363 387	Christiaan Ernst Eckardt
+T7	Person 363 387	Christiaan Ernst Eckardt
+A5	Gender T7 Man
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Acting_Notary
+T8	Place 458 467	comptoire
+T9	ProperName 563 579	Johannes Vermaas
+T10	ProperName 595 603	Samarang
+T11	Place 595 603	Samarang
+T12	Person 563 579	Johannes Vermaas
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Testator
+T13	Person 1065 1081;1082 1086	d’ Arme te Sama„ lang
+A11	Gender T13 Group
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Beneficiary
+T14	ProperName 1076 1081;1082 1086	Sama„ lang
+T15	Place 1076 1081;1082 1086	Sama„ lang
+T16	Person 1210 1226;1227 1233	Mejuffrouw Maria Aumont
+A14	Gender T16 Woman
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Beneficiary
+T17	ProperName 1221 1226;1227 1233	Maria Aumont
+T18	Person 1269 1301	Heer Abraham Christoffel Coertsz
+A17	Gender T18 Man
+A18	LegalStatus T18 Unspecified
+A19	Role T18 Other
+T19	ProperName 1274 1301	Abraham Christoffel Coertsz

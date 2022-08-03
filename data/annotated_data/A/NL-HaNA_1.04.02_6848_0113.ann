@@ -1,0 +1,31 @@
+T2	ProperName 579 585	mauwar
+T3	Person 890 917;918 965	Moeder, de wel Edele groore Vrouwe Alida Iudith Veugl; danareere van Wijlen
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 925 964	Alida Iudith Veugl; danareere van Wijle
+T6	ProperName 997 1012	Jacob Pettersin
+T7	Place 1064 1078;1079 1082	nederlands Jn„ dia
+T8	ProperName 1064 1078;1079 1082	nederlands Jn„ dia
+T9	Person 1171 1210;1211 1213	mejuffrouw Johanna Smits Huijsen: wedu„ we
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 1182 1203	Johanna Smits Huijsen
+T11	Person 1229 1263;1264 1279	heer en M:r Pieter Moring Smith in leeven advocaat
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 1241 1260	Pieter Moring Smith
+T14	Person 992 1017;1018 1022;1023 1078;1079 1095	Heer Jacob Pettersin zijn Wel„ Edele gestrenge leeven raad ordinair van nederlands Jn„ dia en directeur
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Beneficiary
+T1	Person 567 571;572 578	sla„ „vinne
+A1	Gender T1 Woman
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Beneficiary
+T5	Person 579 585	mauwar
+A7	Gender T5 Woman
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Beneficiary

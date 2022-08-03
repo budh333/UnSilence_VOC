@@ -1,0 +1,18 @@
+T1	Organization 246 255;256 279	de Diaco„ nij armen deeser steede
+A1	Beneficiary T1 Yes
+T2	ProperName 687 706	Bartholomeus meijer
+T3	Person 687 706	Bartholomeus meijer
+A2	Gender T3 Unspecified
+A3	LegalStatus T3 Unspecified
+A4	Role T3 Beneficiary
+T5	Person 866 875	Slavinnen
+A7	Gender T5 Group
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T6	ProperName 1294 1306;1307 1313	Bartholomeus Meijer
+T7	Person 1294 1306;1307 1313	Bartholomeus Meijer
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	Organization 1454 1478;1479 1503	het Eerwaerde Colleijier Van Heeren weesmeesteren
+A13	Beneficiary T8 No

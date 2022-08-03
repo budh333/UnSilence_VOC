@@ -1,0 +1,27 @@
+T1	Person 289 332	Abraham Faure Secretaris van Stellenboschen
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 289 302	Abraham Faure
+T3	Place 336 347	Drakensteen
+T4	ProperName 336 347	Drakensteen
+T6	ProperName 431 435	Cabo
+T7	Place 431 435	Cabo
+T5	ProperName 483 499	Graafschap Hanou
+T10	ProperName 436 445;446 476	Johan Wil lem Smalberger van Lohrhaupten
+T11	Person 436 445;446 476	Johan Wil lem Smalberger van Lohrhaupten
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Other
+T12	ProperName 543 548;549 566	Caril Willem Smalberger
+T13	Person 543 548;549 566	Caril Willem Smalberger
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator_Beneficiary
+T14	ProperName 571 600;601 604	Anna Franaina Mareez van dee, Ten
+T15	Person 571 600;601 604	Anna Franaina Mareez van dee, Ten
+A10	Gender T15 Woman
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator_Beneficiary
+T16	Place 605 612	uythoek
+T17	ProperName 605 612	uythoek

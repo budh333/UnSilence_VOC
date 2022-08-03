@@ -1,0 +1,76 @@
+T1	Person 0 5	Dinck
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 5	Dinck
+T3	Person 70 84;85 98	Fredrik Sshott geswore klerk
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 70 84	Fredrik Sshott
+T5	Place 99 114	der Bengaelsche
+T6	ProperName 103 114	Bengaelsche
+T7	Person 164 200	Manhafte George Jacob Meier Schipper
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Person 204 235;236 239	Ingemond Ankerklauw opperstuur„ man
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 164 200	Manhafte George Jacob Meier Schipper
+T10	ProperName 204 223	Ingemond Ankerklauw
+T11	Place 254 272	schip Scholtenburg
+T12	ProperName 260 272	Scholtenburg
+T13	Person 327 336	Vingeland
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 327 336	Vingeland
+T15	Person 337 344	JBidert
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 337 344	JBidert
+T17	Person 405 435	A= Arnoldus de Ridder, Notaris
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Notary
+T18	ProperName 405 426	A= Arnoldus de Ridder
+T20	Place 461 468	holland
+T21	ProperName 461 468	holland
+T26	Person 512 520;521 545;546 563	Jacob 11 De Heeren George„ Meijer ommandeur ter zee
+A25	Gender T26 Man
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Other
+T22	ProperName 512 517	Jacob
+T23	ProperName 531 545	George„ Meijer
+T29	ProperName 646 655;656 679	het Ed=le oostjndische Compagnies
+T30	Place 680 685;686 698	schip schaltenburg
+T31	ProperName 686 698	schaltenburg
+T32	Person 718 726;727 756	Jngemond Ankerklauw als Opper stuurman
+A22	Gender T32 Man
+A23	LegalStatus T32 Unspecified
+A24	Role T32 Testator
+T33	ProperName 719 726;727 737	ngemond Ankerklauw
+T34	Person 761 788;789 804	Augustus Wilhalm Heere, als opper Chirurgin
+A28	Gender T34 Man
+A29	LegalStatus T34 Unspecified
+A30	Role T34 Testator
+T35	ProperName 761 784	Augustus Wilhalm Heere,
+T36	Person 1074 1088	Christiaan Wal
+A31	Gender T36 Unspecified
+A32	LegalStatus T36 Unspecified
+A33	Role T36 Other
+T37	ProperName 1074 1088	Christiaan Wal
+T38	Person 1090 1107	ssistent Johannes
+A34	Gender T38 Man
+A35	LegalStatus T38 Unspecified
+A36	Role T38 Other
+T39	ProperName 1099 1107	Johannes
+T40	Place 1209 1225	Comparants huijs
+T41	Person 1615 1623	Johannes
+A37	Gender T41 Unspecified
+A38	LegalStatus T41 Unspecified
+A39	Role T41 Other
+T42	ProperName 1615 1623	Johannes

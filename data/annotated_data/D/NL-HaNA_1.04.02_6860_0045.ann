@@ -1,0 +1,26 @@
+T2	ProperName 26 40	Selles Mellema
+T3	Person 26 40	Selles Mellema
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	Person 174 184	Jan La Pro
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 174 184	Jan La Pro
+T6	Place 218 227	Comptoirs
+T7	Place 262 271	Ten huize
+T8	ProperName 343 357	Jelles Nellema
+T9	ProperName 365 373	scheemda
+T10	Place 365 373	scheemda
+T11	Place 409 417	Samarang
+T12	ProperName 409 417	Samarang
+T13	Person 377 404	Dorothea Elisabeth Abrahams
+A7	Gender T13 Woman
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator_Beneficiary
+T14	ProperName 377 404	Dorothea Elisabeth Abrahams
+T15	Person 343 357	Jelles Nellema
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Testator_Beneficiary

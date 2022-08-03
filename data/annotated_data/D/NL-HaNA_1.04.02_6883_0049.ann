@@ -1,0 +1,86 @@
+T2	Person 477 503	Matthias Diaerik van Klaak
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Notary
+T3	ProperName 477 503	Matthias Diaerik van Klaak
+T4	Person 592 603	Ongelstroom
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 592 603	Ongelstroom
+T6	Person 791 815	Johanna Elisabeth Paulus
+A7	Gender T6 Woman
+A8	LegalStatus T6 Freed
+A9	Role T6 Beneficiary
+T7	ProperName 791 815	Johanna Elisabeth Paulus
+T8	ProperName 384 422	Fredrik Andrias Christiaan Engelstroom
+T9	Person 384 422	Fredrik Andrias Christiaan Engelstroom
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 164 183	Archibald Mesterton
+T11	ProperName 82 102	Johan, Martin Reemir
+T12	Person 164 183	Archibald Mesterton
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	Person 82 102	Johan, Martin Reemir
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	Organization 977 1012	de luijterse kerk alhier te Batavia
+A19	Beneficiary T14 Yes
+T15	Place 1005 1012	Batavia
+T16	ProperName 1005 1012	Batavia
+T17	Organization 1140 1161;1162 1176	het luijtersche weese huijs en Thage
+A20	Beneficiary T17 Yes
+T18	ProperName 1171 1176	Thage
+T19	Place 1171 1176	Thage
+T20	Person 1201 1225	Johan Diedirich orthling
+A21	Gender T20 Unspecified
+A22	LegalStatus T20 Unspecified
+A23	Role T20 Beneficiary
+T21	ProperName 1229 1236	kamburg
+T22	Place 1229 1236	kamburg
+T23	ProperName 1201 1225	Johan Diedirich orthling
+T24	ProperName 1273 1297	Johanna Elisabeth Paulus
+T25	Person 1273 1297	Johanna Elisabeth Paulus
+A24	Gender T25 Woman
+A25	LegalStatus T25 Freed
+A26	Role T25 Beneficiary
+T26	Person 1925 1949	Johanna Elisabeth Paulus
+A27	Gender T26 Woman
+A28	LegalStatus T26 Enslaved
+A29	Role T26 Beneficiary
+T27	ProperName 1925 1949	Johanna Elisabeth Paulus
+T28	Person 2223 2247	Johanna Elisdbeth Paulus
+A30	Gender T28 Woman
+A31	LegalStatus T28 Freed
+A32	Role T28 Testator
+T29	ProperName 2223 2247	Johanna Elisdbeth Paulus
+T30	Person 2348 2397	de vrije Christen vrouw Johanna Elisabeth. Paulus
+A33	Gender T30 Woman
+A34	LegalStatus T30 Freed
+A35	Role T30 Beneficiary
+T31	ProperName 2372 2397	Johanna Elisabeth. Paulus
+T32	Organization 2424 2443	de Luijtersche kerk
+A36	Beneficiary T32 Yes
+T33	ProperName 2550 2569	Johan Martin Reemer
+T34	ProperName 2574 2593	Archibala Mesterton
+T35	Person 2574 2593	Archibala Mesterton
+A37	Gender T35 Unspecified
+A38	LegalStatus T35 Unspecified
+A39	Role T35 Other
+T36	Person 2550 2569	Johan Martin Reemer
+A40	Gender T36 Unspecified
+A41	LegalStatus T36 Unspecified
+A42	Role T36 Other
+T37	Place 2756 2761	Thage
+T38	ProperName 2768 2775	Ramburg
+T39	Place 2768 2775	Ramburg
+T40	ProperName 2756 2761	Thage
+T41	Person 2874 2886;2887 2900	Johanna Eli„ Sabeth Paulus
+A43	Gender T41 Woman
+A44	LegalStatus T41 Freed
+A45	Role T41 Beneficiary
+T42	ProperName 2874 2886;2887 2900	Johanna Eli„ Sabeth Paulus

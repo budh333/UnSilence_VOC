@@ -1,0 +1,40 @@
+T3	Person 90 111	Batthazar Ravensbergh
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 90 111	Batthazar Ravensbergh
+T5	Organization 223 232	’s Comp„s
+A4	Beneficiary T5 No
+T6	Person 247 256;257 277	Dingeman, Bastlaanse Groeneweg
+A5	Gender T6 Man
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Testator
+T7	ProperName 247 256;257 277	Dingeman, Bastlaanse Groeneweg
+T8	Person 753 777	hendris Christiaan Finoe
+A8	Gender T8 Unspecified
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Acting_Notary
+T9	ProperName 753 777	hendris Christiaan Finoe
+T10	Person 815 836	heer Nicolaus Nicolai
+A11	Gender T10 Man
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Other
+T11	ProperName 820 836	Nicolaus Nicolai
+T12	Person 1216 1250	Philip de Gijter Scheeps timmerman
+A14	Gender T12 Man
+A15	LegalStatus T12 Unspecified
+A16	Role T12 Testator
+T13	ProperName 1216 1232	Philip de Gijter
+T14	Organization 1265 1273	E: Comp:
+A17	Beneficiary T14 No
+T15	Organization 1292 1300	’s Comp:
+A18	Beneficiary T15 No
+T16	Person 2383 2422	de Cristen mardijkster albertina adlams
+A19	Gender T16 Woman
+A20	LegalStatus T16 Freed
+A21	Role T16 Beneficiary
+T17	ProperName 2406 2422	albertina adlams
+T18	Person 2523 2529	slaven
+A22	Gender T18 Group
+A23	LegalStatus T18 Enslaved
+A24	Role T18 Other

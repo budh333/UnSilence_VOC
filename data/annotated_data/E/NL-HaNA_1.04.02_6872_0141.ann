@@ -1,0 +1,26 @@
+T3	Place 175 190	zoldij Comptoir
+T4	Person 198 210	P: D: Hillij
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 204 210	Hillij
+T6	ProperName 235 243;244 258	Johannes Twelling nitel
+T7	Person 235 243;244 259	Johannes Twelling nitel,
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 328 341	Nicolaas Leij
+T9	Person 328 340	Nicolaas Lei
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	Person 589 616	Loon Iohannes Swellengrebel
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator
+T11	ProperName 594 616	Iohannes Swellengrebel
+T12	Person 865 877	slaaff Titus
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary
+T13	ProperName 872 877	Titus

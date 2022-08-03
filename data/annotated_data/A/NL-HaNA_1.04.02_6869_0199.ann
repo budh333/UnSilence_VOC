@@ -1,0 +1,17 @@
+T4	ProperName 151 173	oostindische Compagnie
+T5	Place 633 645	te Amsterdam
+T6	Person 663 688	de Heeren Petrus Pertaten
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	ProperName 673 688	Petrus Pertaten
+T8	Person 689 694;695 725	Abra„ ham Meijsenheijm als getuijgen
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 689 694;695 711	Abra„ ham Meijsenheijm
+T10	Person 772 789	N:s Brahé Notanis
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Notary
+T11	ProperName 772 781	N:s Brahé

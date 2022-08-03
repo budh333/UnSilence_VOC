@@ -1,0 +1,59 @@
+T2	Person 2 13	L. Leunisse
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 2 13	L. Leunisse
+T4	Person 110 120;131 163	Ianhendrik thiel p„l Eerste Jeswoore Clercq
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 110 120;131 136	Ianhendrik thiel
+T6	Place 164 191;192 210	ter secretarije van politie taris deser provin
+T7	Place 278 298	ten Casteel beligica
+T8	ProperName 290 298	beligica
+T9	Person 352 389	Leendert Leunisse Luijenand militaien
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 352 379	Leendert Leunisse Luijenand
+T11	Person 390 403	Rachel Gilles
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 390 403	Rachel Gilles
+T13	Person 740 753	heer Nicolaas
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 745 753	Nicolaas
+T15	Organization 1547 1568	aan de diaconij armen
+A16	Beneficiary T15 Yes
+T16	Person 1764 1782	Leonardas philipus
+A17	Gender T16 Unspecified
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Beneficiary
+T17	Person 1784 1791;1809 1814	susanna maria
+A20	Gender T17 Unspecified
+A21	LegalStatus T17 Unspecified
+A22	Role T17 Beneficiary
+T18	Person 1819 1848	petrronella Carnelia Leunisse
+A23	Gender T18 Unspecified
+A24	LegalStatus T18 Unspecified
+A25	Role T18 Beneficiary
+T19	ProperName 1764 1782	Leonardas philipus
+T20	ProperName 1784 1791;1809 1814	susanna maria
+T21	ProperName 1819 1848	petrronella Carnelia Leunisse
+T22	Person 2201 2220	Johannes Steenowtsz
+A26	Gender T22 Unspecified
+A27	LegalStatus T22 Unspecified
+A28	Role T22 Beneficiary
+T23	ProperName 2201 2220	Johannes Steenowtsz
+T24	Person 2576 2581;2582 2613	ieter Lispencier, gewesen vrij burger
+A29	Gender T24 Man
+A30	LegalStatus T24 Unspecified
+A31	Role T24 Other
+T25	ProperName 2575 2581;2582 2592	Pieter Lispencier
+T26	Place 2618 2625	batavia
+T27	ProperName 2618 2625	batavia
+T28	Place 2679 2687	op Banda
+T29	ProperName 2682 2687	Banda

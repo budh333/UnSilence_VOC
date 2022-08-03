@@ -1,0 +1,29 @@
+T2	ProperName 516 533;534 540	Christiaan Liebre Kloege
+T3	Person 516 533;534 540	Christiaan Liebre Kloege
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Place 555 570;571 583	ter Secretarije van Justitie
+T5	Place 586 608	sjastals de goede hoop
+T6	ProperName 584 608	desjastals de goede hoop
+T7	Person 718 741	Iuff„ Aurelia Havorinus
+T8	ProperName 724 741	Aurelia Havorinus
+A4	Gender T7 Woman
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T9	Person 680 681;682 703	E E Carel Pavid wendsel
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 684 703	Carel Pavid wendsel
+T11	ProperName 708 714	Porede
+T12	Place 708 714	Porede
+T13	ProperName 746 763	Cabode goede hoop
+T14	Place 746 763	Cabode goede hoop
+T15	Organization 1356 1371;1372 1380	E Agtb raad van Justitie
+A10	Beneficiary T15 No
+T16	Person 1384 1412	Christiaan Ludolff Neethling
+A11	Gender T16 Unspecified
+A12	LegalStatus T16 Unspecified
+A13	Role T16 Other
+T17	ProperName 1384 1412	Christiaan Ludolff Neethling

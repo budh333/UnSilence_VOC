@@ -1,0 +1,18 @@
+T1	ProperName 267 279	Sesu Christi
+T2	ProperName 371 382;383 395	Lucas sigis mundus Faber
+T3	Person 371 382;383 395	Lucas sigis mundus Faber
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T5	Person 566 588;589 619	Johan Fredrik Staakman van Saxenhagen in't graafschap
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 566 588	Johan Fredrik Staakman
+T7	ProperName 634 655	Anna Elisabeth delpon
+T8	Person 634 655	Anna Elisabeth delpon
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator_Beneficiary
+T9	Place 660 678	Cabo de Goede hoop
+T10	ProperName 660 678	Cabo de Goede hoop

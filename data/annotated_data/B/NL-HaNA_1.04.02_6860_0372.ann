@@ -1,0 +1,14 @@
+T2	Person 103 109	P: Ras
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	Person 146 158	S: A: Dreiev
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	Person 206 212	Dreier
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T6	Place 277 285	Samarang
+T7	ProperName 277 285	Samarang

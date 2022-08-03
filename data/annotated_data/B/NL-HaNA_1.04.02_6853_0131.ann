@@ -1,0 +1,21 @@
+T1	Person 0 9	Jan Rasel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 9	Jan Rasel
+T3	Person 67 86	Abrahdam van Dinter
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 67 86	Abrahdam van Dinter
+T6	Place 125 132	holland
+T7	ProperName 109 132	edelen hove van holland
+T8	ProperName 125 132	holland
+T10	ProperName 143 186	edele hooge regeeringe van Nederlands Jndia
+T11	Place 170 186	Nederlands Jndia
+T12	ProperName 170 186	Nederlands Jndia
+T13	Person 269 285	Jan Iusius Kroon
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 269 285	Jan Iusius Kroon

@@ -1,0 +1,55 @@
+T2	ProperName 26 40	Jelles Mellema
+T3	Person 26 40	Jelles Mellema
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 175 185	Jan La Pro
+T5	Person 175 185	Jan La Pro
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	Place 219 228	Comptoirs
+T7	Place 263 272	Ten huize
+T8	Person 344 358	Jelles Nellema
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator_Beneficiary
+T9	ProperName 344 358	Jelles Nellema
+T10	Place 366 374	scheemda
+T11	ProperName 366 374	scheemda
+T12	ProperName 410 418	Samarang
+T13	Place 410 418	Samarang
+T14	Person 378 405	Dorothea Elisabeth Abrahams
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator_Beneficiary
+T15	ProperName 378 405	Dorothea Elisabeth Abrahams
+T16	Place 705 712	Batavia
+T17	ProperName 705 712	Batavia
+T18	Organization 674 704;705 712	de Luithersche Kerk der steede Batavia
+A13	Beneficiary T18 Yes
+T19	Organization 766 783	de Diaconie Aomen
+A14	Beneficiary T19 Yes
+T20	Place 896 905	Comptoire
+T21	Organization 943 947	Kerk
+A15	Beneficiary T21 Yes
+T22	Person 1079 1104	de Heer Nicolaas de Laeg,
+A16	Gender T22 Man
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Beneficiary
+T23	ProperName 1087 1103	Nicolaas de Laeg
+T24	Place 1127 1136	overschie
+T25	ProperName 1127 1136	overschie
+T26	Person 1271 1279;1280 1301	Manslaaf Fortuin van Maccassar
+A19	Gender T26 Man
+A20	LegalStatus T26 Enslaved
+A21	Role T26 Beneficiary
+T27	ProperName 1280 1301	Fortuin van Maccassar
+T28	ProperName 1292 1301	Maccassar
+T29	Place 1292 1301	Maccassar
+T30	Person 1305 1312;1313 1324	Candace van Mandhar
+A22	Gender T30 Woman
+A23	LegalStatus T30 Enslaved
+A24	Role T30 Beneficiary
+T31	ProperName 1317 1324	Mandhar
+T32	Place 1317 1324	Mandhar

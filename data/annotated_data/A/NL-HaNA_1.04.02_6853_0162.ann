@@ -1,0 +1,16 @@
+T1	Person 181 186;187 189	slav„ en
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 190 199	sladinnen
+A4	Gender T2 Group
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T5	Place 1024 1031;1032 1041	ter Kan amsterdam
+T6	ProperName 1032 1041	amsterdam
+T10	ProperName 989 1031;1032 1041	der g’octroyeerde OostJndische Compter Kan amsterdam
+T3	Person 1863 1870;1871 1877	sij mon Thomas
+A10	Gender T3 Man
+A11	LegalStatus T3 Unspecified
+A12	Role T3 Witness
+T4	ProperName 1863 1870;1871 1877	sij mon Thomas

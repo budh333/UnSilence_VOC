@@ -1,0 +1,23 @@
+T3	Person 7 27	Diederik Kloppenburg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 7 27	Diederik Kloppenburg
+T5	Place 825 840	Roeglij Bengale
+T6	ProperName 825 832	Roeglij
+T7	ProperName 833 840	Bengale
+T8	Person 874 884	J: A Kuuff
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 874 884	J: A Kuuff
+T10	Person 916 926;927 932	S: van den Broek
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Acting_Notary
+T11	ProperName 916 926;927 932	S: van den Broek
+T12	Person 998 1019	C: I: van Nurop Pyler
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 998 1019	C: I: van Nurop Pyler

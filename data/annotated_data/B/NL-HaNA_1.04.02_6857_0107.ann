@@ -1,0 +1,142 @@
+T1	Person 99 122	Marinus van Leeuwendaal
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	Person 243 271	heer M=r Willem van der Beke
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 99 122	Marinus van Leeuwendaal
+T4	ProperName 252 271	Willem van der Beke
+T5	Place 297 312	deses Comptoirs
+T6	Person 414 420	jsrael
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 450 457	Contant
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	Person 488 495	Porsins
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	Person 549 560	wildenbergh
+A16	Gender T9 Unspecified
+A17	LegalStatus T9 Unspecified
+A18	Role T9 Other
+T10	Person 575 581	ontant
+A19	Gender T10 Unspecified
+A20	LegalStatus T10 Unspecified
+A21	Role T10 Other
+T11	Person 617 625	tieleman
+A22	Gender T11 Unspecified
+A23	LegalStatus T11 Unspecified
+A24	Role T11 Other
+T12	Person 661 669	hendriks
+A25	Gender T12 Unspecified
+A26	LegalStatus T12 Unspecified
+A27	Role T12 Other
+T13	Person 698 708	van zeijst
+A28	Gender T13 Unspecified
+A29	LegalStatus T13 Unspecified
+A30	Role T13 Other
+T14	Person 747 757	Lie Goanko
+A31	Gender T14 Unspecified
+A32	LegalStatus T14 Unspecified
+A33	Role T14 Other
+T15	Person 784 788	Loos
+A34	Gender T15 Unspecified
+A35	LegalStatus T15 Unspecified
+A36	Role T15 Other
+T16	Person 848 858	alen ander
+A37	Gender T16 Unspecified
+A38	LegalStatus T16 Unspecified
+A39	Role T16 Other
+T17	Person 866 874	pousomko
+A40	Gender T17 Unspecified
+A41	LegalStatus T17 Unspecified
+A42	Role T17 Other
+T18	Person 893 896	mom
+A43	Gender T18 Unspecified
+A44	LegalStatus T18 Unspecified
+A45	Role T18 Other
+T19	Person 915 924	ko pingko
+A46	Gender T19 Unspecified
+A47	LegalStatus T19 Unspecified
+A48	Role T19 Other
+T20	Person 974 981	Lorgins
+A49	Gender T20 Unspecified
+A50	LegalStatus T20 Unspecified
+A51	Role T20 Other
+T21	Person 1021 1025	momn
+A52	Gender T21 Unspecified
+A53	LegalStatus T21 Unspecified
+A54	Role T21 Other
+T22	Person 1034 1041	Contant
+A55	Gender T22 Unspecified
+A56	LegalStatus T22 Unspecified
+A57	Role T22 Other
+T23	Person 1099 1103	voor
+A58	Gender T23 Unspecified
+A59	LegalStatus T23 Unspecified
+A60	Role T23 Other
+T24	Person 1129 1150	manslaaf gen:t Philix
+A61	Gender T24 Man
+A62	LegalStatus T24 Enslaved
+A63	Role T24 Other
+T25	Person 1167 1176	van balie
+A64	Gender T25 Man
+A65	LegalStatus T25 Enslaved
+A66	Role T25 Other
+T26	Person 1177 1202;1203 1213	slavinne gen=t aurora van banjoemaas
+A67	Gender T26 Woman
+A68	LegalStatus T26 Enslaved
+A69	Role T26 Other
+T27	Person 1240 1248	diedjana
+A70	Gender T27 Man
+A71	LegalStatus T27 Enslaved
+A72	Role T27 Other
+T28	Person 1249 1268	d=o gen=t Roosemond
+A73	Gender T28 Woman
+A74	LegalStatus T28 Enslaved
+A75	Role T28 Other
+T29	Person 1281 1291	alex ander
+A76	Gender T29 Unspecified
+A77	LegalStatus T29 Unspecified
+A78	Role T29 Other
+T30	Person 1235 1239	noor
+A79	Gender T30 Unspecified
+A80	LegalStatus T30 Unspecified
+A81	Role T30 Other
+T31	Person 1315 1326	do t Jasime
+A82	Gender T31 Woman
+A83	LegalStatus T31 Enslaved
+A84	Role T31 Other
+T32	Person 1331 1342	vander Laar
+A85	Gender T32 Unspecified
+A86	LegalStatus T32 Unspecified
+A87	Role T32 Other
+T33	Place 1357 1379;1380 1409	planken huijs met dies erve staende aan ’t zeestrand
+T34	ProperName 1192 1202;1203 1213	aurora van banjoemaas
+T35	Person 1418 1431	davrd berouwd
+A88	Gender T35 Unspecified
+A89	LegalStatus T35 Unspecified
+A90	Role T35 Other
+T36	Place 1436 1455	bevoorden t fortres
+T37	Person 1456 1462	ontant
+A91	Gender T37 Unspecified
+A92	LegalStatus T37 Unspecified
+A93	Role T37 Other
+T38	Person 1483 1487	Loos
+A94	Gender T38 Unspecified
+A95	LegalStatus T38 Unspecified
+A96	Role T38 Other
+T39	Person 1573 1582	Kok Johan
+A97	Gender T39 Unspecified
+A98	LegalStatus T39 Unspecified
+A99	Role T39 Other
+T40	Person 1687 1698	H: Rijnnagh
+A100	Gender T40 Man
+A101	LegalStatus T40 Unspecified
+A102	Role T40 Notary

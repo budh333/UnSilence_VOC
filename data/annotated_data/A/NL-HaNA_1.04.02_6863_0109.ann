@@ -1,0 +1,16 @@
+T2	ProperName 89 102	’s Compagnies
+T3	Person 117 140	Schaan wilhelm van Halt
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 117 140	Schaan wilhelm van Halt
+T5	Person 841 854	C: /J: Pluske
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 841 855	C: /J: Plusker
+T7	Person 867 878	J„ Geijsler
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 867 878	J„ Geijsler

@@ -1,0 +1,24 @@
+T3	Place 648 670	ten Comptoire Cheribon
+T4	ProperName 662 670	Cheribon
+T5	Person 742 766	Assistent Jan van Leijst
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	Person 770 791	Burger Willem Beukers
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 752 766	Jan van Leijst
+T8	ProperName 770 791	Burger Willem Beukers
+T9	Place 992 1020	in ’t schip Willem de Vijfde
+T10	ProperName 1004 1020	Willem de Vijfde
+T11	Person 1069 1083	J: H: Rijnnagh
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 1069 1083	J: H: Rijnnagh
+T13	Person 1088 1100	M Timmingson
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 1088 1100	M Timmingson

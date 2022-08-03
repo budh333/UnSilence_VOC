@@ -1,0 +1,41 @@
+T1	ProperName 58 76	Pieter Ras Coopman
+T2	Person 58 76	Pieter Ras Coopman
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 144 149	slaaf
+A4	Gender T3 Man
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	ProperName 165 187	Jan Hendrik Kruijshoff
+T5	Person 165 187	Jan Hendrik Kruijshoff
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T7	ProperName 526 536	Sourabaija
+T8	Place 526 536	Sourabaija
+T9	ProperName 537 546	Jan Lapre
+T10	Person 537 546	Jan Lapre
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	Person 764 786	Corporaal Van de Wilde
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 774 786	Van de Wilde
+T13	Person 860 868;869 886	Chineese Vrouw Than Tjonio
+A16	Gender T13 Woman
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 875 886	Than Tjonio
+T15	Person 916 940	slave Jonge Gen=t Mingo,
+A19	Gender T15 Man
+A20	LegalStatus T15 Enslaved
+A21	Role T15 Other
+T16	ProperName 928 940	Gen=t Mingo,
+T17	Person 964 990	Slavinne Maria van Besaija
+A22	Gender T17 Woman
+A23	LegalStatus T17 Enslaved
+A24	Role T17 Other
+T18	ProperName 973 990	Maria van Besaija

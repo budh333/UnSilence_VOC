@@ -1,0 +1,14 @@
+T2	Place 293 302	amsterdam
+T3	ProperName 293 302	amsterdam
+T4	Place 379 390	schip Ruijt
+T5	ProperName 385 390	Ruijt
+T9	ProperName 1033 1048	Roeloff Beekman
+T10	Person 1033 1048	Roeloff Beekman
+A1	Gender T10 Unspecified
+A2	LegalStatus T10 Unspecified
+A3	Role T10 Other
+T12	ProperName 1166 1172	Visser
+T13	Person 1162 1172	W„m Visser
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Other

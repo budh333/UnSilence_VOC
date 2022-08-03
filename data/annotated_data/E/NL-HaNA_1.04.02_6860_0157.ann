@@ -1,0 +1,24 @@
+T2	ProperName 403 424	heeren bewindhebberen
+T3	Place 435 438;439 447	Am„ „sterdam
+T4	ProperName 435 438;439 447	Am„ „sterdam
+T5	Place 484 492;493 515	’t schip ’t Casteel van tilburg
+T6	ProperName 493 515	’t Casteel van tilburg
+T7	Place 540 545	Jndia
+T8	ProperName 540 545	Jndia
+T9	Place 1332 1345	Passouirouang
+T10	ProperName 1332 1345	Passouirouang
+T11	ProperName 1392 1402	Jan Sifste
+T12	Person 1392 1402	Jan Sifste
+A1	Gender T12 Unspecified
+A2	LegalStatus T12 Unspecified
+A3	Role T12 Witness
+T13	ProperName 1413 1418;1419 1430	Iohan Hendrik Lem
+T14	Person 1414 1418;1419 1430	ohan Hendrik Lem
+A4	Gender T14 Unspecified
+A5	LegalStatus T14 Unspecified
+A6	Role T14 Witness
+T15	Person 1575 1594	M„r M:s vn Lynnowst
+A7	Gender T15 Unspecified
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Other
+T16	ProperName 1586 1595	Lynnowsti

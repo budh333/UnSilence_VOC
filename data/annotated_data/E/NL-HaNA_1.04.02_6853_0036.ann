@@ -1,0 +1,24 @@
+T1	Person 145 167	E: Christiaan Kleijnho
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 148 168	Christiaan Kleijnhof
+T3	Person 332 345	E: kleijnhoff
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 335 345	kleijnhoff
+T6	ProperName 758 776	Oost Jndische Comp
+T7	Place 784 793	Amsterdam
+T8	ProperName 784 793	Amsterdam
+T10	Place 1450 1459	hospitaal
+T11	ProperName 1475 1486	Isaac Soual
+T12	Person 1475 1486	Isaac Soual
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Witness
+T13	ProperName 1490 1501	Ian Weenink
+T14	Person 1490 1501	Ian Weenink
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Witness

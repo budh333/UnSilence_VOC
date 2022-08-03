@@ -1,0 +1,32 @@
+T1	Person 0 15	Jacob Cartelijn
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 15	Jacob Cartelijn
+T3	Person 81 119	M:r Joan van der Voort notaris publicq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 85 103	Joan van der Voort
+T6	ProperName 124 147;148 168	de Edele hooge regering van nederlands Jndia
+T7	Place 152 168	nederlands Jndia
+T8	Place 182 203	binnen destad Batavia
+T9	ProperName 196 203	Batavia
+T10	Person 251 275;276 293	de heer Jacob Castelijn, Capitain militair
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 259 274	Jacob Castelijn
+T13	ProperName 307 315	dE. Comp
+T14	Person 320 340;341 370	mejufvrouw Christina Sophia van Ceters, egtelieden
+A10	Gender T14 Woman
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator
+T15	ProperName 331 340;341 358	Christina Sophia van Ceters
+T16	ProperName 380 396	binnen dese stad
+T17	Person 604 607	God
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 604 607	God
+T20	ProperName 2487 2529	’t eerw: Collegie van heeren weesmeesteren

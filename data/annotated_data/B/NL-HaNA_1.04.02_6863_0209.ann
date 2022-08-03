@@ -1,0 +1,33 @@
+T1	Place 4 28	slands wert in amsterdam
+T2	ProperName 19 28	amsterdam
+T3	Place 205 211	Candia
+T4	ProperName 205 211	Candia
+T5	Person 291 298;299 308	Abraham van Breem
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 291 298;299 308	Abraham van Breem
+T7	Person 506 512	Maurer
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Beneficiary
+T8	Person 520 531	H van Breem
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T10	Place 549 556;557 575	'sComp: dispens te Colombo
+T11	ProperName 568 575	Colombo
+T12	Place 1081 1087	kandia
+T13	ProperName 1081 1087	kandia
+T14	Person 1124 1139	Cornelis Ieklis
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator
+T15	Person 1176 1186	W: Beukman
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Witness
+T16	Person 1190 1203;1204 1212	P: L: van der straaten
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Witness

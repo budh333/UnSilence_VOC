@@ -1,0 +1,29 @@
+T2	Person 218 241;242 251	huysvrouw Inffr: Engela ten damme
+A1	Gender T2 Woman
+A2	LegalStatus T2 Freed
+A3	Role T2 Beneficiary
+T3	ProperName 235 241;242 251	Engela ten damme
+T4	Person 299 313;314 327	d’ EE: Hendrik Swellengrebel
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 331 344	Rijk Terlbagh
+T6	ProperName 306 313;314 326	Hendrik Swellengrebe
+T7	Person 331 344	Rijk Terlbagh
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 364 384	Willem mannits Cruse
+T9	Place 397 409	Stad batavia
+T10	ProperName 402 409	batavia
+T11	ProperName 414 425;426 432	adviaan van Kervel
+T12	Person 414 425;426 432	adviaan van Kervel
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 512 530	d’ Gusbent Lefebre
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 515 530	Gusbent Lefebre
+T16	Place 877 886	weescamer

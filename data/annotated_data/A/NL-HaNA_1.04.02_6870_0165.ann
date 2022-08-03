@@ -1,0 +1,58 @@
+T1	Place 2 11	hdspetaal
+T4	Person 197 209	Jnsa Christi
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 197 209	Jnsa Christi
+T6	Person 259 287	Gijsbont Jn cobsemr boekhaur
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Acting_Notary
+T7	ProperName 259 277	Gijsbont Jn cobsem
+T8	Place 312 327	ter secretarije
+T9	Person 328 336	Cuilliam
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 328 336	Cuilliam
+T11	ProperName 554 562	'sComp=s
+T13	Person 530 537	Alphons
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 530 537	Alphons
+T15	Person 570 590	Pieter Christiaanven
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 570 590	Pieter Christiaanven
+T17	Person 852 869	steven Winckelman
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Acting_Notary
+T18	ProperName 852 869	steven Winckelman
+T20	ProperName 924 944	Ed„e Oustjnd: Comp.e
+T21	Person 1020 1024	Godt
+A19	Gender T21 Man
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 1020 1024	Godt
+T23	Person 1234 1262	sieman, Pieter Christiaensen
+A22	Gender T23 Man
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Testator
+T24	ProperName 1242 1262	Pieter Christiaensen
+T25	Person 1513 1529	Laurens houtipen
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Beneficiary
+T26	ProperName 1513 1529	Laurens houtipen
+T27	Person 1572 1586	Samuel Wedeghe
+A28	Gender T27 Unspecified
+A29	LegalStatus T27 Unspecified
+A30	Role T27 Beneficiary
+T28	ProperName 1572 1586	Samuel Wedeghe
+T29	Place 1824 1832	in jndia
+T30	ProperName 1827 1832	jndia
+T31	Place 1984 2018	binnen scheeps boord ofte en jndia
+T32	ProperName 2013 2018	jndia

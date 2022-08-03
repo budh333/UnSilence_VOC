@@ -1,0 +1,45 @@
+T1	Person 73 98	Zergiant Johannes brouwer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 82 98	Johannes brouwer
+T3	Person 103 126;127 136	Chirurgijn Iacob Willen Pannesmit
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 114 126;127 136	Iacob Willen Pannesmit
+T6	Place 580 599	ter Camer amsterdam
+T7	ProperName 590 599	amsterdam
+T8	Place 1536 1547;1548 1561	In de stadt Jaffanapatnam
+T9	ProperName 1548 1561	Jaffanapatnam
+T10	Person 1620 1637	Hendrik van hoort
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Witness
+T11	ProperName 1620 1637	Hendrik van hoort
+T12	Person 1641 1691	Lambert:s van Klinckenberg Clercquen als getuijgen
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Witness
+T13	ProperName 1641 1667	Lambert:s van Klinckenberg
+T14	Person 1726 1739	Iordaan Carel
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 1726 1739	Iordaan Carel
+T16	Person 1864 1881	Hendrik van Hoorn
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Witness
+T17	ProperName 1864 1881	Hendrik van Hoorn
+T18	Person 1885 1911	Lambert van krlincken berg
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Witness
+T19	Person 1985 1992;1993 1998	Janneel Clerq
+A22	Gender T19 Man
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	ProperName 1985 1992	Janneel
+T21	Place 651 675;676 681	het schip de her stelde„ Leeuw
+T22	ProperName 661 675;676 681	de her stelde„ Leeuw

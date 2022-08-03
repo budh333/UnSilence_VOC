@@ -1,0 +1,10 @@
+T3	Person 436 469	mejuff=r Elsie Huijbertsz: weduwe
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 445 462	Elsie Huijbertsz:
+T5	Person 489 507	Jan Godlieb velsch
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 489 507	Jan Godlieb velsch

@@ -1,0 +1,35 @@
+T2	Person 570 583	Hendrik gouts
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 570 583	Hendrik gouts
+T4	Organization 424 437;438 445;446 479	E: agtb: raad tenemen van Justitie deezes gouvernements
+A4	Beneficiary T4 No
+T5	Place 466 479	gouvernements
+T6	Person 381 404	Josephus de grand preez
+A5	Gender T6 Man
+A6	LegalStatus T6 Unspecified
+A7	Role T6 Acting_Notary
+T7	ProperName 381 404	Josephus de grand preez
+T8	Organization 1004 1016	dE Compagnie
+A8	Beneficiary T8 No
+T9	ProperName 1004 1016	dE Compagnie
+T10	ProperName 1084 1103;1104 1116	Geactrooieerde Oost Indische Co:
+T11	Place 1121 1132	Camer hoorm
+T12	ProperName 1127 1132	hoorm
+T13	Organization 1084 1103;1104 1116	Geactrooieerde Oost Indische Co:
+A9	Beneficiary T13 No
+T14	Place 1934 1942	Pomtoire
+T15	ProperName 1961 1983	Sywoon Nalentijn adams
+T16	ProperName 1987 2003	Johannes Braband
+T17	Person 1987 2003	Johannes Braband
+A10	Gender T17 Unspecified
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Witness
+T18	Person 1961 1983	Sywoon Nalentijn adams
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Witness
+T19	ProperName 2532 2537	Comp=
+T20	Organization 2532 2537	Comp=
+A16	Beneficiary T20 No

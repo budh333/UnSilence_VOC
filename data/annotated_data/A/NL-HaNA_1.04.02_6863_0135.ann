@@ -1,0 +1,39 @@
+T1	ProperName 0 14	Pieter de Hoog
+T2	Person 0 14	Pieter de Hoog
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T6	ProperName 28 37	de Comp„e
+T7	Person 102 139;143 149	szaek Huijbregt Guerin Erste Geswoord Clercq
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	ProperName 102 124	szaek Huijbregt Guerin
+T9	Person 376 392	meju frouw Pusgu
+A7	Gender T9 Woman
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 387 392	Pusgu
+T11	Person 563 579;623 649	Cornelis Johanna Van Nierop Gezwoore Clercq
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 563 579;623 633	Cornelis Johanna Van Nierop
+T13	Place 650 662	der Bengaal„
+T14	ProperName 654 661	Bengaal
+T15	Person 967 982;1008 1012	Everhardus Hen„ „nis
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 967 982;1008 1012	Everhardus Hen„ „nis
+T18	ProperName 1027 1036	’s Comp„s
+T19	Person 1390 1398	Lootsman
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	ProperName 1390 1398	Lootsman
+T21	Person 1652 1679;1680 1696	Eerste Gezwoore Clereqsjaac Huysbrech Gueren
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 1652 1679;1680 1696	Eerste Gezwoore Clereqsjaac Huysbrech Gueren

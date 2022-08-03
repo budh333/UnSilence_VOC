@@ -1,0 +1,35 @@
+T2	ProperName 250 266	Pieter, van Baak
+T5	ProperName 352 375	Willem Iacobsz: Fordijn
+T6	Place 380 391	leeuwaarden
+T7	ProperName 380 391	leeuwaarden
+T8	Organization 460 474	der Ecompagnie
+T9	Person 1922 1927	Elias
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Beneficiary
+T10	ProperName 1922 1927	Elias
+T11	Person 1938 1953	Geetje Jacobsz:
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 1938 1953;1954 1961	Geetje Jacobsz: Iordijn
+T13	Organization 2008 2020	d ECompagnie
+T16	ProperName 2572 2587	Anna Margaretha
+T17	Person 2673 2694	slaaven En slaavinnen
+A16	Gender T17 Group
+A17	LegalStatus T17 Enslaved
+A18	Role T17 Other
+T1	Person 250 277	Pieter, van Baak Secretaris
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T4	Person 352 375	Willem Iacobsz: Fordijn
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T14	Person 2572 2587	Anna Margaretha
+A13	Gender T14 Woman
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Beneficiary
+A19	Beneficiary T8 No
+A20	Beneficiary T13 No

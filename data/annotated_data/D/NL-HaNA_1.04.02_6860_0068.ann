@@ -1,0 +1,21 @@
+T1	ProperName 312 319	Gekardt
+T2	ProperName 278 287	Jan Patro
+T4	Person 43 54	C„s Liebran
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	Person 30 40	h: S: Wack
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 30 40	h: S: Wack
+T7	ProperName 43 54	C„s Liebran
+T8	ProperName 213 215;216 221	J: Roohn
+T9	Person 278 287	Jan Patro
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	Person 312 319	Gekardt
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other

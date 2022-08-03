@@ -1,0 +1,34 @@
+T3	Place 62 75	destad Cochim
+T4	ProperName 69 75	Cochim
+T5	ProperName 177 203	Johannes Coenraad dekrouse
+T6	ProperName 208 222	Johannes Wolff
+T7	Person 177 203	Johannes Coenraad dekrouse
+A1	Gender T7 Unspecified
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Witness
+T8	Person 208 222	Johannes Wolff
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 638 646	Cheribon
+T10	Place 638 646	Cheribon
+T12	Person 683 694	P„r Herstad
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T14	Person 759 776	M: V: Lieuwendaal
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T16	Person 781 794	will: Beukers
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 806 814	HHerstad
+T18	Person 806 814	HHerstad
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T11	ProperName 687 694	Herstad
+T13	ProperName 765 776	Lieuwendaal
+T15	ProperName 787 794	Beukers

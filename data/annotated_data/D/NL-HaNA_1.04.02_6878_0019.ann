@@ -1,0 +1,38 @@
+T2	Organization 375 415;416 429	Egchtb: Raad van Politie alhier aan Cabo de Goede Hoop
+A1	Beneficiary T2 No
+T3	Place 411 415;416 429	Cabo de Goede Hoop
+T4	ProperName 411 415;416 429	Cabo de Goede Hoop
+T5	ProperName 329 348	Cloff Martine Bergh
+T6	Person 329 348	Cloff Martine Bergh
+A2	Gender T6 Man
+A3	LegalStatus T6 Unspecified
+A4	Role T6 Acting_Notary
+T7	Place 531 543	Gouvernement
+T8	Person 544 569	C:r Johannes Jan der Riet
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator_Beneficiary
+T9	ProperName 548 569	Johannes Jan der Riet
+T10	Person 573 585;586 595	Juff:r Maria Berthault
+A8	Gender T10 Woman
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Testator_Beneficiary
+T11	ProperName 580 585;586 595	Maria Berthault
+T12	Organization 1249 1256;1257 1281	de dia„ „Conij armen te samarang
+A11	Beneficiary T12 Yes
+T13	Place 1273 1281	samarang
+T14	ProperName 1273 1281	samarang
+T15	ProperName 1460 1472	Jan Schouten
+T16	Person 1460 1472	Jan Schouten
+A12	Gender T16 Unspecified
+A13	LegalStatus T16 Unspecified
+A14	Role T16 Other
+T17	Person 1961 1967	slaven
+A15	Gender T17 Group
+A16	LegalStatus T17 Enslaved
+A17	Role T17 Other
+T18	ProperName 1903 1918	Agnita Schouten
+T19	Person 1903 1918	Agnita Schouten
+A18	Gender T19 Unspecified
+A19	LegalStatus T19 Unspecified
+A20	Role T19 Other

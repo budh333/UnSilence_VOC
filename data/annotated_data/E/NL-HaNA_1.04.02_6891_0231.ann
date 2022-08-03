@@ -1,0 +1,54 @@
+T1	ProperName 56 69	Jan Timmerman
+T2	Person 56 69	Jan Timmerman
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	Place 85 104	’t schip„ Landhorst
+T4	ProperName 95 104	Landhorst
+T5	Place 130 139	vaderland
+T6	ProperName 200 213	Cristiaen put
+T7	Person 200 213	Cristiaen put
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	Place 240 254	nederl=k Jndia
+T9	ProperName 240 254	nederl=k Jndia
+T12	ProperName 534 543	Amsterdam
+T13	Place 534 543	Amsterdam
+T14	Place 732 748;749 753	in’t schip Kerk„ wijk
+T15	ProperName 743 748;749 753	Kerk„ wijk
+T16	ProperName 788 804	Hermanus Schutte
+T17	Person 788 804	Hermanus Schutte
+A7	Gender T17 Man
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Witness
+T18	ProperName 814 823;824 832	Jan mulde schieman
+T19	ProperName 836 862	Gosewijn Haersma Constabel
+T20	Person 814 823;824 832	Jan mulde schieman
+A10	Gender T20 Unspecified
+A11	LegalStatus T20 Unspecified
+A12	Role T20 Witness
+T21	Person 836 862	Gosewijn Haersma Constabel
+A13	Gender T21 Unspecified
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Witness
+T22	ProperName 1013 1024	Jan Pietert
+T23	ProperName 1025 1041	Harmanus Schutti
+T24	Person 1025 1041	Harmanus Schutti
+A16	Gender T24 Man
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Witness
+T25	Person 1013 1024	Jan Pietert
+A19	Gender T25 Unspecified
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Other
+T26	ProperName 1077 1092	Gosenijn Htaers
+T27	Person 1077 1092	Gosenijn Htaers
+A22	Gender T27 Unspecified
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Witness
+T28	ProperName 1064 1075	Jan meel en
+T29	Person 1064 1075	Jan meel en
+A25	Gender T29 Unspecified
+A26	LegalStatus T29 Unspecified
+A27	Role T29 Witness

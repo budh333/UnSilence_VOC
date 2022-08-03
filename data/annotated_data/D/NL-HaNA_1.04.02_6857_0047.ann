@@ -1,0 +1,34 @@
+T1	Person 11 30	Den Heer J. G. Bode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 20 30	J. G. Bode
+T3	Place 101 108	Batavia
+T4	ProperName 101 108	Batavia
+T5	ProperName 195 212	Jan Jacob Idemans
+T6	Person 195 212	Jan Jacob Idemans
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+T7	Person 258 276	de Heer J. G. Bode
+A6	Gender T7 Man
+A7	LegalStatus T7 Unspecified
+A8	Role T7 Other
+T8	ProperName 266 276	J. G. Bode
+T9	ProperName 294 309	Canton in China
+T10	Place 294 309	Canton in China
+T11	Person 327 338	Ari Mitkert
+A9	Gender T11 Unspecified
+A10	LegalStatus T11 Unspecified
+T12	ProperName 327 338	Ari Mitkert
+A11	Role T6 Other
+A12	Role T11 Other
+T13	ProperName 363 368	Johan
+T14	Person 363 368	Johan
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 468 479	C: Rijnnagh
+T16	Person 468 479	C: Rijnnagh
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other

@@ -1,0 +1,39 @@
+T1	Person 274 283;284 302	PP: Johan Anthonij Gelamaker
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 278 283;284 302	Johan Anthonij Gelamaker
+T3	Person 306 317	Jan Pulmans
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+T4	ProperName 306 317	Jan Pulmans
+T6	Person 582 609	Iohannes Nicolaas / Bestour
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+T7	ProperName 582 609	Iohannes Nicolaas / Bestour
+T8	Person 620 651	Renier Iean Louis de Pelhiettaz
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+T9	ProperName 620 651	Renier Iean Louis de Pelhiettaz
+T10	Person 759 783	Iacob: van Waning Iunior
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+T11	ProperName 759 782	Iacob: van Waning Iunio
+T12	ProperName 819 826	holland
+T13	Place 819 826	holland
+T14	Place 842 851	Rotterdam
+T15	ProperName 842 851	Rotterdam
+T16	Person 914 926;927 950	Heer Reinier Iean Louisde Tilliettaz
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+T17	ProperName 919 926;927 950	Reinier Iean Louisde Tilliettaz
+T18	Place 1128 1137	Rotterdam
+T19	ProperName 1128 1137	Rotterdam
+T20	Place 1152 1168	Nederlands Jndia
+T21	ProperName 1152 1168	Nederlands Jndia
+A3	Role T1 Witness
+A6	Role T3 Witness
+A9	Role T6 Notary
+A12	Role T8 Other
+A15	Role T10 Notary
+A18	Role T16 Witness
+T5	ProperName 1103 1113	Middelwijk

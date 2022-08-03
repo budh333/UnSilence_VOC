@@ -1,0 +1,77 @@
+T1	Person 76 87	the hiongko
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 76 87	the hiongko
+T3	Person 32 44	van minwegen
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 32 44	van minwegen
+T5	Person 117 127	Bessenrood
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 117 127	Bessenrood
+T7	Person 229 235	muller
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 229 235	muller
+T9	Person 378 385	Scholtz
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 378 385	Scholtz
+T11	Person 352 360	pracatta
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 352 360	pracatta
+T13	Person 475 485	inna hamat
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Beneficiary
+T14	ProperName 475 485	inna hamat
+T15	Person 506 517	Gattagamber
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Beneficiary
+T16	ProperName 506 517	Gattagamber
+T17	Person 523 531	van Elst
+A25	Gender T17 Unspecified
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Beneficiary
+T18	ProperName 523 531	van Elst
+T19	Person 578 589	nrina hamat
+A28	Gender T19 Unspecified
+A29	LegalStatus T19 Unspecified
+A30	Role T19 Beneficiary
+T20	ProperName 578 589	nrina hamat
+T21	Person 642 655	J=n Zeijliger
+A31	Gender T21 Unspecified
+A32	LegalStatus T21 Unspecified
+A33	Role T21 Beneficiary
+T22	ProperName 642 655	J=n Zeijliger
+T23	Place 708 716	Cheribon
+T24	ProperName 708 716	Cheribon
+T25	Person 765 775	P:r Hersta
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Acting_Notary
+T26	ProperName 765 775	P:r Hersta
+T27	Person 840 852	I: V: Zeijst
+A37	Gender T27 Unspecified
+A38	LegalStatus T27 Unspecified
+A39	Role T27 Witness
+T28	ProperName 840 852	I: V: Zeijst
+T29	Person 854 864	W: Beukers
+A40	Gender T29 Unspecified
+A41	LegalStatus T29 Unspecified
+A42	Role T29 Witness
+T30	ProperName 854 864	W: Beukers
+T31	Person 877 885	HHerstad
+A43	Gender T31 Unspecified
+A44	LegalStatus T31 Unspecified
+A45	Role T31 Acting_Notary
+T32	ProperName 877 885	HHerstad

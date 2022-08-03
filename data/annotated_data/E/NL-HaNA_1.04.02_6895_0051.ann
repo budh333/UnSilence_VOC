@@ -1,0 +1,45 @@
+T3	Place 2015 2022	Batavia
+T4	ProperName 2015 2022	Batavia
+T5	Place 160 169	rotterdam
+T6	ProperName 160 169	rotterdam
+T7	Person 285 322;323 327	mejuff=s van der Net of Maria van den lijk
+A1	Gender T7 Woman
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Beneficiary
+T8	ProperName 294 305	van der Net
+T9	ProperName 309 322;323 327	Maria van den lijk
+T10	ProperName 369 382;383 386	Pieter vander Net
+T11	Person 369 382;383 386	Pieter vander Net
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Other
+T12	Place 809 818	rotterdam
+T13	ProperName 809 818	rotterdam
+T14	ProperName 1021 1027	Dijken
+T15	ProperName 1031 1037	Mulder
+T16	Person 1021 1027	Dijken
+A7	Gender T16 Man
+A8	LegalStatus T16 Unspecified
+A9	Role T16 Beneficiary
+T17	Person 1031 1037	Mulder
+A10	Gender T17 Man
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Beneficiary
+T18	Place 1041 1050	amsterdam
+T19	ProperName 1041 1050	amsterdam
+T20	ProperName 1215 1224	nederland
+T21	Place 1215 1224	nederland
+T22	Person 1369 1394	Christiaan van Teijlingen
+A13	Gender T22 Man
+A14	LegalStatus T22 Unspecified
+A15	Role T22 Other
+T23	ProperName 1369 1394	Christiaan van Teijlingen
+T24	Place 1528 1547	’t schip slotendijk
+T25	ProperName 1537 1547	slotendijk
+T27	Place 1634 1643	nederland
+T28	ProperName 1634 1643	nederland
+T29	ProperName 1730 1744	Simon Iosesche
+T30	Person 1730 1744	Simon Iosesche
+A16	Gender T30 Man
+A17	LegalStatus T30 Unspecified
+A18	Role T30 Beneficiary

@@ -1,0 +1,51 @@
+T2	ProperName 203 219	Jacobus leborgne
+T3	Place 240 247;249 255	Gouver„ nement
+T4	Person 203 219	Jacobus leborgne
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T5	ProperName 377 397	Gerret Jans dorenbos
+T6	Person 377 397	Gerret Jans dorenbos
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 419 424	EComp
+T8	Organization 419 424	EComp
+A7	Beneficiary T8 No
+T9	Person 437 460	huijs vrouw Maria ruwel
+A8	Gender T9 Woman
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Testator
+T10	ProperName 449 460	Maria ruwel
+T11	ProperName 604 615;620 625	Ian hendrik Thiel
+T12	Person 604 615;620 625	Ian hendrik Thiel
+A11	Gender T12 Man
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Acting_Notary
+T13	Place 654 681	ter secretarije van politie
+T14	Organization 674 681	politie
+A14	Beneficiary T14 No
+T15	Place 824 838	ten woonhuijse
+T16	ProperName 861 876	huijbert danzer
+T17	Person 861 876	huijbert danzer
+A15	Gender T17 Man
+A16	LegalStatus T17 Unspecified
+A17	Role T17 Testator
+T18	Person 939 968	huijs vrouw martina Ian broes
+A18	Gender T18 Woman
+A19	LegalStatus T18 Unspecified
+A20	Role T18 Testator
+T19	ProperName 951 968	martina Ian broes
+T20	Organization 1922 1939;1940 1955	de diaconij armen te deser steede
+A21	Beneficiary T20 Yes
+T21	Person 2107 2134	Juff=m maria van der schaer
+A22	Gender T21 Woman
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary
+T22	ProperName 2114 2134	maria van der schaer
+T23	Place 2149 2158	doad regt
+T24	Person 2177 2201	burger Reinier bornwater
+A25	Gender T24 Man
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Other
+T25	ProperName 2184 2201	Reinier bornwater

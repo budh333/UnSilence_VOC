@@ -1,0 +1,26 @@
+T1	Person 101 111	Pieter Ras
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 101 111	Pieter Ras
+T3	Place 142 156	dese Comptoire
+T4	Person 193 205	Jonas Mulder
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator_Beneficiary
+T5	ProperName 193 205	Jonas Mulder
+T6	Person 229 256	Dorothea Fredrika Hulsthoff
+A7	Gender T6 Woman
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator_Beneficiary
+T7	ProperName 229 256	Dorothea Fredrika Hulsthoff
+T8	Place 676 700	hoofd Comptoire Samarang
+T9	ProperName 692 700	Samarang
+T10	Person 1098 1104	slaven
+A10	Gender T10 Group
+A11	LegalStatus T10 Enslaved
+A12	Role T10 Other
+T11	Person 1108 1117	slavennen
+A13	Gender T11 Group
+A14	LegalStatus T11 Enslaved
+A15	Role T11 Other

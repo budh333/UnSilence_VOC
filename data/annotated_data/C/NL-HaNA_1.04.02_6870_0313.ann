@@ -1,0 +1,26 @@
+T3	Person 5 34	Dingeman Basthaauve Groeneweg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 5 34	Dingeman Basthaauve Groeneweg
+T5	Person 99 120	Batthazar Ravinsbergh
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 99 120	Batthazar Ravinsbergh
+T7	Organization 233 242	’s Comp„s
+A7	Beneficiary T7 No
+T8	Person 257 266;267 287	Dingeman, Bastlaanse Groeneweg
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Testator
+T9	ProperName 257 266;267 287	Dingeman, Bastlaanse Groeneweg
+T10	Person 831 843	Evert Jansz:
+A11	Gender T10 Man
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Beneficiary
+T11	ProperName 831 843	Evert Jansz:
+T12	Place 848 854	dockum
+T13	ProperName 848 854	dockum
+T14	Organization 1108 1116	d EComp:
+A14	Beneficiary T14 No

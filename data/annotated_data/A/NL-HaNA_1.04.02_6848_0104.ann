@@ -1,0 +1,41 @@
+T1	Person 252 269;270 277	Hermanus Scheltus notaris
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 252 269	Hermanus Scheltus
+T3	Place 326 339	ter weeskamer
+T5	Place 426 448	Batavia Jnde Weeskamer
+T6	ProperName 426 433	Batavia
+T7	Person 493 514	W=m Kraane Secretaris
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T9	Person 985 991	Slaven
+A7	Gender T9 Group
+A8	LegalStatus T9 Enslaved
+T11	Person 1152 1164;1165 1169;1170 1181	broeder Jacr „bus Hollenhagen
+A11	Gender T11 Man
+A12	LegalStatus T11 Unspecified
+A13	Role T11 Beneficiary
+T10	ProperName 1160 1164;1165 1169;1170 1181	Jacr „bus Hollenhagen
+T12	Place 1279 1286	Batavia
+T13	ProperName 1279 1286	Batavia
+T14	Person 1331 1354	Christianus Hollenhagen
+A9	Gender T14 Man
+A10	LegalStatus T14 Unspecified
+T15	ProperName 1331 1354	Christianus Hollenhagen
+T17	Place 1515 1525;1526 1531	Batavia in Weesk
+T18	ProperName 1515 1522	Batavia
+T19	Person 1571 1592	W=m Kraate Secretaris
+A14	Gender T19 Man
+A15	LegalStatus T19 Unspecified
+A16	Role T19 Other
+T20	ProperName 1571 1581	W=m Kraate
+T21	Person 1709 1720;1721 1726	slave Jonge Sabar
+A17	Gender T21 Man
+A18	LegalStatus T21 Enslaved
+A19	Role T21 Beneficiary
+T22	ProperName 1721 1726	Sabar
+T4	ProperName 493 502	W=m Kraan
+A20	Role T9 Other
+A21	Role T14 Testator

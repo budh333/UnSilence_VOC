@@ -1,0 +1,39 @@
+T1	Person 3 25	Jurgen Paulus Jykerman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 77 105	M=r Jan van der voortnotaris
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Notary
+T3	ProperName 81 98	Jan van der voort
+T5	Place 150 160;161 166	nederlands India
+T6	ProperName 150 160;161 166	nederlands India
+T7	Place 180 202	binnen de stad batavia
+T8	ProperName 195 202	batavia
+T9	Person 354 375	Jacob Adriaan Cassier
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 354 375	Jacob Adriaan Cassier
+T11	Person 379 394;395 434	Joachim andreas Billekens meijne Clerquon als getuijgen
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 379 394;395 404	Joachim andreas Billekens
+T13	Person 522 540;541 549	Joan van der voort Nottaris
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Notary
+T14	Person 569 579	H Vertting
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 569 579	H Vertting
+T16	ProperName 3 25	Jurgen Paulus Jykerman
+T17	Person 256 273	Jan Jurgen de Wit
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 256 273	Jan Jurgen de Wit
+T19	ProperName 522 539	Joan van der voor

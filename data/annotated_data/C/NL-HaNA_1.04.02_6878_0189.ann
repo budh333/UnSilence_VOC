@@ -1,0 +1,51 @@
+T3	ProperName 88 99;100 102;103 110	Jan hendrik mo Withoff
+T4	Place 115 122	hanover
+T5	ProperName 115 122	hanover
+T7	ProperName 345 353;354 376	Johannes Cornelis van der Spuij
+T9	ProperName 418 433	Dik Westertroff
+T11	ProperName 483 500;501 508	Johannes Mattheus Hartzog
+T12	Person 512 529	Samuel Fred Botha
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 512 529	Samuel Fred Botha
+T15	ProperName 1009 1023	Ian Boudewynsz
+T16	Place 1051 1063	Aijerbangies
+T17	ProperName 1051 1063	Aijerbangies
+T19	ProperName 1067 1080	Dirk Stolting
+T20	Place 1099 1105	patang
+T21	ProperName 1099 1105	patang
+T22	Person 1114 1122;1123 1130	Iuffrouw Christa
+A22	Gender T22 Woman
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T23	ProperName 1123 1130	Christa
+T24	ProperName 1218 1224	gerrit
+T25	Person 1218 1224	gerrit
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T2	Person 88 99;100 102;103 110	Jan hendrik mo Withoff
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T6	Person 345 353;354 376	Johannes Cornelis van der Spuij
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T8	Person 418 433	Dik Westertroff
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T10	Person 483 500;501 508	Johannes Mattheus Hartzog
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T14	Person 1002 1024	Heeren Ian Boudewynsz:
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T18	Person 1067 1080	Dirk Stolting
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other

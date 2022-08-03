@@ -1,0 +1,17 @@
+T3	Person 10 21	geentruijda
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 10 21	geentruijda
+T5	Person 65 87	volsiert gerrit fokkes
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 65 87	volsiert gerrit fokkes
+T7	Place 359 366	Colombo
+T8	ProperName 359 366	Colombo
+T9	Person 401 416	b=t Kriekenbeek
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 401 416	b=t Kriekenbeek

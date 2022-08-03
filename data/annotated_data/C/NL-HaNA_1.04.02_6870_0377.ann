@@ -1,0 +1,65 @@
+T3	Organization 3 11	D EComp:
+A1	Beneficiary T3 No
+T4	Organization 94 125;126 155	d’Ed:e hoog agtb: heeren bewind hebberen der Camer middelburg
+A2	Beneficiary T4 No
+T5	Place 145 155	middelburg
+T6	ProperName 145 155	middelburg
+T7	Place 206 219	't schip Catt
+T8	ProperName 215 219	Catt
+T9	Place 1216 1219;1220 1231	ban le op neira
+T10	ProperName 1216 1219;1220 1222	ban le
+T11	ProperName 1226 1231	neira
+T12	Person 1287 1300	D:r Sijbrands
+A3	Gender T12 Unspecified
+A4	LegalStatus T12 Unspecified
+A5	Role T12 Witness
+T13	ProperName 1287 1300	D:r Sijbrands
+T14	Person 1304 1316	C:s D Cruijm
+A6	Gender T14 Unspecified
+A7	LegalStatus T14 Unspecified
+A8	Role T14 Witness
+T15	ProperName 1304 1316	C:s D Cruijm
+T16	Person 1497 1510	h„ss C„n Tinx
+A9	Gender T16 Unspecified
+A10	LegalStatus T16 Unspecified
+A11	Role T16 Acting_Notary
+T17	ProperName 1497 1510	h„ss C„n Tinx
+T18	Place 1574 1601	banda nass: op d’ Weeskamer
+T19	ProperName 1574 1585	banda nass:
+T20	Person 1667 1684;1685 1698	Johan Lebregt Sij Delman Junior
+A12	Gender T20 Man
+A13	LegalStatus T20 Unspecified
+A14	Role T20 Beneficiary
+T21	ProperName 1667 1684;1685 1698	Johan Lebregt Sij Delman Junior
+T22	Person 1699 1730	Een Clave Jonge genaamt verjauw
+A15	Gender T22 Man
+A16	LegalStatus T22 Enslaved
+A17	Role T22 Other
+T23	ProperName 1723 1730	verjauw
+T24	Organization 1780 1785	EComp
+A18	Beneficiary T24 No
+T25	Person 1786 1803	Jan Hendrik Camps
+A19	Gender T25 Man
+A20	LegalStatus T25 Unspecified
+A21	Role T25 Beneficiary
+T26	ProperName 1786 1803	Jan Hendrik Camps
+T27	Person 2102 2120	Heer Jacob Pelters
+A22	Gender T27 Man
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Beneficiary
+T28	ProperName 2107 2120	Jacob Pelters
+T29	Person 2546 2562	D:E fred„k Iansz
+A25	Gender T29 Man
+A26	LegalStatus T29 Unspecified
+A27	Role T29 Testator
+T30	ProperName 2550 2562	fred„k Iansz
+T31	Person 3125 3139	Johan foederik
+A28	Gender T31 Unspecified
+A29	LegalStatus T31 Unspecified
+A30	Role T31 Other
+T32	ProperName 3125 3139	Johan foederik
+T33	Person 3143 3153	Jan george
+A31	Gender T33 Unspecified
+A32	LegalStatus T33 Unspecified
+A33	Role T33 Other
+T34	ProperName 3143 3153	Jan george

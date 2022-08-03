@@ -1,0 +1,15 @@
+T1	Person 298 302;303 326	Bas„ „tiaan Jacob bottendorp
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 298 302;303 326	Bas„ „tiaan Jacob bottendorp
+T3	Person 345 353;354 373	Johannes Nicolaas Bottendorp
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+T4	ProperName 345 353;354 373	Johannes Nicolaas Bottendorp
+T6	Person 452 460	kinderen
+A10	Gender T6 Group
+A11	LegalStatus T6 Unspecified
+T10	ProperName 1412 1445	Collegie van heeren Weesmeesteren
+A3	Role T1 Beneficiary
+A6	Role T3 Beneficiary
+A7	Role T6 Beneficiary

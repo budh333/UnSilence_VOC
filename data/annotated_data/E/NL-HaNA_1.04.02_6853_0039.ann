@@ -1,0 +1,35 @@
+T1	ProperName 0 21	Johan Michiel Rittler
+T2	Person 0 21	Johan Michiel Rittler
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	Person 69 72;73 99	M„r Ioan van der Voort Notaris
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 73 91	Ioan van der Voort
+T5	Place 115 130	de stad Batavia
+T6	ProperName 123 130	Batavia
+T8	ProperName 164 185	Johan Michiel Rittler
+T9	Person 164 185	Johan Michiel Rittler
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	Place 223 232	hospitaal
+T11	Person 794 815	Johan Michiel Rettler
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 794 815	Johan Michiel Rettler
+T13	Person 819 838	Era Maria Moratsing
+A13	Gender T13 Woman
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	ProperName 819 838	Era Maria Moratsing
+T15	ProperName 867 872	Zersz
+T16	Place 854 872	voorstad van Zersz
+T18	ProperName 1542 1557	godfried seidel
+T19	Person 1542 1557	godfried seidel
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other

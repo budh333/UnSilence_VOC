@@ -1,0 +1,41 @@
+T1	Person 9 29	Jan Christiaa Malseh
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 9 29	Jan Christiaa Malseh
+T3	Person 87 111	Iacobus Wijnand brengman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 87 111	Iacobus Wijnand brengman
+T6	ProperName 135 171;172 177	Edele hooge regeringe van nederlands india
+T7	Place 161 171;172 177	nederlands india
+T8	ProperName 161 171;172 177	nederlands india
+T9	Place 191 212	binnen destad batavia
+T10	ProperName 205 212	batavia
+T11	Person 259 273;274 286	DE: Ian Chris„ tiaan Malsch
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 263 273;274 286	Ian Chris„ tiaan Malsch
+T14	Place 337 376;377 384	schuijns over 't groen maguazijn binnen de stad
+T15	Person 667 694;695 713	vrije Christe vrouw Johanna Catharina Assebeth
+A10	Gender T15 Woman
+A11	LegalStatus T15 Freed
+A12	Role T15 Beneficiary
+T16	ProperName 687 694;695 713	Johanna Catharina Assebeth
+T17	Person 974 997	Johanna Dorretha malsch
+A13	Gender T17 Woman
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Beneficiary
+T18	ProperName 974 997	Johanna Dorretha malsch
+T19	Person 1042 1067	Johanna Catharina assebet
+A16	Gender T19 Woman
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Beneficiary
+T20	ProperName 1042 1067	Johanna Catharina assebet
+T21	Person 1306 1332	Monsieur Jan Jasper malsch
+A19	Gender T21 Man
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 1315 1332	Jan Jasper malsch

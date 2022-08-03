@@ -1,0 +1,12 @@
+T1	Place 62 75	destad Cochim
+T2	ProperName 69 75	Cochim
+T7	ProperName 209 223	Johannes Wolff
+T6	Person 209 223	Johannes Wolff
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T4	ProperName 178 204	Johannes Coenraad dekrouse
+T5	Person 178 204	Johannes Coenraad dekrouse
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness

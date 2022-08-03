@@ -1,0 +1,22 @@
+T3	Place 499 509;510 520	in’t schip Nieuwstadt
+T4	ProperName 510 520	Nieuwstadt
+T5	ProperName 557 569	Caas Pietork
+T6	Person 557 569	Caas Pietork
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Testator
+T7	ProperName 628 636	Bertling
+T8	Person 628 636	Bertling
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Acting_Notary
+T9	ProperName 599 612	Jacobus greve
+T10	Person 599 612	Jacobus greve
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 583 598	piton Cornelsen
+T12	Person 583 598	piton Cornelsen
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other

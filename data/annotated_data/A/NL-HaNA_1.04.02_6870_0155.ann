@@ -1,0 +1,58 @@
+T1	Person 0 13	Lourens Craay
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 13	Lourens Craay
+T3	Person 75 98	Jan de Baerij assistend
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T6	ProperName 75 88	Jan de Baerij
+T8	ProperName 109 120	der E: Comp
+T9	Place 150 156;157 173	op het schip Hinkensand
+T10	ProperName 163 173	Hinkensand
+T11	Person 201 207;208 214	ouvens Craaij
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 201 207;208 214	ouvens Craaij
+T13	Place 215 225	van mettor
+T14	ProperName 219 225	mettor
+T15	Person 900 947;948 961	Gerrit Carelsz: ende voorsing authonis:) Clerg: als getuijgen
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Witness
+T16	ProperName 900 914	Gerrit Carelsz
+T17	Person 1032 1041	Jan kroon
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 1032 1041	Jan kroon
+T19	Person 1069 1082	marinus dewit
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	ProperName 1069 1082	marinus dewit
+T21	Person 1102 1111	g: Carels
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 1102 1111	g: Carels
+T23	Person 1114 1126	N=t anthonis
+A22	Gender T23 Unspecified
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Other
+T24	ProperName 1114 1126	N=t anthonis
+T25	Person 1144 1146;1147 1165	C= schoute nots publ:
+A25	Gender T25 Man
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Notary
+T26	ProperName 1144 1146;1147 1154	C= schoute
+T27	Place 1251 1256	bat:a
+T28	ProperName 1251 1256	bat:a
+T29	Person 1292 1303;1304 1314	C:t schoute nots publ:
+A28	Gender T29 Man
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Notary
+T30	ProperName 1292 1303	C:t schoute
+T31	Place 1403 1418	ter secretarije

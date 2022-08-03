@@ -1,0 +1,17 @@
+T1	ProperName 367 375	Cheribon
+T3	Person 398 432	Chirurgijn Marinus van Leeuwendaal
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 409 431	Marinus van Leeuwendaa
+T5	Person 436 457	burger Willem Beukers
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 443 457	Willem Beukers
+T2	Place 367 375	Cheribon
+T9	ProperName 66 81;82 85	Johannes Garrel man
+T10	Person 66 81;82 85	Johannes Garrel man
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator

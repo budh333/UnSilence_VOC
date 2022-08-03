@@ -1,0 +1,4 @@
+T1	Person 694 703	Slavinnen
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other

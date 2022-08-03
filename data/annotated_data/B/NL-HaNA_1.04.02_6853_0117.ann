@@ -1,0 +1,28 @@
+T1	Person 0 9	Jan Rasel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 9	Jan Rasel
+T3	Person 67 86;87 94	Abrahdam van Dinter Notaris
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 67 86	Abrahdam van Dinter
+T6	ProperName 108 131	edelen hove van holland
+T7	Place 124 131	holland
+T8	ProperName 124 131	holland
+T9	Person 223 230	Ian Kip
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	ProperName 223 230	Ian Kip
+T11	Person 310 333	Magnus Memming a Anclam
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 310 333	Magnus Memming a Anclam
+T14	Person 1653 1669	Jacob westerhoff
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Beneficiary
+T15	Place 1675 1680	Amstz

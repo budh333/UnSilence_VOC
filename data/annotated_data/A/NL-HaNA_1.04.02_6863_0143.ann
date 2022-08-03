@@ -1,0 +1,38 @@
+T2	ProperName 11 20	de Comp„e
+T3	Person 0 4	L: S
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 0 4	L: S
+T5	Person 21 35	Pieter de Hoog
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 21 35	Pieter de Hoog
+T7	Person 107 145;149 167	Izaek Huijbeegt Guerin Eerste Geswoord Clercq van Politie
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 107 129	Izaek Huijbeegt Guerin
+T9	Person 356 378	De Heer Pieter de Hoog
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Testator
+T10	ProperName 364 378	Pieter de Hoog
+T11	Person 382 398;401 426	mejuffrouw Pusqu „alla Ramos echter Leeden
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Testator
+T12	ProperName 393 398;401 412	Pusqu „alla Ramos
+T13	Person 1699 1734;1735 1743	de moeder van den Testateur Sucanna de Costa
+A16	Gender T13 Woman
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Beneficiary
+T14	ProperName 1727 1734;1735 1743	Sucanna de Costa
+T15	Person 1751 1785	Eerzame Marten Rijkofskij Lootsman
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 1759 1785	Marten Rijkofskij Lootsman
+T17	Place 1786 1791;1794 1810	in de rivier de Ganges
+T18	ProperName 1804 1810	Ganges

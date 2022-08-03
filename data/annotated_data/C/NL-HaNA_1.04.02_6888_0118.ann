@@ -1,0 +1,54 @@
+T1	Person 31 36;37 57	slaaf Alexander van boegis
+A1	Gender T1 Man
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	ProperName 37 57	Alexander van boegis
+T3	Place 51 57	boegis
+T5	Person 89 106	Maria van batavia
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Enslaved
+A6	Role T5 Other
+T6	ProperName 89 106	Maria van batavia
+T7	Place 99 106	batavia
+T4	Person 251 275;276 278	slaaf Gerrit van batavi„ va
+A7	Gender T4 Man
+A8	LegalStatus T4 Enslaved
+A9	Role T4 Other
+T8	ProperName 257 275;276 278	Gerrit van batavi„ va
+T9	Place 268 275;276 278	batavi„ va
+T11	ProperName 693 707;708 717	George Fredrik Heeverman
+T12	Person 740 772	Mejufvrouw Sara Catharina verdig
+A13	Gender T12 Woman
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary
+T13	ProperName 751 772	Sara Catharina verdig
+T16	Person 989 1001	LijfEijgenen
+A16	Gender T16 Group
+A17	LegalStatus T16 Enslaved
+A18	Role T16 Other
+T17	Person 1012 1029	Datis van batavia
+A19	Gender T17 Man
+A20	LegalStatus T17 Enslaved
+A21	Role T17 Other
+T18	ProperName 1012 1029	Datis van batavia
+T19	Place 1022 1029	batavia
+T20	Person 1039 1051;1052 1064	wijf Poutjou van Mandhaar
+A22	Gender T20 Woman
+A23	LegalStatus T20 Enslaved
+A24	Role T20 Other
+T21	ProperName 1044 1051;1052 1064	Poutjou van Mandhaar
+T22	Place 1056 1064	Mandhaar
+T23	Person 1085 1091	Lijsje
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Enslaved
+A27	Role T23 Other
+T24	ProperName 1085 1091	Lijsje
+T25	Person 1095 1099	Arij
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Enslaved
+A30	Role T25 Other
+T26	ProperName 1095 1099	Arij
+T10	Person 687 707;708 717	D: E: George Fredrik Heeverman
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary

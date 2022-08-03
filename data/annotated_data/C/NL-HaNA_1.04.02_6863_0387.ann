@@ -1,0 +1,42 @@
+T3	Person 6 16	Kretschmar
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 6 16	Kretschmar
+T5	Person 117 127;128 143	Christiaan Rudolpn Lochman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T6	ProperName 117 127;128 143	Christiaan Rudolpn Lochman
+T7	Person 176 200	Huijsvrouw Anna Fernando
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator_Beneficiary
+T8	ProperName 187 200	Anna Fernando
+T9	Person 281 300	Ioan Hendrik Multer
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Acting_Notary
+T10	ProperName 281 300	Ioan Hendrik Multer
+T11	Person 384 392;393 399	Iohannes frange
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 384 392;393 399	Iohannes frange
+T13	Place 634 641	Colombo
+T14	ProperName 634 641	Colombo
+T15	Person 776 790	B: H: Stroebbe
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 776 790	B: H: Stroebbe
+T17	Person 816 829	Daniel de Bok
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 816 829	Daniel de Bok
+T19	Person 840 848	Perenden
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	ProperName 840 848	Perenden

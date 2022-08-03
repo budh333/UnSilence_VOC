@@ -1,0 +1,46 @@
+T1	Person 104 127	Marinus van Leeuwendaal
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 104 127	Marinus van Leeuwendaal
+T3	Person 248 276	heer M=r Willem van der Beke
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 257 276	Willem van der Beke
+T5	Place 302 317	deses Comptoirs
+T6	Person 387 402;403 412	Allerander Boes van Ments
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T7	ProperName 387 402;403 412	Allerander Boes van Ments
+T8	Person 1026 1031;1032 1056	huis„ Vrouw Tebdora Abel Lucas
+A10	Gender T8 Woman
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Beneficiary
+T9	ProperName 1038 1056	Tebdora Abel Lucas
+T10	Person 1090 1116	Geertruida Nicolaas Iansen
+A13	Gender T10 Woman
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Beneficiary
+T11	Person 1121 1129;1130 1134	sussanna Boes
+A16	Gender T11 Woman
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 1090 1116	Geertruida Nicolaas Iansen
+T13	ProperName 1121 1129;1130 1134	sussanna Boes
+T15	ProperName 1312 1322;1323 1355	Nederland„ sche Oostjndische Maatschappijen
+T16	Place 1462 1481	ter kamen Enkhuisen
+T17	ProperName 1472 1481	Enkhuisen
+T19	Person 1670 1690	DE: Esechiel zombart
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T21	Person 2047 2056	Kok Johan
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	Person 2168 2179	H: Rijnnagh
+A25	Gender T22 Man
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Notary

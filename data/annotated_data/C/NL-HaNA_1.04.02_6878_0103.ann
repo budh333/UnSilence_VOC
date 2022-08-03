@@ -1,0 +1,27 @@
+T1	Person 134 167	Ioan Adriaan Dreier, gesw: scriba
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 134 153	Ioan Adriaan Dreier
+T4	ProperName 289 303	Fredrik Visser
+T5	Person 316 334;335 354	Huijsvrouw Mejuff: Adriana Steenbergen
+A7	Gender T5 Woman
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 327 334;335 354	Mejuff: Adriana Steenbergen
+T7	Organization 934 946	d’ E: Comp:e
+T8	Organization 1064 1075	D: E: Comp„
+T9	Organization 1343 1362	de Luijtersche Kerk
+T10	Place 1363 1365;1366 1380	in steede Batavia
+T11	ProperName 1373 1380	Batavia
+T12	Person 1811 1820	slavinnen
+A10	Gender T12 Group
+A11	LegalStatus T12 Enslaved
+A12	Role T12 Other
+T3	Person 289 303	Fredrik Visser
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+A13	Beneficiary T7 No
+A14	Beneficiary T8 No
+A15	Beneficiary T9 Yes

@@ -1,0 +1,103 @@
+T1	ProperName 11 21	Kretsehman
+T2	ProperName 22 45	Johan Christiaan Mulher
+T3	Person 22 45	Johan Christiaan Mulher
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T5	ProperName 138 167	Wilhelmus Philippus Wetzelius
+T6	Person 138 167	Wilhelmus Philippus Wetzelius
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Acting_Notary
+T8	ProperName 260 282	Joan Christiaan Muller
+T9	Person 260 282	Joan Christiaan Muller
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 287 293	Ropein
+T12	Person 541 566	adsistent theodorus morel
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 551 566	theodorus morel
+T14	ProperName 628 645	Domingo de zilver
+T15	Person 628 646	Domingo de zilver.
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	Person 706 717	b: Chiangoe
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other
+T17	ProperName 709 717	Chiangoe
+T18	Person 739 748	D: kersse
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	ProperName 742 748	kersse
+T20	ProperName 811 824	Jacob koestal
+T21	Person 811 823	Jacob koesta
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 844 857	Nelle awoeker
+T23	Person 844 858	Nelle awoeker.
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	Person 910 921	D: Steijger
+A28	Gender T24 Unspecified
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Other
+T25	ProperName 913 921	Steijger
+T26	Person 950 959	DE Visser
+A31	Gender T26 Unspecified
+A32	LegalStatus T26 Unspecified
+A33	Role T26 Other
+T27	ProperName 953 959	Visser
+T28	Person 997 1007	ad pieries
+A34	Gender T28 Unspecified
+A35	LegalStatus T28 Unspecified
+A36	Role T28 Other
+T29	ProperName 1000 1007	pieries
+T30	ProperName 1046 1058	ordama lebbe
+T31	Person 1046 1058	ordama lebbe
+A37	Gender T31 Unspecified
+A38	LegalStatus T31 Unspecified
+A39	Role T31 Other
+T32	ProperName 1090 1107	felix Christoffel
+T33	Person 1090 1107	felix Christoffel
+A40	Gender T33 Unspecified
+A41	LegalStatus T33 Unspecified
+A42	Role T33 Other
+T34	Person 1128 1138	L: pieries
+A43	Gender T34 Unspecified
+A44	LegalStatus T34 Unspecified
+A45	Role T34 Other
+T35	ProperName 1131 1138	pieries
+T36	ProperName 1177 1191	agamadoe lebbe
+T37	Person 1177 1190	agamadoe lebb
+A46	Gender T37 Unspecified
+A47	LegalStatus T37 Unspecified
+A48	Role T37 Other
+T38	Person 1213 1222	H Sitters
+A49	Gender T38 Unspecified
+A50	LegalStatus T38 Unspecified
+A51	Role T38 Other
+T39	ProperName 1215 1222	Sitters
+T40	Person 1261 1271	D: gerrard
+A52	Gender T40 Unspecified
+A53	LegalStatus T40 Unspecified
+A54	Role T40 Other
+T41	ProperName 1264 1271	gerrard
+T42	ProperName 1295 1303	steffens
+T43	Person 1295 1303	steffens
+A55	Gender T43 Unspecified
+A56	LegalStatus T43 Unspecified
+A57	Role T43 Other
+T44	ProperName 1319 1337	felix Christoffel.
+T45	Person 1319 1336	felix Christoffel
+A58	Gender T45 Unspecified
+A59	LegalStatus T45 Unspecified
+A60	Role T45 Other
+T47	ProperName 1473 1479	Muller

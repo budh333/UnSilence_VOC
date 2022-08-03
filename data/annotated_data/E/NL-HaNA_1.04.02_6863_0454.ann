@@ -1,0 +1,10 @@
+T1	ProperName 120 138	Cornelis dekretser
+T3	Person 120 138	Cornelis dekretser
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 143 160;161 166	Johannes adrianus Tituu
+T5	Person 143 160;161 166	Johannes adrianus Tituu
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other

@@ -1,0 +1,38 @@
+T1	Person 6 15	Jan Rasel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	Person 74 93	Abrahdam van Dinter
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Notary
+T3	ProperName 74 93	Abrahdam van Dinter
+T5	ProperName 116 139	edelen hove van holland
+T6	Place 132 139	holland
+T7	ProperName 132 139	holland
+T9	ProperName 150 193	edele hooge regeeringe van Nederlands Jndia
+T10	Place 177 193	Nederlands Jndia
+T11	ProperName 177 193	Nederlands Jndia
+T12	Place 204 226	binnen de stad Batavia
+T13	ProperName 219 226	Batavia
+T14	Person 278 287	Ian Rasel
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Testator
+T15	ProperName 278 287	Ian Rasel
+T16	Place 293 299	brakel
+T17	ProperName 293 299	brakel
+T20	Person 459 469	Jan Mulman
+A10	Gender T20 Man
+A11	LegalStatus T20 Unspecified
+A12	Role T20 Other
+T21	ProperName 459 469	Jan Mulman
+T23	Person 949 961	Leijfeigenen
+A13	Gender T23 Group
+A14	LegalStatus T23 Enslaved
+A15	Role T23 Other
+T24	Person 1633 1649	Jan Iusius Kroon
+A16	Gender T24 Unspecified
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Other
+T25	ProperName 1633 1649	Jan Iusius Kroon

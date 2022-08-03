@@ -1,0 +1,30 @@
+T1	Person 7 24	Jurgen Rosenhagen
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	Person 84 90;91 103	Willem Maurits oegs
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Acting_Notary
+T3	ProperName 84 90;91 103	Willem Maurits oegs
+T4	Place 132 146;147 157	E Comp„e schip Haamsteede
+T6	ProperName 147 157	Haamsteede
+T7	Person 202 219	Jurgen Rosenhagen
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	ProperName 202 219	Jurgen Rosenhagen
+T9	Place 224 229	Lomen
+T10	ProperName 224 229	Lomen
+T11	Person 802 818;819 823	Andries Bastiaan Moda
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 802 818;819 823	Andries Bastiaan Moda
+T13	Place 829 840	Leeuwaarden
+T14	ProperName 829 840	Leeuwaarden
+T15	Person 1042 1058	Jan Iusius Kroon
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 1042 1058	Jan Iusius Kroon

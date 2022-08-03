@@ -1,0 +1,28 @@
+T1	Place 11 21	Sourabaija
+T2	ProperName 11 21	Sourabaija
+T4	ProperName 288 292	Comp
+T5	ProperName 602 612	C: Dckardt
+T6	Person 602 612	C: Dckardt
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	Person 563 576	C: E: Eckardt
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	ProperName 563 576	C: E: Eckardt
+T9	ProperName 501 513	J: G: Helmke
+T10	Person 501 513	J: G: Helmke
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	Person 100 107;108 125	Christi aan Ernst Echardt
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 100 107;108 125	Christi aan Ernst Echardt
+T13	Person 41 58	Cornelis de Breij
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 41 58	Cornelis de Breij

@@ -1,0 +1,19 @@
+T3	Person 7 18	geentruijda
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 7 18	geentruijda
+T5	Person 63 84	volkert gerrit fokkes
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 63 84	volkert gerrit fokkes
+T7	Person 354 381	huijsvrauw Anna Maria pijll
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 365 381	Anna Maria pijll
+T9	Organization 1067 1101;1102 1131	de Edele hoog agtb: heeren bewint„ „hebberen ter Camer Amsterdam
+A10	Beneficiary T9 No
+T10	Place 1122 1131	Amsterdam
+T11	ProperName 1122 1131	Amsterdam

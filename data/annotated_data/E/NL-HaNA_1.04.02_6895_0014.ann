@@ -1,0 +1,17 @@
+T2	Person 9 25	A„ P:t Bosenboom
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 16 25	Bosenboom
+T4	ProperName 35 40	Ruijs
+T5	Person 35 40	Ruijs
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Place 106 127;128 148	zoldij visite Compt:r Batavia Jn't Casteel
+T8	ProperName 128 135	Batavia
+T9	Person 166 175	A: : Hoek
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 171 175	Hoek

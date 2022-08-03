@@ -1,0 +1,41 @@
+T4	ProperName 259 269	Soeracarta
+T5	Place 259 269	Soeracarta
+T6	ProperName 364 380	Jacobus de vries
+T7	Person 364 380	Jacobus de vries
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Testator
+T8	ProperName 422 442	Ian hendrik lankhals
+T9	Person 422 442	Ian hendrik lankhals
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 499 515	Pelia Timmermans
+T11	Person 643 652	J„o Fries
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 647 652	Fries
+T13	ProperName 773 781	Samarang
+T14	Place 773 781	Samarang
+T15	ProperName 1017 1030	gillis lavett
+T16	Person 1017 1030	gillis lavett
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 1145 1158	Jacobus Fries
+T18	Person 1145 1158	Jacobus Fries
+A13	Gender T18 Man
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Testator
+T20	Person 1603 1617	Craconyj Armen
+A16	Gender T20 Group
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Beneficiary
+T21	Place 1622 1629	Amboina
+T22	ProperName 1622 1629	Amboina
+T23	ProperName 1787 1809	Bacthazar thoutlemonde
+T24	Person 1787 1809	Bacthazar thoutlemonde
+A19	Gender T24 Man
+A20	LegalStatus T24 Unspecified
+A21	Role T24 Other

@@ -1,0 +1,43 @@
+T1	Person 116 136	Joan Adriaan dreijer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 116 136	Joan Adriaan dreijer
+T3	Place 170 186	deelen Comptoire
+T4	Place 223 264;265 291	tenhuijse van den alhier bescheydene sol„ daat Christoffel Schelling
+T5	Person 270 291	Christoffel Schelling
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 270 291	Christoffel Schelling
+T7	Place 297 311	Pruijshollandt
+T8	ProperName 297 311	Pruijshollandt
+T10	ProperName 497 532;533 562	eerwaarde Collegie van heeren wees„ „meesteren ter steede Batavia
+T11	Place 548 562	steede Batavia
+T12	ProperName 555 562	Batavia
+T13	Place 634 649;650 660	sijn testateurs sterfhuijs
+T16	Place 1103 1106;1107 1114	Am„ sterdam
+T17	ProperName 1103 1106;1107 1114	Am„ sterdam
+T18	Place 1161 1192	het schip ’t huijs d’ marquette
+T19	Place 1216 1221	Jndia
+T20	ProperName 1216 1221	Jndia
+T21	Place 1923 1929;1930 1955	Neder„ „landsch Comptoir Grissee
+T22	ProperName 1948 1955	Grissee
+T23	Person 2002 2020	Pieter De LaPaijze
+A7	Gender T23 Unspecified
+A8	LegalStatus T23 Unspecified
+A9	Role T23 Witness
+T24	ProperName 2002 2020	Pieter De LaPaijze
+T25	Person 2041 2058	Matthijs Abrahams
+A10	Gender T25 Unspecified
+A11	LegalStatus T25 Unspecified
+A12	Role T25 Witness
+T26	ProperName 2041 2058	Matthijs Abrahams
+T27	Person 2207 2216	J„r Iosee
+A13	Gender T27 Unspecified
+A14	LegalStatus T27 Unspecified
+A15	Role T27 Acting_Notary
+T28	Person 2287 2301	J„n A:r Dreier
+A16	Gender T28 Man
+A17	LegalStatus T28 Unspecified
+A18	Role T28 Acting_Notary

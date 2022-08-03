@@ -1,0 +1,37 @@
+T1	Organization 27 36	d E Comp:
+T3	ProperName 112 136	Johan andreas Daijmichen
+T5	ProperName 252 269	Cornelis Breekpot
+T8	Person 661 669;670 679	heer van der Grijp
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 666 669;670 679	van der Grijp
+T11	ProperName 1116 1132	Ian van der Laer
+T12	Person 1171 1186	Pieter Sterstad
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Acting_Notary
+T13	ProperName 1171 1186	Pieter Sterstad
+T18	Person 1322 1330	hoogland
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	ProperName 1322 1330	hoogland
+T2	Person 112 147	Johan andreas Daijmichen boekhouder
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T4	Person 247 269	Heer Cornelis Breekpot
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T6	Person 453 483;484 493	Heer Johannes Bartholomeus van der Grijp
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 458 483;484 493	Johannes Bartholomeus van der Grijp
+T10	Person 1116 1132	Ian van der Laer
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Acting_Notary
+A22	Beneficiary T1 No

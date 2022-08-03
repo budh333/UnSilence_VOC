@@ -1,0 +1,99 @@
+T2	ProperName 65 86	Hendrik van Eyndhoven
+T3	Person 157 167	A: Kuijper
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 157 167	A: Kuijper
+T5	Person 311 324	L: Elhuuijzen
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 311 324	L: Elhuuijzen
+T7	Person 386 400	Claas bornholm
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 386 400	Claas bornholm
+T9	Person 465 476	M:r heijser
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 465 476	M:r heijser
+T11	Person 545 551	J: Gem
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 545 551	J: Gem
+T13	Person 571 582	C: Baarends
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Beneficiary
+T14	ProperName 571 582	C: Baarends
+T15	Person 627 635	Mouthaan
+A22	Gender T15 Unspecified
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Beneficiary
+T16	Person 691 701	G: Brouwer
+A25	Gender T16 Unspecified
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Beneficiary
+T17	ProperName 691 701	G: Brouwer
+T18	Person 759 770	C: Hendriks
+A28	Gender T18 Unspecified
+A29	LegalStatus T18 Unspecified
+A30	Role T18 Beneficiary
+T19	ProperName 759 770	C: Hendriks
+T20	Person 874 882	Bornholm
+A31	Gender T20 Unspecified
+A32	LegalStatus T20 Unspecified
+A33	Role T20 Beneficiary
+T21	ProperName 874 882	Bornholm
+T22	Person 927 940	Marten hijzer
+A34	Gender T22 Unspecified
+A35	LegalStatus T22 Unspecified
+A36	Role T22 Beneficiary
+T23	ProperName 927 940	Marten hijzer
+T24	Person 823 826	Cok
+A37	Gender T24 Unspecified
+A38	LegalStatus T24 Unspecified
+A39	Role T24 Beneficiary
+T25	ProperName 823 826	Cok
+T26	Person 602 605	Cok
+A40	Gender T26 Unspecified
+A41	LegalStatus T26 Unspecified
+A42	Role T26 Beneficiary
+T27	ProperName 602 605	Cok
+T28	Person 221 224	Cok
+A43	Gender T28 Unspecified
+A44	LegalStatus T28 Unspecified
+A45	Role T28 Beneficiary
+T29	ProperName 221 224	Cok
+T30	Person 979 992	Jochem Muller
+A46	Gender T30 Unspecified
+A47	LegalStatus T30 Unspecified
+A48	Role T30 Beneficiary
+T31	ProperName 979 992	Jochem Muller
+T32	Person 1015 1027	C: Bornholim
+A49	Gender T32 Unspecified
+A50	LegalStatus T32 Unspecified
+A51	Role T32 Beneficiary
+T33	ProperName 1015 1027	C: Bornholim
+T34	Person 1048 1052	soen
+A52	Gender T34 Unspecified
+A53	LegalStatus T34 Unspecified
+A54	Role T34 Beneficiary
+T35	ProperName 1048 1052	soen
+T36	Person 1096 1107	Claas Jager
+A55	Gender T36 Unspecified
+A56	LegalStatus T36 Unspecified
+A57	Role T36 Beneficiary
+T37	ProperName 1096 1107	Claas Jager
+T38	Person 1205 1216	P:r hissing
+A58	Gender T38 Unspecified
+A59	LegalStatus T38 Unspecified
+A60	Role T38 Beneficiary
+T39	ProperName 1205 1216	P:r hissing
+T1	Person 65 86	Hendrik van Eyndhoven
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator

@@ -1,0 +1,7 @@
+T2	ProperName 116 131	Chrisiaan Behne
+T3	Person 46 64	Elbert Lucas Stein
+A3	Gender T3 Man
+A4	LegalStatus T3 Unspecified
+A5	Role T3 Other
+T4	ProperName 46 64	Elbert Lucas Stein
+T5	Place 86 99;100 115	’t schip Neer lands Welvaaren

@@ -1,0 +1,14 @@
+T2	ProperName 85 98	Daniel Loisel
+T3	Person 85 98	Daniel Loisel
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T5	ProperName 125 142	dost Jndise Comp:
+T6	Place 168 182	schip kerkwijk
+T7	ProperName 174 182	kerkwijk
+T8	Person 195 209;210 223	pieter Lamense van Lantvoort
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	ProperName 195 209;210 223	pieter Lamense van Lantvoort
+T10	ProperName 295 301	Daniel

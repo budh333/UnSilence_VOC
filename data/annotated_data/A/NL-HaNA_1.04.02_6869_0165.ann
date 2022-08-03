@@ -1,0 +1,62 @@
+T1	Person 14 20	Barbet
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 14 20	Barbet
+T3	Person 29 44	Lucas Zuijdland
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	Person 46 61;62 102	Robbert Hendrik Armenault Jacob Larwood van Schevichaven
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	Person 104 110;111 123	Pieter Johan Ribant
+A10	Gender T5 Unspecified
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Other
+T6	Person 125 139	Arend Hooreman
+A13	Gender T6 Unspecified
+A14	LegalStatus T6 Unspecified
+A15	Role T6 Other
+T7	Person 141 154	Simon de Hoog
+A16	Gender T7 Unspecified
+A17	LegalStatus T7 Unspecified
+A18	Role T7 Other
+T8	Person 158 173	Daniel overbeek
+A19	Gender T8 Unspecified
+A20	LegalStatus T8 Unspecified
+A21	Role T8 Other
+T9	ProperName 29 44	Lucas Zuijdland
+T10	ProperName 46 61	Robbert Hendrik
+T11	ProperName 62 102	Armenault Jacob Larwood van Schevichaven
+T12	ProperName 104 110;111 123	Pieter Johan Ribant
+T13	ProperName 125 139	Arend Hooreman
+T14	ProperName 141 154	Simon de Hoog
+T15	ProperName 158 173	Daniel overbeek
+T16	Person 182 228	Jan Limmer C: S: als Testatamentaire Executeur
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 182 197	Jan Limmer C: S
+T18	Person 266 294;295 303	Assistent Johannes Philippus Michault
+A25	Gender T18 Man
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Testator
+T19	ProperName 276 294;295 303	Johannes Philippus Michault
+T21	Place 492 501;502 511	ten dezen Comptoire
+T22	Person 688 691;692 707	M„s Koning secret„s
+A28	Gender T22 Man
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Other
+T23	Person 742 761	M„s Koning ElClercq
+A31	Gender T23 Man
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 688 691;692 698	M„s Koning
+T25	ProperName 742 752	M„s Koning
+T26	Person 774 791	M„ KoningEGClerie
+A34	Gender T26 Man
+A35	LegalStatus T26 Unspecified
+A36	Role T26 Other
+T27	ProperName 774 783	M„ Koning

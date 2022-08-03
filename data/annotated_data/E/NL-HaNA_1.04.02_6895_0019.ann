@@ -1,0 +1,39 @@
+T2	ProperName 68 100	Nicolaas van Bergen vander Prijp
+T3	Person 68 100	Nicolaas van Bergen vander Prijp
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T5	ProperName 153 169	Nederlands India
+T6	Place 153 169	Nederlands India
+T7	Place 190 198;199 206	de Sstad Bataria
+T8	ProperName 199 206	Bataria
+T9	Person 257 275	heer Fredrik Camin
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 262 275	Fredrik Camin
+T11	ProperName 361 378	Jacob Willem Pels
+T12	Person 361 378	Jacob Willem Pels
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Acting_Notary
+T14	Place 410 428	Sumatras west Cust
+T15	ProperName 410 418	Sumatras
+T16	ProperName 486 508	Jan hendrik des Bordes
+T17	Person 486 508	Jan hendrik des Bordes
+A10	Gender T17 Man
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Testator
+T18	Person 641 668	DE heer Christiaan Elsevier
+A13	Gender T18 Man
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	ProperName 649 668	Christiaan Elsevier
+T20	Person 712 726;727 746	VE heer Thyman Pieter van Herzeele
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 720 726;727 746	Thyman Pieter van Herzeele
+T23	Place 1221 1227	patria
+T24	Place 1838 1845	Batavia
+T25	ProperName 1838 1845	Batavia

@@ -1,0 +1,46 @@
+T1	Person 99 106	slaeven
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Organization 166 200	het Luitersche weeshuijs in Shlaat
+A4	Beneficiary T2 Yes
+T3	Place 194 200	Shlaat
+T4	ProperName 194 200	Shlaat
+T5	ProperName 229 252	Johan Diederik orthling
+T6	ProperName 264 271	hamburg
+T7	Place 264 271	hamburg
+T8	Person 229 252	Johan Diederik orthling
+A5	Gender T8 Unspecified
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Beneficiary
+T9	Person 493 499	slaven
+A8	Gender T9 Group
+A9	LegalStatus T9 Enslaved
+A10	Role T9 Other
+T10	Person 994 1001	slaeven
+A11	Gender T10 Group
+A12	LegalStatus T10 Enslaved
+A13	Role T10 Other
+T11	Person 1281 1289	Slavinne
+A14	Gender T11 Woman
+A15	LegalStatus T11 Enslaved
+A16	Role T11 Other
+T12	ProperName 1853 1870;1871 1874	Johan Martin Ree„ mer
+T13	ProperName 1878 1897	Archibald Mesterton
+T14	Person 1878 1897	Archibald Mesterton
+A17	Gender T14 Unspecified
+A18	LegalStatus T14 Unspecified
+A19	Role T14 Other
+T15	Person 1853 1870;1871 1874	Johan Martin Ree„ mer
+A20	Gender T15 Unspecified
+A21	LegalStatus T15 Unspecified
+A22	Role T15 Other
+T16	Organization 1976 1992	de luiterse kerk
+A23	Beneficiary T16 Yes
+T17	Place 2935 2951	Casteels Batavia
+T18	ProperName 2935 2951	Casteels Batavia
+T19	Person 2835 2853	M:r Petrus van der
+A24	Gender T19 Man
+A25	LegalStatus T19 Unspecified
+A26	Role T19 Other
+T20	ProperName 2839 2853	Petrus van der

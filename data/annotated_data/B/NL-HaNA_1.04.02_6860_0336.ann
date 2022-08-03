@@ -1,0 +1,14 @@
+T1	Place 86 119	Nederlandsch Comptoire sourabaija
+T2	ProperName 109 119	sourabaija
+T3	Person 146 160	J: P: Leyoeker
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	Person 164 172;173 182	Gijsbert prijsoont
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	Person 364 376	J: A: Dreier
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary

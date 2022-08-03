@@ -1,0 +1,33 @@
+T3	Person 2 17	Jacobus Gissels
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 2 17	Jacobus Gissels
+T5	Person 197 220	Sisbert Jacob Welgedare
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 197 220	Sisbert Jacob Welgedare
+T7	Organization 365 375	’s Ecomp„s
+A7	Beneficiary T7 No
+T8	Person 424 440	Iacobus Gijssels
+A8	Gender T8 Man
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Testator_Beneficiary
+T9	ProperName 424 440	Iacobus Gijssels
+T10	Organization 479 492	der E: compe:
+A11	Beneficiary T10 No
+T11	Person 524 544	Iuff=m Losia Thobias
+A12	Gender T11 Woman
+A13	LegalStatus T11 Unspecified
+A14	Role T11 Testator_Beneficiary
+T12	ProperName 531 544	Losia Thobias
+T13	Person 1868 1907	de Cristen mardijkster albertina adlams
+A15	Gender T13 Woman
+A16	LegalStatus T13 Freed
+A17	Role T13 Beneficiary
+T14	ProperName 1891 1907	albertina adlams
+T15	Person 2008 2014	slaven
+A18	Gender T15 Group
+A19	LegalStatus T15 Enslaved
+A20	Role T15 Other

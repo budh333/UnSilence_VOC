@@ -1,0 +1,10 @@
+T3	ProperName 34 48;49 51	Jan Jansen van Ed
+T4	Person 34 48;49 51	Jan Jansen van Ed
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Beneficiary
+T5	ProperName 56 78	Van gerritsz„ de graaf
+T6	Person 56 78	Van gerritsz„ de graaf
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Beneficiary

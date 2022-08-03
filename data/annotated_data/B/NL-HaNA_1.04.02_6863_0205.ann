@@ -1,0 +1,40 @@
+T1	Person 56 66	J=o Leeden
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T3	Place 129 134;135 143	deses Casteels
+T4	Person 276 285	E: Leeden
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T6	Place 318 332	alhier Colombo
+T7	ProperName 325 332	Colombo
+T8	Person 370 390	Tustinus Kriekenbeek
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	ProperName 370 390	Tustinus Kriekenbeek
+T10	Place 1280 1287;1288 1328	Casteel Colombo ten Woonhuijse van den testateur
+T11	ProperName 1288 1295	Colombo
+T12	Person 1351 1372	Gabriel Willem Botken
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Witness
+T13	ProperName 1351 1372	Gabriel Willem Botken
+T14	Person 1376 1384;1385 1397	Adrianus Van der Spar
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	ProperName 1376 1384;1385 1397	Adrianus Van der Spar
+T16	Person 1589 1611	W„ P„s Van Cuijlenburg
+A16	Gender T16 Unspecified
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Acting_Notary
+T17	Person 1635 1645	W„m Visser
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	Person 1655 1666	H„r Hannart
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other

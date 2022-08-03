@@ -1,0 +1,34 @@
+T3	Person 10 24	/ I„ D„ Mnitke
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 12 24	I„ D„ Mnitke
+T5	Person 180 190	C„s Greven
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 180 190	C„s Greven
+T7	Organization 479 495	de diaconi armen
+A7	Beneficiary T7 No
+T8	Place 546 551	India
+T9	ProperName 546 551	India
+T10	Person 620 631	Iacob Jonas
+A8	Gender T10 Man
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Beneficiary
+T11	ProperName 620 631	Iacob Jonas
+T12	Person 646 656	Jsak Ionks
+A11	Gender T12 Unspecified
+A12	LegalStatus T12 Unspecified
+A13	Role T12 Beneficiary
+T13	ProperName 646 656	Jsak Ionks
+T14	Person 895 914	Leendert, Leunissen
+A14	Gender T14 Man
+A15	LegalStatus T14 Unspecified
+A16	Role T14 Beneficiary
+T15	ProperName 895 914	Leendert, Leunissen
+T16	Person 929 944	Jan Speciaensz:
+A17	Gender T16 Unspecified
+A18	LegalStatus T16 Unspecified
+A19	Role T16 Beneficiary
+T17	ProperName 929 944	Jan Speciaensz:

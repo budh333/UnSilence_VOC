@@ -1,0 +1,8 @@
+T2	Place 18 34;35 41	ten soraij Comp„ „toire
+T3	Place 251 274	op ’t schip Ameliswaerd
+T4	ProperName 263 274	Ameliswaerd
+T5	Person 283 298	Bruijn Harberts
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	ProperName 283 298	Bruijn Harberts

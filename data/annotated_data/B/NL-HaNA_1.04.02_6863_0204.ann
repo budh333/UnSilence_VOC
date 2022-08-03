@@ -1,0 +1,47 @@
+T1	Place 85 103	fortresse Caliture
+T2	ProperName 95 103	Caliture
+T3	Person 122 136	Andries Driver
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 122 136	Andries Driver
+T5	Person 141 153	Ian De Lange
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	Person 204 209	S: I:
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 249 262	Seijmen Jansz
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 249 262	Seijmen Jansz
+T9	Person 287 302	Andries Drijver
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Witness
+T10	ProperName 287 302	Andries Drijver
+T11	Person 385 396	Cantatte H:
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	Person 815 825	Jan Laffon
+A19	Gender T12 Man
+A20	LegalStatus T12 Unspecified
+A21	Role T12 Beneficiary
+T13	ProperName 815 825	Jan Laffon
+T15	Person 1209 1215	Lasson
+A22	Gender T15 Man
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Beneficiary
+T16	Person 1477 1487	Jan Casson
+A25	Gender T16 Man
+A26	LegalStatus T16 Unspecified
+A27	Role T16 Beneficiary
+T17	ProperName 1477 1487	Jan Casson
+T20	Place 1945 1954	Amsterdam
+T21	ProperName 1945 1954	Amsterdam
+T22	Place 2049 2054	Jndia
+T23	ProperName 2049 2054	Jndia

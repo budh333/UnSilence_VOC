@@ -1,0 +1,30 @@
+T1	Person 13 44	huijshoudster de inlandse vrouw
+A1	Gender T1 Woman
+A2	LegalStatus T1 Freed
+A3	Role T1 Other
+T3	ProperName 716 724	Cheribon
+T4	Person 781 791	J:s Gouijn
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 785 791	Gouijn
+T6	Person 829 846	B: De Toutlemonde
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T7	ProperName 835 846	Toutlemonde
+T8	Person 889 900	B: Anogader
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 892 900	Anogader
+T10	Person 905 920	:s B:s De Silva
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 915 920	Silva
+T12	Person 935 950	J:r C Masselaer
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 941 950	Masselaer

@@ -1,0 +1,53 @@
+T3	Person 10 29	Gysbert van Leeuwen
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 10 29	Gysbert van Leeuwen
+T5	Person 252 280	Tustinus Rutgart Kriekenoelk
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 252 280	Tustinus Rutgart Kriekenoelk
+T7	Person 358 378	Gijsbert van leeuwen
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator_Beneficiary
+T8	ProperName 358 378	Gijsbert van leeuwen
+T9	Place 383 396	Cassanapatnam
+T10	ProperName 383 396	Cassanapatnam
+T11	Organization 411 420	’'sComp:s
+T12	Person 430 443	sara hoepoels
+A10	Gender T12 Woman
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator_Beneficiary
+T13	ProperName 430 443	sara hoepoels
+T14	Place 448 455	Colombo
+T15	ProperName 448 455	Colombo
+T16	Person 487 498	Pieter Loos
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Testator_Beneficiary
+T17	ProperName 487 498	Pieter Loos
+T18	Person 574 589	J: F: Cievers2:
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Acting_Notary
+T19	ProperName 574 588	J: F: Cievers2
+T20	Person 686 710	Johannes Fredrik Pievers
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Acting_Notary
+T21	ProperName 686 710	Johannes Fredrik Pievers
+T22	Person 823 839	heen Pieter loos
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Testator_Beneficiary
+T23	ProperName 828 839	Pieter loos
+T24	Place 844 851	Colombo
+T25	ProperName 844 851	Colombo
+T26	Person 855 863;864 880	Juffrouw fhorinda de orta
+A25	Gender T26 Woman
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Testator_Beneficiary
+T27	ProperName 864 880	fhorinda de orta
+A28	Beneficiary T11 No

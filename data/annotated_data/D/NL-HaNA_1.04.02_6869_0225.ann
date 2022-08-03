@@ -1,0 +1,51 @@
+T1	Person 99 121	Gerrard Joan Fijbrands
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 99 121	Gerrard Joan Fijbrands
+T4	Place 165 187	secretarij van politie
+T5	Place 265 274	woonhuise
+T6	Person 279 297;298 311	Mejuffrouw Agnitha Maria Bierens
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 290 297;298 311	Agnitha Maria Bierens
+T8	ProperName 371 386	Abraham Samlant
+T9	Person 371 386	Abraham Samlant
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Person 420 437;438 461	Mejuffrouw Adria, „na Carolina van Buuren
+A10	Gender T10 Woman
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator
+T11	ProperName 431 437;438 461	Adria, „na Carolina van Buuren
+T12	Place 572 585	Sassenapatnam
+T13	ProperName 572 585	Sassenapatnam
+T14	Person 589 607	Dirk Jacob De Moor
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator_Beneficiary
+T15	ProperName 589 607	Dirk Jacob De Moor
+T17	Place 928 934;935 953	sekre„ „tarij van politie
+T18	Person 884 923	Iacques Fabrice van Senden, gezw: klerk
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Acting_Notary
+T19	ProperName 884 910	Iacques Fabrice van Senden
+T22	Person 1004 1022	Dirk Jacob De Moor
+A19	Gender T22 Man
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Testator_Beneficiary
+T23	ProperName 1004 1022	Dirk Jacob De Moor
+T24	Person 1062 1080;1081 1100	Mejuffrouw Adriana Carolina van Buuren
+A22	Gender T24 Woman
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Testator_Beneficiary
+T25	ProperName 1073 1080;1081 1100	Adriana Carolina van Buuren
+T3	Organization 180 187	politie
+A25	Beneficiary T3 No
+T20	Organization 549 556	politie
+A26	Beneficiary T20 No
+T16	Organization 946 953	politie
+A27	Beneficiary T16 No

@@ -1,0 +1,27 @@
+T1	Person 102 122	Joan Adriaan dreijer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 102 122	Joan Adriaan dreijer
+T3	Place 155 171	deesen Comptoire
+T4	Place 208 249;250 276	tenhuijse van den alhier bescheydene sol„ daat Christoffel Schelling
+T5	Person 255 276	Christoffel Schelling
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 255 276	Christoffel Schelling
+T7	Place 282 296	Pruijshollandt
+T8	ProperName 282 296	Pruijshollandt
+T9	Person 561 571	Iean Josel
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	ProperName 561 571	Iean Josel
+T11	Place 587 602	dezen Comptoire
+T13	Person 736 749	willem Bazert
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Testator
+T14	ProperName 736 749	willem Bazert
+T15	Place 754 760	Bettin
+T16	ProperName 754 760	Bettin

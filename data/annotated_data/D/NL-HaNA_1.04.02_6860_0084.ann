@@ -1,0 +1,28 @@
+T1	Organization 76 99;100 116	Raad istra Ordinair van Nederlands India
+A1	Beneficiary T1 No
+T2	ProperName 149 160;161 183	op en Langs Javas Noord= Oort Cuer
+T3	Place 149 160;161 183	op en Langs Javas Noord= Oort Cuer
+T4	Place 100 116	Nederlands India
+T5	ProperName 100 116	Nederlands India
+T6	Person 57 75	Heere Johannes Vos
+A2	Gender T6 Man
+A3	LegalStatus T6 Unspecified
+A4	Role T6 Other
+T7	ProperName 63 75	Johannes Vos
+T8	ProperName 216 224	Samarang
+T9	Place 216 224	Samarang
+T10	ProperName 342 349	Klinger
+T11	ProperName 353 360	Connuit
+T12	ProperName 487 494	Eckards
+T14	Person 487 494	Eckards
+A5	Gender T14 Unspecified
+A6	LegalStatus T14 Unspecified
+A7	Role T14 Other
+T13	Person 342 349	Klinger
+A8	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Other
+T15	Person 353 360	Connuit
+A11	Gender T15 Unspecified
+A12	LegalStatus T15 Unspecified
+A13	Role T15 Other

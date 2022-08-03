@@ -1,0 +1,36 @@
+T3	Person 740 753	Lijffeijgenen
+A1	Gender T3 Group
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T4	Person 759 771;772 797	de slavinnen Diana de Kleine van Timor
+A4	Gender T4 Woman
+A5	LegalStatus T4 Enslaved
+A6	Role T4 Other
+T5	ProperName 772 787	Diana de Kleine
+T6	Place 792 797	Timor
+T7	ProperName 792 797	Timor
+T8	Person 799 805	Estria
+A7	Gender T8 Woman
+A8	LegalStatus T8 Enslaved
+A9	Role T8 Other
+T9	ProperName 799 805	Estria
+T10	Person 809 827	Kananga van boegis
+A10	Gender T10 Woman
+A11	LegalStatus T10 Enslaved
+A12	Role T10 Other
+T11	ProperName 809 827	Kananga van boegis
+T12	Place 821 827	boegis
+T14	Place 855 862	Kananga
+T15	ProperName 855 862	Kananga
+T16	ProperName 871 876	Maart
+T17	Person 889 897	Carolina
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Enslaved
+A18	Role T17 Other
+T18	ProperName 889 897	Carolina
+T19	Organization 1132 1144	der E. Comp:
+T13	Person 871 876	Maart
+A13	Gender T13 Man
+A14	LegalStatus T13 Enslaved
+A15	Role T13 Other
+A19	Beneficiary T19 No

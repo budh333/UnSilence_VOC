@@ -1,0 +1,17 @@
+T3	Place 82 98	Schip: Pesenburg
+T4	ProperName 89 98	Pesenburg
+T5	ProperName 68 81	Earel Fredrik
+T6	Person 68 81	Earel Fredrik
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Testator
+T8	ProperName 168 176	Schieman
+T7	ProperName 117 129	Samuels Zuij
+T9	Person 117 128	Samuels Zui
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	Person 168 176	Schieman
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other

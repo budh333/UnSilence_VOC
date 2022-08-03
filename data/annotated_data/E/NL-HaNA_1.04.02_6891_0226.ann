@@ -1,0 +1,32 @@
+T2	ProperName 216 229	Jan van Raams
+T3	Person 216 229	Jan van Raams
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T5	Place 557 566	amsterdam
+T6	ProperName 557 566	amsterdam
+T8	ProperName 700 721	heeren bewindhebberen
+T9	Place 733 742	amsterdam
+T10	ProperName 733 742	amsterdam
+T11	Place 1066 1086	int schip Zandhorst,
+T12	ProperName 1076 1085	Zandhorst
+T13	ProperName 1165 1188	wouter van west Cuijper
+T14	Person 1165 1189	wouter van west Cuijper.
+A4	Gender T14 Unspecified
+A5	LegalStatus T14 Unspecified
+A6	Role T14 Witness
+T15	ProperName 1194 1214	Cornelis van lighten
+T16	Person 1194 1214	Cornelis van lighten
+A7	Gender T16 Unspecified
+A8	LegalStatus T16 Unspecified
+A9	Role T16 Witness
+T17	ProperName 1361 1374	Jan Timmerman
+T18	Person 1361 1374	Jan Timmerman
+A10	Gender T18 Man
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Acting_Notary
+T19	ProperName 1293 1324	cernelis gerrigtsz van lijchten
+T20	Person 1293 1324	cernelis gerrigtsz van lijchten
+A13	Gender T20 Man
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Witness

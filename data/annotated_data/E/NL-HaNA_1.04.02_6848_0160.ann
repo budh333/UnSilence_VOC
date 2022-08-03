@@ -1,0 +1,28 @@
+T2	Place 50 66	Nederlands Jndia
+T3	ProperName 50 66	Nederlands Jndia
+T4	Place 86 101	de stad batavia
+T5	ProperName 94 101	batavia
+T6	Person 139 173	Getuijgen Jurgen Ekhart Polzenbach
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+T7	ProperName 149 173	Jurgen Ekhart Polzenbach
+T9	Place 233 250;251 266	Oost zeide van de Caymans, Gragth
+T10	ProperName 251 266	Caymans, Gragth
+T13	ProperName 563 570	batavia
+T14	Place 563 570	batavia
+T16	Person 1040 1073	Johan Schindhelm van Wiessenboren
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+T17	ProperName 1040 1073	Johan Schindhelm van Wiessenboren
+T18	Person 1457 1463;1464 1490	Johans Schindhelm van Wiessenborn
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+T19	ProperName 1457 1463;1464 1490	Johans Schindhelm van Wiessenborn
+A3	Role T6 Testator
+T11	Person 527 558	Vreij„ Christen Vrouw Engeltina
+A4	Gender T11 Woman
+A5	LegalStatus T11 Freed
+A6	Role T11 Beneficiary
+T12	ProperName 549 558	Engeltina
+A7	Role T16 Beneficiary
+A8	Role T18 Beneficiary

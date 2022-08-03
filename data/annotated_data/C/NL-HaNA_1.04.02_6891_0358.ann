@@ -1,0 +1,55 @@
+T1	Place 18 44	ten gouvernemente Samarang
+T2	ProperName 36 44	Samarang
+T3	Person 94 120	Anthonij Cornilis Coethier
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 94 120	Anthonij Cornilis Coethier
+T5	Person 130 138;139 154	folrkael vernardus doeve
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 130 138;139 154	folrkael vernardus doeve
+T7	Person 311 317;318 324	Ankoni Barkij
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 311 317;318 324	Ankoni Barkij
+T9	Person 358 372	Joan Cetziecte
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 358 372	Joan Cetziecte
+T11	Place 464 472	samadang
+T12	ProperName 464 472	samadang
+T13	Person 575 590	Ernst schreuder
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator
+T14	ProperName 575 590	Ernst schreuder
+T15	ProperName 595 605	Eerstleben
+T16	Place 595 605	Eerstleben
+T17	Person 678 693	Anstonij barkij
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Acting_Notary
+T18	ProperName 678 693	Anstonij barkij
+T19	Organization 791 798	s Comp:
+A19	Beneficiary T19 No
+T20	Person 1046 1063	Cornelis Coetsier
+A20	Gender T20 Unspecified
+A21	LegalStatus T20 Unspecified
+A22	Role T20 Witness
+T21	ProperName 1046 1063	Cornelis Coetsier
+T22	Place 1112 1140	bij de Weeskaemer van Samara
+T23	ProperName 1134 1140	Samara
+T24	Person 1157 1172	Authonij Barkij
+A23	Gender T24 Unspecified
+A24	LegalStatus T24 Unspecified
+A25	Role T24 Acting_Notary
+T25	ProperName 1157 1172	Authonij Barkij
+T26	Person 1197 1210	van Bet Lcket
+A26	Gender T26 Unspecified
+A27	LegalStatus T26 Unspecified
+A28	Role T26 Other
+T27	ProperName 1197 1210	van Bet Lcket

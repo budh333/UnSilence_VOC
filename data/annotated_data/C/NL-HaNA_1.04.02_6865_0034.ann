@@ -1,0 +1,37 @@
+T3	Person 12 23	geentruijda
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 12 23	geentruijda
+T5	Person 67 89	volsiert gerrit fokkes
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 67 89	volsiert gerrit fokkes
+T7	Place 136 143	Colambo
+T8	ProperName 136 143	Colambo
+T9	Person 144 163	Jan hendrik baelman
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 144 163	Jan hendrik baelman
+T11	Place 419 428	Gorontalo
+T12	ProperName 419 428	Gorontalo
+T13	Person 572 598	Casper Cyler van der Weijl
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Beneficiary
+T14	ProperName 572 598	Casper Cyler van der Weijl
+T15	Person 969 982	Iacob Coekwel
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Beneficiary
+T16	ProperName 969 982	Iacob Coekwel
+T17	Organization 1071 1082	d’ E Comp=s
+A16	Beneficiary T17 No
+T18	Organization 1376 1377;1378 1419;1420 1429	d Hoog Edle Heeren Bewindhebberen ter Camer Amsterdam
+A17	Beneficiary T18 No
+T19	Place 1420 1429	Amsterdam
+T20	ProperName 1420 1429	Amsterdam
+T21	Place 1588 1607	het schip Stadwijck
+T22	ProperName 1598 1607	Stadwijck

@@ -1,0 +1,11 @@
+T3	ProperName 236 241	Morns
+T4	Person 236 241	Morns
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 253 265	Damel de Bok
+T6	Person 253 265	Damel de Bok
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T8	ProperName 497 503	Muller

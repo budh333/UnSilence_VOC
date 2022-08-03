@@ -1,0 +1,29 @@
+T3	ProperName 6 17	Pieter Bino
+T4	Person 6 17	Pieter Bino
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 79 105	Cornelis Gerrardus Pielaat
+T6	Person 79 105	Cornelis Gerrardus Pielaat
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Acting_Notary
+T9	ProperName 231 242	Pieter Bino
+T10	Person 231 242	Pieter Bino
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	Person 932 974;975 984	huijshoudster, de vrije vrouw Tandjong van mangareij
+A10	Gender T11 Woman
+A11	LegalStatus T11 Freed
+A12	Role T11 Beneficiary
+T12	ProperName 962 974;975 985	Tandjong van mangareij,
+T13	ProperName 1287 1303	Anthonij Ioorman
+T14	Person 1287 1303	Anthonij Ioorman
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T16	ProperName 1535 1568	collegie van Heeren weesmeesteren
+T20	ProperName 1972 1993	Heeren Bewindhebberen
+T21	Place 2434 2441	Batavia
+T22	ProperName 2434 2441	Batavia

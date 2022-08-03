@@ -1,0 +1,33 @@
+T4	ProperName 0 17	Pierter Boedeveld
+T5	Person 0 17	Pierter Boedeveld
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	Person 132 160	M„r Ioan van der Voort not„s
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Notary
+T7	ProperName 136 154	Ioan van der Voort
+T9	Place 203 217	Nederl„s India
+T10	ProperName 203 217	Nederl„s India
+T11	Person 351 379	M„r Ioan van der Voort Not„s
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T12	ProperName 355 373	Ioan van der Voort
+T22	Person 850 858	Visvliet
+A22	Gender T22 Man
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Notary
+T23	ProperName 850 858	Visvliet
+T14	Person 599 614;615 630	Pieter Aaronsz: demoor de Ionge
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Witness
+T15	ProperName 599 614;615 631	Pieter Aaronsz: demoor de Ionge,
+T16	ProperName 635 658	Sijmon Thomasz: Carelsz
+T17	Person 635 658	Sijmon Thomasz: Carelsz
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Witness
+T18	Place 557 566	hospitaal

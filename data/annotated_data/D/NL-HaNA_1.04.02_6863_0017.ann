@@ -1,0 +1,20 @@
+T2	Person 572 587	Iohannes De vos
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 572 587	Iohannes De vos
+T4	ProperName 636 645;646 649	Daniel De Bok
+T5	Person 636 645;646 649	Daniel De Bok
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 689 707	Iakobus Dobbratsz:
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 689 707	Iakobus Dobbratsz:
+T8	Place 1066 1076	Enkhuijsen
+T9	ProperName 1066 1076	Enkhuijsen
+T10	Place 1133 1151	het schip De visch
+T11	Place 1791 1802	Ameliswaerd
+T12	ProperName 1791 1802	Ameliswaerd

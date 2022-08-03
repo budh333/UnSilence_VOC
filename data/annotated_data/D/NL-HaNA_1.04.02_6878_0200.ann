@@ -1,0 +1,30 @@
+T2	Person 48 72	Johannes Mattuis Hartrag
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 48 72	Johannes Mattuis Hartrag
+T4	ProperName 94 111	Samuel Fred Botha
+T5	Person 94 111	Samuel Fred Botha
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 285 298	g„s krijgsman
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 285 298	g„s krijgsman
+T8	ProperName 199 206	L Pamel
+T9	ProperName 207 215	P LLesun
+T10	Person 207 215	P LLesun
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	Person 199 206	L Pamel
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 143 155	IC: vd Spuij
+T13	Person 143 155	IC: vd Spuij
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other

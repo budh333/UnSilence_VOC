@@ -1,0 +1,32 @@
+T3	Place 129 134;135 143	deses Casteels
+T4	Person 276 287	E„:s Leeden
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	Person 56 66	J=o Leeden
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T7	Place 320 334	alhier Colombo
+T8	ProperName 327 334	Colombo
+T9	Person 372 392	Tustinus Kriekenbeek
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	ProperName 372 392	Tustinus Kriekenbeek
+T11	Person 415 429	Iurgen Jacobsz
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Testator
+T12	ProperName 415 429	Iurgen Jacobsz
+T13	Person 568 577;579 605	Wilhelmus Philippius van Cuijlenburg
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Acting_Notary
+T14	ProperName 568 577;579 605	Wilhelmus Philippius van Cuijlenburg
+T16	Person 695 709	Jurgen Jacobsz
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Testator
+T17	Place 715 721	Smirna
+T18	ProperName 715 721	Smirna

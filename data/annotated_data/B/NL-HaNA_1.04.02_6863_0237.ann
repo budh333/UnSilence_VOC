@@ -1,0 +1,10 @@
+T2	Person 0 14	Barend De Tood
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator_Beneficiary
+T3	ProperName 0 14	Barend De Tood
+T4	Person 57 70;71 75	Cillis wouten dulk
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 57 70;71 75	Cillis wouten dulk

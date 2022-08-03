@@ -1,0 +1,36 @@
+T2	ProperName 14 18	Kiel
+T3	Person 11 17	CW Kie
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 91 114;115 124	Theodorus Lionardus van Den Briel
+T5	Person 91 114;115 135	Theodorus Lionardus van Den Briel nots: publ
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T7	Place 161 168	holland
+T8	ProperName 161 168	holland
+T10	ProperName 202 218	nederlands india
+T12	Place 202 218	nederlands india
+T13	Place 245 258	stad bortavia
+T14	ProperName 250 258	bortavia
+T15	Person 309 329	Mons:t Moiten Rimmel
+A7	Gender T15 Man
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Other
+T16	ProperName 316 329	Moiten Rimmel
+T17	Place 444 451	Batavia
+T18	ProperName 444 451	Batavia
+T19	Person 477 490	J„ S„ D: Brrl
+A10	Gender T19 Man
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Notary
+T20	ProperName 486 491	Brrli
+T21	ProperName 492 498	Grrotz
+T22	Person 492 498	Grrotz
+A13	Gender T22 Unspecified
+A14	LegalStatus T22 Unspecified
+A15	Role T22 Other
+T24	Place 546 551	Jndia
+T25	ProperName 546 551	Jndia
+T26	ProperName 587 597	valkenburg

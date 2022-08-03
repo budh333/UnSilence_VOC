@@ -1,0 +1,12 @@
+T2	Organization 218 226	Companie
+A1	Beneficiary T2 No
+T3	ProperName 218 226	Companie
+T4	Place 235 241;242 267	in het schip genaemt de Cornelia
+T5	ProperName 259 267	Cornelia
+T6	Place 286 294	Battavia
+T7	ProperName 286 294	Battavia
+T8	ProperName 452 463	Dirk Direse
+T9	Person 452 463	Dirk Direse
+A2	Gender T9 Unspecified
+A3	LegalStatus T9 Unspecified
+A4	Role T9 Other

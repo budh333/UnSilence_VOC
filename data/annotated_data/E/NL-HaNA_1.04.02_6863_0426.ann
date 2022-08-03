@@ -1,0 +1,15 @@
+T1	Person 71 72;73 84	D Kloppenburg
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 73 84	Kloppenburg
+T3	Person 110 134	Christian Adolpff Lisman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 110 134	Christian Adolpff Lisman
+T6	ProperName 716 737	Heeren Bewindhebberen
+T7	Place 748 757	Amsterdam
+T8	ProperName 748 757	Amsterdam
+T11	Place 1293 1298	Hoegh
+T12	ProperName 1293 1298	Hoegh

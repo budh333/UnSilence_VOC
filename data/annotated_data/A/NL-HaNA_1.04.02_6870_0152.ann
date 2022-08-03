@@ -1,0 +1,11 @@
+T3	Person 205 226;227 237	vader de heer Hendrik Castelijn,
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 219 226;227 236	Hendrik Castelijn
+T5	ProperName 462 470	dE: Comp
+T7	Person 547 552	Claas
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 547 552	Claas

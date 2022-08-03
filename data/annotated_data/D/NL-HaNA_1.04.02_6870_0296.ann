@@ -1,0 +1,20 @@
+T2	ProperName 61 78	Johan Georg Triek
+T3	Person 61 78	Johan Georg Triek
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 112 131	Philippus Hodenpijl
+T5	Person 112 131	Philippus Hodenpijl
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 198 212	gerrit spruijt
+T7	Person 198 212	gerrit spruijt
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 215 235	Riogo Towaril Junior
+T9	Person 215 235	Riogo Towaril Junior
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other

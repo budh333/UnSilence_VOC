@@ -1,0 +1,31 @@
+T1	Organization 4 35	Regeringe van Nederlands Jondia
+T2	ProperName 4 35	Regeringe van Nederlands Jondia
+T3	Place 18 35	Nederlands Jondia
+T4	ProperName 18 35	Nederlands Jondia
+T5	Place 63 76	stad Batavran
+T6	ProperName 68 76	Batavran
+T7	Person 137 164;165 172	DE Lammoraal van Geusauonde koopman
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Testator_Beneficiary
+T8	ProperName 140 162	Lammoraal van Geusauon
+T9	Person 227 257;258 264	Mejuff=r Wel helmmina Hendrina Alting
+A4	Gender T9 Woman
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator_Beneficiary
+T10	ProperName 236 257;258 264	Wel helmmina Hendrina Alting
+T13	Place 1938 1948	Slemaanden
+T14	ProperName 1938 1948	Slemaanden
+T15	ProperName 1848 1854;1855 1865	Justus van Geusau
+T17	ProperName 2061 2081	Willem Arnold Alting
+T18	Place 2108 2124	Nederlands India
+T19	ProperName 2108 2124	Nederlands India
+T12	Person 1821 1847;1848 1854;1855 1865	wel Edelen Gestrengen Heer Justus van Geusau
+A9	Gender T12 Man
+A10	LegalStatus T12 Unspecified
+A13	Role T12 Other
+T16	Person 2051 2081	Heere M:r Willem Arnold Alting
+A11	Gender T16 Man
+A12	LegalStatus T16 Unspecified
+A14	Role T16 Other
+A15	Beneficiary T1 No

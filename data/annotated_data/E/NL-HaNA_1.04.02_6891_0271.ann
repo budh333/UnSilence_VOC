@@ -1,0 +1,11 @@
+T2	ProperName 325 345	heeren weesmeesteren
+T3	Person 726 746	moeder Anna Barbara,
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 733 746	Anna Barbara,
+T6	ProperName 1657 1678	heeren Bewinahebberen
+T7	Place 1689 1699	Pnkhuijsen
+T8	ProperName 1689 1699	Pnkhuijsen
+T10	Place 1832 1839;1840 1852	'tschip Sstreefkterk
+T11	ProperName 1840 1852	Sstreefkterk

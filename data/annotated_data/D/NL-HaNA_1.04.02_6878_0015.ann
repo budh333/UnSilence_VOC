@@ -1,0 +1,44 @@
+T2	Place 462 473;474 484	E Comp Post de slapmut
+T3	ProperName 460 473;474 484	s E Comp Post de slapmut
+T4	Organization 462 468	E Comp
+A1	Beneficiary T4 No
+T5	ProperName 462 468	E Comp
+T6	ProperName 546 566	Johan David Beijeren
+T7	ProperName 580 597	Christoffel Korff
+T8	Person 580 597	Christoffel Korff
+A2	Gender T8 Unspecified
+A3	LegalStatus T8 Unspecified
+A4	Role T8 Witness
+T9	Person 546 566	Johan David Beijeren
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Witness
+T10	ProperName 764 774	I: F Faure
+T11	Place 820 839	ten zoldy Comptoire
+T12	ProperName 849 860	Matthiessen
+T13	Person 849 860	Matthiessen
+A8	Gender T13 Unspecified
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Other
+T14	Person 764 774	I: F Faure
+A11	Gender T14 Unspecified
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Other
+T15	Organization 950 957;958 982	de dia„ „Conij armen te samarang
+A14	Beneficiary T15 Yes
+T16	Place 974 982	samarang
+T17	ProperName 974 982	samarang
+T18	ProperName 1658 1673	Agnita Schouten
+T19	Person 1658 1673	Agnita Schouten
+A15	Gender T19 Unspecified
+A16	LegalStatus T19 Unspecified
+A17	Role T19 Other
+T20	Person 1716 1722	slaven
+A18	Gender T20 Group
+A19	LegalStatus T20 Enslaved
+A20	Role T20 Other
+T21	ProperName 1171 1183	Jan Schouten
+T22	Person 1171 1183	Jan Schouten
+A21	Gender T22 Unspecified
+A22	LegalStatus T22 Unspecified
+A23	Role T22 Other

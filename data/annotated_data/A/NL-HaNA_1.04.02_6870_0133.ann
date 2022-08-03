@@ -1,0 +1,38 @@
+T1	ProperName 42 54	rik Cornelis
+T2	Person 42 54	rik Cornelis
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 118 143	George Bremer gesw Clercq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 118 131	George Bremer
+T6	Person 235 283;284 292	Assistendt in dienst der E: Comp: alhier Hendrik Cornelis
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T7	ProperName 276 283;284 292	Hendrik Cornelis
+T8	Person 297 324	Hendrica Anthonia Krookwits
+A10	Gender T8 Woman
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 297 324	Hendrica Anthonia Krookwits
+T10	Person 1100 1106;1107 1124	vader„ Cornelis Hendriks
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Beneficiary
+T11	ProperName 1107 1124	Cornelis Hendriks
+T12	Place 1136 1160	te west Cappel in Zeelan
+T13	ProperName 1139 1150	west Cappel
+T14	ProperName 1154 1160	Zeelan
+T15	Person 1469 1486;1487 1495	moeder Anna Maria Josephus
+A16	Gender T15 Woman
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary
+T16	ProperName 1476 1486;1487 1495	Anna Maria Josephus
+T17	Person 1523 1546;1547 1565	Luijtenant militair Ian Hendrik krookwits;
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 1543 1546;1547 1564	Ian Hendrik krookwits

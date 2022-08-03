@@ -1,0 +1,51 @@
+T1	Place 48 58	Sourabaija
+T2	ProperName 48 58	Sourabaija
+T3	Person 85 101	J:J: W„ Teselaar
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 93 101	Teselaar
+T5	Person 146 154;155 159	a„a Loef „wer
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 150 154;155 159	Loef „wer
+T7	Person 215 227	I=n Boogaart
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 219 227	Boogaart
+T9	Person 231 248	F„r et=t De Durse
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 240 248	De Durse
+T11	Person 260 274	JJ: : : Busoor
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 268 274	Busoor
+T13	Place 345 353	samarang
+T14	ProperName 345 353	samarang
+T15	Place 441 451	sourabaija
+T16	ProperName 441 451	sourabaija
+T17	ProperName 471 482;483 492	Jan wijnola Fieselaar
+T18	Person 471 482;483 492	Jan wijnola Fieselaar
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Testator
+T19	Person 577 594	Pieter Loefhouwer
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Witness
+T20	ProperName 577 594	Pieter Loefhouwer
+T22	Person 924 945	J„n G:„ Helmke Secret
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T23	ProperName 932 946	Helmke Secret„
+T24	Person 959 974	PH:: C: Wieroot
+A25	Gender T24 Unspecified
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Other
+T25	ProperName 967 974	Wieroot

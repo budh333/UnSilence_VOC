@@ -1,0 +1,116 @@
+T2	Person 18 37	M:r Iacob de Meijer
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 41 64	M:r Paulus van Leliveld
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 45 64	Paulus van Leliveld
+T5	ProperName 22 37	Iacob de Meijer
+T6	Person 141 157	Casparus Martman
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 141 157	Casparus Martman
+T8	Person 225 270	Johanna Elisabeth Paulus vrije Christen vrouw
+A10	Gender T8 Woman
+A11	LegalStatus T8 Freed
+A12	Role T8 Beneficiary
+T9	ProperName 225 249	Johanna Elisabeth Paulus
+T10	ProperName 427 465	Fredrik Andreas Christiaan Engelstroom
+T11	Person 427 465	Fredrik Andreas Christiaan Engelstroom
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Testator
+T12	ProperName 525 536	Engetstroom
+T13	Person 525 536	Engetstroom
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Testator
+T14	Person 614 639	Gijsbert Iacob welgevaere
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 614 639	Gijsbert Iacob welgevaere
+T16	ProperName 668 677	Compagnie
+T17	Organization 668 677	Compagnie
+A22	Beneficiary T17 No
+T18	Organization 932 944;945 970	het luijter„ sche weeshuijs te S Hlage
+A23	Beneficiary T18 Yes
+T19	ProperName 963 970	S Hlage
+T20	Place 963 970	S Hlage
+T21	Place 990 997	Ramburg
+T22	ProperName 990 997	Ramburg
+T23	ProperName 999 1022	Johan Diederik orthling
+T24	ProperName 1023 1044	Hendrik August Rossel
+T25	ProperName 1150 1169	Archibala Mesterton
+T26	ProperName 1092 1097;1098 1111	Johan Martin Reemer
+T27	ProperName 1278 1283;1371 1377	Engel stroom
+T28	Organization 2002 2012	SE: Comp:s
+A24	Beneficiary T28 No
+T29	ProperName 2003 2011	E: Comp:
+T30	ProperName 3022 3035	DE: Compagnie
+T31	Organization 3022 3035	DE: Compagnie
+A25	Beneficiary T31 No
+T32	Person 2862 2888	Heer Johan Diderik ortling
+A26	Gender T32 Man
+A27	LegalStatus T32 Unspecified
+A28	Role T32 Beneficiary
+T33	ProperName 2867 2888	Johan Diderik ortling
+T34	Organization 2894 2905	Luijtersche
+A29	Beneficiary T34 Yes
+T35	Person 2720 2746	heer Johan Diderik Ortling
+A30	Gender T35 Man
+A31	LegalStatus T35 Unspecified
+A32	Role T35 Beneficiary
+T36	Place 2761 2768	Ramburg
+T37	ProperName 2761 2768	Ramburg
+T38	ProperName 2725 2746	Johan Diderik Ortling
+T39	ProperName 1945 1959;1960 1986	Fredrik Andre„ Cas Christiaan Engelstroom
+T40	Place 1867 1881	de Rad Batavia
+T41	ProperName 1874 1881	Batavia
+T42	Person 1945 1959;1960 1986	Fredrik Andre„ Cas Christiaan Engelstroom
+A33	Gender T42 Man
+A34	LegalStatus T42 Unspecified
+A35	Role T42 Testator
+T43	Organization 1800 1802;1803 1846	de Edele hooge regeeringe van nederlands india
+A36	Beneficiary T43 No
+T44	ProperName 1800 1802;1803 1846	de Edele hooge regeeringe van nederlands india
+T45	ProperName 1830 1846	nederlands india
+T46	Place 1830 1846	nederlands india
+T47	Person 1753 1795	Matthias Diderik van Haak, notatis publicq
+A37	Gender T47 Man
+A38	LegalStatus T47 Unspecified
+A39	Role T47 Notary
+T48	ProperName 1753 1778	Matthias Diderik van Haak
+T49	ProperName 1609 1647	Fredrik Andreas Christiaan Engelstroom
+T50	Person 1609 1647	Fredrik Andreas Christiaan Engelstroom
+A40	Gender T50 Man
+A41	LegalStatus T50 Unspecified
+A42	Role T50 Testator
+T51	ProperName 1361 1370;1436 1441;1459 1465	Elisabeth Johan Paulus
+T52	Person 1361 1370;1436 1442;1459 1465	Elisabeth Johan„ Paulus
+A43	Gender T52 Woman
+A44	LegalStatus T52 Freed
+A45	Role T52 Beneficiary
+T53	Person 1278 1283;1371 1377	Engel stroom
+A46	Gender T53 Man
+A47	LegalStatus T53 Unspecified
+A48	Role T53 Testator
+T54	Person 1150 1169	Archibala Mesterton
+A49	Gender T54 Unspecified
+A50	LegalStatus T54 Unspecified
+A51	Role T54 Other
+T55	Person 1092 1097;1098 1111	Johan Martin Reemer
+A52	Gender T55 Unspecified
+A53	LegalStatus T55 Unspecified
+A54	Role T55 Other
+T56	Person 1023 1044	Hendrik August Rossel
+A55	Gender T56 Unspecified
+A56	LegalStatus T56 Unspecified
+A57	Role T56 Other
+T57	Person 999 1022	Johan Diederik orthling
+A58	Gender T57 Unspecified
+A59	LegalStatus T57 Unspecified
+A60	Role T57 Other

@@ -1,0 +1,57 @@
+T2	Place 79 86	sumanap
+T3	ProperName 79 86	sumanap
+T4	Person 134 158	frans Hendrik Wolsleeben
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 134 158	frans Hendrik Wolsleeben
+T6	Person 194 231	d’ E: M„r Johan Everlard Coop a groen
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 204 231	Johan Everlard Coop a groen
+T8	Person 402 422	Inlands Burger Frans
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 417 422	Frans
+T10	Person 468 485	Sergeant van Well
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 477 485	van Well
+T12	Person 554 573	Soldaat C:s Keijser
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 562 573	C:s Keijser
+T14	ProperName 616 624	Boogaard
+T15	Person 616 624	Boogaard
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	Person 649 664	soldaat Bruneel
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 657 664	Bruneel
+T18	Person 725 750	Burger Christ„t Vy hutten
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	ProperName 732 750	Christ„t Vy hutten
+T20	Person 853 869	Soldaat Bruneelo
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T21	ProperName 861 869	Bruneelo
+T22	ProperName 1037 1049	Mahomat Mina
+T23	ProperName 952 964	H„k Cornelis
+T24	Person 1037 1049	Mahomat Mina
+A28	Gender T24 Unspecified
+A29	LegalStatus T24 Unspecified
+A30	Role T24 Other
+T25	Person 952 964	H„k Cornelis
+A31	Gender T25 Unspecified
+A32	LegalStatus T25 Unspecified
+A33	Role T25 Other

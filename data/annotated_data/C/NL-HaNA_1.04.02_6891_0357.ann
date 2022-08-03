@@ -1,0 +1,49 @@
+T1	Person 0 24	Henderik Ernst Schreuder
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 24	Henderik Ernst Schreuder
+T3	Person 129 144;145 157	Anthonij Barkij Ondercoopman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 129 144	Anthonij Barkij
+T5	Person 288 301;302 311	hendrik Ernst schreeder
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 288 301;302 311	hendrik Ernst schreeder
+T7	Person 963 986	Anna Veronsia schreuder
+A10	Gender T7 Woman
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Beneficiary
+T8	ProperName 963 986	Anna Veronsia schreuder
+T9	Person 1250 1259	Elisabeth
+A13	Gender T9 Woman
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Beneficiary
+T10	ProperName 1250 1259	Elisabeth
+T11	Person 1263 1280	Eelena schreuderz
+A16	Gender T11 Woman
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Beneficiary
+T12	ProperName 1263 1280	Eelena schreuderz
+T13	Organization 1316 1348	den diaconij armen deezer steede
+A19	Beneficiary T13 Yes
+T14	Person 1423 1447	Vrouw Catharina Vermaekt
+A20	Gender T14 Woman
+A21	LegalStatus T14 Unspecified
+A22	Role T14 Beneficiary
+T15	ProperName 1429 1447	Catharina Vermaekt
+T16	Person 1738 1749	Engel Claas
+A23	Gender T16 Unspecified
+A24	LegalStatus T16 Unspecified
+A25	Role T16 Beneficiary
+T17	ProperName 1738 1749	Engel Claas
+T18	Person 1763 1775	Casel Joseph
+A26	Gender T18 Unspecified
+A27	LegalStatus T18 Unspecified
+A28	Role T18 Beneficiary
+T19	ProperName 1763 1775	Casel Joseph
+T20	ProperName 317 327	Eerstleben
+T21	Place 317 327	Eerstleben

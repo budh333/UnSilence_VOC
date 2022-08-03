@@ -1,0 +1,29 @@
+T1	Person 83 100	Rutgerus van Ess:
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 83 100	Rutgerus van Ess:
+T3	Person 123 146	C:l M:d v:n Redenbrecht
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	ProperName 123 146	C:l M:d v:n Redenbrecht
+T5	Person 150 153;154 163	P:m Michielsz
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	ProperName 150 153;154 163	P:m Michielsz
+T9	Person 174 187;188 195	P: W: Lammens notaris
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Notary
+T10	ProperName 174 187	P: W: Lammens
+T11	Place 225 232	Batavia
+T12	ProperName 225 232	Batavia
+T13	Person 254 263;264 271	JLammens. Notaris
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Notary
+T14	ProperName 254 263	JLammens.
+T15	Organization 568 580	der E. Comp:
+A16	Beneficiary T15 No

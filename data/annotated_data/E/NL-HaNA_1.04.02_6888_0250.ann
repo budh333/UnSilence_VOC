@@ -1,0 +1,39 @@
+T1	Person 74 87	Maria Joosten
+A1	Gender T1 Woman
+A2	LegalStatus T1 Freed
+A3	Role T1 Beneficiary
+T2	ProperName 74 88	Maria Joosten,
+T4	ProperName 267 288	heeren Bewindhebberen
+T5	ProperName 299 309	Enkhuijsen
+T6	Place 299 309	Enkhuijsen
+T7	Place 372 393	't schip De Immagonda
+T8	ProperName 381 393	De Immagonda
+T9	Place 1083 1090	Amboina
+T10	ProperName 1083 1090	Amboina
+T11	Place 1095 1115	’t Casteel Victoria,
+T12	ProperName 1106 1114	Victoria
+T13	ProperName 1184 1194	Jacob Rnop
+T14	Person 1184 1194	Jacob Rnop
+A4	Gender T14 Man
+A5	LegalStatus T14 Unspecified
+A6	Role T14 Witness
+T15	Person 1197 1204;1205 1218	Matthij Ferdinandus Z
+A7	Gender T15 Man
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Witness
+T16	ProperName 1197 1204;1205 1216	Matthij Ferdinandus
+T17	ProperName 1410 1434	Wolfert Johan van Lingen
+T18	Person 1410 1434	Wolfert Johan van Lingen
+A10	Gender T18 Man
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Acting_Notary
+T19	Person 1449 1461	WJ J:„lingen
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Acting_Notary
+T20	ProperName 1455 1461	lingen
+T21	Person 1471 1482	J„ Copeckol
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+T22	ProperName 1474 1482	Copeckol

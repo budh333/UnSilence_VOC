@@ -1,0 +1,47 @@
+T3	Person 22 49	Heer Cornelis van Boekhoelt
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 27 49	Cornelis van Boekhoelt
+T5	Person 204 213	W kerkman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 204 213	W kerkman
+T7	Person 300 314	Daniel Lankhee
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 300 314	Daniel Lankhee
+T9	Place 499 504;505 517	in de stad Colombo
+T10	ProperName 510 517	Colombo
+T11	Person 610 618;619 641	Johannes qualterus van der Spar
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 610 618;619 641	Johannes qualterus van der Spar
+T13	Person 646 654;655 665	Johannes Arend Noe:
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Witness
+T14	ProperName 646 654;655 665	Johannes Arend Noe:
+T15	Person 724 727;728 735	P:C Lavigne
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Testator
+T16	ProperName 724 727;728 735	P:C Lavigne
+T17	Person 845 864	J:s R:d Kriekenbeek
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Acting_Notary
+T18	ProperName 845 864	J:s R:d Kriekenbeek
+T19	Person 916 918;919 930	I: V: d: Spar:
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Witness
+T20	ProperName 916 918;919 930	I: V: d: Spar:
+T21	Person 934 943	I: A: Noe
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Witness
+T22	ProperName 934 943	I: A: Noe

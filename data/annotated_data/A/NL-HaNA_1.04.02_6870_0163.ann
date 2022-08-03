@@ -1,0 +1,40 @@
+T3	Place 558 567;568 577	ten mynen Comptoire
+T4	Person 597 607;608 625	Benedictus Bastiaansz: Gagie
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 597 607;608 625	Benedictus Bastiaansz: Gagie
+T6	Person 630 652;653 674	Sijmon Thomas Carelsz: Clerq, als, getuijgen
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 630 651	Sijmon Thomas Carelsz
+T8	Person 800 824	J:n V:n Visvliet nat pus
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Notary
+T9	ProperName 800 816	J:n V:n Visvliet
+T10	Person 836 846	PMn Drmnch
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 836 846	PMn Drmnch
+T12	Place 872 880	in jndia
+T13	ProperName 875 880	jndia
+T14	Place 1305 1320	ter secretarije
+T15	Person 1321 1329	Guilliam
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 1321 1329	Guilliam
+T17	Person 1394 1401	Alphons
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 1394 1401	Alphons
+T20	ProperName 1415 1423	'sComp=s
+T21	Person 2055 2061	willem
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 2055 2061	willem

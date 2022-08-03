@@ -1,0 +1,23 @@
+T1	ProperName 108 121	David Davidsz
+T2	Person 108 122	David Davidsz:
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	Person 762 781	zoon Pieter Jacobus
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 767 781	Pieter Jacobus
+T5	Person 1489 1498;1499 1510	zoon sie„ ter Jacobus
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 1494 1498;1499 1510	sie„ ter Jacobus
+T7	ProperName 1533 1547	David Davidsz:
+T8	Person 1533 1547	David Davidsz:
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T10	ProperName 1984 2005	Heeren bewindhebberen
+T11	ProperName 2016 2026	Enkhuijsen
+T12	Place 2016 2026	Enkhuijsen

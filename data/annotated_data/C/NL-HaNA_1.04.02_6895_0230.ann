@@ -1,0 +1,14 @@
+T3	Organization 793 827	de Edele hooge indiasche regeering
+T4	Organization 859 869;870 905	de Eerwaer de Heeren weesmeesteren deser stede
+T5	Person 1486 1510;1511 1522	Christoffel Sigvried van Redenbrecht
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 1486 1510;1511 1522	Christoffel Sigvried van Redenbrecht
+T7	Person 1526 1542	Pieter Michielsz
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1526 1542	Pieter Michielsz
+A7	Beneficiary T3 No
+A8	Beneficiary T4 No

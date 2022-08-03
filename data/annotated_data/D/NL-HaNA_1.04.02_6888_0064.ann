@@ -1,0 +1,23 @@
+T1	Person 18 49	Ed: Rijkloff anthonij van Goens
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 22 49	Rijkloff anthonij van Goens
+T3	ProperName 53 77;78 86	Susanna Anthonia Van der Brugghen
+T5	Person 53 77;78 86	Susanna Anthonia Van der Brugghen
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T6	Organization 608 639	de diaconij armen deser plaatse
+A7	Beneficiary T6 Yes
+T7	Person 926 941	Jacobus bormans
+A8	Gender T7 Unspecified
+A9	LegalStatus T7 Unspecified
+A10	Role T7 Beneficiary
+T8	ProperName 926 941	Jacobus bormans
+T9	Person 1424 1436	slave Jongen
+A11	Gender T9 Man
+A12	LegalStatus T9 Enslaved
+A13	Role T9 Other
+T10	Organization 1466 1487;1488 1516	’t Eerwaarde Collegie van alle heren weesmeesteren
+A14	Beneficiary T10 No

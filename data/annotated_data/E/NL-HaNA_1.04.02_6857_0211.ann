@@ -1,0 +1,10 @@
+T3	ProperName 66 81;82 85	Johannes Garrel man
+T4	Person 66 81;82 85	Johannes Garrel man
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 868 876	Hoogland
+T7	Person 868 876	Hoogland
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other

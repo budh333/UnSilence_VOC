@@ -1,0 +1,15 @@
+T2	Person 0 17	Jan Willem Harmst
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 0 17	Jan Willem Harmst
+T4	Person 426 432	slaven
+A4	Gender T4 Group
+A5	LegalStatus T4 Enslaved
+A6	Role T4 Other
+T5	Person 436 443	slavinn
+A7	Gender T5 Group
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T6	Place 1695 1707	deser steede
+T7	Place 1722 1729;1730 1735	sterft„ huijs

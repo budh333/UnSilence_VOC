@@ -1,0 +1,54 @@
+T1	Person 14 22	Brengman
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 14 22	Brengman
+T4	ProperName 143 149	Linner
+T5	Place 165 170	Patna
+T6	ProperName 165 170	Patna
+T8	ProperName 199 215;216 218	Overbeek De Wij„ de
+T9	Organization 248 257	’s Comp=s
+T11	ProperName 344 370	Jan Christoffel Weijdemans
+T13	ProperName 388 406	Jan Albert de Wijs
+T15	ProperName 420 435	Marten Pieterse
+T17	ProperName 683 707	Andries Iurgen. Schultsz
+T18	Person 977 1001	Iacob Eilbracht Secret.s
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	ProperName 977 992	Iacob Eilbracht
+T20	Person 1135 1150;1151 1158	Jacob Eitbracht Secrets
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T21	ProperName 1135 1150	Jacob Eitbracht
+T22	Person 1170 1184	D: f: V: barij
+A28	Gender T22 Unspecified
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Other
+T23	ProperName 1170 1185	D: f: V: barij.
+T3	Person 143 149	Linner
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T7	Person 199 215;216 218	Overbeek De Wij„ de
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T10	Person 344 370	Jan Christoffel Weijdemans
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator
+T12	Person 388 406	Jan Albert de Wijs
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T14	Person 420 435	Marten Pieterse
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T16	Person 676 707	Clercq Andries Iurgen. Schultsz
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+A31	Beneficiary T9 No

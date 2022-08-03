@@ -1,0 +1,7 @@
+T1	Person 11 26	Thomas Coenraad
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T4	Place 458 467	Amsterdam
+T5	ProperName 458 467	Amsterdam
+T6	Place 507 524	Westerdijks hoorn

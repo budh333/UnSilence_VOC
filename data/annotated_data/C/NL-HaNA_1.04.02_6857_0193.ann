@@ -1,0 +1,20 @@
+T1	Person 0 35	Johannes Barthohomeus van der Grijp
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 35	Johannes Barthohomeus van der Grijp
+T4	ProperName 225 240	Ian vander Laer
+T5	Person 279 294	Pieter Sterstad
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T6	ProperName 279 294	Pieter Sterstad
+T9	Person 430 438	Coogland
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 430 438	Coogland
+T3	Person 225 240	Ian vander Laer
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary

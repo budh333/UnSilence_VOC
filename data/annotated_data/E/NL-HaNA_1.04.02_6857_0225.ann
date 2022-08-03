@@ -1,0 +1,41 @@
+T4	Person 92 119	M„r Willem Arnold velingius
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 96 119	Willem Arnold velingius
+T6	Place 167 175	Cheribon
+T7	ProperName 167 175	Cheribon
+T8	Person 228 248;249 284	Monsieur, Christiaan Gottlieb Gelsdorff van Pangerhousen
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	ProperName 238 248;249 284	Christiaan Gottlieb Gelsdorff van Pangerhousen
+T11	Place 1112 1120	Cheribon
+T12	ProperName 1112 1120	Cheribon
+T13	Person 1183 1193	I:s Gouijn
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 1187 1193	Gouijn
+T15	Person 1233 1238;1239 1250	B: De Toutlemonde
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Witness
+T16	ProperName 1239 1250	Toutlemonde
+T17	Person 1293 1308	H:k V:n Stockum
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 1301 1308	Stockum
+T19	Person 1312 1322;1323 1328	I:s B:s De Silva
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	ProperName 1323 1328	Silva
+T21	Person 1340 1355	P:r C Masselaer
+A19	Gender T21 Man
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Notary
+T22	ProperName 1346 1355	Masselaer
+T23	Place 328 339	Jndramaijoe
+T24	ProperName 328 339	Jndramaijoe

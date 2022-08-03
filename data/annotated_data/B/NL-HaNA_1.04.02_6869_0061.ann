@@ -1,0 +1,34 @@
+T2	Person 65 83	Theodorus Bloemers
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 65 83	Theodorus Bloemers
+T5	Place 125 144	ten dezen Comptoire
+T6	Place 228 245	ten huize van den
+T7	Person 302 318	Hendrik Spantert
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Other
+T8	ProperName 302 318	Hendrik Spantert
+T9	Place 399 423	In 't SEComp=e hospitaal
+T11	Person 452 472	Jan Godlieb Kindeler
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 452 472	Jan Godlieb Kindeler
+T14	Place 1184 1195	te Samarang
+T15	ProperName 1187 1195	Samarang
+T16	Place 1245 1253	hollands
+T17	Person 1567 1588	Johan Werners Reijdel
+A10	Gender T17 Unspecified
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Beneficiary
+T18	ProperName 1567 1588	Johan Werners Reijdel
+T19	Person 1676 1683	slaaven
+A13	Gender T19 Group
+A14	LegalStatus T19 Enslaved
+A15	Role T19 Other
+T20	Person 1687 1696	slavinnen
+A16	Gender T20 Group
+A17	LegalStatus T20 Enslaved
+A18	Role T20 Other

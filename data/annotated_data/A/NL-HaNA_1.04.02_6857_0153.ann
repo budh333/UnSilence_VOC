@@ -1,0 +1,28 @@
+T1	Person 96 120;121 128	Reenier Iongemaats onder Koopman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 96 114	Reenier Iongemaats
+T3	Place 160 168	Cheribon
+T4	ProperName 160 168	Cheribon
+T5	Person 194 203;204 235	Getuijgen Den Soldaat Hendrik Ongelbreckt
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 216 235	Hendrik Ongelbreckt
+T7	Person 987 1007	Jaraanse vrouw Dieim
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Beneficiary
+T8	ProperName 1002 1007	Dieim
+T9	Person 1370 1385;1386 1405	dogter Cathari„ na Elisabeth Elling
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T12	ProperName 1546 1552	Comp:e
+T10	ProperName 1377 1385;1386 1405	Cathari„ na Elisabeth Elling
+T13	Person 930 946	den Banaam Petto
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	ProperName 941 947	Pettot

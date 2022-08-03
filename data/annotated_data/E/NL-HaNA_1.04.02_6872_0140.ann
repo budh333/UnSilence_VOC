@@ -1,0 +1,13 @@
+T2	Place 725 740	Cabode goedhoop
+T3	ProperName 725 740	Cabode goedhoop
+T4	Place 741 768	ter woonhuijse van den Comp
+T5	ProperName 827 850	damie godfried Carnspek
+T6	Person 827 850	damie godfried Carnspek
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Witness
+T7	ProperName 855 862;863 879	nathans benjamin Zoomers
+T8	Person 855 862;863 880	nathans benjamin Zoomers.
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness

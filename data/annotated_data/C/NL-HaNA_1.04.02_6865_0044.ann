@@ -1,0 +1,55 @@
+T3	ProperName 3 14	geentruijda
+T4	Person 3 14	geentruijda
+A1	Gender T4 Woman
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Beneficiary
+T5	Person 59 80	volkert gerrit fokkes
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 59 80	volkert gerrit fokkes
+T7	Person 449 455	slaven
+A7	Gender T7 Group
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Beneficiary
+T8	Person 466 474	Augustus
+A10	Gender T8 Man
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Beneficiary
+T9	ProperName 466 474	Augustus
+T10	Person 478 483	Baron
+A13	Gender T10 Man
+A14	LegalStatus T10 Enslaved
+A15	Role T10 Beneficiary
+T11	ProperName 478 483	Baron
+T12	Person 496 509	de meijd Lea,
+A16	Gender T12 Woman
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Beneficiary
+T13	ProperName 505 508	Lea
+T14	Place 990 997	batavia
+T15	ProperName 990 997	batavia
+T16	Person 1030 1040	lijfeijgen
+A19	Gender T16 Group
+A20	LegalStatus T16 Enslaved
+A21	Role T16 Other
+T17	Person 1300 1320	Johan Hendrik Barner
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Beneficiary
+T18	ProperName 1300 1320	Johan Hendrik Barner
+T19	Person 1322 1335;1336 1340	Catharina bat „ner
+A25	Gender T19 Unspecified
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Beneficiary
+T20	ProperName 1322 1335;1336 1340	Catharina bat „ner
+T21	Person 1346 1364	Geertruijda barner
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Beneficiary
+T22	ProperName 1346 1364	Geertruijda barner
+T23	Person 1399 1419	prauw Elisabetn febe
+A31	Gender T23 Woman
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 1405 1419	Elisabetn febe

@@ -1,0 +1,41 @@
+T2	ProperName 85 96	Jan Roeloff
+T3	Person 85 96	Jan Roeloff
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 200 217	Abraham van dinte
+T5	Person 200 218	Abraham van dinter
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 299 309	Jacob Reek
+T7	Person 299 309	Jacob Reek
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Place 947 956	Weescamer
+T10	ProperName 1803 1813	Herman Ree
+T11	Person 1803 1814	Herman Reek
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 1830 1845	Margaretha Reek
+T13	Person 1830 1845	Margaretha Reek
+A13	Gender T13 Woman
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T14	ProperName 2126 2133	Iacobus
+T15	Place 2279 2291	in ’t patria
+T16	ProperName 2285 2291	patria
+T17	ProperName 2383 2396	Adam Carelson
+T18	ProperName 2401 2416	Arnoldus havisz
+T19	Person 2383 2396	Adam Carelson
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T20	Person 2401 2416	Arnoldus havisz
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	Place 2428 2437	amsterdam
+T22	ProperName 2428 2437	amsterdam

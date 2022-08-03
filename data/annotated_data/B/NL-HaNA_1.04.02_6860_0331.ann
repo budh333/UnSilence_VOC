@@ -1,0 +1,21 @@
+T1	Person 71 91	Johan Adriaan Dreier
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 71 91	Johan Adriaan Dreier
+T3	Place 144 159	dezen Comptoire
+T4	Person 227 244	Johan Martijn Sax
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 227 244	Johan Martijn Sax
+T6	Place 250 259	Nieuwstad
+T7	ProperName 250 259	Nieuwstad
+T8	Place 777 801	hoofd Comptoire samarang
+T9	ProperName 793 801	samarang
+T10	Place 861 869;870 878	hier ten Comptoir
+T11	Person 987 993	sannie
+A7	Gender T11 Woman
+A8	LegalStatus T11 Freed
+A9	Role T11 Beneficiary
+T12	ProperName 987 993	sannie

@@ -1,0 +1,46 @@
+T1	Person 17 40	Johan Hendriik Verminke
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 17 40	Johan Hendriik Verminke
+T3	Person 157 192	Abraham van Denter notaris jublijcq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 157 175	Abraham van Denter
+T6	Place 216 223	holland
+T7	ProperName 216 223	holland
+T9	ProperName 261 277	Nederlands India
+T10	Place 261 277	Nederlands India
+T11	Place 292 314	binnen de stad Batavia
+T12	ProperName 307 314	Batavia
+T13	Person 355 369;370 386	getuijge Johan Hendrik Verminke
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator
+T14	ProperName 364 369;370 386	Johan Hendrik Verminke
+T15	Place 387 424	van rasperwinde gelegen en duijtsland
+T16	ProperName 391 402	rasperwinde
+T17	ProperName 414 424	duijtsland
+T19	ProperName 447 451	Comp
+T20	Place 487 514	in ’s Comp„s binne hospitaa
+T22	Person 1538 1574;1575 1580	mattroos ten dienst voorsz: Johannes Meger
+A10	Gender T22 Man
+A11	LegalStatus T22 Unspecified
+A12	Role T22 Beneficiary
+T23	ProperName 1566 1574;1575 1580	Johannes Meger
+T24	Place 1581 1617	van harentzee gelegen in brandenburg
+T25	ProperName 1585 1594	harentzee
+T26	ProperName 1606 1617	brandenburg
+T27	Place 1631 1654	n ’s Corp„s siekenhuijs
+T29	Person 1800 1806	slaven
+A13	Gender T29 Group
+A14	LegalStatus T29 Enslaved
+T30	Person 1810 1819	slavinnen
+A15	Gender T30 Group
+A16	LegalStatus T30 Enslaved
+A17	Role T29 Other
+A18	Role T30 Other
+T33	Place 2092 2111	ter Camer Amsterdam
+T34	ProperName 2102 2111	Amsterdam
+T35	ProperName 2056 2111	d g'octroyeerde oost Jndische Comp: ter Camer Amsterdam

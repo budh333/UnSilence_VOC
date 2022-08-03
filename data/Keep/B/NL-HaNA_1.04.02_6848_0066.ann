@@ -1,9 +1,0 @@
-T1	Organization 552 578;579 611	het Eerwaarde Collegie van Heeren Weesme Heren deeZersteede
-T2	ProperName 556 578;579 611	Eerwaarde Collegie van Heeren Weesme Heren deeZersteede
-T3	Organization 913 936;937 952	Orst Indische Comp: ter kamer Amsterdam
-T4	Place 933 936;937 952	ter kamer Amsterdam
-T5	ProperName 943 952	Amsterdam
-T6	Person 1682 1692	Lijfeijgen
-A1	Gender T6 Group
-A2	LegalStatus T6 Enslaved
-A3	Notary T6 No

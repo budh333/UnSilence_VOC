@@ -1,0 +1,54 @@
+T2	Person 85 103;104 117	Andries Ian Balle; notaris publ:
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Notary
+T3	ProperName 85 103	Andries Ian Balle;
+T4	Organization 127 150	Edelenhoove van holland
+T5	ProperName 127 150	Edelenhoove van holland
+T6	Place 143 150	holland
+T7	ProperName 143 150	holland
+T8	Organization 154 162;163 200	de Edele hooge regeeringe van Nederlands India
+T9	ProperName 154 162;163 200	de Edele hooge regeeringe van Nederlands India
+T10	Place 184 200	Nederlands India
+T11	ProperName 184 200	Nederlands India
+T12	Place 222 236	destad Batavia
+T13	ProperName 229 236	Batavia
+T14	Person 310 314;315 329	Heer Hendrik Mulder
+A4	Gender T14 Man
+A5	LegalStatus T14 Unspecified
+A6	Role T14 Testator
+T15	ProperName 315 329	Hendrik Mulder
+T16	Person 0 15	Henderik Mulder
+A7	Gender T16 Man
+A8	LegalStatus T16 Unspecified
+A9	Role T16 Testator
+T17	ProperName 0 15	Henderik Mulder
+T18	Organization 363 372	E: Comp:e
+T19	ProperName 363 372	E: Comp:e
+T20	Person 376 396	Mejuffrouw Anna Kemp
+A10	Gender T20 Woman
+A11	LegalStatus T20 Unspecified
+A12	Role T20 Testator
+T21	ProperName 387 396	Anna Kemp
+T22	Place 427 439	kruijt huijs
+T23	Person 1054 1070;1071 1077	dogter Elisabeth Mulder
+A13	Gender T23 Woman
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Beneficiary
+T24	ProperName 1061 1070;1071 1077	Elisabeth Mulder
+T25	Person 1638 1661	dogter Elisabeth Mulder
+A16	Gender T25 Woman
+A17	LegalStatus T25 Unspecified
+A18	Role T25 Beneficiary
+T26	ProperName 1645 1661	Elisabeth Mulder
+T27	Person 1969 1975	Slaven
+A19	Gender T27 Group
+A20	LegalStatus T27 Enslaved
+A21	Role T27 Other
+T28	Person 1979 1990	Plaainnemen
+A22	Gender T28 Group
+A23	LegalStatus T28 Enslaved
+A24	Role T28 Other
+A25	Beneficiary T4 No
+A26	Beneficiary T8 No
+A27	Beneficiary T18 No

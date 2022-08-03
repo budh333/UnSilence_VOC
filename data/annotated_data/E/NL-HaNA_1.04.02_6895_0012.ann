@@ -1,0 +1,16 @@
+T1	Person 9 25	A„ P:t Bosenboom
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 16 25	Bosenboom
+T4	ProperName 238 262;263 268	Collegie van heeren wees teren
+T7	ProperName 592 615	oost Jndische Compagnie
+T8	Place 616 631	ter kamer Hoorn
+T9	ProperName 626 631	Hoorn
+T12	Place 1367 1388;1389 1409	zoldij visite Compt:r Batavia Jn't Casteel
+T14	ProperName 1389 1396	Batavia
+T15	Person 1428 1437	J V: Boek
+A4	Gender T15 Unspecified
+A5	LegalStatus T15 Unspecified
+A6	Role T15 Other
+T16	ProperName 1433 1437	Boek

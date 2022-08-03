@@ -1,0 +1,59 @@
+T3	Organization 74 84	'sE Comp:s
+A1	Beneficiary T3 No
+T4	Person 155 193	onderscheepstimmerman Cornelis Breeker
+A2	Gender T4 Man
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Testator
+T5	ProperName 177 193	Cornelis Breeker
+T6	Place 198 207	Amsterdam
+T7	ProperName 198 207	Amsterdam
+T8	Person 579 611	scheepstimmerman Cornelis Breker
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 596 611	Cornelis Breker
+T10	Place 616 625	Amsterdam
+T11	ProperName 616 625	Amsterdam
+T12	Place 645 666	ten Eijland Allelande
+T13	ProperName 657 666	Allelande
+T14	Place 710 736	in ’t Nederlands hospitaal
+T15	Person 867 880	Roelof Jansen
+A8	Gender T15 Man
+A9	LegalStatus T15 Unspecified
+A10	Role T15 Other
+T16	ProperName 867 880	Roelof Jansen
+T17	Person 926 937	Jan Loomers
+A11	Gender T17 Unspecified
+A12	LegalStatus T17 Unspecified
+A13	Role T17 Other
+T18	ProperName 926 937	Jan Loomers
+T19	Person 979 990	Jan Jacobse
+A14	Gender T19 Man
+A15	LegalStatus T19 Unspecified
+A16	Role T19 Other
+T20	ProperName 979 990	Jan Jacobse
+T21	Person 1231 1235;1236 1249	Heer Gerrit De vos
+A17	Gender T21 Man
+A18	LegalStatus T21 Unspecified
+A19	Role T21 Other
+T22	ProperName 1236 1249	Gerrit De vos
+T23	Person 1389 1414	Hermanus Engelbert Dender
+A20	Gender T23 Unspecified
+A21	LegalStatus T23 Unspecified
+A22	Role T23 Other
+T24	ProperName 1389 1414	Hermanus Engelbert Dender
+T25	Person 1438 1467	Johan Willem ferdinant Muller
+A23	Gender T25 Unspecified
+A24	LegalStatus T25 Unspecified
+A25	Role T25 Other
+T26	ProperName 1438 1467	Johan Willem ferdinant Muller
+T27	Person 1543 1547;1548 1561	Heer Gerrit De vos
+A26	Gender T27 Man
+A27	LegalStatus T27 Unspecified
+A28	Role T27 Other
+T28	ProperName 1548 1561	Gerrit De vos
+T29	Person 1781 1814	scheepstimmerman Cornelis Brecker
+A29	Gender T29 Man
+A30	LegalStatus T29 Unspecified
+A31	Role T29 Testator
+T30	ProperName 1798 1814	Cornelis Brecker

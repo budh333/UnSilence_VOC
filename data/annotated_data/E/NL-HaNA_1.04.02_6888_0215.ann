@@ -1,0 +1,44 @@
+T3	ProperName 82 105;106 115	Theodorus Lionardus van Den Briel
+T4	Person 82 105;106 127	Theodorus Lionardus van Den Briel nota: pubn,
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T6	ProperName 152 159	holland
+T7	Place 152 159	holland
+T9	Place 193 209	nederlands india
+T10	ProperName 193 209	nederlands india
+T11	Place 236 248	stad batavia
+T12	ProperName 241 248	batavia
+T13	Person 299 319	Mons:n Marten Rimmel
+A4	Gender T13 Man
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Testator
+T14	ProperName 306 319	Marten Rimmel
+T15	ProperName 341 351;352 359	Jacob Bas„ „tiaanz
+T16	ProperName 364 369;370 381	Joha„ „nes Goosen
+T17	Person 341 351;352 360	Jacob Bas„ „tiaanz,
+A7	Gender T17 Unspecified
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Witness
+T18	Person 364 369;370 381	Joha„ „nes Goosen
+A10	Gender T18 Unspecified
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Witness
+T19	Person 428 437	E: Rulder
+A13	Gender T19 Unspecified
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Other
+T20	ProperName 431 437	Rulder
+T21	ProperName 441 451	Pieter Tim
+T22	Person 441 451	Pieter Tim
+A16	Gender T22 Unspecified
+A17	LegalStatus T22 Unspecified
+A18	Role T22 Other
+T23	Person 474 487	J:s Bastiaanz
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Witness
+T24	ProperName 478 487	Bastiaanz
+T26	Place 538 543	Jndia
+T27	ProperName 538 543	Jndia
+T28	ProperName 577 587	valkenburg

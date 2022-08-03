@@ -1,0 +1,12 @@
+T1	ProperName 67 89	Ernst fredrik sluijter
+T2	Person 67 90	Ernst fredrik sluijter,
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T5	ProperName 557 573;574 587	nederlandshe oos indische comp
+T6	ProperName 599 609	Enkhuijsen
+T7	Place 599 609	Enkhuijsen
+T8	Place 676 686;687 696	'tschip de getruijda
+T9	ProperName 687 696	getruijda
+T10	ProperName 702 707	Jndia
+T11	Place 702 707	Jndia

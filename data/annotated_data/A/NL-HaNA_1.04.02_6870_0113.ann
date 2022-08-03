@@ -1,0 +1,53 @@
+T3	Person 162 169;170 194	Ian van Rijkevorsel onderCoopman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 162 169;170 181	Ian van Rijkevorsel
+T5	Place 223 245	op t schip west Cappel
+T6	ProperName 234 245	west Cappel
+T7	Person 261 294	Eersame Schieman Jan Van den Berg
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 278 294	Jan Van den Berg
+T9	Place 1421 1441	IntCasleel Rotterdam
+T10	ProperName 1432 1441	Rotterdam
+T11	Person 1493 1510	Fredrik Bonghandt
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 1493 1510	Fredrik Bonghandt
+T13	Person 1615 1621;1622 1630	Hend:k Bewensen
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 1615 1621;1622 1630	Hend:k Bewensen
+T15	Person 1631 1645	G: S: G: Doser
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 1631 1645	G: S: G: Doser
+T17	Place 1743 1750;1751 1795	aan het soldij Comptoir afgegeeven steeden Maccasser
+T18	ProperName 1786 1795	Maccasser
+T19	Place 1796 1818	In't Casteel Rotterdam
+T20	ProperName 1809 1818	Rotterdam
+T21	Person 1861 1884	Claas kroane Jecritoris
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+T22	ProperName 1861 1884	Claas kroane Jecritoris
+T23	Person 1896 1904	J Pseles
+A19	Gender T23 Unspecified
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Other
+T24	ProperName 1896 1904	J Pseles
+T25	Person 1549 1568	C.s Kraane Secret:s
+A22	Gender T25 Man
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 1549 1559	C.s Kraane
+T27	Person 75 80;81 94	Heeve Tesus Christi
+A25	Gender T27 Man
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Other
+T28	ProperName 81 94	Tesus Christi

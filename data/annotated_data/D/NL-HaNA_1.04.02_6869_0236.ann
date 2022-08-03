@@ -1,0 +1,58 @@
+T2	Person 347 359;360 372	Heeren Johan nes Reinteus
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 354 359;360 372	Johan nes Reinteus
+T4	ProperName 376 406	Hendrik Diederik Dialdafonseca
+T5	Person 347 353;376 406	Heeren Hendrik Diederik Dialdafonseca
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 721 739	’t Casteel Colombo
+T7	Place 721 739	’t Casteel Colombo
+T8	Place 744 754	woonhuijse
+T9	Person 792 798;799 810	Pieter Haamen Maas
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 792 798;799 810	Pieter Haamen Maas
+T11	Person 814 847	Benjamin Pieter Cornelis de Haart
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 814 847	Benjamin Pieter Cornelis de Haart
+T13	Person 884 895	A: Mijteris
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 884 895	A: Mijteris
+T15	Person 900 910	M: S: Has2
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 900 910	M: S: Has2
+T17	Person 1036 1045;1046 1064	I: F: van souden gesw: klerk
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Acting_Notary
+T18	ProperName 1036 1045;1046 1052	I: F: van souden
+T19	ProperName 1451 1469	Maria Sophia Hasz:
+T20	Person 1451 1469	Maria Sophia Hasz:
+A22	Gender T20 Unspecified
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Testator_Beneficiary
+T21	Person 1397 1412	Abraham Mijtens
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Testator_Beneficiary
+T22	ProperName 1397 1412	Abraham Mijtens
+T23	ProperName 955 965	P: H: Maal
+T24	ProperName 969 980;981 986	B: E: C: de Haart
+T25	Person 955 965	P: H: Maal
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	Person 969 980;981 986	B: E: C: de Haart
+A31	Gender T26 Unspecified
+A32	LegalStatus T26 Unspecified
+A33	Role T26 Other

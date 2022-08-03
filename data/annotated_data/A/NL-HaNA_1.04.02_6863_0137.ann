@@ -1,0 +1,45 @@
+T1	Person 0 14	Pieter de Hoog
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 14	Pieter de Hoog
+T4	ProperName 31 36	Comp„
+T5	Person 103 140	Izaek Huijbeegt Guerin Erste Geswoord
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 103 125	Izaek Huijbeegt Guerin
+T9	Person 354 370	Heer Pieteree Ma
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 359 370	Pieteree Ma
+T11	Person 371 388	mejuffrouw Pusqus
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 382 388	Pusqus
+T13	Person 547 551;555 579	Neef voormeld Iohannes Gileam
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Beneficiary
+T15	Place 580 592	te Harlingen
+T16	ProperName 583 592	Harlingen
+T14	ProperName 564 579	Iohannes Gileam
+T17	Person 834 853;854 878	niversele Erfgenaem Carel Pieterson Lootsman
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Beneficiary
+T18	ProperName 854 878	Carel Pieterson Lootsman
+T19	Place 919 925	Ganges
+T20	ProperName 919 925	Ganges
+T21	Person 929 942	Johan Fredrik
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 929 942	Johan Fredrik
+T23	Person 1440 1448	Lootsman
+A22	Gender T23 Unspecified
+A23	LegalStatus T23 Unspecified
+A24	Role T23 Other
+T24	ProperName 1440 1448	Lootsman

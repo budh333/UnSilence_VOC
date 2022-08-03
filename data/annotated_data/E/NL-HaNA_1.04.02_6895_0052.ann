@@ -1,0 +1,55 @@
+T1	Place 68 77	nederland
+T2	ProperName 68 77	nederland
+T3	Person 141 159	heer Simon Iosephe
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 146 159	Simon Iosephe
+T5	ProperName 190 197	Rahsche
+T6	Person 185 197	heer Rahsche
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 463 470;471 478	Iacobus Claeijs
+T8	Person 463 470;471 478	Iacobus Claeijs
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	Place 499 506	batavia
+T10	ProperName 499 506	batavia
+T11	ProperName 632 641;642 657	Gerrardus Elias Siwalette
+T12	Person 632 641;642 657	Gerrardus Elias Siwalette
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Witness
+T13	ProperName 663 677	Carel Francois
+T14	Person 663 677	Carel Francois
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	ProperName 832 847	And:s Jan Zalle
+T16	Person 832 847	And:s Jan Zalle
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Notary
+T17	ProperName 961 978	andries Jan zalle
+T18	Person 961 978	andries Jan zalle
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Notary
+T20	Place 1016 1023	holland
+T21	ProperName 1016 1023	holland
+T23	ProperName 1056 1072	nederlands india
+T24	Place 1056 1072	nederlands india
+T25	Place 1096 1111	de stad batavia
+T26	ProperName 1104 1111	batavia
+T27	Person 1175 1196	E: heer Simon Josephe
+A22	Gender T27 Man
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Beneficiary
+T28	ProperName 1183 1196	Simon Josephe
+T30	ProperName 1306 1313;1314 1321	Jacobus Claeijs
+T31	Person 1306 1313;1314 1321	Jacobus Claeijs
+A25	Gender T31 Man
+A26	LegalStatus T31 Unspecified
+A27	Role T31 Notary

@@ -1,0 +1,48 @@
+T1	Person 69 94	Zergiant Johannes brouwer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 78 94	Johannes brouwer
+T3	Person 99 120;121 131	Chirurgijn Iacob Anno Pannesmit,
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 110 120;121 130	Iacob Anno Pannesmit
+T5	Organization 277 301	aan de wees Camer alhier
+A7	Beneficiary T5 Yes
+T7	Place 550 569	ter Camer amsterdam
+T8	ProperName 560 569	amsterdam
+T9	Place 620 638;639 644	het schip de herft Leeuw
+T10	ProperName 630 638;639 644	de herft Leeuw
+T11	Place 1436 1442;1443 1456	n de H Jaffanapatnam
+T12	ProperName 1443 1456	Jaffanapatnam
+T13	Person 1494 1523	Ter presentie van Hendrik van
+A8	Gender T13 Man
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Witness
+T14	ProperName 1512 1523	Hendrik van
+T15	Person 1527 1569	Lambert: van Klinckenberg Clercquen als ge
+A11	Gender T15 Man
+A12	LegalStatus T15 Unspecified
+A13	Role T15 Witness
+T16	ProperName 1527 1552	Lambert: van Klinckenberg
+T18	Person 1605 1617	Iordaan Care
+A14	Gender T18 Man
+A15	LegalStatus T18 Unspecified
+A16	Role T18 Testator
+T17	ProperName 1605 1617	Iordaan Care
+T19	Person 1732 1749	Hendrik van Hoorn
+A17	Gender T19 Man
+A18	LegalStatus T19 Unspecified
+A19	Role T19 Witness
+T20	ProperName 1732 1748	Hendrik van Hoor
+T21	Person 1753 1773	Lambert van klincken
+A20	Gender T21 Man
+A21	LegalStatus T21 Unspecified
+A22	Role T21 Witness
+T22	ProperName 1753 1772	Lambert van klincke
+T23	Person 1839 1846;1847 1854	Janneel „ Clerg
+A23	Gender T23 Man
+A24	LegalStatus T23 Unspecified
+A25	Role T23 Other
+T24	ProperName 1839 1846	Janneel

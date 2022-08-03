@@ -1,0 +1,24 @@
+T2	ProperName 243 254	Sesubhristi
+T3	Person 329 345	Hk Wolfert Johan
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 332 346	Wolfert Johan,
+T5	ProperName 461 471	Phristiaan
+T6	ProperName 568 584;585 593	Adrianus van der d’ Werd,
+T7	Place 648 657	Samarangs
+T8	ProperName 648 657	Samarangs
+T9	ProperName 849 869	Jan fransen de munuu
+T10	Person 849 869	Jan fransen de munuu
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator
+T11	ProperName 913 922	amsterdam
+T12	Place 913 922	amsterdam
+T13	ProperName 1207 1214	Amboina
+T14	Place 1207 1214	Amboina
+T15	Person 2033 2066	Secrataris Baethazar thoutlemonde
+A7	Gender T15 Man
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Other
+T16	ProperName 2044 2066	Baethazar thoutlemonde

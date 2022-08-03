@@ -1,0 +1,53 @@
+T1	Place 18 22	Cabo
+T2	ProperName 18 22	Cabo
+T3	Place 69 84	Canton in China
+T4	ProperName 69 84	Canton in China
+T5	Person 43 64	Heer Johannes Nebbens
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+T6	ProperName 48 64	Johannes Nebbens
+T7	Person 122 140;141 151	Wel Ed heer Willem In't Anker
+A3	Gender T7 Man
+A4	LegalStatus T7 Unspecified
+T8	ProperName 134 140;141 151	Willem In't Anker
+T9	Person 344 354	J: G: Bode
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+T10	ProperName 344 354	J: G: Bode
+T11	Person 530 547	Jan Jacob Idemans
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+T12	ProperName 530 547	Jan Jacob Idemans
+T13	ProperName 567 583	Willem in tanker
+T14	Person 567 583	Willem in tanker
+A9	Gender T14 Unspecified
+A10	LegalStatus T14 Unspecified
+T15	Person 478 490;491 497	M Notthenius Secret
+A11	Gender T15 Man
+A12	LegalStatus T15 Unspecified
+T16	ProperName 478 490	M Notthenius
+T17	Place 824 830	Europa
+T18	ProperName 824 830	Europa
+T19	Place 893 908	Canton in China
+T20	ProperName 893 908	Canton in China
+T21	Person 909 923	J: J: J demans
+A13	Gender T21 Unspecified
+A14	LegalStatus T21 Unspecified
+T22	ProperName 909 923	J: J: J demans
+T23	ProperName 977 982	Johan
+T24	Person 977 982	Johan
+A15	Gender T24 Unspecified
+A16	LegalStatus T24 Unspecified
+A17	Role T24 Other
+T25	Person 1088 1099	C: Rijnnagh
+A18	Gender T25 Unspecified
+A19	LegalStatus T25 Unspecified
+A20	Role T25 Other
+T26	ProperName 1088 1099	C: Rijnnagh
+A21	Role T21 Other
+A22	Role T14 Other
+A23	Role T11 Other
+A24	Role T15 Other
+A25	Role T9 Other
+A26	Role T7 Other
+A27	Role T5 Other

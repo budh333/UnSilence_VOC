@@ -1,0 +1,16 @@
+T2	ProperName 221 229	Companie
+T3	Organization 221 229	Companie
+A1	Beneficiary T3 No
+T4	Place 238 244;245 270	in het schip genaemt de Cornelia
+T5	ProperName 262 270	Cornelia
+T6	ProperName 289 297	Battavia
+T7	Place 289 297	Battavia
+T8	Place 384 393	maccasser
+T9	ProperName 384 393	maccasser
+T10	Place 397 413	de Campong Berve
+T11	ProperName 408 413	Berve
+T12	ProperName 477 488	WPBoeinpijl
+T13	Person 477 488	WPBoeinpijl
+A2	Gender T13 Unspecified
+A3	LegalStatus T13 Unspecified
+A4	Role T13 Other

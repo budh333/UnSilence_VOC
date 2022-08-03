@@ -1,0 +1,68 @@
+T1	Person 53 63	Jan Glazer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 53 63	Jan Glazer
+T3	ProperName 68 77	amsterdam
+T4	Place 68 77	amsterdam
+T6	ProperName 369 388	oost jndische Comp:
+T8	ProperName 399 404	hoorn
+T7	Place 389 404	ter kamer hoorn
+T10	Place 727 730;731 742	der Camer hoorn
+T11	ProperName 737 742	hoorn
+T12	ProperName 704 726	heeren Bewind hebberen
+T13	Place 837 848	weeskameren
+T14	Place 1229 1253	in ’'t schip Lijbecarspe
+T15	ProperName 1242 1254	Lijbecarspel
+T16	Person 1281 1290	hans hoff
+A4	Gender T16 Man
+A5	LegalStatus T16 Unspecified
+A6	Role T16 Witness
+T17	ProperName 1281 1290	hans hoff
+T18	ProperName 1304 1315	Claas Jansz
+T19	Person 1304 1315	Claas Jansz
+A7	Gender T19 Man
+A8	LegalStatus T19 Unspecified
+A9	Role T19 Witness
+T20	ProperName 1362 1373	Jan brouwer
+T21	Person 1362 1373	Jan brouwer
+A10	Gender T21 Man
+A11	LegalStatus T21 Unspecified
+A12	Role T21 Testator
+T22	ProperName 1374 1383	Jans hoff
+T23	Person 1374 1383	Jans hoff
+A13	Gender T23 Man
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Witness
+T24	ProperName 1385 1396	Claas Jansz
+T25	Person 1385 1396	Claas Jansz
+A16	Gender T25 Man
+A17	LegalStatus T25 Unspecified
+A18	Role T25 Witness
+T26	Person 1403 1413	E„s Mulder
+A19	Gender T26 Man
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Acting_Notary
+T27	ProperName 1407 1413	Mulder
+T28	Person 1436 1450	P:  de Bavalle
+A22	Gender T28 Unspecified
+A23	LegalStatus T28 Unspecified
+A24	Role T28 Other
+T29	ProperName 1440 1450	de Bavalle
+T30	Person 1451 1462	P Renssenfs
+A25	Gender T30 Unspecified
+A26	LegalStatus T30 Unspecified
+A27	Role T30 Other
+T31	ProperName 1453 1462	Renssenfs
+T32	Place 1486 1506;1507 1527	zoldij visite Compt: Batavia Jn't Casteel
+T34	ProperName 1507 1514	Batavia
+T35	Person 1546 1554	J : Boek
+A28	Gender T35 Unspecified
+A29	LegalStatus T35 Unspecified
+A30	Role T35 Other
+T36	ProperName 1550 1554	Boek
+T37	Person 1564 1580	A„ P:t Bosenboom
+A31	Gender T37 Unspecified
+A32	LegalStatus T37 Unspecified
+A33	Role T37 Other
+T38	ProperName 1571 1580	Bosenboom

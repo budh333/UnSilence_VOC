@@ -1,0 +1,49 @@
+T2	Person 96 120	Frans Hendrik Wolsleeben
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 96 120	Frans Hendrik Wolsleeben
+T4	ProperName 580 598	J„n H„k Leijdekker
+T5	ProperName 498 518	R: F: V: D: Niepoort
+T6	ProperName 604 619	R„r Hildernisse
+T7	ProperName 631 646	W: V: : Hiepoot
+T8	Place 765 774	Amsterdam
+T9	ProperName 765 774	Amsterdam
+T10	ProperName 750 760	david Tuet
+T11	Person 750 760	david Tuet
+A4	Gender T11 Unspecified
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Other
+T12	Person 631 646	W: V: : Hiepoot
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	Person 604 619	R„r Hildernisse
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	Person 498 518	R: F: V: D: Niepoort
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	Person 580 599	J„n H„k Leijdekker:
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	Place 713 719	Banjoe
+T17	ProperName 713 719	Banjoe
+T18	Organization 1175 1183	E: Comp:
+A19	Beneficiary T18 No
+T19	ProperName 1175 1183	E: Comp:
+T20	Place 1206 1216	Sourabaija
+T21	ProperName 1206 1216	Sourabaija
+T22	ProperName 1291 1306	P: P:V:Huspoort
+T23	ProperName 1259 1264;1265 1279	R: F: W: D: Niepoort
+T24	Person 1259 1264;1265 1279	R: F: W: D: Niepoort
+A20	Gender T24 Unspecified
+A21	LegalStatus T24 Unspecified
+A22	Role T24 Other
+T25	Person 1291 1306	P: P:V:Huspoort
+A23	Gender T25 Unspecified
+A24	LegalStatus T25 Unspecified
+A25	Role T25 Other

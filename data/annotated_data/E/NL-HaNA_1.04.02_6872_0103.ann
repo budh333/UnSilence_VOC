@@ -1,0 +1,62 @@
+T1	ProperName 120 138	Cabo de Goede Hoop
+T2	Place 120 138	Cabo de Goede Hoop
+T3	ProperName 206 230	Jochem Hendrik Borgwedel
+T4	Person 206 230	Jochem Hendrik Borgwedel
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 234 256	Pieter Caspar Broeders
+T6	Person 234 256	Pieter Caspar Broeders
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Person 439 450	L: S: Faber
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Acting_Notary
+T8	ProperName 445 450	Faber
+T9	ProperName 619 639	Claufula Reservatoir
+T10	Person 619 639	Claufula Reservatoir
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T12	ProperName 814 834	hieren weesmeesteren
+T13	Person 1000 1005	slaaf
+A13	Gender T13 Man
+A14	LegalStatus T13 Enslaved
+A15	Role T13 Other
+T14	ProperName 1015 1031	Jan van Macasser
+T15	Person 1015 1032	Jan van Macasser,
+A16	Gender T15 Man
+A17	LegalStatus T15 Enslaved
+A18	Role T15 Other
+T17	Person 1342 1364	slavin Era van de Caab
+A19	Gender T17 Woman
+A20	LegalStatus T17 Enslaved
+A21	Role T17 Other
+T18	ProperName 1349 1364	Era van de Caab
+T19	Person 1376 1381;1382 1393	zoont „je Carolus
+A22	Gender T19 Man
+A23	LegalStatus T19 Enslaved
+A24	Role T19 Other
+T20	ProperName 1386 1393	Carolus
+T21	ProperName 1426 1431;1432 1443	David van De Caal
+T22	Person 1426 1431;1432 1443	David van De Caal
+A25	Gender T22 Unspecified
+A26	LegalStatus T22 Enslaved
+A27	Role T22 Other
+T23	Person 1530 1558	Slavin Cassander van Batavia
+A28	Gender T23 Woman
+A29	LegalStatus T23 Enslaved
+A30	Role T23 Other
+T24	ProperName 1537 1558	Cassander van Batavia
+T25	Person 1577 1588	zoontje Ian
+A31	Gender T25 Man
+A32	LegalStatus T25 Enslaved
+A33	Role T25 Other
+T26	ProperName 1585 1588	Ian
+T27	Person 1592 1606	dogtertje Dina
+A34	Gender T27 Woman
+A35	LegalStatus T27 Enslaved
+A36	Role T27 Other
+T28	ProperName 1602 1606	Dina

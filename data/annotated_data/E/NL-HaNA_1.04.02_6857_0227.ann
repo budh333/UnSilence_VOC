@@ -1,0 +1,19 @@
+T3	Place 150 158	Cheribon
+T4	ProperName 150 158	Cheribon
+T5	Person 75 102	M„r Willem Arnold velingius
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	ProperName 79 102	Willem Arnold velingius
+T7	Person 195 215;216 251	Monsieur, Christiaan Gottlieb Gelsdorff van Pangerhousen
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 205 215;216 251	Christiaan Gottlieb Gelsdorff van Pangerhousen
+T9	ProperName 284 295	Jndramaijoe
+T10	Place 284 295	Jndramaijoe
+T12	Person 612 620	Hoogland
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T13	ProperName 612 620	Hoogland

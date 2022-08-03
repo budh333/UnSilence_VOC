@@ -1,0 +1,49 @@
+T1	Person 0 14;15 23	Duderik Wouter Gempezel
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 14;15 22	Duderik Wouter Gempeze
+T4	Person 235 241	slaven
+A4	Gender T4 Group
+A5	LegalStatus T4 Enslaved
+A6	Role T4 Other
+T6	ProperName 267 278;279 295	Christelij„ „ken gods dienst
+T7	Person 726 742	Cornelis Jacobsz
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 726 743	Cornelis Jacobsz:
+T9	Person 747 762	Sjia Beengseing
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	ProperName 747 762	Sjia Beengseing
+T11	Person 922 938	N: Maas, Notaris
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Notary
+T12	ProperName 925 929	Maas
+T13	ProperName 1096 1103	Batavia
+T14	Place 1096 1103	Batavia
+T15	Person 1164 1185	W: Kraane Secretaris:
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 1167 1173	Kraane
+T17	Person 1278 1312;1313 1320	Nicolaas van Bergen van der Prijp„ notaris
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Notary
+T18	ProperName 1278 1311	Nicolaas van Bergen van der Prijp
+T20	Place 1365 1382	Neederlands India
+T21	ProperName 1365 1382	Neederlands India
+T22	Place 1403 1417	destad Batavia
+T23	ProperName 1410 1417	Batavia
+T24	Person 1472 1498	E: Biderik wouter Tempezel
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Testator
+T25	ProperName 1475 1498	Biderik wouter Tempezel
+T27	Place 659 685	ten Huise van de testateur
+T28	Place 986 995	weeskamer
+T29	Place 1109 1118	weeskamer

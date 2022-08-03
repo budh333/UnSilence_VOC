@@ -1,8 +1,0 @@
-T1	Organization 312 335;336 354	der geoctroijeerde oost Indische Compagnie
-T2	Place 365 374	Amsterdam
-T3	ProperName 365 374	Amsterdam
-T4	Person 1124 1137	Lijf feigenen
-A1	Gender T4 Group
-A2	LegalStatus T4 Enslaved
-A3	Role T4 Other
-A4	Beneficiary T1 No

@@ -1,0 +1,54 @@
+T2	ProperName 39 51	Jan de Wilde
+T3	Person 39 51	Jan de Wilde
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 103 117	Chineese vrouw
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 315 339	Mansslaaf Mingo van Ende
+A7	Gender T5 Man
+A8	LegalStatus T5 Enslaved
+A9	Role T5 Other
+T6	ProperName 325 339	Mingo van Ende
+T7	Person 346 352;353 371	saving Siete van Macassar
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Enslaved
+A12	Role T7 Other
+T8	ProperName 353 371	Siete van Macassar
+T9	ProperName 373 388	Sabanan van Bag
+T10	Person 373 388	Sabanan van Bag
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Enslaved
+A15	Role T10 Other
+T11	ProperName 389 408	Camoeni van Besaija
+T12	Person 389 408	Camoeni van Besaija
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Other
+T13	Person 412 428	flora van Seflok
+A19	Gender T13 Woman
+A20	LegalStatus T13 Enslaved
+A21	Role T13 Other
+T14	ProperName 751 774	Anna Margaretha Clasing
+T15	Person 751 774	Anna Margaretha Clasing
+A22	Gender T15 Woman
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Beneficiary
+T16	ProperName 794 809	Jan Kruijshaege
+T17	Person 794 809	Jan Kruijshaege
+A25	Gender T17 Man
+A26	LegalStatus T17 Unspecified
+A27	Role T17 Other
+T18	ProperName 825 830	walno
+T19	Place 825 830	walno
+T20	ProperName 844 854	Osnabrugge
+T21	Place 844 854	Osnabrugge
+T22	ProperName 1247 1257	Loefhouwer
+T23	Person 1244 1257	I: Loefhouwer
+A28	Gender T23 Unspecified
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Other
+T24	ProperName 1369 1377	Samarang
+T25	Place 1369 1377	Samarang

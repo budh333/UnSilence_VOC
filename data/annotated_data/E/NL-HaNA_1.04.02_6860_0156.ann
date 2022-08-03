@@ -1,0 +1,35 @@
+T1	ProperName 50 60	Sourabaija
+T2	Place 50 60	Sourabaija
+T3	Person 86 102	J:n W„ Tieselaar
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 93 102	Tieselaar
+T5	Person 147 154;155 159	L„ Loeg „wer
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 150 154;155 159	Loeg „wer
+T7	ProperName 216 224	Boogaart
+T8	Person 216 224	Boogaart
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 228 246	F„r et=s De Dursen
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 237 246	De Dursen
+T11	Person 258 273	PJ: V:: Wiecoot
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 266 273	Wiecoot
+T13	ProperName 396 404	samarang
+T14	Place 396 404	samarang
+T15	ProperName 849 860	Ioseph Mull
+T16	Person 849 860	Ioseph Mull
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Beneficiary
+T17	ProperName 1400 1429	Collegie van heeren meesteren

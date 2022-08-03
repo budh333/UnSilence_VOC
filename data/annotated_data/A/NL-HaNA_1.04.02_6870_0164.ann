@@ -1,0 +1,5 @@
+T3	Person 11 17	J:nats
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 11 17	J:nats

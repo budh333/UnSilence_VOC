@@ -1,0 +1,36 @@
+T2	ProperName 5 24	Folkert van der Ley
+T3	Person 5 24	Folkert van der Ley
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 117 138	Egbert Arond de wilde
+T5	Person 117 138	Egbert Arond de wilde
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T8	Person 297 316	Polkert vander Leij
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 297 316	Polkert vander Leij
+T10	ProperName 321 331	Groeningen
+T11	Place 321 331	Groeningen
+T12	Person 1110 1138	Johannes Rudolff vander Leij
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Beneficiary
+T13	ProperName 1110 1138	Johannes Rudolff vander Leij
+T14	Person 1416 1441	zoon Johannes vander Leij
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Beneficiary
+T15	ProperName 1421 1441	Johannes vander Leij
+T16	ProperName 1451 1469	Johanna Margaretha
+T17	Person 1451 1469	Johanna Margaretha
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Beneficiary
+T6	Place 928 936	Samarang
+T7	ProperName 928 936	Samarang
+T19	Place 2243 2267	’t weeshuijs te Samarang
+T20	ProperName 2259 2267	Samarang

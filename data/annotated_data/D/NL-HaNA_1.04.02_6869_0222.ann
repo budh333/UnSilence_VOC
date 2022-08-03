@@ -1,0 +1,66 @@
+T1	Place 110 116	Ainste
+T2	ProperName 110 116	Ainste
+T3	Organization 65 99	g'octroijeerde Oost Indische Comp:
+T4	ProperName 65 99	g'octroijeerde Oost Indische Comp:
+T5	Organization 299 303	Comp
+T6	ProperName 299 303	Comp
+T7	ProperName 394 411	Otto Hendrik Hoek
+T8	Person 394 411	Otto Hendrik Hoek
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Other
+T9	Place 541 550	Comptoire
+T10	Place 551 559	Saparang
+T11	ProperName 551 559	Saparang
+T12	Person 732 747;748 753	soldaat fredrik Bosch
+A4	Gender T12 Unspecified
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Beneficiary
+T13	ProperName 740 747;748 753	fredrik Bosch
+T14	Person 937 949;950 956	zoldaat Beno Asveld
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Beneficiary
+T15	ProperName 945 949;950 956	Beno Asveld
+T16	Person 1084 1107	Seriba M:r Pieter Lutoe
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 1095 1107	Pieter Lutoe
+T18	Person 1244 1274	dogteltjen Catharna Petronella
+A13	Gender T18 Woman
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Beneficiary
+T19	ProperName 1255 1274	Catharna Petronella
+T20	Person 1374 1380;1390 1415	moeder Johanna magaretha mastina
+A16	Gender T20 Woman
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Beneficiary
+T21	ProperName 1390 1415	Johanna magaretha mastina
+T22	ProperName 1430 1443	fransienbergh
+T23	Place 1430 1443	fransienbergh
+T24	ProperName 1462 1470	Overnoch
+T25	Place 1462 1470	Overnoch
+T26	Person 1602 1608	Slaven
+A19	Gender T26 Group
+A20	LegalStatus T26 Enslaved
+A21	Role T26 Other
+T27	Person 1612 1621	Raevinnen
+A22	Gender T27 Group
+A23	LegalStatus T27 Enslaved
+A24	Role T27 Other
+T28	Organization 1672 1680	DEComp:s
+T29	ProperName 1672 1680	DEComp:s
+T30	Person 2074 2100	Heer Van Chrrstoffl Beuman
+A25	Gender T30 Man
+A26	LegalStatus T30 Unspecified
+A27	Role T30 Other
+T31	ProperName 2083 2100	Chrrstoffl Beuman
+T32	ProperName 653 658	Bakct
+T33	Person 622 644;645 658	des te stateeshuijskor in name Bakct
+A28	Gender T33 Woman
+A29	LegalStatus T33 Unspecified
+A30	Role T33 Beneficiary
+A31	Beneficiary T28 No
+A32	Beneficiary T3 No
+A33	Beneficiary T5 No

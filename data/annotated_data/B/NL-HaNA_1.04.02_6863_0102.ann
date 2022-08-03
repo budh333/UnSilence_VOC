@@ -1,0 +1,14 @@
+T1	Person 236 255	Johan Willen van Ma
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T3	Person 309 323	J: C: Heijning
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	Person 335 350	B: C: D: Bouman
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T6	Place 219 235	Roeali en D Port
+T7	ProperName 219 225	Roeali

@@ -1,0 +1,12 @@
+T1	Person 16 48;49 71	heer Elardus Magnus de Roth, on„ der koopman en Cassier
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 21 43	Elardus Magnus de Roth
+T3	Place 87 99	bank Courant
+T4	Place 103 119	bank van Leening
+T6	Place 979 989	ster fhuis
+T8	ProperName 1173 1187	D'E: Compagnie
+T11	Place 1369 1388	ter kamer Amsterdam
+T12	ProperName 1379 1388	Amsterdam
+T14	ProperName 1322 1362;1363 1368	der geoctroijeerde oost Jndiasche Compa„ „quie

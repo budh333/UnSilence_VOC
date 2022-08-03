@@ -1,0 +1,32 @@
+T3	Person 466 480	Abraham Salomo
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 466 480	Abraham Salomo
+T5	Person 484 502	Hendrik Abrahamsz:
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 484 502	Hendrik Abrahamsz:
+T7	Person 651 654;655 669	Egb Blorhert Not:s
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 651 654;655 663	Egb Blorhert
+T9	Place 796 803	Batavia
+T10	ProperName 796 803	Batavia
+T11	Person 848 872	C: F: Severin Secretaris
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 848 861	C: F: Severin
+T13	Person 886 897	AW Valburrg
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 886 897	AW Valburrg
+T15	Person 907 917	Hechelmann
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 907 917	Hechelmann

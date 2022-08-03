@@ -1,0 +1,32 @@
+T1	Organization 118 125	sComp„s
+A1	Beneficiary T1 No
+T2	Person 339 348	W„m Kerkn
+A2	Gender T2 Unspecified
+A3	LegalStatus T2 Unspecified
+A4	Role T2 Other
+T3	ProperName 339 348	W„m Kerkn
+T4	Person 360 372	Sartrinck Jr
+A5	Gender T4 Unspecified
+A6	LegalStatus T4 Unspecified
+A7	Role T4 Other
+T5	ProperName 360 372	Sartrinck Jr
+T8	Person 383 388	Manus
+A8	Gender T8 Woman
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Beneficiary
+T9	ProperName 383 388	Manus
+T10	Person 432 437	Marie
+A11	Gender T10 Woman
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Beneficiary
+T11	ProperName 432 437	Marie
+T12	Person 481 488	Siebing
+A14	Gender T12 Woman
+A15	LegalStatus T12 Unspecified
+A16	Role T12 Beneficiary
+T13	ProperName 481 488	Siebing
+T14	Person 527 535	siebroek
+A17	Gender T14 Woman
+A18	LegalStatus T14 Unspecified
+A19	Role T14 Beneficiary
+T15	ProperName 527 535	siebroek

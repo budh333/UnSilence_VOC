@@ -1,0 +1,20 @@
+T3	Place 1617 1624	Batavia
+T4	ProperName 1617 1624	Batavia
+T6	ProperName 70 102	Nicolaas van Bergen vander hrijp
+T7	Person 70 103	Nicolaas van Bergen vander hrijp,
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Notary
+T9	ProperName 156 172	Nederlands India
+T10	Place 156 172	Nederlands India
+T11	Place 193 200;201 208	de stad Bataria
+T12	ProperName 201 208	Bataria
+T13	Person 260 278	hier Fredrik Camyn
+A4	Gender T13 Man
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Testator
+T14	ProperName 265 278	Fredrik Camyn
+T16	ProperName 447 455;456 479	collegie van heeren wesmeesteren
+T18	ProperName 902 930;931 935	geoctroijeerde oost indische Comp
+T19	Place 937 952	ter kamer hoorn
+T20	ProperName 947 952	hoorn

@@ -1,0 +1,20 @@
+T2	ProperName 100 112	ArnoldHarmen
+T3	Person 100 111	ArnoldHarme
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Place 132 143	n’t Casteel
+T6	ProperName 319 328	Piernaren
+T8	ProperName 519 533	Penn: Pernaest
+T9	Place 830 837	Batavia
+T10	ProperName 830 837	Batavia
+T11	Place 843 852	vaderland
+T12	Person 1139 1148	S:C Sapto
+A4	Gender T12 Unspecified
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Other
+T13	ProperName 1143 1149	Saptol
+T5	Person 319 328	Piernaren
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other

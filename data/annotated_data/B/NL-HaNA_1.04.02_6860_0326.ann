@@ -1,0 +1,25 @@
+T2	Place 151 158	grissee
+T3	ProperName 151 158	grissee
+T4	Person 190 196	Pazert
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Person 257 266	Jan Sosee
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 257 266	Jan Sosee
+T7	Person 578 582;583 592	Corn Coetziers
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T9	Place 633 647	kamer Samarang
+T10	ProperName 639 647	Samarang
+T11	Person 680 695	A: Barkeij Lec„
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	Person 707 711	J.Wn
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other

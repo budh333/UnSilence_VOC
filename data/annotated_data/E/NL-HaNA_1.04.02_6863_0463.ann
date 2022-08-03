@@ -1,0 +1,16 @@
+T3	ProperName 542 564	Ioan Ioachim Fijbrands
+T4	Person 578 590;591 599	Arend Jansz: schokman
+A3	Gender T4 Man
+A4	LegalStatus T4 Unspecified
+A5	Role T4 Other
+T5	ProperName 578 590;591 598	Arend Jansz: schokma
+T6	Person 611 639	Justinus Rutgard Kriekenbeek
+A6	Gender T6 Man
+A7	LegalStatus T6 Unspecified
+A8	Role T6 Other
+T7	ProperName 611 639	Justinus Rutgard Kriekenbeek
+T10	ProperName 1195 1204	Amsterdam
+T11	Place 1195 1204	Amsterdam
+T12	Place 1280 1294;1295 1302	schip Kiewits„ „heuvel
+T13	ProperName 1286 1294;1295 1302	Kiewits„ „heuvel
+T16	ProperName 1944 1950	Muller

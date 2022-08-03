@@ -1,0 +1,10 @@
+T2	Person 20 38	Jacobus van Bommel
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 20 38	Jacobus van Bommel
+T4	Person 55 77	heer Iacobus van Bomme
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T5	ProperName 55 78	heer Iacobus van Bommel

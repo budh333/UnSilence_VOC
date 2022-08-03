@@ -1,0 +1,145 @@
+T3	Person 23 33	DE: Elling
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 27 33	Elling
+T5	Person 80 89	DE: Suzan
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 84 89	Suzan
+T7	Person 121 128	Tessers
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 121 128	Tessers
+T9	Person 161 171	peres Lebe
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 161 171	peres Lebe
+T11	ProperName 195 201	muller
+T12	Person 195 200	mulle
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 240 250	Wildenberg
+T14	Person 240 250	Wildenberg
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 286 293	Gardein
+T16	Person 286 293	Gardein
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 333 338	Iuzan
+T18	Person 333 338	Iuzan
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	ProperName 364 370	Herbst
+T20	Person 364 370	Herbst
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T21	ProperName 388 397	Jan Kiako
+T22	Person 388 397	Jan Kiako
+A28	Gender T22 Unspecified
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Other
+T23	ProperName 416 427	Leeuwendaal
+T24	Person 416 427	Leeuwendaal
+A31	Gender T24 Unspecified
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Other
+T25	ProperName 466 476	Evert Eden
+T26	Person 466 476	Evert Eden
+A34	Gender T26 Unspecified
+A35	LegalStatus T26 Unspecified
+A36	Role T26 Other
+T27	ProperName 548 553	Suzan
+T28	Person 548 553	Suzan
+A37	Gender T28 Unspecified
+A38	LegalStatus T28 Unspecified
+A39	Role T28 Other
+T29	ProperName 591 600	Hendriksz
+T30	Person 591 600	Hendriksz
+A40	Gender T30 Unspecified
+A41	LegalStatus T30 Unspecified
+A42	Role T30 Other
+T31	ProperName 674 680	muller
+T32	Person 674 680	muller
+A43	Gender T32 Unspecified
+A44	LegalStatus T32 Unspecified
+A45	Role T32 Other
+T33	ProperName 713 718	Suzan
+T34	Person 713 718	Suzan
+A46	Gender T34 Unspecified
+A47	LegalStatus T34 Unspecified
+A48	Role T34 Other
+T35	ProperName 787 793	muller
+T36	Person 787 793	muller
+A49	Gender T36 Unspecified
+A50	LegalStatus T36 Unspecified
+A51	Role T36 Other
+T37	ProperName 816 823	Contant
+T38	Person 816 823	Contant
+A52	Gender T38 Unspecified
+A53	LegalStatus T38 Unspecified
+A54	Role T38 Other
+T39	ProperName 852 858	Herbst
+T40	Person 852 858	Herbst
+A55	Gender T40 Unspecified
+A56	LegalStatus T40 Unspecified
+A57	Role T40 Other
+T41	ProperName 877 884	Contant
+T42	Person 877 884	Contant
+A58	Gender T42 Unspecified
+A59	LegalStatus T42 Unspecified
+A60	Role T42 Other
+T43	ProperName 893 898	Duijm
+T44	Person 893 898	Duijm
+A61	Gender T44 Unspecified
+A62	LegalStatus T44 Unspecified
+A63	Role T44 Other
+T45	ProperName 938 943	Suzan
+T46	Person 938 943	Suzan
+A64	Gender T46 Unspecified
+A65	LegalStatus T46 Unspecified
+A66	Role T46 Other
+T47	ProperName 968 982	Tirta widjaija
+T48	Person 968 982	Tirta widjaija
+A67	Gender T48 Unspecified
+A68	LegalStatus T48 Unspecified
+A69	Role T48 Other
+T49	ProperName 1004 1010	Muller
+T50	Person 1004 1010	Muller
+A70	Gender T50 Unspecified
+A71	LegalStatus T50 Unspecified
+A72	Role T50 Other
+T51	ProperName 1037 1047	Tan Kiaako
+T52	Person 1037 1047	Tan Kiaako
+A73	Gender T52 Unspecified
+A74	LegalStatus T52 Unspecified
+A75	Role T52 Other
+T53	ProperName 1077 1083	Muller
+T54	Person 1077 1083	Muller
+A76	Gender T54 Unspecified
+A77	LegalStatus T54 Unspecified
+A78	Role T54 Other
+T55	Person 1234 1251	M: V: Lieuwendaal
+A79	Gender T55 Unspecified
+A80	LegalStatus T55 Unspecified
+A81	Role T55 Other
+T56	ProperName 1240 1251	Lieuwendaal
+T57	ProperName 1256 1269	will: Beukers
+T58	Person 1256 1269	will: Beukers
+A82	Gender T58 Unspecified
+A83	LegalStatus T58 Unspecified
+A84	Role T58 Other
+T59	ProperName 1281 1289	HHerstad
+T60	Person 1281 1289	HHerstad
+A85	Gender T60 Unspecified
+A86	LegalStatus T60 Unspecified
+A87	Role T60 Other

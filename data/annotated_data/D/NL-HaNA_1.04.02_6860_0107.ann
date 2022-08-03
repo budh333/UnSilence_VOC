@@ -1,0 +1,71 @@
+T2	Organization 21 29	d’ EComp
+A1	Beneficiary T2 No
+T3	ProperName 21 29	d’ EComp
+T4	ProperName 31 40	JMiepoort
+T5	Person 31 40	JMiepoort
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Other
+T6	ProperName 130 142	Frans Langer
+T7	Person 130 142	Frans Langer
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Other
+T8	ProperName 187 194;195 199	Hendrik Rogh
+T9	ProperName 273 286	Paulus Philip
+T10	ProperName 217 241;242 246	Jhan Jacob Hendrik Tuur„ Kamp
+T11	ProperName 201 216	Bernhard Leewen
+T12	Person 187 194;195 199	Hendrik Rogh
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Other
+T13	Person 201 216	Bernhard Leewen
+A11	Gender T13 Unspecified
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Other
+T14	Person 217 241;242 246	Jhan Jacob Hendrik Tuur„ Kamp
+A14	Gender T14 Unspecified
+A15	LegalStatus T14 Unspecified
+A16	Role T14 Other
+T15	Person 273 286	Paulus Philip
+A17	Gender T15 Unspecified
+A18	LegalStatus T15 Unspecified
+A19	Role T15 Other
+T16	Place 925 932;933 963	Needer„ „landschen Comptoirent Rembang
+T17	ProperName 956 963	Rembang
+T18	ProperName 997 1022	Johan Fredtrick Scartarri
+T19	ProperName 1026 1037;1038 1042	Jacob Baste „aan
+T20	Person 997 1022	Johan Fredtrick Scartarri
+A20	Gender T20 Unspecified
+A21	LegalStatus T20 Unspecified
+A22	Role T20 Witness
+T21	Person 1026 1037;1038 1042	Jacob Baste „aan
+A23	Gender T21 Unspecified
+A24	LegalStatus T21 Unspecified
+A25	Role T21 Witness
+T22	ProperName 1239 1250	W: A: Palm.
+T23	ProperName 1263 1278	Abr: Van Hlmert
+T24	Person 1239 1249	W: A: Palm
+A26	Gender T24 Unspecified
+A27	LegalStatus T24 Unspecified
+A28	Role T24 Other
+T25	Person 1263 1278	Abr: Van Hlmert
+A29	Gender T25 Unspecified
+A30	LegalStatus T25 Unspecified
+A31	Role T25 Other
+T26	Place 1435 1444	Comptoire
+T27	Person 1445 1459;1460 1464	Willem Adriaan Palm
+A32	Gender T27 Man
+A33	LegalStatus T27 Unspecified
+A34	Role T27 Acting_Notary
+T28	ProperName 1445 1459;1460 1464	Willem Adriaan Palm
+T29	ProperName 1751 1765	Mathije Elbers
+T30	ProperName 1838 1852	Johannes Knops
+T31	Person 1751 1765	Mathije Elbers
+A35	Gender T31 Unspecified
+A36	LegalStatus T31 Unspecified
+A37	Role T31 Other
+T32	Person 1838 1852	Johannes Knops
+A38	Gender T32 Unspecified
+A39	LegalStatus T32 Unspecified
+A40	Role T32 Other

@@ -1,0 +1,7 @@
+T3	ProperName 88 99;101 108	Jan hendrik Withoff
+T4	Place 113 120	hanover
+T5	ProperName 113 120	hanover
+T2	Person 88 99;101 108	Jan hendrik Withoff
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator

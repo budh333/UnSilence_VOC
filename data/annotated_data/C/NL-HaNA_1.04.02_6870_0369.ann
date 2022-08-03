@@ -1,0 +1,54 @@
+T3	Person 191 215	C„t greven onder coopman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 191 201	C„t greven
+T5	Person 365 384	Johannes Hardenberg
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 365 384	Johannes Hardenberg
+T7	Place 733 746	Banda Massauw
+T8	ProperName 733 746	Banda Massauw
+T9	Person 804 811;812 816	Corneli Cool
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 804 811;812 816	Corneli Cool
+T11	Person 820 836	Jan Christiaansz
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 820 836	Jan Christiaansz
+T13	Person 1085 1097	L: Verspijck
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 1085 1097	L: Verspijck
+T15	Place 1189 1205;1206 1209	Banda ter weeska mer
+T16	ProperName 1189 1194	Banda
+T17	Person 1247 1253;1254 1265	Johan„ nes Hageman
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Acting_Notary
+T18	ProperName 1247 1253;1254 1265	Johan„ nes Hageman
+T19	Person 1288 1296	Gelvensz
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 1288 1296	Gelvensz
+T21	Person 1502 1518	d:E Fred„k Iansz
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Testator
+T22	ProperName 1506 1519	Fred„k Iansz.
+T23	Person 2077 2091	Johan frederik
+A25	Gender T23 Unspecified
+A26	LegalStatus T23 Unspecified
+A27	Role T23 Other
+T24	ProperName 2077 2091	Johan frederik
+T25	Person 2095 2105	Jan george
+A28	Gender T25 Unspecified
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	ProperName 2095 2105	Jan george

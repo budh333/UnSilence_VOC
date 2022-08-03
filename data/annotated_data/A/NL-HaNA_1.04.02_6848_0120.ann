@@ -1,0 +1,37 @@
+T1	Place 749 758	ten huise
+T2	Person 832 858	Frtermanus Aorham Rimonszz
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T3	ProperName 832 858	Frtermanus Aorham Rimonszz
+T4	Person 863 901;902 910	Kraraus Thomas Pennemak, clercquin ale getuigen
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 863 886	Kraraus Thomas Pennemak
+T6	Person 1051 1084	Van Bergen van der Grijp, Notaris
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Notary
+T7	Person 1088 1109	Bernardus van Pleuren
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 1088 1109	Bernardus van Pleuren
+T9	ProperName 1051 1075	Van Bergen van der Grijp
+T10	Person 1198 1219;1220 1235	M: Nicolaus Matthaus, notaris publicq
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Notary
+T11	ProperName 1198 1218	M: Nicolaus Matthaus
+T13	Place 1272 1288	Nederlands Jndia
+T14	ProperName 1272 1288	Nederlands Jndia
+T15	Place 1303 1322;1323 1328	buijten de stad Ba„ tavia
+T16	ProperName 1319 1322;1323 1328	Ba„ tavia
+T17	Person 1414 1440	Heer Bernardus van Pleuren
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Testator
+T18	ProperName 1419 1440	Bernardus van Pleuren
+T19	Place 1467 1483	nederlands Jndia
+T20	ProperName 1467 1483	nederlands Jndia

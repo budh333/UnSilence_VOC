@@ -1,0 +1,30 @@
+T2	ProperName 176 185	d’ Ecomp:
+T3	Organization 176 185	d’ Ecomp:
+A1	Beneficiary T3 No
+T4	Organization 248 274	de oost jndische Compagnie
+A2	Beneficiary T4 No
+T5	ProperName 248 274	de oost jndische Compagnie
+T6	Place 275 292	ter kamer Zeeland
+T7	ProperName 285 292	Zeeland
+T8	Place 673 696	in het binnen rospitaal
+T9	ProperName 714 717;718 726	Mos Simonsz:
+T10	Person 714 717;718 726	Mos Simonsz:
+A3	Gender T10 Unspecified
+A4	LegalStatus T10 Unspecified
+A5	Role T10 Witness
+T11	ProperName 730 748	Iacob Coridonszoon
+T12	Person 730 748	Iacob Coridonszoon
+A6	Gender T12 Unspecified
+A7	LegalStatus T12 Unspecified
+A8	Role T12 Witness
+T13	ProperName 852 867	Jan vander voor
+T14	ProperName 895 906	Van Wenrink
+T15	Place 907 939	Maccasser in't Casteel Rotterdam
+T16	Place 919 939	't Casteel Rotterdam
+T17	Place 907 916	Maccasser
+T18	ProperName 907 916	Maccasser
+T19	ProperName 919 939	't Casteel Rotterdam
+T20	Person 852 867	Jan vander voor
+A9	Gender T20 Unspecified
+A10	LegalStatus T20 Unspecified
+A11	Role T20 Other

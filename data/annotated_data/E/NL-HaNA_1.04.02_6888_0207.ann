@@ -1,0 +1,8 @@
+T2	ProperName 100 109;110 119	upido van Bengaele.
+T3	Person 100 109;110 119	upido van Bengaele.
+A1	Gender T3 Man
+A2	LegalStatus T3 Enslaved
+A3	Role T3 Other
+T5	Place 233 238	Jndia
+T6	ProperName 233 238	Jndia
+T7	ProperName 271 281	valkenburg

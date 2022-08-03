@@ -1,0 +1,21 @@
+T2	Person 53 71;72 112	Heer August Jan fe Meijer Capitain Luitenant der Jafanterij
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 58 71;72 78	August Jan fe Meijer
+T4	Person 120 136	Heer Johan Jacob
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 125 136	Johan Jacob
+T7	ProperName 507 516;517 540	Nederland Oott Jndiscle Compagnie
+T8	ProperName 551 560	Amsterdam
+T9	Place 551 560	Amsterdam
+T10	Place 507 516	Nederland
+T11	ProperName 617 632	Gustaaff Willem
+T12	Place 608 633	schip de Gustaaff Willem,
+T13	ProperName 1841 1852;1853 1858	hand teekor agter
+T14	Person 1841 1852;1853 1858	hand teekor agter
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other

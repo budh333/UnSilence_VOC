@@ -1,0 +1,35 @@
+T1	ProperName 15 39	Johan Diederich orthling
+T2	Place 51 58	Hamburg
+T3	ProperName 51 58	Hamburg
+T5	Person 15 39	Johan Diederich orthling
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 851 861	D: Pieters
+T7	ProperName 714 732	Christiaan Pieters
+T8	ProperName 772 798	Philippus Gijsbertus Meurs
+T9	Place 664 678	speelmansgragt
+T10	ProperName 664 678	speelmansgragt
+T11	Place 544 595	buijten dese stad poorte rotterdam in ’t oostervelt
+T12	ProperName 557 578	stad poorte rotterdam
+T13	Place 557 578	stad poorte rotterdam
+T14	Place 507 518	op de gragt
+T15	Place 253 262	Muijnland
+T16	Person 714 732	Christiaan Pieters
+A1	Gender T16 Unspecified
+A2	LegalStatus T16 Unspecified
+A3	Role T16 Other
+T17	Person 772 798	Philippus Gijsbertus Meurs
+A7	Gender T17 Unspecified
+A8	LegalStatus T17 Unspecified
+A9	Role T17 Other
+T18	Person 851 861	D: Pieters
+A10	Gender T18 Unspecified
+A11	LegalStatus T18 Unspecified
+A12	Role T18 Other
+T19	Place 275 291	een steene huijs
+T20	Place 302 318	slave vertrecken
+T21	Place 330 342	paarde stall
+T22	Place 366 383	slaeve vertrecken
+T23	Place 422 430	speelh:s
+T24	Place 467 483	oopespeelhuijsen

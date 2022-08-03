@@ -1,0 +1,42 @@
+T1	Person 41 71;72 84	Rudolph Povenlius van der Nie„ opperkoopman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 41 70	Rudolph Povenlius van der Nie
+T3	Place 104 108	Java
+T4	ProperName 104 108	Java
+T5	Person 340 351	Jan Martino
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 340 351	Jan Martino
+T7	Person 368 383	matthijs Elbers
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 368 383	matthijs Elbers
+T9	Person 698 709	Jan Martino
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 698 709	Jan Martino
+T11	Person 725 743	Matthijijs Elbert;
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	ProperName 725 742	Matthijijs Elbert
+T15	Person 997 1002	Manus
+A16	Gender T15 Woman
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary
+T16	ProperName 997 1002	Manus
+T17	Person 1044 1049	Marie
+A19	Gender T17 Woman
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Beneficiary
+T18	ProperName 1044 1049	Marie
+T19	Person 1094 1101	Siebing
+A22	Gender T19 Woman
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Beneficiary
+T20	ProperName 1094 1101	Siebing

@@ -1,0 +1,14 @@
+T1	Organization 51 92	aan de diaconij armen ter steede Samarang
+A1	Beneficiary T1 Yes
+T2	ProperName 84 92	Samarang
+T3	Place 84 92	Samarang
+T4	Person 756 768	Van de Vroos
+A2	Gender T4 Unspecified
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Beneficiary
+T5	ProperName 756 768	Van de Vroos
+T7	ProperName 1154 1184;1185 1238;1239 1276	welEele groot Aehtbaere Heeren Bevind hebberen der nederlandsche geactroijeerde oost „dische Compagnie ter Kamer amsterdam
+T8	Place 1257 1276	ter Kamer amsterdam
+T9	ProperName 1267 1276	amsterdam
+T10	Organization 125 142	aan de nieuwe Kek
+A5	Beneficiary T10 Yes

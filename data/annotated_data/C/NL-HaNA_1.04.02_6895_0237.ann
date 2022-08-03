@@ -1,0 +1,24 @@
+T3	Place 1236 1245	amsteldam
+T4	ProperName 1236 1245	amsteldam
+T5	Person 1274 1308	Christiaan Ferdinand Lodewijk Palm
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 1274 1308	Christiaan Ferdinand Lodewijk Palm
+T7	Person 1312 1326	Gidion victor.
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 1312 1325	Gidion victor
+T9	Person 1384 1405	P G. van Hole notaris
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 1384 1397	P G. van Hole
+T11	Person 1632 1640;1641 1646	Iuffrouw Mania
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 1641 1646	Mania
+T13	Organization 1720 1731	der E. Comp
+A13	Beneficiary T13 No

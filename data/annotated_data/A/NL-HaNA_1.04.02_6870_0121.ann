@@ -1,0 +1,29 @@
+T3	Person 66 76;77 84	heere Iesi Christi
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 72 76;77 84	Iesi Christi
+T5	Person 158 161;162 194	Ian Van Rikenorsel ondercoopmansende
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 158 161;162 176	Ian Van Rikenorsel
+T7	Place 218 239	op ' schip westcappel
+T8	ProperName 229 239	westcappel
+T9	Person 274 281;282 290	Jan Van den Berg
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 274 281;282 290	Jan Van den Berg
+T11	Person 1084 1090;1091 1104	moeder Anna Gerrison
+A10	Gender T11 Woman
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Beneficiary
+T12	ProperName 1091 1104	Anna Gerrison
+T13	Place 1115 1125	totmiddelb
+T14	ProperName 1118 1125	middelb
+T15	Person 1220 1230	P: Anokman
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 1220 1230	P: Anokman

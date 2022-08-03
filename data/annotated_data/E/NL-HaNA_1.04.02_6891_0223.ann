@@ -1,0 +1,36 @@
+T3	ProperName 228 242	Claasz Pieteve
+T4	Person 94 107	P=r ligthart:
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T5	ProperName 98 106	ligthart
+T6	Person 228 242	Claasz Pieteve
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	Place 162 175	schip de Hoop
+T8	ProperName 168 175	de Hoop
+T9	ProperName 189 194	hoorn
+T10	Place 189 194	hoorn
+T11	Person 808 831	huyjsthou geetie wouter
+A7	Gender T11 Woman
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Beneficiary
+T12	ProperName 818 831	geetie wouter
+T13	Place 1053 1064	d’weesCamer
+T14	Place 1072 1079	holland
+T15	ProperName 1072 1079	holland
+T16	Place 1087 1107	Caabo de Goede hoop,
+T17	ProperName 1087 1106	Caabo de Goede hoop
+T18	Place 1111 1118	batavia
+T19	ProperName 1111 1118	batavia
+T21	ProperName 1274 1288;1289 1291	Ian Jansen van E:
+T22	Person 1274 1288;1289 1291	Ian Jansen van E:
+A10	Gender T22 Man
+A11	LegalStatus T22 Unspecified
+A12	Role T22 Other
+T23	ProperName 1295 1317	Van gerritsz„ de graaf
+T24	Person 1295 1317	Van gerritsz„ de graaf
+A13	Gender T24 Man
+A14	LegalStatus T24 Unspecified
+A15	Role T24 Other

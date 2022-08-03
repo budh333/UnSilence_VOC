@@ -1,0 +1,11 @@
+T2	ProperName 280 289	amsterdam
+T3	Person 1124 1140	andreas Kettings
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 1124 1140	andreas Kettings
+T5	Person 1159 1173	Lodewijk abrat
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 1159 1173	Lodewijk abrat

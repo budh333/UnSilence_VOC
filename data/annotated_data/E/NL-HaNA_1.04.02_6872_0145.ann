@@ -1,0 +1,16 @@
+T1	ProperName 97 114	Cabo de goedehoop
+T2	Place 97 114	Cabo de goedehoop
+T3	ProperName 156 169	Swillingnebel
+T4	Person 268 291;292 324;325 335	gouverneur Generaal den hoog Edelen heer Gustaaff Willem van Imhoff
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 309 324;325 335	Gustaaff Willem van Imhoff
+T7	Place 871 877	Patria
+T8	ProperName 871 877	Patria
+T10	ProperName 851 865	Oost Jnd: Comp
+T11	ProperName 878 887	Werwaerds
+T12	Person 878 887	Werwaerds
+A4	Gender T12 Unspecified
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Other

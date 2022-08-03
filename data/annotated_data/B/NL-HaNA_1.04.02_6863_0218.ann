@@ -1,0 +1,26 @@
+T1	Place 273 277;278 281	Colo „bo
+T2	ProperName 273 277;278 281	Colo „bo
+T3	Place 286 314	woonhuijse van den testateur
+T4	Person 345 362;363 378	Wilhelmus Phillpu van Cuijlenburg
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 345 362;363 378	Wilhelmus Phillpu van Cuijlenburg
+T6	Person 382 400	Johannes Schut Mls
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 382 400	Johannes Schut Mls
+T8	Person 544 558	J: f: Sieversz
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	Person 596 606	Jsaak maan
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 596 606	Jsaak maan
+T11	Person 607 617	W„m Visser
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other

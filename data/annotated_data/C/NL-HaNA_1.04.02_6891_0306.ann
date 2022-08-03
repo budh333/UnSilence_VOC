@@ -1,0 +1,7 @@
+T3	Person 611 626	Hendrik Verkerk
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 611 626	Hendrik Verkerk
+T5	Place 631 642	Cuijlenburg
+T6	ProperName 631 642	Cuijlenburg

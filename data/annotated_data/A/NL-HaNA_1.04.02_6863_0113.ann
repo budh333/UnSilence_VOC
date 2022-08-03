@@ -1,0 +1,16 @@
+T2	ProperName 110 123	’s Compagnies
+T3	Person 137 160	Schaan wilhelm van Half
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 137 160	Schaan wilhelm van Half
+T5	Person 855 865	F Ceijsler
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 855 865	F Ceijsler
+T7	Person 866 880	t:/ I: Plusker
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 866 880	t:/ I: Plusker

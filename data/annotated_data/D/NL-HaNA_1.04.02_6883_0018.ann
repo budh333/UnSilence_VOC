@@ -1,0 +1,42 @@
+T1	Person 203 214;215 221	heer Abraha Mitens
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 208 214;215 221	Abraha Mitens
+T3	Person 274 286	serven Janz:
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 274 286	serven Janz:
+T5	Place 645 660;661 663	bortresse Nigon bo
+T6	ProperName 655 660;661 663	Nigon bo
+T7	Place 697 711	ten woonhuijse
+T8	Person 769 772;773 791	so: hannes landsberger
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	Person 804 816	Tavie Estrop
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	ProperName 804 816	Tavie Estrop
+T11	ProperName 769 772;773 791	so: hannes landsberger
+T12	Person 1018 1030;1031 1037	Jan godfried boetz:
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Acting_Notary
+T13	ProperName 1018 1030;1031 1037	Jan godfried boetz:
+T14	Person 1370 1385	nikolaas Egbers
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Testator_Beneficiary
+T15	ProperName 1370 1385	nikolaas Egbers
+T16	Place 1431 1448	kampemente silauw
+T17	ProperName 1442 1448	silauw
+T18	Place 1463 1469	bassum
+T19	ProperName 1463 1469	bassum
+T20	ProperName 1474 1497	Maria Fernando van gale
+T21	Person 1474 1497	Maria Fernando van gale
+A19	Gender T21 Woman
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Testator_Beneficiary

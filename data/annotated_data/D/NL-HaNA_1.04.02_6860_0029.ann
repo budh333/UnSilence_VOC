@@ -1,0 +1,35 @@
+T2	Organization 36 53	Rade van Iustitie
+A1	Beneficiary T2 No
+T3	Place 58 80	gouvernemente Samarang
+T4	Place 72 80	Samarang
+T5	ProperName 72 80	Samarang
+T6	Place 195 205	sourabaija
+T7	ProperName 195 205	sourabaija
+T8	Person 237 264	Iohannes Balthasar Droschin
+A2	Gender T8 Unspecified
+A3	LegalStatus T8 Unspecified
+A4	Role T8 Other
+T9	ProperName 237 264	Iohannes Balthasar Droschin
+T10	ProperName 402 411	Jan Lapro
+T11	Person 402 411	Jan Lapro
+A5	Gender T11 Man
+A6	LegalStatus T11 Unspecified
+A7	Role T11 Acting_Notary
+T12	Organization 494 498	Comp
+A8	Beneficiary T12 No
+T13	ProperName 494 498	Comp
+T14	ProperName 763 777	J„n G„b Helmke
+T15	Person 763 777	J„n G„b Helmke
+A9	Gender T15 Unspecified
+A10	LegalStatus T15 Unspecified
+A11	Role T15 Other
+T16	Person 836 845	Jan Lapro
+A12	Gender T16 Man
+A13	LegalStatus T16 Unspecified
+A14	Role T16 Acting_Notary
+T17	ProperName 836 845	Jan Lapro
+T18	ProperName 872 883	E E Eckardt
+T19	Person 872 883	E E Eckardt
+A15	Gender T19 Unspecified
+A16	LegalStatus T19 Unspecified
+A17	Role T19 Other

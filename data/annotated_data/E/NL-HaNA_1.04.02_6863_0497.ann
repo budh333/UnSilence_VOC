@@ -1,0 +1,14 @@
+T3	Person 60 82;83 89	Gerrardus Iohannes van sanden
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 60 82;83 89	Gerrardus Iohannes van sanden
+T6	Place 222 231	weeskamer
+T7	ProperName 236 253	Engelbert de moor
+T8	Person 236 253	Engelbert de moor
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	Place 258 265	Colombo
+T10	ProperName 258 265	Colombo
+T12	ProperName 452 458	Muller

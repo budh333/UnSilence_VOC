@@ -1,0 +1,22 @@
+T2	ProperName 444 450;451 457	Martin Reusch
+T3	Person 444 450;451 457	Martin Reusch
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	Person 461 478	Jan Baptist Wolff
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 461 478	Jan Baptist Wolff
+T6	Place 508 520	Arthillereij
+T7	ProperName 508 520	Arthillereij
+T8	ProperName 637 655	Joan van der voort
+T9	Person 637 655	Joan van der voort
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Notary
+T10	ProperName 693 701	Bertling
+T11	Person 693 701	Bertling
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other

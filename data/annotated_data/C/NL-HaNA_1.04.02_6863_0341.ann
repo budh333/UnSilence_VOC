@@ -1,0 +1,76 @@
+T3	Person 21 34	P. G. Lavigne
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 21 34	P. G. Lavigne
+T5	Person 44 65	Philip George Lavigne
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator_Beneficiary
+T6	ProperName 44 65	Philip George Lavigne
+T7	Organization 104 112	Ed: Comp
+T8	Place 135 142	Colombo
+T9	ProperName 135 142	Colombo
+T10	Person 117 130	Elsie Velsche
+A7	Gender T10 Woman
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator_Beneficiary
+T11	ProperName 117 130	Elsie Velsche
+T12	Person 336 353	Etjens Leuwendaal
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Testator
+T13	ProperName 336 353	Etjens Leuwendaal
+T14	Person 396 411	weddich Beukman
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Acting_Notary
+T15	ProperName 396 411	weddich Beukman
+T16	Person 500 517	Ettene Leuwendaal
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Testator
+T17	ProperName 500 517	Ettene Leuwendaal
+T18	Organization 559 568	DE: Comp:
+T19	Person 590 596	Du Flo
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 590 596	Du Flo
+T21	Person 1156 1167;1168 1176	heer Piewe„ Le grand
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Beneficiary
+T22	ProperName 1161 1167;1168 1176	Piewe„ Le grand
+T25	Person 1683 1691	Le Grand
+A25	Gender T25 Man
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Beneficiary
+T26	ProperName 1683 1691	Le Grand
+T27	Person 1819 1844	Christiaan van Teijlingen
+A28	Gender T27 Man
+A29	LegalStatus T27 Unspecified
+A30	Role T27 Beneficiary
+T28	ProperName 1819 1844	Christiaan van Teijlingen
+T29	Person 1876 1891	mons:r De lelle
+A31	Gender T29 Man
+A32	LegalStatus T29 Unspecified
+A33	Role T29 Beneficiary
+T30	ProperName 1883 1891	De lelle
+T31	Person 1917 1933	mons=r Capentiew
+A34	Gender T31 Man
+A35	LegalStatus T31 Unspecified
+A36	Role T31 Beneficiary
+T32	ProperName 1924 1933	Capentiew
+T33	Person 1959 1973	mors:r karrier
+A37	Gender T33 Man
+A38	LegalStatus T33 Unspecified
+A39	Role T33 Beneficiary
+T34	ProperName 1966 1973	karrier
+T35	Person 1994 2008	madame madelan
+A40	Gender T35 Woman
+A41	LegalStatus T35 Unspecified
+A42	Role T35 Beneficiary
+T36	ProperName 2001 2008	madelan
+A43	Beneficiary T7 No
+A44	Beneficiary T18 No

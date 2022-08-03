@@ -1,0 +1,58 @@
+T1	Person 22 31	C„s Pijnl
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 22 31	C„s Pijnl
+T3	Person 32 43	steven Luyk
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 32 43	steven Luyk
+T6	ProperName 104 127	Andries Jurgen Schultz:
+T8	ProperName 215 227	steven Luijk
+T10	ProperName 389 403	Lacharias Berg
+T12	ProperName 421 429;430 434	Jan Zim„ „mer
+T13	Place 795 807	’t vaderland
+T15	ProperName 856 866	Anna Luijk
+T16	Place 871 880	Amsterdam
+T17	ProperName 871 880	Amsterdam
+T18	Person 896 922	de Heer Hendrik Steenbreng
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	ProperName 904 922	Hendrik Steenbreng
+T21	Organization 1772 1790;1791 1832	Edele Groot Achtb: Heeren Bewindhebberen ter kamer Amsterdam
+T22	Place 1823 1832	Amsterdam
+T23	ProperName 1823 1832	Amsterdam
+T24	Place 2055 2071	Houglijn Bengale
+T25	Person 2105 2118	Jan van Hoorn
+A25	Gender T25 Unspecified
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Witness
+T26	ProperName 2105 2118	Jan van Hoorn
+T28	ProperName 2122 2137	Hendrik Jannink
+T5	Person 104 135;136 142	Andries Jurgen Schultz: Gezwore Clercq
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Acting_Notary
+T7	Person 202 227	den Eersamen steven Luijk
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Testator
+T9	Person 389 403	Lacharias Berg
+A13	Gender T9 Man
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other
+T11	Person 421 429;430 434	Jan Zim„ „mer
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T14	Person 856 866	Anna Luijk
+A19	Gender T14 Woman
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Beneficiary
+T27	Person 2122 2144	Hendrik Jannink Clercq
+A28	Gender T27 Unspecified
+A29	LegalStatus T27 Unspecified
+A30	Role T27 Witness
+A31	Beneficiary T21 No

@@ -1,0 +1,68 @@
+T3	Person 10 38	WelEdele Heer I: C: Heijning
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 24 38	I: C: Heijning
+T5	Person 109 125	tent Wm van Hall
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 114 125	Wm van Hall
+T7	Place 212 220	Chinsura
+T8	ProperName 212 220	Chinsura
+T9	Person 310 343	Den WelEdele Heer: S: C: Heijning
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 329 342	S: C: Heijnin
+T12	ProperName 355 361	Comp„s
+T13	Person 452 484	Boekhouder Johan Willem van Hall
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Testator
+T14	ProperName 463 484	Johan Willem van Hall
+T15	Person 898 907	C: Carels
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 898 907	C: Carels
+T17	Person 911 932	Fistaal Parels Willem
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	ProperName 919 932	Parels Willem
+T19	Place 1044 1050	Elburg
+T20	ProperName 1044 1050	Elburg
+T21	Person 1089 1102	d C: J:eijtel
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 1089 1102	d C: J:eijtel
+T23	Place 1676 1698	te Houglij in Bengalen
+T24	ProperName 1679 1686	Houglij
+T25	ProperName 1690 1698	Bengalen
+T26	Person 1717 1720;1721 1726	Jan Janze
+A22	Gender T26 Man
+A23	LegalStatus T26 Unspecified
+A24	Role T26 Witness
+T27	ProperName 1717 1720;1721 1726	Jan Janze
+T28	Person 1730 1766	Pieter De Hoog klerken als getuijgen
+A25	Gender T28 Man
+A26	LegalStatus T28 Unspecified
+A27	Role T28 Witness
+T29	ProperName 1730 1744	Pieter De Hoog
+T30	Person 1907 1919	I: H: Guerin
+A28	Gender T30 Man
+A29	LegalStatus T30 Unspecified
+A30	Role T30 Other
+T31	ProperName 1907 1919	I: H: Guerin
+T32	Person 1973 1982	F: Wieman
+A31	Gender T32 Unspecified
+A32	LegalStatus T32 Unspecified
+A33	Role T32 Other
+T33	ProperName 1973 1982	F: Wieman
+T34	Person 1983 1988	G: Va
+A34	Gender T34 Unspecified
+A35	LegalStatus T34 Unspecified
+A36	Role T34 Other
+T35	ProperName 1983 1988	G: Va

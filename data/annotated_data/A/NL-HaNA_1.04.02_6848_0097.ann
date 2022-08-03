@@ -1,0 +1,26 @@
+T1	ProperName 10 32	Francois de Stoppelaar
+T3	Person 134 155;156 173	M=r Nicolaas Matthaus oppenbaar Notaris
+A3	Gender T3 Man
+A4	LegalStatus T3 Unspecified
+A5	Role T3 Notary
+T4	ProperName 138 155	Nicolaas Matthaus
+T6	Place 200 207	Holland
+T7	ProperName 200 207	Holland
+T9	Place 240 256	Nederlands Jndia
+T10	ProperName 240 256	Nederlands Jndia
+T11	Place 271 281;282 294	buijten de Stad Batavia
+T12	ProperName 287 294	Batavia
+T13	Person 345 396;397 410	getuijgen D'E: Francois De Stoppelaar, Onderkoopman en Boekhouder
+A6	Gender T13 Man
+A7	LegalStatus T13 Unspecified
+T14	ProperName 360 382	Francois De Stoppelaar
+T15	Place 411 436	op 'T Hospitaals Comptoir
+T16	Person 440 450;451 489;490 502	Mejuffrouw Wilhelmina Elizabeth van Blijdenbergh, Echtelieden,
+A8	Gender T16 Woman
+A9	LegalStatus T16 Unspecified
+T17	ProperName 451 488	Wilhelmina Elizabeth van Blijdenbergh
+T18	Place 512 528	Alhier Tersteede
+T19	ProperName 179 207	den Edelen Hoore van Holland
+T20	ProperName 211 219;220 256	de Edele Hooge regeringe van Nederlands Jndia
+A10	Role T13 Testator
+A11	Role T16 Testator

@@ -1,0 +1,29 @@
+T2	ProperName 138 170	Nicolaas van Bergen van der Gryp
+T3	Person 138 170	Nicolaas van Bergen van der Gryp
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T4	Place 228 237	meeskaner
+T6	ProperName 274 294	Heeren weesmeesteren
+T7	ProperName 323 330	Batavia
+T8	Place 323 330	Batavia
+T9	Place 335 344	weeskamer
+T10	Person 377 386	W: Kraane
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	ProperName 380 386	Kraane
+T13	Person 613 626;627 634	moeder susana Buisson
+A7	Gender T13 Woman
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Beneficiary
+T14	ProperName 620 626;627 634	susana Buisson
+T15	ProperName 646 663	george Cotterrell
+T16	Person 646 663	george Cotterrell
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Testator
+T17	Place 687 698	stad London
+T18	ProperName 692 698	London
+T20	Place 999 1006	Batavia
+T21	ProperName 999 1006	Batavia

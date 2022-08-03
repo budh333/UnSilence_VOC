@@ -1,0 +1,20 @@
+T1	Person 13 22	Albertina
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 13 22	Albertina
+T3	Person 43 60	Johanna Elisabeth
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 43 60	Johanna Elisabeth
+T5	Person 879 905	Christiaan Lodewijk Teimig
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	ProperName 879 905	Christiaan Lodewijk Teimig
+T8	ProperName 921 934	Lutersche kuk
+T11	ProperName 1284 1302	oost Indische Comp
+T12	ProperName 1315 1322;1323 1327	Amster„ „dam
+T13	Place 1315 1322;1323 1327	Amster„ „dam
+T15	ProperName 1559 1592	Collegie van Heeren Weesmeesteren

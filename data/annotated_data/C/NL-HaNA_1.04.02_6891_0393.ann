@@ -1,0 +1,46 @@
+T3	Person 127 144	Arij van der Aart
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 127 144	Arij van der Aart
+T5	Organization 161 177	E E:s Compagnies
+A4	Beneficiary T5 No
+T6	Place 180 196	schip T Hof Dund
+T7	ProperName 186 196	T Hof Dund
+T8	Person 305 320	Pieter Somerhof
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 305 320	Pieter Somerhof
+T10	Place 325 334	Amsterdam
+T11	ProperName 325 334	Amsterdam
+T12	Person 572 585	Joost hendrik
+A8	Gender T12 Man
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Beneficiary
+T13	ProperName 572 585	Joost hendrik
+T14	Person 589 610	Frans Adolff Sluijter
+A11	Gender T14 Man
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Beneficiary
+T15	ProperName 589 610	Frans Adolff Sluijter
+T16	Person 668 681	Anna Catriena
+A14	Gender T16 Woman
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Beneficiary
+T17	ProperName 668 681	Anna Catriena
+T18	Person 685 709	Maria Margareta Sluijter
+A17	Gender T18 Woman
+A18	LegalStatus T18 Unspecified
+A19	Role T18 Beneficiary
+T19	ProperName 685 709	Maria Margareta Sluijter
+T20	Place 827 836	Lemfeurde
+T21	ProperName 827 836	Lemfeurde
+T22	Organization 1072 1082	de EComp:e
+A20	Beneficiary T22 No
+T23	Place 1568 1575	batavia
+T24	ProperName 1568 1575	batavia
+T25	Organization 1509 1522;1523 1575	het Eerwaerde Collegie van Heeren Weesmeesteren ter steede batavia
+A21	Beneficiary T25 No
+T26	Place 2041 2050	Purmerent
+T27	ProperName 2041 2050	Purmerent

@@ -1,0 +1,52 @@
+T1	Person 54 81	Lodewijk Thomassin schipper
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T3	Person 140 161	Albers dirkse ktreeft
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 140 161	Albers dirkse ktreeft
+T5	ProperName 54 72	Lodewijk Thomassin
+T6	Place 247 252	bat=a
+T8	Person 358 375	Lodwijk Thomassin
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Person 394 395;396 404	e Ter Burg
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	Person 470 491	Carel Aldertse Kreeff
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	Person 582 609;610 618	H:r Herman Scheltus notaris publijcq
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Notary
+T13	ProperName 626 669	Edele hooge regeeringe van Nederlands India
+T14	Place 653 669	Nederlands India
+T15	ProperName 653 669	Nederlands India
+T16	Place 684 706	binnen de stad batavia
+T17	ProperName 699 706	batavia
+T18	Person 757 783	E: Albert Kikkert schipper
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Testator
+T19	ProperName 760 774	Albert Kikkert
+T21	Person 895 924	Carel fredrik Severin Coopman
+A22	Gender T21 Man
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 895 916	Carel fredrik Severin
+T24	Place 990 1003	deeser steede
+T25	Person 1007 1028	Ian hendrik Wiegerman
+A25	Gender T25 Man
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Other
+T26	ProperName 1007 1028	Ian hendrik Wiegerman
+T27	Person 1478 1492	Leijf Eijgenen
+A28	Gender T27 Group
+A29	LegalStatus T27 Enslaved
+A30	Role T27 Other

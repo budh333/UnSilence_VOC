@@ -1,7 +1,0 @@
-T1	DuplicatePage 0 2	is
-T2	Person 154 185	soontse, Arent Lambert De Moori
-A1	Gender T2 Man
-A2	LegalStatus T2 Unspecified
-A3	Role T2 Beneficiary
-#1	AnnotatorNotes T2	soontje
-T3	ProperName 163 185	Arent Lambert De Moori

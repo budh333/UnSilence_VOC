@@ -1,0 +1,34 @@
+T2	Place 170 180	Amsterdams
+T3	ProperName 170 180	Amsterdams
+T6	Place 1253 1270	inde stad Colombo
+T7	ProperName 1263 1270	Colombo
+T8	Person 1322 1335	willen ledulk
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Witness
+T9	ProperName 1322 1335	willen ledulk
+T10	Person 1339 1360	Volkert Gerrit fockes
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Witness
+T11	ProperName 1339 1360	Volkert Gerrit fockes
+T12	Person 1503 1520	I: R: Kriekenbeek
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Acting_Notary
+T13	ProperName 1503 1520	I: R: Kriekenbeek
+T14	Person 1547 1555	WVVisjen
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 1547 1555	WVVisjen
+T16	Person 1565 1584	Jan Christoppokaard
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 1565 1584	Jan Christoppokaard
+T18	Person 1596 1603	JSasman
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 1596 1603	JSasman

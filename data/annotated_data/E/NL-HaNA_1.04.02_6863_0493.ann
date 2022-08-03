@@ -1,0 +1,57 @@
+T1	ProperName 13 23	Kretschmar
+T2	Person 13 23	Kretschmar
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 24 35	J. C Muller
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 29 35	Muller
+T6	ProperName 116 128;129 140	Joan Christi „aan Muller
+T7	Person 116 128;129 140	Joan Christi „aan Muller
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T9	ProperName 233 251;252 261	wilhelmus philipus Wetzelius
+T10	Person 233 251;252 261	wilhelmus philipus Wetzelius
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Acting_Notary
+T11	ProperName 337 344;345 353	Andries Andriesz
+T12	Person 337 344;345 353	Andries Andriesz
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	Place 513 520	Colombo
+T14	ProperName 513 520	Colombo
+T15	Place 653 661	Casteels
+T16	Person 677 696	J: R: van der voort
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other
+T17	ProperName 683 696	van der voort
+T18	Person 732 743	om „ arliea
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T19	ProperName 732 743	om „ arliea
+T20	ProperName 757 763	WKaert
+T21	Person 757 763	WKaert
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T23	ProperName 774 796;797 803	Gerrardus Johannes van sanden
+T24	Person 774 796;797 803	Gerrardus Johannes van sanden
+A25	Gender T24 Man
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Acting_Notary
+T26	Place 936 945	weeskamer
+T27	ProperName 949 966	Engelbert de moor
+T28	Person 949 966	Engelbert de moor
+A28	Gender T28 Unspecified
+A29	LegalStatus T28 Unspecified
+A30	Role T28 Other
+T29	Place 978 985	Colombo
+T30	ProperName 978 985	Colombo
+T32	ProperName 1154 1160	Muller

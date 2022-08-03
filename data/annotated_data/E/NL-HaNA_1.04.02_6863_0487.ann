@@ -1,0 +1,31 @@
+T3	ProperName 10 20	Kretsehman
+T4	ProperName 21 44	Johan Christiaan Mulher
+T5	Person 21 44	Johan Christiaan Mulher
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	ProperName 137 166	Wilhelmus Philippus Wetzelius
+T7	Person 137 166	Wilhelmus Philippus Wetzelius
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T9	ProperName 261 283	Joan Christiaan Muller
+T10	Person 261 283	Joan Christiaan Muller
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 288 294	Ropein
+T13	ProperName 1282 1304;1305 1311	Gerrardus Johannes van Janden
+T14	Person 1282 1304;1305 1311	Gerrardus Johannes van Janden
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T16	Place 1445 1454	weeskamer
+T17	ProperName 1459 1476	Engelbert de moor
+T18	Person 1459 1477	Engelbert de moor.
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Witness
+T19	Place 1482 1489	Colombo
+T20	ProperName 1482 1489	Colombo
+T21	ProperName 1658 1664	Muller

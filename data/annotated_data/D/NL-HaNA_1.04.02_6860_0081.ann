@@ -1,0 +1,51 @@
+T2	Organization 78 88	d' E Comp:
+A1	Beneficiary T2 No
+T3	ProperName 78 88	d' E Comp:
+T4	ProperName 89 96	Sumanap
+T5	Place 89 96	Sumanap
+T6	Place 147 149;150 165	’t Eijland Telango
+T7	ProperName 150 165	Eijland Telango
+T8	Place 228 239	swaben land
+T9	ProperName 228 239	swaben land
+T10	Person 211 223	Johannesotti
+T11	ProperName 211 223	Johannesotti
+A2	Gender T10 Unspecified
+A3	LegalStatus T10 Unspecified
+A4	Role T10 Other
+T12	Person 281 286;287 307	Johan Everhard Coopa Groen
+A5	Gender T12 Unspecified
+A6	LegalStatus T12 Unspecified
+A7	Role T12 Other
+T13	ProperName 281 286;287 307	Johan Everhard Coopa Groen
+T14	ProperName 448 463	Hend„k Cornelis
+T15	ProperName 553 568	Hend„k Cornelis
+T16	Person 448 463	Hend„k Cornelis
+A8	Gender T16 Unspecified
+A9	LegalStatus T16 Unspecified
+A10	Role T16 Other
+T17	Person 553 568	Hend„k Cornelis
+A11	Gender T17 Unspecified
+A12	LegalStatus T17 Unspecified
+A13	Role T17 Other
+T18	Place 345 353	oosthoek
+T19	ProperName 345 353	oosthoek
+T20	ProperName 599 607	Wittekop
+T21	Person 599 607	Wittekop
+A14	Gender T21 Unspecified
+A15	LegalStatus T21 Unspecified
+A16	Role T21 Other
+T22	ProperName 508 516	Wittekop
+T23	Person 508 516	Wittekop
+A17	Gender T23 Unspecified
+A18	LegalStatus T23 Unspecified
+A19	Role T23 Other
+T24	ProperName 862 882	C„ C„s Eckardt Curtd
+T25	ProperName 976 986	Jd„ Mulier
+T26	Person 976 986	Jd„ Mulier
+A20	Gender T26 Unspecified
+A21	LegalStatus T26 Unspecified
+A22	Role T26 Other
+T27	Person 862 882	C„ C„s Eckardt Curtd
+A23	Gender T27 Unspecified
+A24	LegalStatus T27 Unspecified
+A25	Role T27 Other

@@ -1,0 +1,39 @@
+T2	ProperName 68 81	L: A: Halfman
+T3	Person 68 81	L: A: Halfman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	Organization 112 128	Oost Jnd„s Comp:
+A4	Beneficiary T4 No
+T5	ProperName 112 128	Oost Jnd„s Comp:
+T6	Place 129 142	Schip De Bott
+T7	ProperName 135 142	De Bott
+T8	ProperName 178 186;187 196	Jacjobus Siblairas
+T9	Person 178 186;187 196	Jacjobus Siblairas
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Testator
+T10	Person 0 17	Jacobus Syblavras
+A8	Gender T10 Unspecified
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Testator
+T11	ProperName 0 17	Jacobus Syblavras
+T12	Organization 826 862;863 867	geoctroijeerde eoft Jndische Compag„ „nie
+A11	Beneficiary T12 No
+T13	ProperName 826 862;863 867	geoctroijeerde eoft Jndische Compag„ „nie
+T14	Place 872 885	Camer Zeeland
+T15	ProperName 878 885	Zeeland
+T16	ProperName 1849 1861	Jan Schouten
+T17	Person 1849 1861	Jan Schouten
+A12	Gender T17 Unspecified
+A13	LegalStatus T17 Unspecified
+A14	Role T17 Other
+T18	Person 2300 2315	Agnita Schouten
+A15	Gender T18 Unspecified
+A16	LegalStatus T18 Unspecified
+A17	Role T18 Other
+T19	ProperName 2300 2315	Agnita Schouten
+T20	Person 2358 2364	slaven
+A18	Gender T20 Group
+A19	LegalStatus T20 Enslaved
+A20	Role T20 Other

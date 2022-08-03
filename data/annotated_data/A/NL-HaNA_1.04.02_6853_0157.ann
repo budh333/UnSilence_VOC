@@ -1,0 +1,32 @@
+T1	Person 118 153	Abraham van Dinter Notaris publijcq
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 118 136	Abraham van Dinter
+T4	Place 178 185	Holland
+T5	ProperName 178 185	Holland
+T7	ProperName 222 227	Bed„s
+T8	Place 222 227	Bed„s
+T9	Person 228 253	Johan Christoffel Swendel
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 228 253	Johan Christoffel Swendel
+T11	Person 450 468;469 481	Johan van Vistlid, notaris publ
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T12	ProperName 450 467	Johan van Vistlid
+T14	ProperName 507 514	holland
+T18	Place 507 514	holland
+T16	Place 546 560;561 565	nedenlands Jn„ „dia
+T17	ProperName 546 560;561 565	nedenlands Jn„ „dia
+T20	ProperName 595 602	batavia
+T21	Person 643 647;648 686;687 701	get: Johan Christoffel Swendel van kindels„ „beeg, zoldaat
+A10	Gender T21 Man
+A11	LegalStatus T21 Unspecified
+A12	Role T21 Testator
+T22	ProperName 648 686;687 692	Johan Christoffel Swendel van kindels„ „beeg
+T24	ProperName 719 724	EComp
+T25	Place 778 795	s comp:s hospitaa
+T26	Place 580 602	binnen de stad batavia

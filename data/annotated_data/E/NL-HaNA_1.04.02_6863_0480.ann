@@ -1,0 +1,33 @@
+T1	Person 131 139	A: Moens
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 134 139	Moens
+T3	ProperName 171 190	Cornelis de Cretser
+T4	Person 171 190	Cornelis de Cretser
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	Person 194 203	A: Pitius
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 197 203	Pitius
+T7	ProperName 377 382	Bosch
+T8	Person 377 382	Bosch
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 399 405	Cramer
+T10	Person 399 405	Cramer
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 562 568	Caombo
+T12	Place 562 568	Caombo
+T13	ProperName 616 628	aniel de Bok
+T15	Person 596 604	A: Moens
+A18	Gender T15 Unspecified
+A19	LegalStatus T15 Unspecified
+A20	Role T15 Other
+T16	ProperName 599 604	Moens

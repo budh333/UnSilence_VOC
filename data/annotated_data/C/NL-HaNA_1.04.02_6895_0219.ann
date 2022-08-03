@@ -1,0 +1,104 @@
+T3	Organization 15 23	DE: Comp
+T5	ProperName 123 144	M: Pieter Iacob Bert.
+T6	Organization 160 206	V’ Edele hooge regelringe van nederlands India
+T7	Place 190 206	nederlands India
+T8	Place 220 227;228 243	buijten de stad Batavia
+T9	ProperName 236 243	Batavia
+T10	Person 294 315	D' E: Lodewijk Einst;
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator
+T11	ProperName 300 314	Lodewijk Einst
+T12	Place 353 355;356 390	op de verburgsgragt buijten dese stad
+T14	ProperName 798 815	Christina Abigael
+T15	Person 1068 1080	Twee slaeven
+A10	Gender T15 Group
+A11	LegalStatus T15 Enslaved
+A12	Role T15 Other
+T16	Person 1092 1109	Julij van bengale
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Enslaved
+A15	Role T16 Other
+T17	ProperName 1092 1109	Julij van bengale
+T18	Place 1102 1109	bengale
+T19	Person 1114 1130	Alima van boegis
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Enslaved
+A18	Role T19 Other
+T20	ProperName 1114 1130	Alima van boegis
+T21	Place 1124 1130	boegis
+T23	ProperName 1220 1241	Minerva van Gorontalo
+T24	Place 1232 1241	Gorontalo
+T25	Person 1531 1764	Zijn Excellentie
+A22	Gender T25 Man
+A23	LegalStatus T25 Unspecified
+A24	Role T25 Other
+T26	ProperName 1582 1594	Iacob Mossel
+T28	Place 1694 1720	der vereenigde nederlanden
+T29	Place 1748 1764	nederlands India
+T31	Person 1855 1870	Cupido van Nias
+A28	Gender T31 Unspecified
+A29	LegalStatus T31 Enslaved
+A30	Role T31 Other
+T32	ProperName 1855 1870	Cupido van Nias
+T33	Place 1866 1870	Nias
+T34	Person 1937 1950	Lijffeijgenen
+A31	Gender T34 Group
+A32	LegalStatus T34 Enslaved
+A33	Role T34 Other
+T35	Person 1956 1968;1969 1994	de slavinnen Diana te Kleine van Timor
+A34	Gender T35 Woman
+A35	LegalStatus T35 Enslaved
+A36	Role T35 Other
+T36	ProperName 1969 1984	Diana te Kleine
+T37	Place 1989 1994	Timor
+T38	Person 1996 2002	Estria
+A37	Gender T38 Woman
+A38	LegalStatus T38 Enslaved
+A39	Role T38 Other
+T39	ProperName 1996 2002	Estria
+T40	Person 2006 2024	Kananga van boegis
+A40	Gender T40 Woman
+A41	LegalStatus T40 Enslaved
+A42	Role T40 Other
+T41	ProperName 2006 2024	Kananga van boegis
+T42	Place 2018 2024	boegis
+T44	Place 2052 2059	Kananga
+T45	ProperName 2052 2059	Kananga
+T46	ProperName 2068 2073	Maart
+T47	Person 2086 2094	Carolina
+A46	Gender T47 Unspecified
+A47	LegalStatus T47 Enslaved
+A48	Role T47 Other
+T48	ProperName 2086 2094	Carolina
+T49	Organization 2324 2336	der E. Comp:
+T50	Person 798 815	Christina Abigael
+A49	Gender T50 Woman
+A50	LegalStatus T50 Unspecified
+A51	Role T50 Beneficiary
+T4	Person 123 155	M: Pieter Iacob Bert. Nots pubb:
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T13	ProperName 190 206	nederlands India
+T22	Person 1220 1263	Minerva van Gorontalo, vrije Christen vrouw
+A7	Gender T22 Woman
+A8	LegalStatus T22 Freed
+A9	Role T22 Beneficiary
+T27	Person 1576 1594	heere Iacob Mossel
+A19	Gender T27 Man
+A20	LegalStatus T27 Unspecified
+A21	Role T27 Other
+T51	ProperName 1694 1720	der vereenigde nederlanden
+T52	ProperName 1748 1764	nederlands India
+T53	Person 1831 1843	speeljongens
+A25	Gender T53 Group
+A26	LegalStatus T53 Enslaved
+A27	Role T53 Other
+T43	Person 2068 2073	Maart
+A43	Gender T43 Man
+A44	LegalStatus T43 Enslaved
+A45	Role T43 Other
+A52	Beneficiary T3 No
+A53	Beneficiary T6 No
+A54	Beneficiary T49 No

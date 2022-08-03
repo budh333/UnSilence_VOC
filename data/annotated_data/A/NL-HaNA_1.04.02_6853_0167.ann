@@ -1,0 +1,10 @@
+T3	ProperName 1055 1064	dE: Comp:
+T6	Place 1214 1233	ter kamer Amsterdam
+T7	ProperName 1224 1233	Amsterdam
+T8	Person 1590 1593	Jan
+A1	Gender T8 Man
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Beneficiary
+T9	ProperName 1590 1593	Jan
+T10	Place 386 400	andere steeden
+T12	ProperName 1172 1206;1207 1233	er g'octrogeerde oostjndische Com„ pagnie ter kamer Amsterdam

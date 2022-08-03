@@ -1,0 +1,32 @@
+T3	Person 3 14	geentruijda
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 3 14	geentruijda
+T5	Person 59 81	volsiert gerrit fokkes
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 59 81	volsiert gerrit fokkes
+T7	Organization 820 838	de dieakonij armen
+A7	Beneficiary T7 Yes
+T8	Person 1035 1057	weduwe Maria Gerritsz:
+A8	Gender T8 Woman
+A9	LegalStatus T8 Unspecified
+A10	Role T8 Beneficiary
+T9	ProperName 1042 1057	Maria Gerritsz:
+T10	Person 1205 1225	Rijnier hendrik pijk
+A11	Gender T10 Man
+A12	LegalStatus T10 Unspecified
+A13	Role T10 Beneficiary
+T11	ProperName 1205 1225	Rijnier hendrik pijk
+T12	Person 1229 1262	Juffrauw Catharina van der hoeven
+A14	Gender T12 Woman
+A15	LegalStatus T12 Unspecified
+A16	Role T12 Beneficiary
+T13	ProperName 1238 1262	Catharina van der hoeven
+T14	Person 1518 1543	Loan Johan hendrik Barner
+A17	Gender T14 Man
+A18	LegalStatus T14 Unspecified
+A19	Role T14 Beneficiary
+T15	ProperName 1523 1544	Johan hendrik Barner,

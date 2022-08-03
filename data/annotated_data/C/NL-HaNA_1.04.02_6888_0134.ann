@@ -1,0 +1,23 @@
+T3	Person 215 228	broeder Elias
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 223 228	Elias
+T5	Person 232 253;254 261	suster Geete Jacobsz: Fordijn
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 239 253;254 261	Geete Jacobsz: Fordijn
+T7	Organization 771 783	der E Comp=e
+T8	Person 743 761;762 805	den botteliersmaet indienst der E Comp=e Andries van der gunst
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T9	ProperName 784 805	Andries van der gunst
+T10	Organization 1563 1571	dEComp=e
+T11	Organization 1626 1639;1640 1680;1681 1690	de Edele hoog agtb= heerebewint hebberen ter kamer Er„ schuijsen
+T12	Place 1677 1680;1681 1690	Er„ schuijsen
+T13	ProperName 1677 1680;1681 1690	Er„ schuijsen
+A10	Beneficiary T7 No
+A11	Beneficiary T10 No
+A12	Beneficiary T11 No

@@ -1,0 +1,27 @@
+T2	ProperName 48 72	Johannes Matteus Hartrag
+T3	Person 48 72	Johannes Matteus Hartrag
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 94 112	Samuel Fered Botha
+T5	Person 94 112	Samuel Fered Botha
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 144 157	I C: vd Spuij
+T7	Person 144 157	I C: vd Spuij
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 201 209	L. Mamek
+T9	ProperName 210 219	P L Lesun
+T10	Person 201 209	L. Mamek
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	Person 210 219	P L Lesun
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	Place 1007 1025	ter Caamen Zeeland
+T13	ProperName 1018 1025	Zeeland

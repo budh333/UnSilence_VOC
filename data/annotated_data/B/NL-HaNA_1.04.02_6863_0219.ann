@@ -1,0 +1,17 @@
+T1	Place 47 53;61 69	Holdij Comptoir
+T2	Person 118 128	Kretschman
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Place 308 331	schip ’t huijs de boede
+T4	ProperName 315 331	t huijs de boede
+T5	Person 335 353	Jan Daniel de Iong
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	Person 365 383	Jan Daniel de Jong
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator
+T7	ProperName 365 383	Jan Daniel de Jong
+T8	ProperName 335 353	Jan Daniel de Iong

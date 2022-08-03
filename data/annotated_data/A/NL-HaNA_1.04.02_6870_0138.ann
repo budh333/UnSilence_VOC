@@ -1,0 +1,40 @@
+T1	Place 323 335	op maccasser
+T2	ProperName 326 335	maccasser
+T4	ProperName 353 362	de Comp„e
+T5	Place 370 401	buijten desen Casteel Rotterdam
+T6	ProperName 392 401	Rotterdam
+T9	Person 457 472;473 501	Hendrika antoni Cornelis, geboren krookwitsz
+A4	Gender T9 Woman
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 457 472;473 501	Hendrika antoni Cornelis, geboren krookwitsz
+T11	Person 440 452	Hij Cornelis
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 440 452	Hij Cornelis
+T7	Person 535 558	G„ Bremer, gesw: Clercq
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Acting_Notary
+T8	ProperName 535 544	G„ Bremer
+T13	Person 595 611	H„ B„s Hodenpijl
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 595 611	H„ B„s Hodenpijl
+T15	Person 615 630	I„s A„s Pielant
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 615 630	I„s A„s Pielant
+T17	Person 660 684	G„t Bremer, gesw: Clercq
+A16	Gender T17 Man
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Acting_Notary
+T18	ProperName 660 670	G„t Bremer
+T19	Person 696 710	A„s Ravensberg
+A19	Gender T19 Unspecified
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Other
+T20	ProperName 696 710	A„s Ravensberg

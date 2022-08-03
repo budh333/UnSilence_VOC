@@ -1,0 +1,37 @@
+T3	Person 93 106	P: G: Lavigne
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator_Beneficiary
+T4	ProperName 93 106	P: G: Lavigne
+T5	Person 283 293	J=s De vos
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 283 293	J=s De vos
+T7	Place 341 363	in het Casteel Colombo
+T8	ProperName 356 363	Colombo
+T9	Person 415 441	Joan Pieter Simon Cadenski
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 415 441	Joan Pieter Simon Cadenski
+T11	Person 445 458	Gerrit Pieres
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 445 458	Gerrit Pieres
+T13	Person 638 655	J: R: Kriekenbeek
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Acting_Notary
+T14	ProperName 638 655	J: R: Kriekenbeek
+T15	Person 668 678	W„m Visser
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 668 678	W„m Visser
+T17	Person 688 698	J: Schanf:
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 688 698	J: Schanf:

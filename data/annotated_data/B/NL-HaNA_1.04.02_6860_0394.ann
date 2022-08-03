@@ -1,0 +1,39 @@
+T1	Person 7 35	wouter Hendrik van Gjseldijk
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 7 35	wouter Hendrik van Gjseldijk
+T3	Organization 271 291;292 315	herwaarde Collagie v „meesteren deses steede
+A4	Beneficiary T3 Yes
+T4	Place 303 315	deses steede
+T5	Person 821 827	9: kod
+A5	Gender T5 Unspecified
+A6	LegalStatus T5 Unspecified
+A7	Role T5 Acting_Notary
+T6	Person 878 892	Willem Kerkman
+A8	Gender T6 Unspecified
+A9	LegalStatus T6 Unspecified
+A10	Role T6 Other
+T7	ProperName 878 892	Willem Kerkman
+T8	Person 915 930	AHran Gsselbijk
+A11	Gender T8 Unspecified
+A12	LegalStatus T8 Unspecified
+A13	Role T8 Other
+T10	Place 1020 1028	Samarang
+T11	ProperName 1020 1028	Samarang
+T12	Person 1130 1144	Barend Breemer
+A14	Gender T12 Man
+A15	LegalStatus T12 Unspecified
+A16	Role T12 Testator
+T13	Person 1237 1252	gerhardus Raghe
+A17	Gender T13 Unspecified
+A18	LegalStatus T13 Unspecified
+A19	Role T13 Acting_Notary
+T15	Person 1572 1586	willem Kerkman
+A20	Gender T15 Unspecified
+A21	LegalStatus T15 Unspecified
+A22	Role T15 Other
+T16	Person 1608 1617	JWanGelin
+A23	Gender T16 Unspecified
+A24	LegalStatus T16 Unspecified
+A25	Role T16 Other

@@ -1,0 +1,17 @@
+T3	Person 2 12	Jan george
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 2 12	Jan george
+T5	Person 577 596	Christoffel Claasz:
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 577 596	Christoffel Claasz:
+T7	Place 732 739	batavia
+T8	ProperName 732 739	batavia
+T9	Person 836 852	Cornelis Heringa
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 836 852	Cornelis Heringa

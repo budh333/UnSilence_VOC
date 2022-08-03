@@ -1,0 +1,11 @@
+T1	Person 48 66	Elbert Lucas Stein
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 48 66	Elbert Lucas Stein
+T3	ProperName 118 133	Chrisiaan Behne
+T4	Person 118 133	Chrisiaan Behne
+A3	Gender T4 Man
+A4	LegalStatus T4 Unspecified
+T5	Place 88 101;102 117	’t schip Heer lands Welvaaren
+A5	Role T1 Other
+A6	Role T4 Other

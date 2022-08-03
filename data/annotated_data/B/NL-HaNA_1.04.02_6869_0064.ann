@@ -1,0 +1,25 @@
+T1	Person 99 120	A: Spautert B: Clercq
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T3	Place 269 283	te DrokJokarta
+T4	ProperName 272 283	DrokJokarta
+T5	Person 297 315;316 324	Dragonder 400 lieb Hendeler
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 307 315;316 324	400 lieb Hendeler
+T7	Person 372 388	Hendrik Epanjert
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 372 388	Hendrik Epanjert
+T10	Place 492 503	ofte slands
+T11	Person 738 746	C: Spaan
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	Person 779 786	A Meurs
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other

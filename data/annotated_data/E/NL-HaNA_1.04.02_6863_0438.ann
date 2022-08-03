@@ -1,0 +1,30 @@
+T1	ProperName 189 202	Johanna, Marg
+T2	Person 189 202	Johanna, Marg
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Beneficiary
+T3	ProperName 204 218	Martha Johanna
+T4	Person 204 218	Martha Johanna
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Beneficiary
+T5	ProperName 222 232;233 238	Petronella „daud
+T6	Person 222 232;233 238	Petronella „daud
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 516 521;522 530	Antio Bogaardt
+T8	Person 516 521;522 530	Antio Bogaardt
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 565 583	Paulus van Grieken
+T10	Person 565 583	Paulus van Grieken
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 587 590;591 622	Bal hazar Constantijn Diederik Bouw
+T12	Person 587 590;591 622	Bal hazar Constantijn Diederik Bouw
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other

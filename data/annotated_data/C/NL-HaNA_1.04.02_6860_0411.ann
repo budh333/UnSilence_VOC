@@ -1,0 +1,17 @@
+T3	Person 16 28	Jan de Vries
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 16 28	Jan de Vries
+T5	Person 34 54	Jan van Nieuwenhuyse
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 34 54	Jan van Nieuwenhuyse
+T7	Place 186 194	Samarang
+T8	ProperName 186 194	Samarang
+T9	Person 223 244	Jan van Nieuwenduysen
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 223 244	Jan van Nieuwenduysen

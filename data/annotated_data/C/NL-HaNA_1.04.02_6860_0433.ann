@@ -1,0 +1,45 @@
+T3	Organization 65 74	D Ecomp„e
+A1	Beneficiary T3 No
+T4	Organization 171 200;201 249;250 299;300 309	den welEdelen Groot agtbaaren Heeren Bewindhebberen der generaale Neederlandse g'Octrooyjeerde Oostindiesche Compagnie ter kamer Amsterdam
+A2	Beneficiary T4 No
+T5	Place 300 309	Amsterdam
+T6	ProperName 300 309	Amsterdam
+T7	Place 378 395;396 406	het schip de drie Papegaijen
+T8	ProperName 388 395;396 406	de drie Papegaijen
+T9	Place 1110 1113;1114 1147	ten Neederlandsche Comptoir Sourabaya
+T10	ProperName 1138 1147	Sourabaya
+T11	Person 1184 1196	Jan de Vries
+A3	Gender T11 Man
+A4	LegalStatus T11 Unspecified
+A5	Role T11 Testator
+T12	ProperName 1184 1196	Jan de Vries
+T13	Person 1247 1260;1261 1274	Andries Hart= =sinck Junior
+A6	Gender T13 Man
+A7	LegalStatus T13 Unspecified
+A8	Role T13 Acting_Notary
+T14	ProperName 1247 1260;1261 1274	Andries Hart= =sinck Junior
+T15	Person 1329 1350	Gijsbert van Rijsboot
+A9	Gender T15 Unspecified
+A10	LegalStatus T15 Unspecified
+A11	Role T15 Witness
+T16	ProperName 1329 1350	Gijsbert van Rijsboot
+T17	Person 1406 1413	Claasen
+A12	Gender T17 Unspecified
+A13	LegalStatus T17 Unspecified
+A14	Role T17 Other
+T18	ProperName 1406 1413	Claasen
+T19	Person 1458 1466	Rijsoort
+A15	Gender T19 Unspecified
+A16	LegalStatus T19 Unspecified
+A17	Role T19 Other
+T20	ProperName 1458 1466	Rijsoort
+T21	Person 1479 1489	Wendelstig
+A18	Gender T21 Unspecified
+A19	LegalStatus T21 Unspecified
+A20	Role T21 Other
+T22	ProperName 1479 1489	Wendelstig
+T23	Person 1529 1536	Claasen
+A21	Gender T23 Unspecified
+A22	LegalStatus T23 Unspecified
+A23	Role T23 Other
+T24	ProperName 1529 1536	Claasen

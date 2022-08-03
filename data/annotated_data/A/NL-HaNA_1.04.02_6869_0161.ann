@@ -1,0 +1,97 @@
+T3	Place 4 15	in Michaust
+T4	ProperName 7 15	Michaust
+T6	ProperName 135 144	Colambose
+T7	Place 135 144	Colambose
+T8	Person 407 417	K Martinus
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Beneficiary
+T9	ProperName 407 417	K Martinus
+T10	Person 567 582	Johannes Philip
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	ProperName 567 582	Johannes Philip
+T12	Place 644 663	ten dezen Comptoire
+T14	Person 746 761	Guiliamn Pieter
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Beneficiary
+T15	ProperName 746 761	Guiliamn Pieter
+T16	Person 763 778	Goefried Gerard
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Beneficiary
+T17	ProperName 763 778	Goefried Gerard
+T18	Person 780 785;804 810	Johan Geaard
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Beneficiary
+T19	ProperName 780 785;804 810	Johan Geaard
+T20	Person 812 829	Gerardus Cornelis
+A16	Gender T20 Unspecified
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Beneficiary
+T21	Person 833 844	anna helena
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Beneficiary
+T22	ProperName 812 829	Gerardus Cornelis
+T23	ProperName 833 844	anna helena
+T24	Person 1876 1898	moeder Jhanna fybrants
+A22	Gender T24 Woman
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other
+T25	ProperName 1883 1898	Jhanna fybrants
+T26	Person 1908 1917;1918 1925	huysvrouw Dominga
+A25	Gender T26 Woman
+A26	LegalStatus T26 Unspecified
+A27	Role T26 Witness
+T27	ProperName 1918 1925	Dominga
+T28	Person 1937 1965	boekhouder Johannes blondeel
+A28	Gender T28 Unspecified
+A29	LegalStatus T28 Unspecified
+A30	Role T28 Acting_Notary
+T29	ProperName 1948 1965	Johannes blondeel
+T31	ProperName 2369 2383	hendrik Cramer
+T30	Person 2364 2391;2417 2424	dE.s hendrik Cramer, onder„ koopman
+A31	Gender T30 Man
+A32	LegalStatus T30 Unspecified
+A33	Role T30 Beneficiary
+T32	Person 2428 2472	pakhuijsmeester Jan hendrik Smith boekhouder
+A34	Gender T32 Man
+A35	LegalStatus T32 Unspecified
+A36	Role T32 Beneficiary
+T33	ProperName 2444 2461	Jan hendrik Smith
+T34	Person 2521 2551;2552 2565	Gerrit Joan fybrants boekhoude en Gesw klerk
+A37	Gender T34 Man
+A38	LegalStatus T34 Unspecified
+A39	Role T34 Other
+T35	ProperName 2521 2541	Gerrit Joan fybrants
+T37	Place 2597 2606	Cekolombo
+T38	ProperName 2597 2606	Cekolombo
+T39	ProperName 2610 2616	Rehiem
+T40	Place 2610 2616	Rehiem
+T41	Person 2617 2641	willem ledule boekhouder
+A40	Gender T41 Man
+A41	LegalStatus T41 Unspecified
+A42	Role T41 Notary
+T42	ProperName 2617 2630	willem ledule
+T43	Place 2642 2679	ter secretarije van politie tekolombo
+T44	ProperName 2672 2679	kolombo
+T45	Person 2899 2917	Mejuffrouw Johanna
+A43	Gender T45 Woman
+A44	LegalStatus T45 Unspecified
+A45	Role T45 Other
+T46	ProperName 2910 2917	Johanna
+T47	Person 3366 3388	Ian Zimmer baeskuijper
+A46	Gender T47 Man
+A47	LegalStatus T47 Unspecified
+A48	Role T47 Other
+T48	ProperName 3366 3376	Ian Zimmer
+T49	Person 3392 3422	Lacharias Bergh oppertimmerman
+A49	Gender T49 Man
+A50	LegalStatus T49 Unspecified
+A51	Role T49 Other
+T50	ProperName 3392 3407	Lacharias Bergh
+T51	Place 3423 3442	ten dezen Comptoire

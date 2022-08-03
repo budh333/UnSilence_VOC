@@ -1,0 +1,63 @@
+T2	Person 136 151	I=r W=m harmsen
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 136 151	I=r W=m harmsen
+T4	ProperName 155 170	A. F=a Schokman
+T5	Person 155 170	A. F=a Schokman
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	Person 266 277	A=m Samlant
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Acting_Notary
+T7	ProperName 266 277	A=m Samlant
+T8	Place 325 346	In ’t Casteel Colombo
+T9	ProperName 331 346	Casteel Colombo
+T10	ProperName 396 410	Ioannes de vos
+T11	Person 396 410	Ioannes de vos
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 414 428	Salomon Ionker
+T13	Person 414 428	Salomon Ionker
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Witness
+T14	Person 576 606	A= Samland Eerste Gesw: Churcq
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Acting_Notary
+T15	ProperName 576 586	A= Samland
+T16	Person 619 628	W„m Visse
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 619 628	W„m Visse
+T18	Person 644 654	Ag Stannar
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	ProperName 644 654	Ag Stannar
+T20	Organization 738 743	Comp:
+T21	ProperName 738 743	Comp:
+T22	Person 768 783;784 803	geweesene slaaf Jan Francieo Havier
+A25	Gender T22 Man
+A26	LegalStatus T22 Freed
+A27	Role T22 Beneficiary
+T23	ProperName 784 803	Jan Francieo Havier
+T24	Person 807 825;826 836	geweesenen savinne Anna Maria
+A28	Gender T24 Woman
+A29	LegalStatus T24 Freed
+A30	Role T24 Beneficiary
+T25	ProperName 826 836	Anna Maria
+T26	ProperName 840 846	Ioanne
+T28	Place 917 931	steene Huijsie
+T29	Place 954 957;958 973	ba„ zaar Merziapaer
+T30	ProperName 954 957;958 973	ba„ zaar Merziapaer
+T27	Person 840 846	Ioanne
+A31	Gender T27 Woman
+A32	LegalStatus T27 Enslaved
+A33	Role T27 Beneficiary
+A34	Beneficiary T20 No

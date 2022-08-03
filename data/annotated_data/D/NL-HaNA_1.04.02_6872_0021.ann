@@ -1,0 +1,15 @@
+T1	Place 891 912	middelburg in Zeeland
+T2	ProperName 905 912	Zeeland
+T3	ProperName 891 901	middelburg
+T4	Place 891 901	middelburg
+T5	Place 905 912	Zeeland
+T6	Place 865 876	Pertogenoos
+T7	ProperName 865 876	Pertogenoos
+T8	ProperName 839 847;848 864	Johannes Van den Boom van
+T9	Person 839 847;848 860	Johannes Van den Boom
+A1	Gender T9 Unspecified
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Beneficiary
+T10	Organization 1049 1055	dEComp
+T11	ProperName 1049 1055	dEComp
+A4	Beneficiary T10 No

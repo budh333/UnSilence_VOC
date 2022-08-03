@@ -1,0 +1,29 @@
+T1	Person 68 81;82 105	den Bottelier Hendrik van Eijndhooren
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 82 105	Hendrik van Eijndhooren
+T4	ProperName 335 353	Reinier Iongemaats
+T5	Place 401 409	Cheribon
+T6	ProperName 401 409	Cheribon
+T8	ProperName 481 496	Matthijs Elling
+T11	Organization 1479 1489	Ed: Comp:e
+T14	Person 26 49	Henderik van Eyndhooven
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator
+T15	ProperName 26 49	Henderik van Eyndhooven
+A3	Role T1 Testator
+T3	Person 335 358;359 362;363 385	Reinier Iongemaatsboek„ vat houder en Gesw: Scriba
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T7	Person 474 496	d’heer Matthijs Elling
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T9	Person 1291 1299;1300 1319	Cathari„ na Elisabeth Elling
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 1291 1299;1300 1319	Cathari„ na Elisabeth Elling
+A16	Beneficiary T11 No

@@ -1,0 +1,70 @@
+T4	ProperName 470 476	Bagbot
+T5	Person 470 476	Bagbot
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	Person 485 493	Julander
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T8	Person 581 596	Assistent Regel
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 591 596	Regel
+T10	Person 881 891	boose Vonk
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 887 891	Vonk
+T12	ProperName 952 962	Laloepaijh
+T13	Person 944 962	Seladen Laloepaijh
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T15	Person 1151 1176	schaijver Pieter Baarends
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 1161 1176	Pieter Baarends
+T17	ProperName 1275 1282	Attaram
+T18	Person 1275 1282	Attaram
+A19	Gender T18 Unspecified
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Other
+T20	Person 1291 1299	Inlander
+A22	Gender T20 Unspecified
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Other
+T21	Person 1463 1471	Jnlander
+A25	Gender T21 Unspecified
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
+T22	ProperName 1439 1452	Bobanie paijk
+T23	Person 1439 1452	Bobanie paijk
+A28	Gender T23 Man
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Other
+T24	ProperName 1650 1660	Bragevoort
+T25	Person 1678 1686	Lourensz
+A31	Gender T25 Unspecified
+A32	LegalStatus T25 Unspecified
+A33	Role T25 Other
+T26	ProperName 1678 1686	Lourensz
+T27	ProperName 1730 1738	Cornelis
+T28	Person 1730 1738	Cornelis
+A34	Gender T28 Man
+A35	LegalStatus T28 Unspecified
+A36	Role T28 Other
+T29	ProperName 1742 1758	Lourens Lourensz
+T30	Person 1742 1758	Lourens Lourensz
+A37	Gender T30 Unspecified
+A38	LegalStatus T30 Unspecified
+A39	Role T30 Other
+T31	ProperName 8 15	ourensz
+T33	Person 314 329	Corporaal Looth
+A40	Gender T33 Man
+A41	LegalStatus T33 Unspecified
+A42	Role T33 Testator
+T34	ProperName 324 329	Looth
+T7	ProperName 1668 1677	Christina

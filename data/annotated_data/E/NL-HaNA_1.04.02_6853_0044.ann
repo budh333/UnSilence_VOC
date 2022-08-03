@@ -1,0 +1,14 @@
+T2	ProperName 283 295	Jacob Muller
+T3	Person 283 295	Jacob Muller
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T6	ProperName 601 624	ooste Indische Compagni
+T7	ProperName 635 644	Amsterdam
+T8	Place 635 644	Amsterdam
+T10	Place 1240 1249	hospitaal
+T11	ProperName 1281 1289	Jan Ssaa
+T12	Person 1281 1289	Jan Ssaa
+A4	Gender T12 Unspecified
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Other

@@ -1,0 +1,45 @@
+T1	Person 0 15	Johannes Keuler
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 0 15	Johannes Keuler
+T3	Person 70 92;93 142	JaCob Levier nete publ bij d’ Edele hooge regeringe van nederlands india
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 70 82	JaCob Levier
+T6	Place 126 142	nederlands india
+T7	ProperName 126 142	nederlands india
+T8	Place 156 169;170 177	binnen destad batavia
+T9	ProperName 170 177	batavia
+T10	Person 221 236;237 268	Iohannes keuler Corparaal ten dulnst der EComg:
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 221 236	Iohannes keuler
+T13	Person 789 814	mases trobias wors bragen
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Beneficiary
+T14	ProperName 789 814	mases trobias wors bragen
+T16	ProperName 818 831	Johannes koek
+T17	Organization 854 863	der Eomg:
+T18	Person 1336 1348	thobias wous
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Beneficiary
+T19	ProperName 1336 1348	thobias wous
+T20	Person 1352 1362	Johen kolk
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Beneficiary
+T21	ProperName 1352 1362	Johen kolk
+T22	Organization 1390 1437;1438 1457	d’ wel Edele groot agtb: heeren bewint hebberen ten komen amsterdae
+T23	Place 1448 1457	amsterdae
+T24	ProperName 1448 1457	amsterdae
+T15	Person 818 831	Johannes koek
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Beneficiary
+A22	Beneficiary T17 No
+A23	Beneficiary T22 No

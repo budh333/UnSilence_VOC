@@ -1,0 +1,32 @@
+T1	Organization 284 326	Eerwaerde Collegi van heeren Weesmeesteren
+T2	ProperName 294 326	Collegi van heeren Weesmeesteren
+A1	Beneficiary T1 Yes
+T3	Person 537 554	P: Van Ossenbrung
+A2	Gender T3 Unspecified
+A3	LegalStatus T3 Unspecified
+A4	Role T3 Other
+T4	ProperName 540 554	Van Ossenbrung
+T5	Person 570 584	Abr: Van Hrmer
+A5	Gender T5 Unspecified
+A6	LegalStatus T5 Unspecified
+A7	Role T5 Other
+T6	ProperName 575 584	Van Hrmer
+T7	ProperName 707 715	Samarang
+T8	Place 707 715	Samarang
+T9	ProperName 779 786	Rembang
+T10	ProperName 817 823;824 840	Pieter van Ossenbruggen
+T11	ProperName 879 898	Wijllem Adrian Palm
+T12	Place 779 786	Rembang
+T13	Person 817 823;824 840	Pieter van Ossenbruggen
+A8	Gender T13 Man
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Testator
+T14	Person 879 898	Wijllem Adrian Palm
+A11	Gender T14 Man
+A12	LegalStatus T14 Unspecified
+A13	Role T14 Witness
+T16	Person 1224 1238	Abr: Van Hlmen
+A14	Gender T16 Unspecified
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Other
+T17	ProperName 1229 1238	Van Hlmen

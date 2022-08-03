@@ -1,0 +1,26 @@
+T1	Person 5 37	Boekhouder Johan Willem van Halt
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 16 37	Johan Willem van Halt
+T3	ProperName 272 283	M„s Spiegel
+T4	Person 272 283	M„s Spiegel
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 463 465;466 484	de Nederlandse Comp:e
+T6	Organization 463 465;466 484	de Nederlandse Comp:e
+T7	Organization 637 642	EComp
+T8	ProperName 637 642	EComp
+T9	Person 582 596	J: C: Meijning
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	Person 608 623	B: C: D: Bouman
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 582 596	J: C: Meijning
+T12	ProperName 608 623	B: C: D: Bouman
+A13	Beneficiary T6 No
+A14	Beneficiary T7 No

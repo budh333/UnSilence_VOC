@@ -1,0 +1,70 @@
+T1	Person 55 73	Theodorus Bloemers
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 55 73	Theodorus Bloemers
+T4	Place 119 138	ten dezen Comptoire
+T5	Place 250 267;268 317;318 337	ten huize van den alhier bescheiden Oppermeester en Bospitalier Ian Michiel Kraisbergen
+T6	Person 286 317;318 337	Oppermeester en Bospitalier Ian Michiel Kraisbergen
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 314 317;318 337	Ian Michiel Kraisbergen
+T8	Place 383 398	op een Rustbank
+T10	Place 888 898	ter steede
+T11	Place 903 911	Samarang
+T12	ProperName 903 911	Samarang
+T13	Person 1011 1041	Iavaanse Vrouw genaamt zaastje
+A7	Gender T13 Woman
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Beneficiary
+T14	Person 1351 1366	Maria Baumgarde
+A10	Gender T14 Woman
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Beneficiary
+T15	ProperName 1351 1366	Maria Baumgarde
+T16	Place 1376 1401	in de stad Osen in Bonga„
+T17	ProperName 1387 1401	Osen in Bonga„
+T18	Place 1411 1417	„rijen
+T19	ProperName 1411 1417	„rijen
+T20	Person 1520 1529	Elisabeth
+A13	Gender T20 Woman
+A14	LegalStatus T20 Unspecified
+A15	Role T20 Beneficiary
+T21	Person 1533 1549	Maria Hoasbergen
+A16	Gender T21 Woman
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Beneficiary
+T22	ProperName 1533 1549	Maria Hoasbergen
+T23	Person 1677 1694	Thessia Straserin
+A19	Gender T23 Woman
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Beneficiary
+T24	ProperName 1677 1694	Thessia Straserin
+T25	Place 1717 1727	in de stad
+T26	Person 2029 2036	Thensia
+A22	Gender T26 Woman
+A23	LegalStatus T26 Unspecified
+A24	Role T26 Beneficiary
+T27	Person 2040 2043	Eva
+A25	Gender T27 Woman
+A26	LegalStatus T27 Unspecified
+A27	Role T27 Beneficiary
+T28	ProperName 2040 2043	Eva
+T29	Person 2054 2059	Meynn
+A28	Gender T29 Woman
+A29	LegalStatus T29 Unspecified
+A30	Role T29 Beneficiary
+T30	ProperName 2054 2059	Meynn
+T31	Person 2216 2233	Iacob Blankenveld
+A31	Gender T31 Unspecified
+A32	LegalStatus T31 Unspecified
+A33	Role T31 Other
+T32	Person 487 495	Gustaaff
+A34	Gender T32 Unspecified
+A35	LegalStatus T32 Unspecified
+A36	Role T32 Other
+T33	Person 1814 1824	Cristoffel
+A37	Gender T33 Unspecified
+A38	LegalStatus T33 Unspecified
+A39	Role T33 Other

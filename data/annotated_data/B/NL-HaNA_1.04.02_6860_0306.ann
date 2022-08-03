@@ -1,0 +1,29 @@
+T2	Place 59 62	san
+T3	Place 132 142	Sourabaija
+T4	ProperName 132 142	Sourabaija
+T5	Person 166 172;173 178	Fredri „mond
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator_Beneficiary
+T6	Person 200 213;214 230	RudolphE, lon van der Niepoort
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Acting_Notary
+T8	Person 609 610;610 620;621 624	C ornelis so Jun
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	Place 665 684	wees kamer Samarang
+T10	ProperName 676 684	Samarang
+T11	Person 717 727	A: Barkeij
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	Person 771 784	I. A:s Dreier
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	Person 829 841	J: A: Dreier
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other

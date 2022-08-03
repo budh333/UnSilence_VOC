@@ -1,0 +1,42 @@
+T2	Person 100 116	adsis=t Boogaard
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 108 116	Boogaard
+T4	Person 187 206	Krankb: berkhuijsen
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 195 206	berkhuijsen
+T6	Person 246 261	Sold:t Reijsser
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 253 261	Reijsser
+T8	ProperName 338 353	olivier Zelmond
+T9	Person 338 353	olivier Zelmond
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 400 410	berkhuysen
+T11	Person 392 410	Krankb. berkhuysen
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 710 720	Sourabaija
+T13	Place 710 720	Sourabaija
+T14	Person 972 989	J„n H„k Zeydekker
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 980 989	Zeydekker
+T16	Person 993 1009	R„t Hilsernisse.
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 997 1008	Hilsernisse
+T19	Person 1331 1345	Abr: Van Mliaa
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other
+T20	ProperName 1336 1345	Van Mliaa

@@ -1,0 +1,32 @@
+T3	Person 90 107;108 118	Pieter Loeshouwer Boekhouder
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 90 107	Pieter Loeshouwer
+T5	Person 198 231;232 252	Den E: Manhaften vaandrig Hendrik Wipperman van Archem
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 224 231;232 252	Hendrik Wipperman van Archem
+T7	Person 265 271;272 298	huijs„ vrouw Anna Theodora Allers
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Place 299 307;308 315	van Sou„ rabaija
+T9	ProperName 303 307;308 315	Sou„ rabaija
+T10	ProperName 278 298	Anna Theodora Allers
+T11	Person 510 532;533 559	Jan De vries onderkoop man en Eerste Gesw: Clercq
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 510 522	Jan De vries
+T13	Person 613 639	Jan Jacob Boohn Boekhouder
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator
+T14	ProperName 613 628	Jan Jacob Boohn
+T15	Person 677 690;691 708	Sara Jsabella Smith Egte Lieden
+A16	Gender T15 Woman
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Testator
+T16	ProperName 677 690;691 696	Sara Jsabella Smith

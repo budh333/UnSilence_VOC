@@ -1,0 +1,16 @@
+T3	Organization 277 325;326 353	d’Edele groot agtbare Heeren bewind hebberen ter Kamer middelburg in Seeland
+A1	Beneficiary T3 No
+T4	Place 332 353	middelburg in Seeland
+T5	ProperName 332 342	middelburg
+T6	ProperName 346 353	Seeland
+T7	Place 398 420	Het schip Wolfdersdyck
+T8	ProperName 408 420	Wolfdersdyck
+T9	Person 2022 2061	de Cristen mardijkster albertina aclams
+A2	Gender T9 Woman
+A3	LegalStatus T9 Freed
+A4	Role T9 Beneficiary
+T10	ProperName 2045 2061	albertina aclams
+T11	Person 2162 2168	sladen
+A5	Gender T11 Group
+A6	LegalStatus T11 Enslaved
+A7	Role T11 Other

@@ -1,0 +1,45 @@
+T1	Person 45 56;57 69	de Heer Jan George Boode
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+T2	ProperName 53 56;57 69	Jan George Boode
+T3	Place 190 208	Cabo de Goede Hoop
+T4	ProperName 190 208	Cabo de Goede Hoop
+T5	Place 282 290	Amsterde
+T6	ProperName 282 290	Amsterde
+T7	Person 397 413	Freedrik Benthem
+A3	Gender T7 Unspecified
+A4	LegalStatus T7 Unspecified
+T8	ProperName 397 413	Freedrik Benthem
+T9	Person 474 491	Jan Jacob Saemans
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+T10	ProperName 474 491	Jan Jacob Saemans
+T12	ProperName 689 709	Assouw de Compradeer
+T13	Person 900 918	Apo de Kleermaaker
+A9	Gender T13 Unspecified
+A10	LegalStatus T13 Unspecified
+T14	ProperName 900 918	Apo de Kleermaaker
+T15	Person 1109 1132	ataay,ScheepsCompradoer
+A11	Gender T15 Unspecified
+A12	LegalStatus T15 Unspecified
+T16	ProperName 1109 1132	ataay,ScheepsCompradoer
+T17	Person 1444 1465	Capitain Arie Kikkert
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+T18	ProperName 1453 1465	Arie Kikkert
+T19	Person 1517 1535	Elbert Lucas Stein
+A15	Gender T19 Man
+A16	LegalStatus T19 Unspecified
+T20	ProperName 1517 1535	Elbert Lucas Stein
+T21	Person 1593 1608	Chrisiaan Behne
+A17	Gender T21 Man
+A18	LegalStatus T21 Unspecified
+T22	ProperName 1593 1608	Chrisiaan Behne
+A19	Role T1 Other
+A20	Role T7 Other
+A21	Role T9 Other
+A22	Role T13 Other
+A23	Role T15 Other
+A24	Role T17 Other
+A25	Role T19 Other
+A26	Role T21 Other

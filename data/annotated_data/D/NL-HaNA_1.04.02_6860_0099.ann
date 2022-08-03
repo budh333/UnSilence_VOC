@@ -1,0 +1,30 @@
+T2	Organization 30 38	d’ EComp
+A1	Beneficiary T2 No
+T3	ProperName 30 38	d’ EComp
+T4	Person 167 175;176 196	mattroos Jacobus van den berg
+A2	Gender T4 Unspecified
+A3	LegalStatus T4 Unspecified
+A4	Role T4 Other
+T5	ProperName 176 196	Jacobus van den berg
+T6	Place 587 594	Sumanap
+T7	ProperName 587 594	Sumanap
+T8	ProperName 665 672;673 678	J„n J„s Boohn
+T9	ProperName 745 764	J„n Gd„ Phefferhorn
+T10	ProperName 732 741	J„r Josee
+T11	Person 665 672;673 678	J„n J„s Boohn
+A5	Gender T11 Unspecified
+A6	LegalStatus T11 Unspecified
+A7	Role T11 Other
+T12	Person 745 764	J„n Gd„ Phefferhorn
+A8	Gender T12 Unspecified
+A9	LegalStatus T12 Unspecified
+A10	Role T12 Other
+T13	Person 732 741	J„r Josee
+A11	Gender T13 Unspecified
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Other
+T14	ProperName 776 793	JP: V:V: Wiepoort
+T15	Person 776 793	JP: V:V: Wiepoort
+A14	Gender T15 Unspecified
+A15	LegalStatus T15 Unspecified
+A16	Role T15 Other

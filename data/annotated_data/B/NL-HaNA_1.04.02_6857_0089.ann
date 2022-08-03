@@ -1,0 +1,22 @@
+T2	Person 166 170;171 183	Ire„ drik Bannier
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	Person 256 259;260 265	Ian Montz
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	Person 379 394	Fredrik Baunier
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Testator
+T5	Person 537 545	Rijnnagh
+A10	Gender T5 Man
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Notary
+T6	ProperName 379 394	Fredrik Baunier
+T8	ProperName 166 170;171 183	Ire„ drik Bannier
+T9	Person 421 430	Kok Johan
+A14	Gender T9 Unspecified
+A15	LegalStatus T9 Unspecified
+A16	Role T9 Other

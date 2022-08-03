@@ -1,0 +1,23 @@
+T2	Organization 35 53	Raede van Iustitie
+T3	ProperName 35 53	Raede van Iustitie
+T4	Organization 239 256	rand van Justitie
+T5	ProperName 239 256	rand van Justitie
+T6	Place 280 287	Kolumbo
+T7	ProperName 280 287	Kolumbo
+T8	Person 325 337;338 354	P::s Krieken beek gesw: klerk
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Other
+T9	ProperName 325 337;338 342	P::s Krieken beek
+T10	Person 367 378	E: Hartensz
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	ProperName 367 378	E: Hartensz
+T12	Person 408 417	M„ Mluijk
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	ProperName 408 417	M„ Mluijk
+A10	Beneficiary T2 No
+A11	Beneficiary T4 No

@@ -1,0 +1,78 @@
+T1	Place 0 34	woonhuijse van den Heere Testateur
+T2	ProperName 67 70;71 84	Jan Jurgen Tieman
+T3	ProperName 89 118	Johan Fredrik Samuel Neijtje,
+T4	Person 67 70;71 85	Jan Jurgen Tieman,
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	Person 89 118	Johan Fredrik Samuel Neijtje,
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 186 204	Cornelis Pietersz:
+T7	Person 186 204	Cornelis Pietersz:
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Person 256 269	J:n J:n Siman
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 264 269	Siman
+T10	Person 274 290	J: F: J: Neijtje
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Witness
+T11	ProperName 283 290	Neijtje
+T12	ProperName 406 417;418 422	Johannes de Jong
+T13	ProperName 426 447	steven Lodewijk Prins
+T14	Person 406 417;418 422	Johannes de Jong
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Witness
+T15	Person 426 447	steven Lodewijk Prins
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Witness
+T16	Person 339 354	W=m Duijnevelt.
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Acting_Notary
+T17	ProperName 343 353	Duijnevelt
+T18	ProperName 544 577	Jacques Theodore Vancquet De Jan,
+T19	Person 544 577	Jacques Theodore Vancquet De Jan,
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Acting_Notary
+T21	ProperName 628 653	Cormandels Gouvernement:/
+T22	ProperName 691 714	Pieter Jacobus Pietersz
+T23	Person 691 715	Pieter Jacobus Pietersz:
+A28	Gender T23 Man
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Beneficiary
+T24	Person 735 758	Heer Cornelis Pietersz:
+A31	Gender T24 Man
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Testator
+T25	ProperName 740 758	Cornelis Pietersz:
+T26	ProperName 965 983	Cornelis Pietersz:
+T27	Person 965 983	Cornelis Pietersz:
+A34	Gender T27 Man
+A35	LegalStatus T27 Unspecified
+A36	Role T27 Testator
+T28	ProperName 1231 1248	Cornelis pietersz
+T29	Person 1231 1249	Cornelis pietersz:
+A37	Gender T29 Man
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Testator
+T31	ProperName 1444 1467	Cormandels Gouvernement
+T32	ProperName 1468 1485	Willem Duijnevelt
+T33	Person 1468 1485	Willem Duijnevelt
+A40	Gender T33 Unspecified
+A41	LegalStatus T33 Unspecified
+A42	Role T33 Other
+T34	Person 1850 1876	Heer Johannes van Halteren
+A43	Gender T34 Man
+A44	LegalStatus T34 Unspecified
+A45	Role T34 Other
+T35	ProperName 1855 1876	Johannes van Halteren

@@ -1,0 +1,25 @@
+T2	ProperName 116 132	Petrus Dobbelaar
+T3	Person 116 132	Petrus Dobbelaar
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T5	ProperName 181 197	Nederlands Jndia
+T6	Place 181 197	Nederlands Jndia
+T7	Place 215 230	de stad batavia
+T8	ProperName 223 230	batavia
+T12	Person 1456 1469;1470 1488	zuster Iuff=r Catharina Schreers
+A7	Gender T12 Woman
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Beneficiary
+T13	ProperName 1470 1488	Catharina Schreers
+T14	ProperName 1503 1510	haarlig
+T15	ProperName 1530 1540	valkenburg
+T16	Place 1503 1510	haarlig
+T17	Place 1530 1540	valkenburg
+T10	Place 311 321	valkenburg
+T20	ProperName 294 306	Daniel Koene
+T9	Person 294 306	Daniel Koene
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T21	ProperName 311 321	valkenburg

@@ -1,0 +1,10 @@
+T2	ProperName 0 18	Jan Willem Harmstt
+T3	Person 0 18	Jan Willem Harmstt
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 24 36	Jan Henderik
+T5	Person 24 36	Jan Henderik
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other

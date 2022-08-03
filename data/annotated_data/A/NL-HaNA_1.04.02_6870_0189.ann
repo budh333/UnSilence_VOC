@@ -1,0 +1,23 @@
+T1	Person 0 17	Claar van Chleeft
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 17	Claar van Chleeft
+T3	Person 110 131	steven Palm adsistent
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 110 121	steven Palm
+T5	ProperName 142 152	d: E: Comp
+T7	Place 166 194	ten desen Casteele Concordia
+T8	ProperName 185 194	Concordia
+T9	Person 348 374	Claas van Cleef Constapels
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 348 374	Claas van Cleef Constapels
+T11	Person 954 957	god
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 954 957	god

@@ -1,0 +1,34 @@
+T1	Person 107 121	Nicolaas Mlaas
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 107 121	Nicolaas Mlaas
+T3	Place 149 171	Middelburg, in zeeland
+T4	ProperName 149 159	Middelburg
+T5	ProperName 164 171	zeeland
+T6	Place 596 618	Comparants sterf huijs
+T7	Place 947 964	ter kamer Zeeland
+T8	ProperName 957 964	Zeeland
+T9	Place 1394 1414	ten mijnen Comptoire
+T10	Person 1447 1463	Abraham Salomons
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Witness
+T11	ProperName 1447 1463	Abraham Salomons
+T12	Person 1467 1484	Salomon Abrahamsz
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Witness
+T13	ProperName 1467 1484	Salomon Abrahamsz
+T14	Person 1678 1692	N:s Maas Nots:
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Notary
+T15	Person 1751 1766	Abra P=r Saukes
+A13	Gender T15 Unspecified
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	Person 2031 2043	lijffeygenen
+A16	Gender T16 Group
+A17	LegalStatus T16 Enslaved
+A18	Role T16 Other

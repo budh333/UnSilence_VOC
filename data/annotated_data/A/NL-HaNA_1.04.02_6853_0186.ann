@@ -1,0 +1,18 @@
+T1	Person 401 416;417 446	vader en moeder in naeme Ian andries Wernicke
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 426 446	Ian andries Wernicke
+T3	Person 450 466;467 474	Christiana Maria Heesten
+A4	Gender T3 Woman
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Beneficiary
+T4	ProperName 450 466;467 474	Christiana Maria Heesten
+T5	Place 485 497	in duitsland
+T6	ProperName 488 497	duitsland
+T8	Place 1029 1063	in alle andere steeden of plaatsen
+T9	Place 1075 1085	sterfhuijs
+T12	Place 1505 1524	ter Camer amsterdam
+T13	ProperName 1515 1524	amsterdam
+T14	ProperName 1392 1399	dE Comp
+T15	ProperName 1472 1484;1485 1524	der g'octrog oostJndische Comp:s ter Camer amsterdam

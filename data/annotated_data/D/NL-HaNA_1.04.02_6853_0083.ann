@@ -1,0 +1,38 @@
+T2	Person 0 8	Jan Kreb
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 0 8	Jan Kreb
+T4	ProperName 9 24	Jacob de Koning
+T5	Person 9 24	Jacob de Koning
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 80 100	Guilliam Gerard Fran
+T7	Person 80 100	Guilliam Gerard Fran
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 311 320	fabrilius
+T9	Person 311 320	fabrilius
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	Organization 433 442	d’ EComp:
+T11	ProperName 433 442	d’ EComp:
+T12	Organization 559 571;572 593	g'octroijeer de oostindische Comp:
+T13	ProperName 604 613	Amsterdam
+T14	Place 604 613	Amsterdam
+T15	ProperName 559 571;572 593	g'octroijeer de oostindische Comp:
+T16	ProperName 1294 1308	daniel fransz:
+T17	Person 1294 1308	daniel fransz:
+A13	Gender T17 Unspecified
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Witness
+T18	ProperName 1312 1326	Jacob Thomasz:
+T19	Person 1312 1326	Jacob Thomasz:
+A16	Gender T19 Unspecified
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Witness
+A19	Beneficiary T10 No
+A20	Beneficiary T12 No

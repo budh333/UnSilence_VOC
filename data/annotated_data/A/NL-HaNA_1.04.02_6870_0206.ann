@@ -1,0 +1,24 @@
+T3	Place 117 140	met ’t schip Radermache
+T4	ProperName 130 141	Radermacher
+T5	Place 1068 1073	banda
+T6	ProperName 1068 1073	banda
+T7	Person 1237 1251	J=n D„k Beinon
+A1	Gender T7 Unspecified
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Other
+T8	ProperName 1237 1251	J=n D„k Beinon
+T9	Person 1335 1355	Cornelies de vriesen
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 1335 1355	Cornelies de vriesen
+T11	Person 1356 1369	Hans Constans
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 1356 1369	Hans Constans
+T13	Person 1382 1391	D Haatorg
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 1382 1391	D Haatorg

@@ -1,0 +1,67 @@
+T3	Organization 22 35	D'E Compagnie
+T5	ProperName 91 107	Wiggert Wargaren
+T6	Organization 130 155	de Edele hove van holland
+T7	Organization 158 182;183 203	de Edele hooge regeringe van nederlands India
+T8	Place 148 155	holland
+T9	ProperName 148 155	holland
+T10	Place 187 203	nederlands India
+T11	Place 217 231;232 239	binnen de stad Batavia
+T12	ProperName 232 239	Batavia
+T13	Person 301 323	Monsieur Rudolff Freij
+A4	Gender T13 Man
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Testator
+T14	ProperName 310 323	Rudolff Freij
+T15	Place 379 395	binnen dese stad
+T17	ProperName 1100 1115	Bitjo van timor
+T18	Place 1110 1115	timor
+T20	ProperName 1299 1305	Pasere
+T21	ProperName 1322 1329;1330 1337	Cupido, Wijders
+T22	Person 1402 1413	Anna Rigina
+A13	Gender T22 Woman
+A14	LegalStatus T22 Unspecified
+A15	Role T22 Beneficiary
+T23	ProperName 1402 1413	Anna Rigina
+T24	Person 1414 1418;1419 1428	Anna Christina
+A16	Gender T24 Woman
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Beneficiary
+T25	ProperName 1414 1418;1419 1428	Anna Christina
+T26	Person 1432 1450	Anna Iustina Funck
+A19	Gender T26 Woman
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Beneficiary
+T27	ProperName 1432 1450	Anna Iustina Funck
+T28	Place 1485 1494;1495 1506	wilsdruff bij Dresden
+T29	ProperName 1485 1494	wilsdruff
+T30	ProperName 1499 1506	Dresden
+T31	Organization 1715 1728	der E. Comp:e
+T16	Person 1083 1091	slaaffje
+A7	Gender T16 Unspecified
+A8	LegalStatus T16 Enslaved
+A9	Role T16 Beneficiary
+T32	Person 1100 1115	Bitjo van timor
+A22	Gender T32 Unspecified
+A23	LegalStatus T32 Enslaved
+A24	Role T32 Beneficiary
+T19	Person 1284 1290	slaaff
+A10	Gender T19 Man
+A11	LegalStatus T19 Enslaved
+A12	Role T19 Other
+T33	Person 1299 1305	Pasere
+A25	Gender T33 Man
+A26	LegalStatus T33 Enslaved
+A27	Role T33 Other
+T34	Person 1322 1329;1330 1337	Cupido, Wijders
+A28	Gender T34 Man
+A29	LegalStatus T34 Enslaved
+A30	Role T34 Other
+T4	Person 91 125	Wiggert Wargaren, notaris publijcq
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T35	ProperName 187 203	nederlands India
+A31	Beneficiary T3 No
+A32	Beneficiary T6 No
+A33	Beneficiary T7 No
+A34	Beneficiary T31 No

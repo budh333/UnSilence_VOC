@@ -1,0 +1,31 @@
+T2	ProperName 284 326	Eerwaerde Collegi van heeren Weesmeesteren
+T3	Person 537 554	P: Van Ossenbrung
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 537 553	P: Van Ossenbrun
+T6	ProperName 570 584	Abr: Van Hrmer
+T7	Place 689 715	ten gouvernefente Samarang
+T8	ProperName 707 715	Samarang
+T9	Place 773 786	den t Rembang
+T10	ProperName 779 786	Rembang
+T11	Person 799 823;824 840	oppper Chirurgijn Pieter van Ossenbruggen
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Testator
+T12	ProperName 817 823;824 840	Pieter van Ossenbruggen
+T13	Person 869 878;879 898	Riesidter Wijllem Adrian Palm
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 879 898	Wijllem Adrian Palm
+T16	ProperName 1019 1029	S: EComp=s
+T18	ProperName 1224 1238	Abr: Van Hlmen
+T19	Person 1225 1238;1241 1252	br: Van Hlmen Gesie Clers
+A16	Gender T19 Man
+A17	LegalStatus T19 Unspecified
+A18	Role T19 Other
+T17	Person 570 584;585 596	Abr: Van Hrmer Gesw: Clerq
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other

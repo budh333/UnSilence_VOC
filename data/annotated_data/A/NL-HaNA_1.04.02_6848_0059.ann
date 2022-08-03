@@ -1,0 +1,32 @@
+T2	ProperName 4 35	Regeringe van Nederlands Jondia
+T3	Place 18 35	Nederlands Jondia
+T4	ProperName 18 35	Nederlands Jondia
+T5	Place 50 76	brnijgten te stad Batavran
+T6	ProperName 68 76	Batavran
+T9	ProperName 137 164	DE Lammoraal van Geusauonde
+T10	Place 202 223	de Zuijker Pakhuijsen
+T11	Person 227 257;258 277	Mejuff=r Wel helmmina Hendrina Alting, Egte lieden
+A7	Gender T11 Woman
+A8	LegalStatus T11 Unspecified
+T12	ProperName 236 257;258 264	Wel helmmina Hendrina Alting
+T27	ProperName 1848 1854;1855 1865	Justus van Geusau
+T29	ProperName 1902 1921	de priesche Guardes
+T31	ProperName 1938 1948	Slemaanden
+T34	ProperName 2061 2081	Willem Arnold Alting
+T35	Place 2108 2124	Nederlands India
+T36	ProperName 2108 2124	Nederlands India
+T7	Person 127 164;165 172	getuijgen DE Lammoraal van Geusauonde koopman
+A1	Gender T7 Man
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Testator
+A4	Role T11 Testator
+T8	Place 288 304	alhier ter steed
+T13	Person 1811 1847;1848 1854;1855 1874	vader Den wel Edelen Gestrengen Heer Justus van Geusau Collonel
+A5	Gender T13 Man
+A6	LegalStatus T13 Unspecified
+A9	Role T13 Beneficiary
+T14	Place 1934 1948	tot Slemaanden
+T15	Person 1978 2019;2020 2089;2090 2103	vader zijn Hoog Edelheijd Den Hoog Edelen Groot Agtbaren meijdgebiedende Heere M:r Willem Arnold Alting Gouver„ neur Generaal
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Beneficiary

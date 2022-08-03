@@ -1,0 +1,59 @@
+T3	Place 430 453;454 463	ten nederlands Comptoir Sourabaua
+T4	ProperName 434 444	nederlands
+T5	ProperName 454 463	Sourabaua
+T6	Person 499 506;507 517	A=s P„a de Dutseld
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	ProperName 499 506;507 516	A=s P„a de Dutsel
+T8	Person 521 532	Pierer Boon
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	ProperName 521 532	Pierer Boon
+T10	Person 596 613;614 626	P:n H:s van Rhijn gesw: Scriba
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 596 613	P:n H:s van Rhijn
+T12	Place 721 732	te Samorang
+T13	ProperName 724 732	Samorang
+T14	Place 821 833	te Sourabaij
+T15	ProperName 824 834	Sourabaija
+T16	Person 847 866;867 886	Lerg:t Johan Samnel Menster, van Poelen
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 854 866;867 886	Johan Samnel Menster, van Poelen
+T18	Person 924 959	gesw: Scriba Jan Matthijs van Shijn
+A13	Gender T18 Unspecified
+A14	LegalStatus T18 Unspecified
+A15	Role T18 Other
+T19	ProperName 937 959	Jan Matthijs van Shijn
+T20	Person 976 1006	N: Jononsen, onder Chijrutgijn
+A16	Gender T20 Man
+A17	LegalStatus T20 Unspecified
+A18	Role T20 Other
+T21	ProperName 976 987	N: Jononsen
+T22	Person 1046 1059	Jacob Pordrom
+A19	Gender T22 Man
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T23	ProperName 1046 1059	Jacob Pordrom
+T24	Place 1169 1179	Sourabaija
+T25	ProperName 1169 1179	Sourabaija
+T26	Person 1214 1235	Frans Pieter Jieheijn
+A22	Gender T26 Unspecified
+A23	LegalStatus T26 Unspecified
+A24	Role T26 Other
+T27	ProperName 1214 1235	Frans Pieter Jieheijn
+T28	Person 1246 1260	P„n W:J ERhijp
+A25	Gender T28 Unspecified
+A26	LegalStatus T28 Unspecified
+A27	Role T28 Other
+T29	ProperName 1246 1260	P„n W:J ERhijp
+T30	Person 1114 1136	Pierer Frans Fmieheijm
+A28	Gender T30 Unspecified
+A29	LegalStatus T30 Unspecified
+A30	Role T30 Other
+T31	ProperName 1114 1136	Pierer Frans Fmieheijm

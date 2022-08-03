@@ -1,0 +1,22 @@
+T2	Place 502 510	Samarang
+T3	ProperName 502 510	Samarang
+T4	ProperName 607 622;623 628	Jan Hendrik Kru „hoff
+T5	Person 607 622;623 628	Jan Hendrik Kru „hoff
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	Person 694 708	M„r Pieter Ras
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 698 708	Pieter Ras
+T8	Person 1067 1082	J„n g„s Helmkea
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 1075 1082	Helmkea
+T10	ProperName 1096 1103	Weepoot
+T11	Person 1094 1103	P Weepoot
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other

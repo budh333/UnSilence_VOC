@@ -1,0 +1,39 @@
+T1	Place 4 22	Cabe de Goede Hoop
+T2	ProperName 4 22	Cabe de Goede Hoop
+T3	Person 101 116	Heer J. G. Bode
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 106 116	J. G. Bode
+T5	Person 292 296;297 308	Zoon J. F. Rosen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 297 308	J. F. Rosen
+T7	Person 325 336	J. P. Rosen
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 325 336	J. P. Rosen
+T9	Place 339 348	Amsterdam
+T10	ProperName 339 348	Amsterdam
+T11	Person 435 447;448 454	M Nolthenius Secret
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 435 447	M Nolthenius
+T13	Person 412 425	M Noltr Kcret
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T15	ProperName 412 419	M Noltr
+T14	Person 479 484	Johan
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T16	ProperName 479 484	Johan
+T17	Person 587 598	C: Rijnnagh
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 587 598	C: Rijnnagh

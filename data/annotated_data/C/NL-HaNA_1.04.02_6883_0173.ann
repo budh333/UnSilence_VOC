@@ -1,0 +1,52 @@
+T2	ProperName 64 77	George Bremer
+T5	ProperName 210 227	Leendert Geesdorp
+T6	Organization 859 890	de Dieaconij Armendeser Plaatse
+T7	Place 877 890	deser Plaatse
+T9	ProperName 962 971	Willemina
+T10	Person 975 989	Maria Teesdorp
+A10	Gender T10 Woman
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Beneficiary
+T11	ProperName 975 989	Maria Teesdorp
+T12	Place 1007 1033	te delft op de vlamestraat
+T13	ProperName 1010 1015	delft
+T14	ProperName 1022 1033	vlamestraat
+T16	ProperName 1156 1158	IU
+T17	Place 1197 1205	mandhaar
+T18	ProperName 1197 1205	mandhaar
+T20	Person 1591 1602	Amma pessie
+A16	Gender T20 Woman
+A17	LegalStatus T20 Enslaved
+A18	Role T20 Beneficiary
+T21	ProperName 1591 1602	Amma pessie
+T22	Person 1626 1632	Bessie
+A19	Gender T22 Woman
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Beneficiary
+T23	ProperName 1626 1632	Bessie
+T24	Person 1636 1642	Mauwer
+A22	Gender T24 Woman
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Beneficiary
+T25	ProperName 1636 1642	Mauwer
+T1	Person 64 88	George Bremer boekhouder
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T4	Person 201 227	Monsieur Leendert Geesdorp
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator
+T8	Person 962 971	Willemina
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Beneficiary
+T15	Person 1156 1158	IU
+A13	Gender T15 Woman
+A14	LegalStatus T15 Freed
+A15	Role T15 Beneficiary
+T26	Person 1160 1182	Jnlandsche vrije vrouw
+A25	Gender T26 Woman
+A26	LegalStatus T26 Freed
+A27	Role T26 Beneficiary
+A28	Beneficiary T6 Yes

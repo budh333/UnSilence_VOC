@@ -1,0 +1,27 @@
+T1	Person 26 32	slaven
+A1	Gender T1 Group
+A2	LegalStatus T1 Enslaved
+A3	Role T1 Other
+T2	Person 36 45	slavinnen
+A4	Gender T2 Group
+A5	LegalStatus T2 Enslaved
+A6	Role T2 Other
+T3	Person 152 179	Cornelis van den Biesheuvel
+A7	Gender T3 Unspecified
+A8	LegalStatus T3 Unspecified
+A9	Role T3 Testator
+T4	ProperName 152 179	Cornelis van den Biesheuvel
+T5	Person 296 299;300 312	M„r Pieter Luzac
+A10	Gender T5 Man
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Other
+T6	Place 346 360	Laras Oosthoek
+T7	Person 521 545	nelis van den Biesheuvel
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Testator
+T8	Person 613 621;622 640	Cornelis van Den Biesheuvel
+A16	Gender T8 Unspecified
+A17	LegalStatus T8 Unspecified
+A18	Role T8 Testator
+T9	ProperName 613 621;622 640	Cornelis van Den Biesheuvel

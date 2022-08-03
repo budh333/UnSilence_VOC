@@ -1,0 +1,27 @@
+T3	Person 170 185	Roeloff stevenk
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 170 185	Roeloff stevenk
+T5	Person 224 237	Dariel Poitel
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 224 237	Dariel Poitel
+T7	Person 238 255	Hurmanus Schutter
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 238 255	Hurmanus Schutter
+T9	Person 269 280	jan mul Ter
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Witness
+T10	ProperName 269 280	jan mul Ter
+T11	Person 284 300	Gosewijn Haarsma
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Witness
+T12	ProperName 284 300	Gosewijn Haarsma
+T13	ProperName 1029 1038	purmerent
+T14	Place 1029 1038	purmerent

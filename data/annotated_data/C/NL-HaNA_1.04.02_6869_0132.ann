@@ -1,0 +1,91 @@
+T1	Person 193 205	A„s„ schultz
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 193 205	A„s„ schultz
+T3	Organization 254 275;276 293	den Raad van Justitie desforts Gustavus
+T4	Place 279 293	forts Gustavus
+T6	ProperName 374 388	Jan Kersseboom
+T7	Person 495 507;508 513	Auguste Tabu „tean
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 495 507;508 513	Auguste Tabu „tean
+T9	Person 515 540	Robbert Hendrik Armenault
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 515 540	Robbert Hendrik Armenault
+T11	Person 542 551;552 560	Jan Hendr swenkels
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 542 551;552 560	Jan Hendr swenkels
+T13	Person 562 583	Qualter van der Beets
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 562 583	Qualter van der Beets
+T15	Person 585 600	Michiel Bastias
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 585 600	Michiel Bastias
+T17	Person 601 619	Pieter Joan Ribant
+A22	Gender T17 Unspecified
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T18	ProperName 601 619	Pieter Joan Ribant
+T19	Person 621 648	Jacob Larwood van Schevicha
+A25	Gender T19 Unspecified
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	ProperName 621 648	Jacob Larwood van Schevicha
+T21	Person 649 664	Arend: Hooreman
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Other
+T22	ProperName 649 664	Arend: Hooreman
+T23	Person 666 679	Simon De Hoog
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 666 679	Simon De Hoog
+T25	Person 683 697	Daniel overbes
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Other
+T26	ProperName 683 697	Daniel overbes
+T27	Person 716 736	Zacharias Berg C: S:
+A37	Gender T27 Unspecified
+A38	LegalStatus T27 Unspecified
+A39	Role T27 Other
+T28	ProperName 716 736	Zacharias Berg C: S:
+T29	Person 804 818;819 824	soldaet steven Luijk
+A40	Gender T29 Man
+A41	LegalStatus T29 Unspecified
+A42	Role T29 Testator
+T30	ProperName 812 818;819 824	steven Luijk
+T31	Person 902 943	den Gezworen Clercq Andries Jurgen Schult
+A43	Gender T31 Unspecified
+A44	LegalStatus T31 Unspecified
+A45	Role T31 Acting_Notary
+T32	ProperName 922 943	Andries Jurgen Schult
+T33	Person 1256 1263;1264 1272	M„s Kom secret„s
+A46	Gender T33 Unspecified
+A47	LegalStatus T33 Unspecified
+A48	Role T33 Acting_Notary
+T34	ProperName 1256 1263	M„s Kom
+T35	Person 1312 1331	M„s Koning EEClercq
+A49	Gender T35 Unspecified
+A50	LegalStatus T35 Unspecified
+A51	Role T35 Acting_Notary
+T36	Person 1343 1353	M„s Koning
+A52	Gender T36 Unspecified
+A53	LegalStatus T36 Unspecified
+A54	Role T36 Acting_Notary
+T5	Person 369 388	Heer Jan Kersseboom
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+A55	Beneficiary T3 No

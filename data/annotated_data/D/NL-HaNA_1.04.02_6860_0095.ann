@@ -1,0 +1,28 @@
+T2	ProperName 135 159	Frans Hendrik Wolsleeben
+T3	Person 135 159	Frans Hendrik Wolsleeben
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Place 813 819;820 843	Neder„ Lands Comptoire Sumanap
+T5	ProperName 836 843	Sumanap
+T6	Place 836 843	Sumanap
+T7	ProperName 915 928	J„n I„b Boorn
+T8	ProperName 996 1015	J„n G„n Shefferkorn
+T9	ProperName 983 992	I: Joseen
+T10	Person 915 928	J„n I„b Boorn
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	Person 983 992	I: Joseen
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	Person 996 1015	J„n G„n Shefferkorn
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 1027 1042	BJ:W: J:. upoot
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 1027 1042	BJ:W: J:. upoot

@@ -1,0 +1,23 @@
+T3	ProperName 87 100	Carel Telkamp
+T4	Person 87 100	Carel Telkamp
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Acting_Notary
+T5	Place 217 240	konings Fort de Diamant
+T6	ProperName 230 240	de Diamant
+T7	Person 253 293	Trompetter Frans Peijtscher van Klaufort
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 264 293	Frans Peijtscher van Klaufort
+T10	ProperName 836 845	magdalena
+T11	ProperName 926 939	Cornelis Laan
+T12	ProperName 915 925	cornelesse
+T13	Person 915 925	cornelesse
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	Person 926 939	Cornelis Laan
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other

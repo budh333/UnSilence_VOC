@@ -1,0 +1,46 @@
+T1	Person 1 24	Johan Hendriik Vyrminke
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 1 24	Johan Hendriik Vyrminke
+T3	Person 141 176	Abraham van Denter notaris publijcq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 141 159	Abraham van Denter
+T6	Place 200 207	holland
+T7	ProperName 200 207	holland
+T9	ProperName 245 261	Nederlands India
+T10	Place 245 261	Nederlands India
+T11	Place 276 298	binnen de stad Batavia
+T12	ProperName 291 298	Batavia
+T13	Person 299 315	Jacobus de Vries
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 299 315	Jacobus de Vries
+T15	Person 386 404	Jan Iurgen Schreek
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	ProperName 386 404	Jan Iurgen Schreek
+T17	Person 487 510;511 526	M:r Joan van der voort. Notavis publicq
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Notary
+T18	ProperName 491 510	Joan van der voort.
+T19	Place 527 548	binnen Destad Batavia
+T20	ProperName 541 548	Batavia
+T21	Person 550 557;558 590	Jan Tur gen schreek van hersort, soldaat
+A16	Gender T21 Man
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+T24	ProperName 605 613	DE: Comp
+T26	ProperName 668 677	S: E: Com
+T27	Person 1494 1497	Ian
+A19	Gender T27 Man
+A20	LegalStatus T27 Unspecified
+A21	Role T27 Beneficiary
+T28	ProperName 1494 1497	Ian
+T29	Place 665 689	in S: E: Comp: hospiteal
+T30	ProperName 550 557;558 569	Jan Tur gen schreek

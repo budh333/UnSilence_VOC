@@ -1,0 +1,28 @@
+T1	Place 30 39	Amsterdam
+T2	ProperName 30 39	Amsterdam
+T3	Organization 1 19	Oost indithe Comp:
+T4	ProperName 1 19	Oost indithe Comp:
+T7	Organization 1111 1140;1141 1147	d’ Edele hooge regering deser landen
+T10	Person 1595 1613	Abscham Salomnootz
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+T11	ProperName 1595 1613	Abscham Salomnootz
+T12	Person 1619 1636	willem Domingosz:
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+T13	ProperName 1619 1636	willem Domingosz:
+T14	Person 1776 1800	Johannes Greving Notaris
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+T15	ProperName 1776 1792	Johannes Greving
+T6	Person 1198 1204	Slavig
+A4	Gender T6 Group
+A5	LegalStatus T6 Enslaved
+A6	Role T6 Other
+T5	ProperName 1111 1140;1141 1147	d’ Edele hooge regering deser landen
+T8	Place 1544 1549	huyse
+A1	Role T10 Witness
+A2	Role T12 Witness
+A3	Role T14 Notary
+A7	Beneficiary T3 No
+A8	Beneficiary T7 No

@@ -1,0 +1,14 @@
+T2	Person 93 112	Joan Adriaan Dreier
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 93 112	Joan Adriaan Dreier
+T4	Place 134 150	Deesen Comptoire
+T5	Place 201 248;249 262	huijse van den alhier Bescheijdene zergeant An„ „dries Ruijen
+T6	Person 245 248;249 262	An„ „dries Ruijen
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 245 248;249 262	An„ „dries Ruijen
+T8	Place 268 275	Tamburg
+T9	ProperName 268 275	Tamburg

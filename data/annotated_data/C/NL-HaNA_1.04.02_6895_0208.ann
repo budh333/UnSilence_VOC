@@ -1,0 +1,55 @@
+T3	Person 22 28;29 42	Mans:r Paulus Elders
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 22 28;29 42	Mans:r Paulus Elders
+T5	Place 527 568;569 583	ten huijse van Mons:r Ian Louren vos hier booven genoemd
+T6	Person 542 563	Mons:r Ian Louren vos
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 549 563	Ian Louren vos
+T8	Place 593 628	op de Ionkers gragt binnen desestad
+T9	Person 648 664	Iohannes Dantels
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 648 664	Iohannes Dantels
+T11	Person 668 689	Laurens Iacob d’ Melo
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 668 689	Laurens Iacob d’ Melo
+T13	Person 734 757	Iones Conrad D'Egremont
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator
+T14	ProperName 734 757	Iones Conrad D'Egremont
+T15	Person 779 791	I:s Danielsz
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Witness
+T16	ProperName 779 791	I:s Danielsz
+T17	Person 805 825	Paur:s Iac=r d’ melo
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Witness
+T18	ProperName 805 825	Paur:s Iac=r d’ melo
+T19	Person 835 839;840 862	Wigg Wargaren notaris Publ:
+A22	Gender T19 Man
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Notary
+T20	ProperName 835 839;840 848	Wigg Wargaren
+T21	Person 1024 1093	den
+A25	Gender T21 Man
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
+T22	ProperName 1032 1057	Thomas Fredrik wannemaker
+T24	Place 1183 1190	Batavia
+T25	ProperName 1183 1190	Batavia
+T26	Organization 1150 1157	SComp:s
+T23	Person 1032 1057	Thomas Fredrik wannemaker
+A28	Gender T23 Man
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Other
+A31	Beneficiary T26 No

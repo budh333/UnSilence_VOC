@@ -1,0 +1,21 @@
+T1	Place 199 221	Fortresse Trinconomale
+T2	Person 266 279	I: C Pheiffer
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	Person 348 360	P„r Pietersz
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	Person 365 382	F:k H:k Eberstijn
+A7	Gender T4 Unspecified
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Other
+T5	Person 439 450	P Wenselboe
+A10	Gender T5 Unspecified
+A11	LegalStatus T5 Unspecified
+A12	Role T5 Other
+T6	Person 408 413	braen
+A13	Gender T6 Unspecified
+A14	LegalStatus T6 Unspecified
+A15	Role T6 Other

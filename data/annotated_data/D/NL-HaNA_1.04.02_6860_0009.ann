@@ -1,0 +1,46 @@
+T2	Organization 16 20	Comp
+A1	Beneficiary T2 No
+T3	ProperName 16 20	Comp
+T4	ProperName 44 61	Pieter De Lahayse
+T5	Person 44 61	Pieter De Lahayse
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Testator
+T6	ProperName 164 188	Christiaan Ernst Eckardt
+T7	Person 164 188	Christiaan Ernst Eckardt
+A5	Gender T7 Man
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Acting_Notary
+T8	Place 261 270	Comptoire
+T9	Place 305 315	sen huijze
+T10	ProperName 365 382	Cornelis de Breij
+T11	Place 388 395	Utrecht
+T12	ProperName 388 395	Utrecht
+T13	Person 365 382	Cornelis de Breij
+A8	Gender T13 Man
+A9	LegalStatus T13 Unspecified
+A10	Role T13 Testator
+T14	Organization 821 837;838 860	het Armhuijs ten Gouvernemente Samarang
+A11	Beneficiary T14 Yes
+T15	ProperName 852 860	Samarang
+T16	Place 852 860	Samarang
+T17	Organization 952 975	d’ alhier gebouwde Kerk
+A12	Beneficiary T17 Yes
+T18	Person 1033 1065;1066 1071	de vrije Christen vrouwe genaamt Diena
+A13	Gender T18 Woman
+A14	LegalStatus T18 Freed
+A15	Role T18 Beneficiary
+T19	ProperName 1066 1071	Diena
+T20	Person 1036 1057	vrije Christen vrouwe
+A16	Gender T20 Woman
+A17	LegalStatus T20 Freed
+A18	Role T20 Beneficiary
+T21	Person 1277 1315	manslaaf genaamt Augustus; van Sumbawa
+A19	Gender T21 Man
+A20	LegalStatus T21 Enslaved
+A21	Role T21 Beneficiary
+T22	ProperName 1294 1315	Augustus; van Sumbawa
+T23	Person 1277 1285	manslaaf
+A22	Gender T23 Man
+A23	LegalStatus T23 Enslaved
+A24	Role T23 Beneficiary

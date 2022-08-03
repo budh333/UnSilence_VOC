@@ -1,0 +1,64 @@
+T2	Person 21 35	Maria fernando
+A1	Gender T2 Woman
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator_Beneficiary
+T3	ProperName 21 35	Maria fernando
+T4	Person 93 101;102 108	Nicolaas Egbers
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator_Beneficiary
+T5	ProperName 93 101;102 108	Nicolaas Egbers
+T6	Place 111 117	silauw
+T7	ProperName 111 117	silauw
+T8	ProperName 215 229	Pieter Ripsina
+T9	Person 215 229	Pieter Ripsina
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 300 303;304 318	Jan godfmed boetz:
+T11	ProperName 321 328	nigombo
+T12	Place 321 328	nigombo
+T13	Person 300 303;304 318	Jan godfmed boetz:
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Acting_Notary
+T14	ProperName 595 606	de E: Comp:
+T15	Organization 595 606	de E: Comp:
+A13	Beneficiary T15 No
+T16	Organization 715 727;728 747	g’oftraijeer oost indische Comp:
+A14	Beneficiary T16 No
+T17	ProperName 715 727;728 747	g’oftraijeer oost indische Comp:
+T18	Place 752 763	kamer Delft
+T19	ProperName 758 763	Delft
+T20	Place 1510 1520	ten huijse
+T21	ProperName 1959 1966	Batavia
+T22	Place 1959 1966	Batavia
+T23	Person 1600 1611;1612 1628	: manhaften Reijnier Brugman
+A15	Gender T23 Unspecified
+A16	LegalStatus T23 Unspecified
+A17	Role T23 Witness
+T24	ProperName 1612 1628	Reijnier Brugman
+T25	Person 1645 1661;1662 1668	E: Jobst Hendrik Zelven
+A18	Gender T25 Unspecified
+A19	LegalStatus T25 Unspecified
+A20	Role T25 Witness
+T26	ProperName 1648 1661;1662 1668	Jobst Hendrik Zelven
+T27	ProperName 1706 1714	E: Comp:
+T28	Organization 1706 1714	E: Comp:
+A21	Beneficiary T28 No
+T29	Person 1835 1855	P: Dolbelaar Notaris
+A22	Gender T29 Man
+A23	LegalStatus T29 Unspecified
+A24	Role T29 Notary
+T30	ProperName 1835 1847	P: Dolbelaar
+T31	Place 1936 1946	ter weesk:
+T32	ProperName 2006 2022	M: J: V: Idsinga
+T33	Person 2006 2022	M: J: V: Idsinga
+A25	Gender T33 Unspecified
+A26	LegalStatus T33 Unspecified
+A27	Role T33 Other
+T34	ProperName 2044 2051	PPieder
+T35	Person 2044 2051	PPieder
+A28	Gender T35 Unspecified
+A29	LegalStatus T35 Unspecified
+A30	Role T35 Other

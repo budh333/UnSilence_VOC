@@ -1,0 +1,113 @@
+T1	Person 117 140	Marinus van Leeuwendaal
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	Person 261 289	heer M=r Willem van der Bese
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 117 140	Marinus van Leeuwendaal
+T4	ProperName 270 289	Willem van der Bese
+T5	Place 315 330	deses Comptoirs
+T6	Place 385 393	Cheribon
+T7	ProperName 385 393	Cheribon
+T8	Person 493 500;501 508	Bannier Fredrik
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Testator
+T9	Person 521 530	Alexander
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	Person 596 603	Contant
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	Person 633 646	danid berouwd
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Other
+T12	Person 681 690	Alexander
+A19	Gender T12 Unspecified
+A20	LegalStatus T12 Unspecified
+A21	Role T12 Other
+T13	Person 702 713	wildenbergh
+A22	Gender T13 Unspecified
+A23	LegalStatus T13 Unspecified
+A24	Role T13 Other
+T14	Person 766 772	rijver
+A25	Gender T14 Unspecified
+A26	LegalStatus T14 Unspecified
+A27	Role T14 Other
+T15	Person 791 796	sroel
+A28	Gender T15 Unspecified
+A29	LegalStatus T15 Unspecified
+A30	Role T15 Other
+T16	Person 824 829	Engel
+A31	Gender T16 Unspecified
+A32	LegalStatus T16 Unspecified
+A33	Role T16 Other
+T17	Person 887 891	jdem
+A34	Gender T17 Unspecified
+A35	LegalStatus T17 Unspecified
+A36	Role T17 Other
+T18	Person 906 913	Lorsius
+A37	Gender T18 Unspecified
+A38	LegalStatus T18 Unspecified
+A39	Role T18 Other
+T19	Person 953 959	ssrael
+A40	Gender T19 Unspecified
+A41	LegalStatus T19 Unspecified
+A42	Role T19 Other
+T20	Person 966 974	tankapko
+A43	Gender T20 Unspecified
+A44	LegalStatus T20 Unspecified
+A45	Role T20 Other
+T21	Person 1004 1014	van Deijst
+A46	Gender T21 Unspecified
+A47	LegalStatus T21 Unspecified
+A48	Role T21 Other
+T22	Person 1054 1058	jdem
+A49	Gender T22 Unspecified
+A50	LegalStatus T22 Unspecified
+A51	Role T22 Other
+T23	Person 1112 1121	pau somto
+A52	Gender T23 Unspecified
+A53	LegalStatus T23 Unspecified
+A54	Role T23 Other
+T24	Person 1171 1180	ko pingko
+A55	Gender T24 Unspecified
+A56	LegalStatus T24 Unspecified
+A57	Role T24 Other
+T25	Person 1247 1251	jdem
+A58	Gender T25 Unspecified
+A59	LegalStatus T25 Unspecified
+A60	Role T25 Other
+T26	Person 1263 1271	ponsomko
+A61	Gender T26 Unspecified
+A62	LegalStatus T26 Unspecified
+A63	Role T26 Other
+T27	Person 1334 1338	idem
+A64	Gender T27 Unspecified
+A65	LegalStatus T27 Unspecified
+A66	Role T27 Other
+T28	Person 1295 1299	jdem
+A67	Gender T28 Unspecified
+A68	LegalStatus T28 Unspecified
+A69	Role T28 Other
+T29	Person 1362 1369	angelij
+A70	Gender T29 Unspecified
+A71	LegalStatus T29 Unspecified
+A72	Role T29 Other
+T30	Person 1391 1395	pens
+A73	Gender T30 Unspecified
+A74	LegalStatus T30 Unspecified
+A75	Role T30 Other
+T31	Person 1450 1459	Kok Johan
+A76	Gender T31 Unspecified
+A77	LegalStatus T31 Unspecified
+A78	Role T31 Other
+T32	Person 1566 1574	Rijnnagh
+A79	Gender T32 Man
+A80	LegalStatus T32 Unspecified
+A81	Role T32 Notary

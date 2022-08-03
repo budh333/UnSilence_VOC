@@ -1,0 +1,36 @@
+T3	Place 780 796;797 804	Int Oorlog schip d’ Hoop
+T4	Person 883 906	Ian Christoffel gerber,
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 883 906	Ian Christoffel gerber,
+T6	Person 991 1004	Dirk Verduijn
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 991 1004	Dirk Verduijn
+T8	Person 1009 1012;1013 1018	pit parre
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Witness
+T9	ProperName 1009 1012;1013 1018	pit parre
+T10	Person 1073 1081;1082 1091	Leendert de Bruijn
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 1073 1081;1082 1091	Leendert de Bruijn
+T12	Person 1096 1099;1126 1135	Jan Verschuur
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 1096 1099;1126 1135	Jan Verschuur
+T15	ProperName 1145 1166	gerard Hendrik Duvell
+T16	Person 1194 1202;1204 1215	gaBuvell boes houder
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Acting_Notary
+T17	ProperName 1194 1202	gaBuvell
+T14	Person 1145 1173	gerard Hendrik Duvell Scriba
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Acting_Notary

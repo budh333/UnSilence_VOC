@@ -1,0 +1,36 @@
+T3	Person 150 158;161 175	Nicolaus Brahe, Notaris
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+T4	ProperName 150 158;161 166	Nicolaus Brahe
+T6	ProperName 200 204;205 209	hol„ land
+T7	Place 200 204;205 209	hol„ land
+T8	Place 224 236	te Amsterdam
+T9	ProperName 227 236	Amsterdam
+T10	Person 294 307	De. E Jan Mus
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator
+T11	ProperName 300 307	Jan Mus
+T13	ProperName 383 411	het oostindisch Compagniesch
+T14	Place 412 424;427 430	schip Woest„ din
+T15	ProperName 412 424;427 430	schip Woest„ din
+T16	Place 431 449	naar d’ oostindien
+T17	ProperName 439 448	oostindie
+T18	Person 566 594	Iacob Bethen zoon kooplieden
+A7	Gender T18 Man
+A8	LegalStatus T18 Unspecified
+A9	Role T18 Other
+T19	ProperName 566 578	Iacob Bethen
+T20	Place 595 601;602 612	binnen deese stad
+T21	Person 803 813	Iacob Meth
+A10	Gender T21 Man
+A11	LegalStatus T21 Unspecified
+A12	Role T21 Other
+T22	ProperName 803 813	Iacob Meth
+T23	Person 1321 1331	Iacob Beth
+A13	Gender T23 Man
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Other
+T24	ProperName 1321 1331	Iacob Beth
+T25	Place 2265 2288	venigiquartieren alhier

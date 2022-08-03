@@ -1,0 +1,53 @@
+T3	Person 196 207	Jde Christi
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 196 207	Jde Christi
+T5	Person 258 289	Gijsbort Jacobswelvan: boekhaur
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 258 279	Gijsbort Jacobswelvan
+T7	Place 314 329	ter secretarise
+T8	Person 330 338	Juilliam
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 330 338	Juilliam
+T10	Place 552 568	ten woon huijsen
+T11	Person 592 599;613 647	Alphon„ Sius Leopoldus Coston oppertuurman
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 592 599;613 634	Alphon„ Sius Leopoldus Coston
+T13	ProperName 664 672	'sComp=s
+T15	Person 690 711	menef=t Hdena Spelder
+A13	Gender T15 Woman
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	ProperName 698 711	Hdena Spelder
+T17	Person 2940 2976	metr Maraaretha augistina huijsvrouw
+A16	Gender T17 Woman
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Beneficiary
+T18	ProperName 2945 2965	Maraaretha augistina
+T20	ProperName 3005 3013	E Comp:e
+T21	Person 3021 3035;3036 3046	fredrik willem Crameergen
+A19	Gender T21 Unspecified
+A20	LegalStatus T21 Unspecified
+A21	Role T21 Other
+T22	ProperName 3022 3035;3036 3046	redrik willem Crameergen
+T23	Person 2308 2321	slave Iongsen
+A22	Gender T23 Man
+A23	LegalStatus T23 Enslaved
+A24	Role T23 Beneficiary
+T24	Person 2326 2345	Iannuarij van Grain
+A25	Gender T24 Man
+A26	LegalStatus T24 Enslaved
+A27	Role T24 Beneficiary
+T25	ProperName 2326 2345	Iannuarij van Grain
+T26	Person 2723 2732;2733 2744	Iannuarij van gonamin
+A28	Gender T26 Man
+A29	LegalStatus T26 Enslaved
+A30	Role T26 Beneficiary
+T27	ProperName 2723 2732;2733 2744	Iannuarij van gonamin

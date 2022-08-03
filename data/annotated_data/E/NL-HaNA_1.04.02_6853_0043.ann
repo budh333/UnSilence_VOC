@@ -1,0 +1,23 @@
+T2	ProperName 146 172	Christiaan Fredrik Beijler
+T3	Person 146 172	Christiaan Fredrik Beijler
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	Person 256 287	M„r Ioan van der voort, notaris
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Notary
+T5	ProperName 260 278	Ioan van der voort
+T6	Place 303 318	de stad Batavia
+T7	ProperName 311 318	Batavia
+T9	ProperName 358 384	Christiaan Fredrik Beijler
+T10	Person 358 384	Christiaan Fredrik Beijler
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T12	Place 464 473	hospitaal
+T13	ProperName 1294 1306	Iacob Muller
+T14	Person 1294 1306	Iacob Muller
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Beneficiary

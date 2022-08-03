@@ -1,0 +1,24 @@
+T3	Person 78 83;84 97	Heere Jesus Christi
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 84 97	Jesus Christi
+T5	Person 165 172;173 197	Ian van Rijkevorsel ondercoopman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 165 172;173 184	Ian van Rijkevorsel
+T7	Place 226 249	op ’t schip west Cappel
+T8	ProperName 238 249	west Cappel
+T9	Person 273 298	Schieman Jan Van den Berg
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 282 298	Jan Van den Berg
+T11	Place 1091 1105	tot middelburg
+T12	ProperName 1095 1105	middelburg
+T13	Person 1113 1133	moeder Anna Gerrison
+A10	Gender T13 Woman
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Beneficiary
+T14	ProperName 1120 1133	Anna Gerrison

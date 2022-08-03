@@ -1,0 +1,50 @@
+T3	Place 245 265	in ’t Casteel Colomp
+T4	ProperName 259 265	Colomp
+T5	Person 409 427	Jan Carel Andriesz
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 409 427	Jan Carel Andriesz
+T7	Person 430 442;443 449	Fredrik Hend ditker
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 430 442;443 449	Fredrik Hend ditker
+T9	Person 645 656	J: H Mulleh
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	ProperName 645 656	J: H Mulleh
+T11	Person 671 684	DanieldesBoks
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 671 684	DanieldesBoks
+T13	Person 695 703	J Baeras
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 695 703	J Baeras
+T15	Person 759 771	slave Jonger
+A16	Gender T15 Man
+A17	LegalStatus T15 Enslaved
+A18	Role T15 Beneficiary
+T16	Person 780 783	Dav
+A19	Gender T16 Man
+A20	LegalStatus T16 Enslaved
+A21	Role T16 Beneficiary
+T17	ProperName 780 783	Dav
+T18	Person 805 818	slave meijsje
+A22	Gender T18 Woman
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Beneficiary
+T19	Person 827 833	amelia
+A25	Gender T19 Woman
+A26	LegalStatus T19 Enslaved
+A27	Role T19 Beneficiary
+T20	ProperName 827 833	amelia
+T21	Person 1005 1032	Catharina Elisabeth Hugonis
+A28	Gender T21 Woman
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Beneficiary
+T22	ProperName 1005 1032	Catharina Elisabeth Hugonis

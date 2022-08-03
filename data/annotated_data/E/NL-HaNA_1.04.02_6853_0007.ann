@@ -1,0 +1,58 @@
+T2	Person 4 22	Potis Birinshuusen
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 4 22	Potis Birinshuusen
+T4	ProperName 23 34	Jan Barends
+T5	Person 23 34	Jan Barends
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 84 105	Josna Lonardus Gouset
+T7	Person 84 105	Josna Lonardus Gouset
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T9	Place 155 171	nederlands Jndia
+T10	ProperName 155 171	nederlands Jndia
+T11	Place 206 221	de stad batavia
+T12	ProperName 214 221	batavia
+T13	ProperName 274 286	Jan barendsz
+T14	Person 274 286	Jan barendsz
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Witness
+T16	ProperName 477 495	Joan van der voort
+T17	Place 519 533	destad Batavia
+T18	ProperName 526 533	Batavia
+T15	Person 473 502	M:r Joan van der voortnotaris
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Notary
+T19	Place 583 590	Aardweg
+T20	ProperName 583 590	Aardweg
+T21	Place 595 604	Heemstede
+T22	ProperName 595 604	Heemstede
+T23	Place 609 616	Haarlem
+T24	ProperName 609 616	Haarlem
+T27	Person 1591 1614	huijsvrouw zijsje Louwe
+A16	Gender T27 Woman
+A17	LegalStatus T27 Unspecified
+A18	Role T27 Beneficiary
+T28	ProperName 1602 1614	zijsje Louwe
+T29	ProperName 1627 1639	Haarlemmalle
+T30	Place 1627 1639	Haarlemmalle
+T31	Person 2383 2404	moeder Pieternelletie
+A19	Gender T31 Woman
+A20	LegalStatus T31 Unspecified
+A21	Role T31 Beneficiary
+T32	ProperName 2390 2404	Pieternelletie
+T33	ProperName 2432 2452	dirk van den Hardweg
+T34	Person 2432 2452	dirk van den Hardweg
+A22	Gender T34 Unspecified
+A23	LegalStatus T34 Unspecified
+A24	Role T34 Other
+T35	Place 2468 2474;2475 2484	Heeren sandraert
+T36	ProperName 2468 2474;2475 2484	Heeren sandraert
+T37	Place 2489 2498	heemstede
+T38	ProperName 2489 2498	heemstede

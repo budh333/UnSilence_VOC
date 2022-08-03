@@ -1,0 +1,35 @@
+T3	ProperName 67 99	Nicolaas van Bergen vander hrijp
+T4	Person 67 99	Nicolaas van Bergen vander hrijp
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T6	ProperName 153 169	Nederlands India
+T7	Place 153 169	Nederlands India
+T8	Place 190 197;198 205	de stad Bataria
+T9	ProperName 198 205	Bataria
+T10	Person 256 274	heer Fredrik Camin
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator
+T11	ProperName 261 274	Fredrik Camin
+T12	Person 364 383	M=r Herman Scheltus
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Notary
+T13	ProperName 368 383	Herman Scheltus
+T15	ProperName 433 439;440 452	neder„ „lands India
+T16	Place 433 439;440 452	neder„ „lands India
+T17	Place 473 487	destad batavia
+T18	ProperName 480 487	batavia
+T19	Person 535 565	DE: Johannes Coenraad Coeleman
+A10	Gender T19 Man
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Testator_Beneficiary
+T20	ProperName 539 565	Johannes Coenraad Coeleman
+T22	Person 611 617;618 651	Muff=m Anna Catharina Elisabeth brinkman
+A13	Gender T22 Woman
+A14	LegalStatus T22 Unspecified
+A15	Role T22 Testator_Beneficiary
+T23	ProperName 618 651	Anna Catharina Elisabeth brinkman
+T25	Place 1655 1662	Batavia
+T26	ProperName 1655 1662	Batavia

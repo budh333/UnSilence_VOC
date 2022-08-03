@@ -1,0 +1,23 @@
+T1	Person 77 109	michiel van DerCrap,ondercoopman
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 77 96	michiel van DerCrap
+T4	ProperName 123 128	EComp
+T5	Place 270 273;274 280	ter huijse
+T6	Person 316 324;325 332	Guilliam „Cleret
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	Person 336 357	Iuff„r Elisabet Jansz
+A7	Gender T7 Woman
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Person 1445 1451	slaven
+A10	Gender T8 Group
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	Person 1455 1463	„slavmen
+A13	Gender T9 Group
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other

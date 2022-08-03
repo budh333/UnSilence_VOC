@@ -1,0 +1,63 @@
+T2	ProperName 0 17	Jacobus Syblavras
+T3	Person 0 17	Jacobus Syblavras
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 66 79	L: A: Haltman
+T5	Person 66 79	L: A: Haltman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	Organization 110 126	Oost Jnd„s Comp:
+A7	Beneficiary T6 No
+T7	ProperName 110 126	Oost Jnd„s Comp:
+T8	ProperName 176 184;185 195	Jacjobus Sijblairas
+T9	Person 176 184;185 195	Jacjobus Sijblairas
+A8	Gender T9 Unspecified
+A9	LegalStatus T9 Unspecified
+A10	Role T9 Testator
+T10	Organization 334 339	EComp
+A11	Beneficiary T10 No
+T11	ProperName 334 339	EComp
+T12	ProperName 283 308	Nicolaas Cornelis Twinsz:
+T13	Person 283 308	Nicolaas Cornelis Twinsz:
+A12	Gender T13 Man
+A13	LegalStatus T13 Unspecified
+A14	Role T13 Acting_Notary
+T14	Place 446 456	Ten huijse
+T15	Person 465 491	E Heer Walter Marcus Huart
+A15	Gender T15 Man
+A16	LegalStatus T15 Unspecified
+A17	Role T15 Testator
+T16	ProperName 472 491	Walter Marcus Huart
+T17	Place 526 535	Comptoirs
+T18	Person 1007 1027	Notaris Jan de windt
+A18	Gender T18 Man
+A19	LegalStatus T18 Unspecified
+A20	Role T18 Notary
+T19	ProperName 1015 1027	Jan de windt
+T20	Place 1058 1078	stad gors in zeeland
+T21	ProperName 1063 1067	gors
+T22	ProperName 1071 1078	zeeland
+T23	Place 1071 1078	zeeland
+T24	Place 1063 1067	gors
+T25	Organization 1292 1299;1300 1324	de dia„ „Conij armen te samarang
+A21	Beneficiary T25 Yes
+T26	Place 1316 1324	samarang
+T27	ProperName 1316 1324	samarang
+T28	ProperName 1509 1521	Jan Schouten
+T29	Person 1509 1521	Jan Schouten
+A22	Gender T29 Unspecified
+A23	LegalStatus T29 Unspecified
+A24	Role T29 Other
+T30	ProperName 1955 1970	Agnita Schouten
+T31	Person 1955 1970	Agnita Schouten
+A25	Gender T31 Unspecified
+A26	LegalStatus T31 Unspecified
+A27	Role T31 Other
+T32	Person 2013 2019	slaven
+A28	Gender T32 Group
+A29	LegalStatus T32 Enslaved
+A30	Role T32 Other
+T33	Place 127 140	Schip De Bott
+T34	ProperName 133 140	De Bott

@@ -1,0 +1,12 @@
+T3	ProperName 261 270	Jan Zalle
+T4	Person 261 270	Jan Zalle
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T5	Place 373 380	Batavia
+T6	ProperName 373 380	Batavia
+T7	ProperName 428 437	Jan Ballé
+T8	Person 428 437	Jan Ballé
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Notary

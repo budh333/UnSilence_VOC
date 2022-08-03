@@ -1,0 +1,22 @@
+T1	Place 334 347;348 356	gouvernemente samarang
+T2	ProperName 348 356	samarang
+T3	Person 425 433	Tambas e
+A1	Gender T3 Woman
+A2	LegalStatus T3 Freed
+A3	Role T3 Beneficiary
+T4	Person 516 524	Lijffge„
+A4	Gender T4 Group
+A5	LegalStatus T4 Enslaved
+A6	Role T4 Other
+T5	Person 743 746;747 765	Ian Christoffel Hazert
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Beneficiary
+T6	Person 886 892	slaven
+A10	Gender T6 Group
+A11	LegalStatus T6 Enslaved
+A12	Role T6 Other
+T7	Person 896 905	slavinnen
+A13	Gender T7 Group
+A14	LegalStatus T7 Enslaved
+A15	Role T7 Other

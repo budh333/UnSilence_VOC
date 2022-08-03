@@ -1,5 +1,0 @@
-T1	Person 313 333;334 368	Slaave meijd genaamd Virk Meijer, van de braak Bootsman
-A1	Gender T1 Woman
-A2	LegalStatus T1 Enslaved
-T2	ProperName 334 368	Virk Meijer, van de braak Bootsman
-A3	Role T1 Other

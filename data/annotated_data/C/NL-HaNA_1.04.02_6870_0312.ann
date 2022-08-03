@@ -1,0 +1,37 @@
+T3	Place 137 142;143 148	Banda Neira
+T4	ProperName 137 142;143 148	Banda Neira
+T5	Person 190 202	J=bs Gijsels
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator_Beneficiary
+T6	ProperName 190 202	J=bs Gijsels
+T7	Person 321 338	Gt: S=b Welgevare
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Acting_Notary
+T8	ProperName 321 338	Gt: S=b Welgevare
+T9	Person 387 405	W=m N„s bormeester
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 387 405	W=m N„s bormeester
+T11	Person 409 419;420 426	dirck Ver= steegh
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 409 419;420 426	dirck Ver= steegh
+T13	Person 466 477	A=s Keijser
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 466 477	A=s Keijser
+T15	Person 1103 1128;1129 1133	Claas„ Jansz: Tol, boots„ „man
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary
+T16	ProperName 1103 1120	Claas„ Jansz: Tol
+T17	Person 1316 1331	Gerrit Rijnders
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Beneficiary
+T18	ProperName 1316 1331	Gerrit Rijnders

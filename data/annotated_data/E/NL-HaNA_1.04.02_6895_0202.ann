@@ -1,0 +1,12 @@
+T2	ProperName 394 408;409 420	Christelijk en Gods dienst
+T4	Place 856 873;874 885	ten huijse van de testateuren
+T5	Person 957 973	Abraham Palomons
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 957 973	Abraham Palomons
+T7	ProperName 977 984;985 999	Traija„ nus Abrahamsz:
+T8	Person 977 984;985 999	Traija„ nus Abrahamsz:
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness

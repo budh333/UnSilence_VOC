@@ -1,0 +1,32 @@
+T2	ProperName 30 50	Diederik Kloppenburg
+T3	Person 30 50	Diederik Kloppenburg
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T5	ProperName 72 88	Jurge Adam Kumfr
+T6	Person 72 88	Jurge Adam Kumfr
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T8	Place 175 190	Casteel Colombo
+T9	ProperName 183 190	Colombo
+T10	ProperName 221 240	Pieter adriaan loos
+T11	Person 221 240	Pieter adriaan loos
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Witness
+T12	ProperName 245 249;250 264	Joan godfried Ebert
+T13	Person 245 249;250 264	Joan godfried Ebert
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Witness
+T14	Person 508 519	P=n Janssen
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other
+T15	ProperName 512 519	Janssen
+T16	ProperName 564 577	Daniel de Bok
+T17	Person 564 577	Daniel de Bok
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other

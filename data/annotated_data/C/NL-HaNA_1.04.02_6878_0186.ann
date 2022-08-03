@@ -1,0 +1,27 @@
+T1	Place 286 304	Cabo de goede hoop
+T2	ProperName 286 304	Cabo de goede hoop
+T5	ProperName 364 386	Joachim Hend Borgwedel
+T6	Person 403 419	Johaneidol/ kuul
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	ProperName 403 419	Johaneidol/ kuul
+T8	Person 606 616;617 632	C L kloege geswoore bleveg
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Acting_Notary
+T9	ProperName 606 616	C L kloege
+T10	Person 665 692	C: L: Neethlings Secretaris
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 665 681	C: L: Neethlings
+T12	Person 761 768	CKspuij
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 761 768	CKspuij
+T4	Person 364 386	Joachim Hend Borgwedel
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness

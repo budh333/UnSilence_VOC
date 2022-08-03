@@ -1,0 +1,17 @@
+T1	Place 508 516	Samarang
+T2	ProperName 508 516	Samarang
+T3	ProperName 618 636	Jan Hendrik Kruijs
+T4	Person 618 636	Jan Hendrik Kruijs
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 682 698	Seriba van Lapro
+T6	Person 682 698	Seriba van Lapro
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T8	Person 1092 1108	WJ:V:O: Wiupport
+A7	Gender T8 Unspecified
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 1100 1108	Wiupport

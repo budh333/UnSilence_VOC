@@ -1,0 +1,30 @@
+T3	Person 81 111	Johan (ruijslander, onderkoopm
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 81 99	Johan (ruijslander
+T5	Person 182 205	Willem Hendrik Gronardt
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Acting_Notary
+T6	ProperName 182 205	Willem Hendrik Gronardt
+T7	Place 381 410;411 416	het Casteel D Tharmanus Nieuw mark:
+T8	ProperName 393 410;411 416	D Tharmanus Nieuw mark:
+T9	Person 448 455;456 472	Fredrik Willem Sabuland:
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	ProperName 448 455;456 472	Fredrik Willem Sabuland:
+T11	Place 503 524	op het schip voorlana
+T12	ProperName 516 524	voorlana
+T13	Organization 1104 1115;1116 1136	de diaconij aamen, deser plaatse
+A10	Beneficiary T13 Yes
+T14	Place 1266 1284;1285 1296	t pasteel harmanus Nieuw Mark:
+T15	ProperName 1276 1284;1285 1296	harmanus Nieuw Mark:
+T16	Person 1385 1400	Frans Nieuwmakk
+A11	Gender T16 Unspecified
+A12	LegalStatus T16 Unspecified
+A13	Role T16 Beneficiary
+T17	ProperName 1385 1400	Frans Nieuwmakk
+T18	Place 2250 2259	purmerent
+T19	ProperName 2250 2259	purmerent

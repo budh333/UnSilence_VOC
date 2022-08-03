@@ -1,0 +1,150 @@
+T1	Place 104 125	’t Eijland droot Java
+T2	ProperName 107 125	Eijland droot Java
+T3	Place 93 100	Batavia
+T4	ProperName 93 100	Batavia
+T5	Place 226 242	Casteels Batavia
+T6	ProperName 226 242	Casteels Batavia
+T7	ProperName 296 306	C: Hartman
+T8	Person 296 306	C: Hartman
+A1	Gender T8 Unspecified
+A2	LegalStatus T8 Unspecified
+A3	Role T8 Other
+T9	Person 441 460	M:r Iacob de Meijer
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 445 460	Iacob de Meijer
+T11	ProperName 464 483	Paulus van Leliveld
+T12	ProperName 464 483	Paulus van Leliveld
+T13	Organization 509 514;515 553	agtb: raad van Iustitie des Casteels Batavia
+A7	Beneficiary T13 No
+T14	Place 537 553	Casteels Batavia
+T15	ProperName 537 553	Casteels Batavia
+T16	ProperName 676 682;683 702	Johan„ na Elisabeth Paulus
+T17	Person 676 682;683 702	Johan„ na Elisabeth Paulus
+A8	Gender T17 Woman
+A9	LegalStatus T17 Freed
+A10	Role T17 Beneficiary
+T18	Person 764 768;769 807	heer Fredrik Andreas Christiaan Engelstroom
+A11	Gender T18 Man
+A12	LegalStatus T18 Unspecified
+A13	Role T18 Testator
+T19	ProperName 769 807	Fredrik Andreas Christiaan Engelstroom
+T20	ProperName 869 893	Johanna Elisabeth Paulus
+T21	Person 869 893	Johanna Elisabeth Paulus
+A14	Gender T21 Woman
+A15	LegalStatus T21 Freed
+A16	Role T21 Beneficiary
+T22	ProperName 895 919	Gijsbert Iacob welgevare
+T23	Person 895 919	Gijsbert Iacob welgevare
+A17	Gender T23 Unspecified
+A18	LegalStatus T23 Unspecified
+A19	Role T23 Other
+T24	ProperName 1004 1011;1012 1025	Hendrik August Rossel
+T25	ProperName 1027 1045	Matthijs de Clercq
+T26	ProperName 1047 1066	Johan Martin Reemer
+T27	ProperName 1071 1080;1081 1090	Archibald Mesterton
+T28	Person 1012 1025	August Rossel
+A20	Gender T28 Unspecified
+A21	LegalStatus T28 Unspecified
+A22	Role T28 Other
+T29	Person 1027 1045	Matthijs de Clercq
+A23	Gender T29 Unspecified
+A24	LegalStatus T29 Unspecified
+A25	Role T29 Other
+T30	Person 1047 1066	Johan Martin Reemer
+A26	Gender T30 Unspecified
+A27	LegalStatus T30 Unspecified
+A28	Role T30 Other
+T31	Person 1071 1080;1081 1090	Archibald Mesterton
+A29	Gender T31 Unspecified
+A30	LegalStatus T31 Unspecified
+A31	Role T31 Other
+T32	ProperName 1263 1287	Gijsbert Iacob welgevare
+T33	Person 1497 1505;1506 1515	heer En„ gelstroom
+A32	Gender T33 Man
+A33	LegalStatus T33 Unspecified
+A34	Role T33 Testator
+T34	ProperName 1502 1505;1506 1515	En„ gelstroom
+T35	Place 1554 1561	Batavia
+T36	ProperName 1554 1561	Batavia
+T37	Person 1263 1287	Gijsbert Iacob welgevare
+A35	Gender T37 Unspecified
+A36	LegalStatus T37 Unspecified
+A37	Role T37 Other
+T38	ProperName 1660 1668;1669 1672	C: Mart„ man
+T39	Person 1660 1668;1669 1672	C: Mart„ man
+A38	Gender T39 Unspecified
+A39	LegalStatus T39 Unspecified
+A40	Role T39 Other
+T40	Person 1818 1837	M:r Iacob De Meijer
+A41	Gender T40 Man
+A42	LegalStatus T40 Unspecified
+A43	Role T40 Other
+T41	ProperName 1822 1837	Iacob De Meijer
+T42	ProperName 1841 1860	Paulus van Leliveld
+T43	Person 1841 1860	Paulus van Leliveld
+A44	Gender T43 Man
+A45	LegalStatus T43 Unspecified
+A46	Role T43 Other
+T44	Organization 1902 1919;1920 1940	raad van Iustitie des Casteels Batavia
+A47	Beneficiary T44 No
+T45	ProperName 1924 1940	Casteels Batavia
+T46	Place 1924 1940	Casteels Batavia
+T47	ProperName 2119 2145	Johanna Euisabeth Paulusz:
+T48	Person 2196 2240	heer Fredrik Andries Christiaan Engelstroom:
+A48	Gender T48 Man
+A49	LegalStatus T48 Unspecified
+A50	Role T48 Testator
+T49	Person 2119 2145	Johanna Euisabeth Paulusz:
+A51	Gender T49 Woman
+A52	LegalStatus T49 Freed
+A53	Role T49 Beneficiary
+T50	ProperName 2201 2240	Fredrik Andries Christiaan Engelstroom:
+T51	Person 2244 2257;2258 2273	heer Gijsbert Iacob welgevare
+A54	Gender T51 Man
+A55	LegalStatus T51 Unspecified
+A56	Role T51 Other
+T52	ProperName 2249 2257;2258 2273	Gijsbert Iacob welgevare
+T53	ProperName 2366 2388	Hendrik August Rossel:
+T54	ProperName 2389 2408	Matthijs De Clercq:
+T55	ProperName 2409 2429	Johan Martin Reemer:
+T56	ProperName 2433 2453	Archibala Mesterton:
+T57	ProperName 2698 2722	Gijsbert Iacob welgevare
+T58	Person 2871 2887	heer ingelstroom
+A57	Gender T58 Man
+A58	LegalStatus T58 Unspecified
+A59	Role T58 Testator
+T59	ProperName 2876 2887	ingelstroom
+T60	Person 2983 3001	de heer De Clercq:
+A60	Gender T60 Man
+A61	LegalStatus T60 Unspecified
+A62	Role T60 Other
+T61	ProperName 2991 3001	De Clercq:
+T62	ProperName 3274 3281	Batavia
+T63	Place 3274 3281	Batavia
+T64	ProperName 3306 3311;3312 3316	P El„ ders
+T65	Person 3306 3311;3312 3316	P El„ ders
+A63	Gender T65 Unspecified
+A64	LegalStatus T65 Unspecified
+A65	Role T65 Other
+T66	Person 2698 2722	Gijsbert Iacob welgevare
+A66	Gender T66 Unspecified
+A67	LegalStatus T66 Unspecified
+A68	Role T66 Other
+T67	Person 2433 2453	Archibala Mesterton:
+A69	Gender T67 Unspecified
+A70	LegalStatus T67 Unspecified
+A71	Role T67 Other
+T68	Person 2409 2429	Johan Martin Reemer:
+A72	Gender T68 Unspecified
+A73	LegalStatus T68 Unspecified
+A74	Role T68 Other
+T69	Person 2389 2408	Matthijs De Clercq:
+A75	Gender T69 Unspecified
+A76	LegalStatus T69 Unspecified
+A77	Role T69 Other
+T70	Person 2366 2388	Hendrik August Rossel:
+A78	Gender T70 Unspecified
+A79	LegalStatus T70 Unspecified
+A80	Role T70 Other

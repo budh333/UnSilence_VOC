@@ -1,0 +1,36 @@
+T2	ProperName 91 108;109 131	Alexander Mafimi„ „liaan van Lichnowskij
+T3	Person 91 108;109 131	Alexander Mafimi„ „liaan van Lichnowskij
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 294 304	Jan Siffle
+T5	Person 294 304	Jan Siffle
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	Place 606 624	't Casteel Batavia
+T7	ProperName 606 624	't Casteel Batavia
+T8	ProperName 652 657;658 665	L: G: Badden:
+T9	ProperName 666 680	A: M: freschel
+T10	Person 666 680	A: M: freschel
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	Person 652 657;658 665	L: G: Badden:
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 792 804	Jan Schouten
+T13	Person 792 804	Jan Schouten
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	Person 1302 1308	slaven
+A16	Gender T14 Group
+A17	LegalStatus T14 Enslaved
+A18	Role T14 Other
+T15	Person 1244 1259	Agnita Schouten
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	ProperName 1244 1259	Agnita Schouten

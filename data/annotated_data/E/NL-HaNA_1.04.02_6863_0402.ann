@@ -1,0 +1,23 @@
+T3	ProperName 60 67	Jan Jan
+T4	Person 60 67	Jan Jan
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T6	Place 336 341	schip
+T7	Place 467 474	Colombo
+T8	ProperName 467 474	Colombo
+T9	ProperName 515 526	van derhoff
+T10	Person 512 514;515 526	H: van derhoff
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Other
+T11	Person 573 585	J: B: Sijker
+A7	Gender T11 Unspecified
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Other
+T12	ProperName 579 585	Sijker
+T13	Person 589 601	A: Martensz:
+A10	Gender T13 Unspecified
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 592 600	Martensz

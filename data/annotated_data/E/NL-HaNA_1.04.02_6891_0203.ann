@@ -1,0 +1,15 @@
+T6	ProperName 1030 1051	Claad Gorsen schiemen
+T7	Person 1030 1051	Claad Gorsen schiemen
+A1	Gender T7 Unspecified
+A2	LegalStatus T7 Unspecified
+A3	Role T7 Witness
+T8	ProperName 1075 1101	Hendrik Brouwer Constiapee
+T9	Person 1075 1101	Hendrik Brouwer Constiapee
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Witness
+T10	Person 1315 1329	AA: VD: Lass=t
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 1323 1327	Lass

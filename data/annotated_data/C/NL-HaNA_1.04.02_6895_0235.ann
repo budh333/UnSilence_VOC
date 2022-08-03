@@ -1,0 +1,31 @@
+T4	ProperName 175 193;194 198	Pieter Galenus van Hole
+T5	Place 210 219	amsterdam
+T6	ProperName 210 219	amsterdam
+T7	Organization 225 249	den Ed. Hove van Holland
+T8	Place 242 249	Holland
+T9	ProperName 242 249	Holland
+T10	Person 263 293	DE: Hendrik Iurrian Ferdinands
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator_Beneficiary
+T11	ProperName 267 293	Hendrik Iurrian Ferdinands
+T12	Person 297 307;308 314	Alida Boe, „schee
+A7	Gender T12 Woman
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator_Beneficiary
+T13	ProperName 297 307;308 314	Alida Boe, „schee
+T14	Place 336 375;376 390	binnen deeze stad, op de keijzers gragt bij den amstel
+T15	ProperName 361 375	keijzers gragt
+T16	ProperName 384 390	amstel
+T17	Person 2086 2091	Maria
+A10	Gender T17 Woman
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Beneficiary
+T18	ProperName 2086 2091	Maria
+T19	Organization 2171 2183	der E. Comp:
+T3	Person 175 193;194 206	Pieter Galenus van Hole notaris
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Notary
+A13	Beneficiary T7 No
+A14	Beneficiary T19 No

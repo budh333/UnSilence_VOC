@@ -1,0 +1,70 @@
+T3	Person 314 329	Corporaal Looth
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 324 329	Looth
+T6	ProperName 429 438	der EComp
+T9	ProperName 470 476	Bagbot
+T10	Person 569 596	Aan Den J„l Assistent Regel
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 591 596	Regel
+T12	Person 877 891	Den boose Vonk
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 887 891	Vonk
+T14	Person 937 964	Aan Da Seladen Laloepaijh„r
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 952 964	Laloepaijh„r
+T16	Person 1143 1176	Aan Den schaijver Pieter Baarends
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 1161 1176	Pieter Baarends
+T18	ProperName 1354 1362	in huijs
+T21	ProperName 1275 1282	Attaram
+T22	Person 1439 1453;1455 1471	Bobanie paijk„ Aan Den Jnlander
+A28	Gender T22 Unspecified
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Other
+T23	ProperName 1439 1452	Bobanie paijk
+T24	Person 1650 1660	Bragevoort
+A31	Gender T24 Unspecified
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Other
+T25	ProperName 1650 1660	Bragevoort
+T27	Person 1661 1677;1678 1686	Suster Christina Lourensz
+A37	Gender T27 Woman
+A38	LegalStatus T27 Unspecified
+A39	Role T27 Beneficiary
+T26	ProperName 1668 1677;1678 1686	Christina Lourensz
+T28	Person 1715 1738	halve broeders Cornelis
+A34	Gender T28 Man
+A35	LegalStatus T28 Unspecified
+A36	Role T28 Beneficiary
+T29	ProperName 1730 1738	Cornelis
+T30	Person 1742 1758	Lourens Lourensz
+A40	Gender T30 Man
+A41	LegalStatus T30 Unspecified
+A42	Role T30 Beneficiary
+T31	ProperName 1742 1758	Lourens Lourensz
+T32	Person 1948 1954	slaven
+A43	Gender T32 Group
+A44	LegalStatus T32 Enslaved
+A45	Role T32 Other
+T33	Person 1958 1967	slavinnen
+A46	Gender T33 Group
+A47	LegalStatus T33 Enslaved
+A48	Role T33 Other
+T34	Person 1275 1282;1283 1299	Attaram Aan Den Inlander
+A49	Gender T34 Unspecified
+A50	LegalStatus T34 Unspecified
+A51	Role T34 Other
+T19	Person 470 476;477 493	Bagbot Aan Den Julander
+A22	Gender T19 Unspecified
+A23	LegalStatus T19 Unspecified
+A24	Role T19 Other

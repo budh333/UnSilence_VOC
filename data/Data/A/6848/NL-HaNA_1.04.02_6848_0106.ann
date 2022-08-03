@@ -1,5 +1,0 @@
-T1	Person 376 409;410 416	dogtertje genaamd Johanna Susanna Radder
-A1	Gender T1 Woman
-A2	LegalStatus T1 Unspecified
-T2	ProperName 394 409;410 416	Johanna Susanna Radder
-A3	Role T1 Beneficiary

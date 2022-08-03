@@ -1,0 +1,40 @@
+T6	ProperName 186 195	Amstordam
+T7	Place 176 195	ter Zamer Amstordam
+T11	Person 1302 1322	I: N: Bestbier Not.s
+A16	Gender T11 Man
+A17	LegalStatus T11 Unspecified
+T12	ProperName 1302 1316	I: N: Bestbier
+T15	Place 1452 1462	In de Misk
+T16	ProperName 1458 1462	Misk
+T17	Person 1497 1499;1500 1519	R: N: Lacle Secretaris
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+T18	ProperName 1497 1499;1500 1508	R: N: Lacle
+T23	Person 1683 1708	Liendert Rolff„ hot pubt:
+A28	Gender T23 Man
+A29	LegalStatus T23 Unspecified
+T24	ProperName 1683 1697	Liendert Rolff
+T1	ProperName 143 169;170 174	geochooyeerde oostindische Comp
+T2	Person 1127 1133;1134 1141	Liscas Andries
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Witness
+T4	ProperName 1127 1133;1134 1141	Liscas Andries
+T5	Person 1145 1176;1177 1190	David Jeremias Salomons Chrcqin als Getuijgen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T8	ProperName 1145 1168	David Jeremias Salomons
+A7	Role T11 Notary
+T9	Place 1357 1373	alhier ter Weesk
+A8	Role T17 Other
+A9	Role T23 Notary
+T10	Person 1520 1529;1530 1533	Lammoraal van
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T13	ProperName 1520 1529;1530 1533	Lammoraal van
+T3	Person 570 583	lijffen genen
+A13	Gender T3 Group
+A14	LegalStatus T3 Enslaved
+A15	Role T3 Other

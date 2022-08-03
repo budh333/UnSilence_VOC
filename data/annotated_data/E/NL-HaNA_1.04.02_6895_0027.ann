@@ -1,0 +1,65 @@
+T3	ProperName 66 98	Nicolaas van Bergen vander Grijp
+T4	Person 66 99	Nicolaas van Bergen vander Grijp,
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T6	ProperName 152 168	Nederlands India
+T7	Place 152 168	Nederlands India
+T8	Place 188 195;196 203	de stad Bataria
+T9	ProperName 196 203	Bataria
+T10	Person 254 272	heer Fredrik Camin
+A4	Gender T10 Man
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Testator
+T11	ProperName 259 273	Fredrik Camin,
+T12	Person 416 440	Heer Jan Marten Schiffer
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	ProperName 421 440	Jan Marten Schiffer
+T15	ProperName 478 487	Manhaften
+T16	Person 488 506	Heer Pieter Dekker
+A10	Gender T16 Man
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Other
+T17	ProperName 493 506	Pieter Dekker
+T18	Place 520 544	’t schip De Maria Jacoba
+T19	ProperName 529 544	De Maria Jacoba
+T20	ProperName 565 585	Jan Pieter Blaasberg
+T21	Person 565 585	Jan Pieter Blaasberg
+A13	Gender T21 Man
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Other
+T22	ProperName 621 640;641 649	Ian August Coenraad sluijter
+T23	Person 621 640;641 649	Ian August Coenraad sluijter
+A16	Gender T23 Man
+A17	LegalStatus T23 Unspecified
+A18	Role T23 Other
+T24	Person 814 824;825 844	huijsvrouw Anna Cath: Brinkman
+A19	Gender T24 Woman
+A20	LegalStatus T24 Unspecified
+A21	Role T24 Beneficiary
+T25	ProperName 825 844	Anna Cath: Brinkman
+T26	Place 848 855	Batavia
+T27	ProperName 848 855	Batavia
+T28	Place 903 908	schip
+T29	Person 1024 1040;1041 1044	Heek Pieter Dek„ ker
+A22	Gender T29 Man
+A23	LegalStatus T29 Unspecified
+A24	Role T29 Other
+T30	ProperName 1029 1040;1041 1044	Pieter Dek„ ker
+T31	ProperName 1066 1083;1084 1089	Jan Pieter Blaes„ „berg
+T32	Person 1066 1083;1084 1089	Jan Pieter Blaes„ „berg
+A25	Gender T32 Man
+A26	LegalStatus T32 Unspecified
+A27	Role T32 Other
+T33	ProperName 1274 1282	scheltus
+T34	Person 1274 1282	scheltus
+A28	Gender T34 Man
+A29	LegalStatus T34 Unspecified
+A30	Role T34 Notary
+T35	Place 1286 1293	Batavia
+T36	ProperName 1286 1293	Batavia
+T38	ProperName 1352 1378	Collagie van weesmeesteren
+T40	Place 1765 1772	Batavia
+T41	ProperName 1765 1772	Batavia

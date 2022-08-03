@@ -1,0 +1,165 @@
+T1	Person 184 198	de heer Junicr
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 192 198	Junicr
+T4	Person 72 86	de heer„ Smith
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 81 86	Smith
+T6	ProperName 122 140	bastiaan wanniappa
+T7	Person 122 140	bastiaan wanniappa
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 151 160	Siffening
+T9	Person 151 160	Siffening
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 163 173	Jan d ruis
+T11	Person 163 173	Jan d ruis
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 224 240	andries Jleffers
+T13	Person 224 240	andries Jleffers
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	Person 247 262	de heer d Coste
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 257 262	Coste
+T16	Person 288 300	d’E: Stroebe
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other
+T17	ProperName 293 300	Stroebe
+T18	Person 308 317	G de moor
+A25	Gender T18 Unspecified
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Other
+T19	ProperName 308 317	G de moor
+T20	ProperName 357 367	otto mijer
+T21	Person 355 367	C:otto mijer
+A28	Gender T21 Unspecified
+A29	LegalStatus T21 Unspecified
+A30	Role T21 Other
+T22	ProperName 268 284	slaak harrenberg
+T23	Person 268 284	slaak harrenberg
+A31	Gender T23 Unspecified
+A32	LegalStatus T23 Unspecified
+A33	Role T23 Other
+T24	ProperName 202 217	domine Kerkwijk
+T25	Person 202 217	domine Kerkwijk
+A34	Gender T25 Unspecified
+A35	LegalStatus T25 Unspecified
+A36	Role T25 Other
+T26	Person 375 389	de: franchimon
+A37	Gender T26 Unspecified
+A38	LegalStatus T26 Unspecified
+A39	Role T26 Other
+T27	ProperName 379 389	franchimon
+T28	ProperName 405 418	Andries Luijk
+T29	Person 405 418	Andries Luijk
+A40	Gender T29 Unspecified
+A41	LegalStatus T29 Unspecified
+A42	Role T29 Other
+T30	Person 1252 1266	p: g d Chuster
+A43	Gender T30 Unspecified
+A44	LegalStatus T30 Unspecified
+A45	Role T30 Other
+T31	ProperName 1252 1266	p: g d Chuster
+T32	Person 1162 1178	d’ E: wan Cleeff
+A46	Gender T32 Unspecified
+A47	LegalStatus T32 Unspecified
+A48	Role T32 Other
+T33	ProperName 1168 1178	wan Cleeff
+T34	Person 1191 1201	de kietser
+A49	Gender T34 Unspecified
+A50	LegalStatus T34 Unspecified
+A51	Role T34 Other
+T35	ProperName 1191 1201	de kietser
+T36	ProperName 1125 1138	van dert laai
+T37	Person 1125 1138	van dert laai
+A52	Gender T37 Unspecified
+A53	LegalStatus T37 Unspecified
+A54	Role T37 Other
+T38	ProperName 1143 1151	wartensz
+T39	Person 1143 1151	wartensz
+A55	Gender T39 Unspecified
+A56	LegalStatus T39 Unspecified
+A57	Role T39 Other
+T40	Person 1066 1080	d’ E: francius
+A58	Gender T40 Unspecified
+A59	LegalStatus T40 Unspecified
+A60	Role T40 Other
+T41	ProperName 1072 1080	francius
+T42	ProperName 961 973	J„t martensz
+T43	Person 961 973	J„t martensz
+A61	Gender T43 Unspecified
+A62	LegalStatus T43 Unspecified
+A63	Role T43 Other
+T44	Person 916 929	D heer hurver
+A64	Gender T44 Man
+A65	LegalStatus T44 Unspecified
+A66	Role T44 Other
+T45	ProperName 923 929	hurver
+T46	ProperName 873 894	anthonij wan der laan
+T47	Person 873 894	anthonij wan der laan
+A67	Gender T47 Unspecified
+A68	LegalStatus T47 Unspecified
+A69	Role T47 Other
+T48	ProperName 901 908	Jouceka
+T49	Person 901 908	Jouceka
+A70	Gender T49 Unspecified
+A71	LegalStatus T49 Unspecified
+A72	Role T49 Other
+T50	Person 787 797	van Cleeff
+A73	Gender T50 Unspecified
+A74	LegalStatus T50 Unspecified
+A75	Role T50 Other
+T51	ProperName 787 797	van Cleeff
+T52	Person 759 775	dE: blankenlanig
+A76	Gender T52 Unspecified
+A77	LegalStatus T52 Unspecified
+A78	Role T52 Other
+T53	ProperName 763 775	blankenlanig
+T54	Person 682 703	de heer van der weert
+A79	Gender T54 Man
+A80	LegalStatus T54 Unspecified
+A81	Role T54 Other
+T55	ProperName 690 703	van der weert
+T56	ProperName 629 642	dirk davielsz
+T57	Person 629 642	dirk davielsz
+A82	Gender T57 Unspecified
+A83	LegalStatus T57 Unspecified
+A84	Role T57 Other
+T58	Person 440 453	S: van Cleeff
+A85	Gender T58 Unspecified
+A86	LegalStatus T58 Unspecified
+A87	Role T58 Other
+T59	ProperName 440 453	S: van Cleeff
+T60	ProperName 501 515	Joseph wartent
+T61	Person 501 515	Joseph wartent
+A88	Gender T61 Unspecified
+A89	LegalStatus T61 Unspecified
+A90	Role T61 Other
+T62	ProperName 546 556	de kietser
+T63	Person 546 556	de kietser
+A91	Gender T63 Unspecified
+A92	LegalStatus T63 Unspecified
+A93	Role T63 Other
+T64	ProperName 717 723	de bok
+T65	Person 717 723	de bok
+A94	Gender T65 Unspecified
+A95	LegalStatus T65 Unspecified
+A96	Role T65 Other
+T66	ProperName 734 747	wan den borne
+T67	Person 734 747	wan den borne
+A97	Gender T67 Unspecified
+A98	LegalStatus T67 Unspecified
+A99	Role T67 Other

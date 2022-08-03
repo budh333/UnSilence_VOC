@@ -1,0 +1,36 @@
+T1	Place 670 719	op de kouijne gragt schuins over het kruit huisin
+T3	ProperName 673 689	de kouijne gragt
+T5	Person 742 765;766 812	Abraham Calomonsen Fre„ drik Ignatius Gerritsz:, klocken als getuijgen
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T4	ProperName 742 765;766 788	Abraham Calomonsen Fre„ drik Ignatius Gerritsz
+T6	Person 951 971	J=s Greving, Notaris
+A1	Gender T6 Man
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Notary
+T7	ProperName 951 962	J=s Greving
+T8	Place 991 1010	alhier ter Weeskame
+T10	Place 1098 1121	Batavia in d’ Weeskamer
+T11	ProperName 1098 1105	Batavia
+T12	Person 1171 1188	W= hraane Secret:
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	ProperName 1171 1180	W= hraane
+T14	Person 1247 1279	Johannes Grering notaris publicq
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Notary
+T15	ProperName 1247 1263	Johannes Grering
+T17	Place 1314 1330	Nederlands Intia
+T18	ProperName 1314 1330	Nederlands Intia
+T19	Place 1345 1367	binnen de stad Batavia
+T20	ProperName 1360 1367	Batavia
+T21	Person 1423 1433;1434 1476;1477 1483	chirurgijn in dienst der E Compagnie Iohannes Smalle„ gange,
+A13	Gender T21 Man
+A14	LegalStatus T21 Unspecified
+T22	ProperName 1460 1476;1477 1482	Iohannes Smalle„ gange
+T23	Place 633 661	ten huise van de testateuren
+T2	ProperName 707 717	kruit huis
+A15	Role T21 Testator

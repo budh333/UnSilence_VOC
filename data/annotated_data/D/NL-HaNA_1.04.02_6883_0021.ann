@@ -1,0 +1,45 @@
+T2	Person 125 140	Nicolaas Egbens
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator_Beneficiary
+T3	ProperName 125 140	Nicolaas Egbens
+T4	Person 145 162;163 175	Maria Egbers gebo ren fernando
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator_Beneficiary
+T5	ProperName 145 157	Maria Egbers
+T6	ProperName 283 297	petrus Ripsema
+T7	Person 283 297	petrus Ripsema
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	Place 350 363	tenwoonhuijze
+T9	ProperName 401 418	harmanus Leithuer
+T10	ProperName 436 449	geonge hartho
+T11	Person 436 449	geonge hartho
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	Person 401 418	harmanus Leithuer
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Witness
+T13	Person 622 640	Caul fredrik Ebell
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Acting_Notary
+T14	ProperName 622 640	Caul fredrik Ebell
+T15	ProperName 674 687	L„ M„s Butger
+T16	Person 674 687	L„ M„s Butger
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	Person 973 992;993 1000	Juff=m Cornelia van Batavia
+A22	Gender T17 Woman
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Beneficiary
+T18	ProperName 993 1000	Batavia
+T19	Place 993 1000	Batavia
+T20	ProperName 980 992;993 1000	Cornelia van Batavia
+T21	ProperName 1324 1331	Batavia
+T22	Place 1324 1331	Batavia

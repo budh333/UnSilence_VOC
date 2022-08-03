@@ -1,0 +1,27 @@
+T3	ProperName 66 78	drel Fredrik
+T4	Person 66 78	drel Fredrik
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	Place 81 98	Schip: Giesenburg
+T6	ProperName 88 98	Giesenburg
+T7	ProperName 139 152	Samuels Zuij„
+T8	Person 139 151	Samuels Zuij
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	ProperName 170 180	Kretschmas
+T10	Person 170 180	Kretschmas
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 204 212	Schieman
+T12	Person 204 212	Schieman
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 386 399;400 409	Carel Fredrik Leibnitsz
+T14	Person 386 399;400 409	Carel Fredrik Leibnitsz
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Other

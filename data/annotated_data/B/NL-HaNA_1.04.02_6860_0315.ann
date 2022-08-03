@@ -1,0 +1,37 @@
+T1	Person 92 112	Joan Adriaan dreijer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Place 145 161	deelen Comptoire
+T3	Person 245 266	Christoffel Schelling
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 245 266	Christoffel Schelling
+T5	Person 435 461	Fredrik August De Durfeldt
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator_Beneficiary
+T6	ProperName 435 461	Fredrik August De Durfeldt
+T7	Person 551 569;570 586	Rudolph Florentuis van der Niepoort
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Acting_Notary
+T8	ProperName 551 569;570 586	Rudolph Florentuis van der Niepoort
+T9	Place 603 615;616 622	deesen Comp„ „toire
+T10	Person 658 684	Fredrik August De Durfeldt
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Testator_Beneficiary
+T11	Place 689 703	werning Geroda
+T12	ProperName 689 703	werning Geroda
+T13	Place 720 730;731 738	graafschap solberg
+T14	ProperName 731 738	solberg
+T18	Place 272 286	Pruijshollands
+T19	ProperName 272 286	Pruijshollands
+T16	Person 785 801	Amelia Fredriksz
+A16	Gender T16 Woman
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Testator_Beneficiary
+T17	Place 806 813	Amboina
+T20	ProperName 806 813	Amboina

@@ -1,0 +1,51 @@
+T2	ProperName 448 469	Heeren Bewindhebberen
+T3	ProperName 480 489	Zee= Land
+T4	Place 480 489	Zee= Land
+T5	Place 530 547	schip Duijnenbrug
+T6	ProperName 536 547	Duijnenbrug
+T7	Place 553 564	Constapelsm
+T8	ProperName 553 564	Constapelsm
+T9	Person 748 767	Heer Pieter Brueijs
+A1	Gender T9 Man
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Witness
+T10	ProperName 753 767	Pieter Brueijs
+T11	Person 774 791	heer Jan Gantvoor
+A4	Gender T11 Man
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Witness
+T12	ProperName 779 792	Jan Gantvoort
+T13	Person 1013 1033	Broeder David Lurkus
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Beneficiary
+T14	ProperName 1021 1033	David Lurkus
+T16	ProperName 1665 1677	Passimbazaar
+T17	ProperName 1681 1689	Bengaale
+T18	Place 1681 1689	Bengaale
+T19	Place 1645 1664;1665 1676	Nederlands Comptoir Passimbazaa
+T20	Person 1779 1788	C: Lurkus
+A10	Gender T20 Man
+A11	LegalStatus T20 Unspecified
+A12	Role T20 Testator
+T21	ProperName 1782 1788	Lurkus
+T22	ProperName 1970 1992	Nicolaas Daniel Leijen
+T23	Person 1970 1992	Nicolaas Daniel Leijen
+A13	Gender T23 Man
+A14	LegalStatus T23 Unspecified
+A15	Role T23 Witness
+T24	Person 1993 2014	Johan Godfried Hopman
+A16	Gender T24 Man
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Witness
+T25	ProperName 1993 2014	Johan Godfried Hopman
+T26	Person 2213 2220	M: Ross
+A19	Gender T26 Man
+A20	LegalStatus T26 Unspecified
+A21	Role T26 Acting_Notary
+T27	ProperName 2216 2220	Ross
+T28	ProperName 2257 2263	Guerin
+T29	Person 2251 2263	I: H: Guerin
+A22	Gender T29 Unspecified
+A23	LegalStatus T29 Unspecified
+A24	Role T29 Other

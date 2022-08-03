@@ -1,0 +1,43 @@
+T1	Person 0 15	Johannis Ebelie
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 0 15	Johannis Ebelie
+T3	Person 84 104;105 113	Matthijs Kuijper As„ „sistent
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 84 100	Matthijs Kuijper
+T6	ProperName 128 137	E: Comp:e
+T7	Person 251 290;291 299	Heer Jan de Vries, present de naten ge„ „tuijgen
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 256 268	Jan de Vries
+T9	Person 300 328	Johannes Ebelie J=o Assisten
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 300 315	Johannes Ebelie
+T11	Person 415 433	Simon Erst Crysfty
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 415 433	Simon Erst Crysfty
+T13	Place 632 641;642 650	ten woon„ „ huijse
+T14	Person 655 685	Simon Ernst Crijoskij, Soldaet
+A16	Gender T14 Man
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Testator
+T15	ProperName 655 676	Simon Ernst Crijoskij
+T17	ProperName 700 709	E: Comp=e
+T18	Person 1379 1388;1389 1405	soldaten. Christiaen sanke
+A19	Gender T18 Man
+A20	LegalStatus T18 Unspecified
+A21	Role T18 Beneficiary
+T19	ProperName 1389 1405	Christiaen sanke
+T20	Person 1409 1423	Jurgen krijper
+A22	Gender T20 Man
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Beneficiary
+T21	ProperName 1409 1423	Jurgen krijper

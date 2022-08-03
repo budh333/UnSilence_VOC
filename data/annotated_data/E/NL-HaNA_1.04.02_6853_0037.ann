@@ -1,0 +1,5 @@
+T2	Person 123 135;136 149	Poan van der Voort notaris
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Notary
+T3	ProperName 123 135;136 141	Poan van der Voort

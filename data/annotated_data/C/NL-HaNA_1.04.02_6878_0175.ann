@@ -1,0 +1,7 @@
+T2	Place 224 237	hier in Jndia
+T3	ProperName 232 237	Jndia
+T4	Organization 528 545;546 574;575 596	de Nederduijtsche Gereformeerde diaconij armen ter steede middelburg
+T5	Place 575 596	ter steede middelburg
+T6	ProperName 586 596	middelburg
+T8	ProperName 770 788	Johannes Reijnouts
+A1	Beneficiary T4 Yes

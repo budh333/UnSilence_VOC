@@ -1,0 +1,40 @@
+T3	Organization 220 229	'E Comp=e
+T5	ProperName 286 302	Wiggert wargaren
+T6	Place 380 396	nederlands India
+T7	Place 341 348	holland
+T8	ProperName 341 348	holland
+T9	ProperName 380 396	nederlands India
+T10	Place 411 424;425 432	binnen destad batavia
+T11	ProperName 425 432	batavia
+T13	ProperName 490 496;497 513	Ioanes Conrad DEgremont
+T14	Place 539 554	binnen desestad
+T16	ProperName 981 1004	Jacob Philip D'Egremont
+T17	Person 1044 1089	vrije Christen vrouw Theodera Hendrica Iacobs
+A10	Gender T17 Woman
+A11	LegalStatus T17 Freed
+A12	Role T17 Other
+T18	ProperName 1065 1089	Theodera Hendrica Iacobs
+T19	Person 1708 1729	Mons:t Ian Louven vos
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Other
+T20	ProperName 1715 1729	Ian Louven vos
+T21	Organization 2171 2213;2214 2274	d’Edele groot agtb: Heeren bewind hebberen der geoctroijeerde oost-Indische Comp:e, ter kamer Amsterdam
+T22	Place 2265 2274	Amsterdam
+T23	ProperName 2265 2274	Amsterdam
+T24	Organization 2556 2562	Comp„e
+T4	Person 286 317	Wiggert wargaren, notaris publ:
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Notary
+T12	Person 483 496;497 513	Mons:t Ioanes Conrad DEgremont
+A4	Gender T12 Man
+A5	LegalStatus T12 Unspecified
+A6	Role T12 Testator
+T15	Person 981 1004	Jacob Philip D'Egremont
+A7	Gender T15 Man
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Beneficiary
+A16	Beneficiary T3 No
+A17	Beneficiary T21 No
+A18	Beneficiary T24 No

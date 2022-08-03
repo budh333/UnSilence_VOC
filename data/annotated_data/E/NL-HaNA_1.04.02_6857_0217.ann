@@ -1,0 +1,38 @@
+T4	Person 30 59	wijf de verpandeling Jientang
+A1	Gender T4 Woman
+A2	LegalStatus T4 Enslaved
+A3	Role T4 Other
+T6	ProperName 51 59	Jientang
+T7	Person 83 91	Clavinne
+A4	Gender T7 Woman
+A5	LegalStatus T7 Enslaved
+A6	Role T7 Other
+T8	Person 124 156	nngt Iohanna Catharina Steuphaas
+A7	Gender T8 Woman
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 129 156	Iohanna Catharina Steuphaas
+T10	Person 162 170	slavinne
+A10	Gender T10 Woman
+A11	LegalStatus T10 Enslaved
+A12	Role T10 Other
+T11	ProperName 192 201;202 211	Rokie van maccasser
+T12	Person 192 201;202 211	Rokie van maccasser
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 274 281	Montong
+T14	ProperName 285 291	Pindik
+T15	Person 274 281	Montong
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	Person 285 291	Pindik
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 321 329	Hoogland
+T18	Person 321 329	Hoogland
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Testator

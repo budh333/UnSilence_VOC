@@ -1,0 +1,52 @@
+T2	Person 461 467;468 483	Willem Gillos Martinis
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+T4	ProperName 461 467;468 483	Willem Gillos Martinis
+T5	ProperName 487 502;505 519	Serardus Thomas Henneman Clenq
+T7	Person 649 684	N: van Bergen van der Grijp Notaris
+A13	Gender T7 Man
+A14	LegalStatus T7 Unspecified
+T8	ProperName 649 676	N: van Bergen van der Grijp
+T9	Person 685 711	Johan Coenraad Freidweiler
+A16	Gender T9 Unspecified
+A17	LegalStatus T9 Unspecified
+T10	ProperName 685 711	Johan Coenraad Freidweiler
+T11	Person 761 785;786 791	M: Egbert Blomhert Not:s Publ:
+A19	Gender T11 Man
+A20	LegalStatus T11 Unspecified
+T14	Place 855 877	binnen de stad Balavia
+T15	ProperName 870 877	Balavia
+T17	ProperName 922 947	Johan Coenraad Freidweile
+T20	ProperName 1031 1038	Dresden
+T22	ProperName 1078 1086	Liberose
+T29	Place 1217 1234	binnen deese stad
+A1	Role T2 Witness
+T1	Person 487 502;505 533	Serardus Thomas Henneman Clenq als getuijgen
+A2	Gender T1 Man
+A3	LegalStatus T1 Unspecified
+A6	Role T1 Witness
+A7	Role T7 Notary
+A8	Role T9 Other
+A9	Role T11 Notary
+T3	ProperName 764 779	Egbert Blomhert
+T6	ProperName 805 841	Hooge regeringe van nederlands India
+T12	Person 913 948	getuigen Johan Coenraad Freidweiler
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Witness
+T16	Place 1027 1038	van Dresden
+T21	Place 1074 1092;1093 1094;1095 1108	van Liberose in de 1 Nedeclausmisz
+T19	ProperName 1095 1108	Nedeclausmisz
+T23	Person 1112 1130	Eschaort Luitenant
+A15	Gender T23 Man
+A18	LegalStatus T23 Unspecified
+A21	Role T23 Testator
+T24	ProperName 1112 1120	Eschaort
+T26	Person 1181 1216	Dina Jacoba van Bergen, Egte lieden
+A22	Gender T26 Woman
+A23	LegalStatus T26 Unspecified
+A24	Role T26 Testator
+T27	ProperName 1181 1203	Dina Jacoba van Bergen
+T28	Place 825 841	nederlands India
+T30	ProperName 969 976	’s Comp
+T31	ProperName 1161 1169	EE: Comp

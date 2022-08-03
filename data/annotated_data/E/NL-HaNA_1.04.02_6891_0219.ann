@@ -1,0 +1,45 @@
+T2	ProperName 66 73	Egberti
+T3	Person 66 73	Egberti
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 107 119	Willem Plack
+T5	Person 107 119	Willem Plack
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	Person 290 307	broeder Ian plack
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Beneficiary
+T7	ProperName 298 307	Ian plack
+T9	ProperName 399 416	Francois teblant,
+T10	Person 399 416	Francois teblant,
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 432 440	de Grijp
+T13	Person 432 440	de Grijp
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 908 917	Jan plack
+T15	Person 908 917	Jan plack
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 963 968;969 977	david reguleth
+T17	Person 963 968;969 977	david reguleth
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Notary
+T18	ProperName 1052 1066;1067 1069	Jan Jansen van Es
+T20	Person 1052 1066;1067 1070	Jan Jansen van Es,
+A22	Gender T20 Man
+A23	LegalStatus T20 Unspecified
+A24	Role T20 Beneficiary
+T21	ProperName 1074 1097	Jan gerritsz„ de graafs
+T22	Person 1074 1097	Jan gerritsz„ de graafs
+A25	Gender T22 Man
+A26	LegalStatus T22 Unspecified
+A27	Role T22 Beneficiary

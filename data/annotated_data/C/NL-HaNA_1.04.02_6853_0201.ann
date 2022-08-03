@@ -1,0 +1,55 @@
+T3	Person 0 21	Jurgen Paulus Jkerman
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 21	Jurgen Paulus Jkerman
+T6	ProperName 76 93	Jan van der voort
+T7	Organization 114 154;155 160	de Edele hooge reegeringe van nederlands India
+T8	Place 144 154;155 160	nederlands India
+T9	ProperName 144 154;155 160	nederlands India
+T10	Place 174 196	binnen de stad batavia
+T11	ProperName 189 196	batavia
+T12	Person 251 268	Jan Jurgen de Wit
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T13	ProperName 251 268	Jan Jurgen de Wit
+T14	Person 302 343	Carel Gustarus Wikman by de boeken Witman
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator
+T15	ProperName 302 323	Carel Gustarus Wikman
+T17	ProperName 458 476	Abraham van Dinter
+T18	Organization 497 525	den Edelen hoore van holland
+T19	Organization 538 552;553 583	de Edele hooge legeringe van Nederlands Jndia
+T20	Place 567 583	Nederlands Jndia
+T21	ProperName 567 583	Nederlands Jndia
+T22	Place 598 611;612 619	binne de stad Batavia
+T23	ProperName 612 619	Batavia
+T25	ProperName 669 690	Carel Gustarus wikman
+T26	Place 696 704	Stokkolm
+T27	ProperName 696 704	Stokkolm
+T28	Organization 709 721	's Compagnie
+T29	ProperName 735 753	Carel Gusta Witman
+T30	Organization 773 789	der E CCompagnie
+T31	Organization 852 861	den Comp:
+T5	Person 72 100	M=r Jan van der voortnotaris
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T16	Person 458 492	Abraham van Dinter notaris publicq
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Notary
+T32	Place 518 525	holland
+T33	ProperName 518 525	holland
+T24	Person 669 690	Carel Gustarus wikman
+A16	Gender T24 Man
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Testator
+A19	Beneficiary T7 No
+A20	Beneficiary T18 No
+A21	Beneficiary T19 No
+A22	Beneficiary T28 No
+A23	Beneficiary T30 No
+A24	Beneficiary T31 No

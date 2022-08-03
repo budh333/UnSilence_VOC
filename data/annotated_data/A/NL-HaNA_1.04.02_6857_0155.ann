@@ -1,0 +1,32 @@
+T1	Place 168 182	ten woonhuijse
+T2	ProperName 222 236	H: Engelbrecht
+T3	Person 222 236	H: Engelbrecht
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 282 296	R: Ionge maats
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 282 296	R: Ionge maats
+T6	Person 333 366;367 370	getuijgen was geteekend w: Beeck„ man
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T7	Person 374 394	Johmn=s B:s De Silva
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Witness
+T8	ProperName 374 394	Johmn=s B:s De Silva
+T9	ProperName 357 366;367 370	w: Beeck„ man
+T10	Person 416 429	J„ Jongemaats
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 416 429	J„ Jongemaats
+T12	Person 520 535;536 555	dogter Cathari„ na Elisabeth Elling
+A16	Gender T12 Woman
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Beneficiary
+T13	ProperName 527 535;536 555	Cathari„ na Elisabeth Elling
+T15	ProperName 696 702	Comp:e

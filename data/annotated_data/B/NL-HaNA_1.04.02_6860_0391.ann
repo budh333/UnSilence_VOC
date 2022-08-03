@@ -1,0 +1,55 @@
+T1	Person 0 18	Johan Godlieh Smit
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator_Beneficiary
+T2	ProperName 0 18	Johan Godlieh Smit
+T3	Person 129 148	george Otto Dijkman
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T5	Place 181 196	deese Comptoire
+T6	Person 246 264	Johan Godlieb Smit
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Testator_Beneficiary
+T7	ProperName 246 264	Johan Godlieb Smit
+T8	Place 270 278	Torgouwr
+T9	ProperName 270 278	Torgouwr
+T10	Person 282 307	Catharina Helena Cornelis
+A10	Gender T10 Woman
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator_Beneficiary
+T11	ProperName 282 307	Catharina Helena Cornelis
+T12	Place 313 323	Sourabaija
+T13	ProperName 313 323	Sourabaija
+T14	Person 492 506	Barend Breemer
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Testator
+T15	ProperName 492 506	Barend Breemer
+T16	Person 605 620	gerhardus Rogte
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Acting_Notary
+T17	ProperName 605 620	gerhardus Rogte
+T19	Person 747 761	Barend Breemer
+A19	Gender T19 Man
+A20	LegalStatus T19 Unspecified
+A21	Role T19 Testator
+T20	ProperName 747 761	Barend Breemer
+T21	Place 778 788	Bancallang
+T22	ProperName 778 788	Bancallang
+T23	Person 1564 1593;1594 1600	vrije Javaanse vrouw in naame Roekia
+A22	Gender T23 Woman
+A23	LegalStatus T23 Freed
+A24	Role T23 Beneficiary
+T24	ProperName 1594 1600	Roekia
+T25	Person 1944 1949;1950 1957	Claas Breemer
+A25	Gender T25 Man
+A26	LegalStatus T25 Unspecified
+A27	Role T25 Beneficiary
+T26	ProperName 1944 1949;1950 1957	Claas Breemer
+T27	Person 2047 2053	staven
+A28	Gender T27 Group
+A29	LegalStatus T27 Enslaved
+A30	Role T27 Other

@@ -1,0 +1,53 @@
+T2	Person 68 94	Caul fredrik Ebel titulain
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 68 94	Caul fredrik Ebel titulain
+T4	Person 162 176	Maria Fernando
+A4	Gender T4 Woman
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Testator_Beneficiary
+T5	ProperName 162 176	Maria Fernando
+T6	ProperName 232 247	Nikolaas Eabers
+T7	Person 232 247	Nikolaas Eabers
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator_Beneficiary
+T8	ProperName 457 477	Johan godfmee boetz:
+T9	Person 457 477	Johan godfmee boetz:
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Acting_Notary
+T10	ProperName 516 523	Nigombo
+T11	Place 516 523	Nigombo
+T12	ProperName 555 570	Nikalaas Egbers
+T13	Person 555 570	Nikalaas Egbers
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator_Beneficiary
+T14	ProperName 627 633	silauw
+T15	Place 616 626;627 633	kanpemente silauw
+T16	ProperName 638 652	petrus Ripsema
+T17	Person 638 652	petrus Ripsema
+A16	Gender T17 Unspecified
+A17	LegalStatus T17 Unspecified
+A18	Role T17 Other
+T18	Organization 1698 1734	herwaerde Collegie van weesmeesteren
+A19	Beneficiary T18 No
+T19	Person 2169 2188;2189 2196	Juff=r Cornelia van Batavia
+A20	Gender T19 Woman
+A21	LegalStatus T19 Unspecified
+A22	Role T19 Beneficiary
+T20	ProperName 2176 2188;2189 2196	Cornelia van Batavia
+T21	ProperName 2189 2196	Batavia
+T22	Place 2189 2196	Batavia
+T23	Person 759 769	s:r Egbers
+A23	Gender T23 Man
+A24	LegalStatus T23 Unspecified
+A25	Role T23 Testator_Beneficiary
+T24	ProperName 763 769	Egbers
+T25	Person 724 749	manta fernando huijsvrouw
+A26	Gender T25 Woman
+A27	LegalStatus T25 Unspecified
+A28	Role T25 Testator_Beneficiary
+T26	ProperName 724 738	manta fernando

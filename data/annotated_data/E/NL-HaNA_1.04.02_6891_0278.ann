@@ -1,0 +1,12 @@
+T3	Place 116 128	in’t Casteel
+T5	ProperName 285 292	Pierman
+T6	Person 340 350	D: Aetbers
+A1	Gender T6 Unspecified
+A2	LegalStatus T6 Unspecified
+A3	Role T6 Other
+T7	ProperName 343 350	Aetbers
+T8	ProperName 1179 1187;1188 1205	Johannes Lodewijk de Vries
+T9	Person 1179 1187;1188 1205	Johannes Lodewijk de Vries
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other

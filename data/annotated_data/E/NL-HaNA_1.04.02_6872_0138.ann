@@ -1,0 +1,15 @@
+T2	Person 90 98	Slavinne
+A1	Gender T2 Woman
+A2	LegalStatus T2 Enslaved
+A3	Role T2 Other
+T3	ProperName 116 127	van de Caab
+T5	Person 234 267	Huysvrouw Iuffr: Engela ten damme
+A4	Gender T5 Woman
+A5	LegalStatus T5 Freed
+A6	Role T5 Other
+T6	ProperName 251 267	Engela ten damme
+T9	Person 837 866	zoon d’ E Hendrik Swrellingra
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 847 866	Hendrik Swrellingra

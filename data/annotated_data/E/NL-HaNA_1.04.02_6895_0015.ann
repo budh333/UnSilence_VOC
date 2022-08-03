@@ -1,0 +1,16 @@
+T1	Person 127 134;135 141	Erasmus Mulder
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 127 134;135 141	Erasmus Mulder
+T4	ProperName 170 188	oost Jndische Comp
+T5	Place 200 218	schip Sijbecarspel
+T6	ProperName 206 218	Sijbecarspel
+T8	ProperName 285 288	Ian
+T11	ProperName 285 288;289 308	Ian Brouwer van vriesen
+T12	Person 281 288;289 308	DE: Ian Brouwer van vriesen
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T7	ProperName 1824 1831	Batavia
+T13	Place 1824 1831	Batavia

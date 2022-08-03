@@ -1,0 +1,34 @@
+T1	Person 143 167;168 185	Pieter Herstad assistent en geswore scriba
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 143 157	Pieter Herstad
+T3	Person 231 267	Getuijgen, Francois Caffin Corporaal
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 242 257	Francois Caffin
+T6	ProperName 282 287	EComp
+T8	Place 604 614	sterfhuijs
+T10	ProperName 886 898	DE: Compagni
+T13	Place 1044 1063	ter Kamer Amsterdan
+T14	ProperName 1054 1063	Amsterdan
+T16	Person 1316 1328	LijfEijgenen
+A7	Gender T16 Group
+A8	LegalStatus T16 Enslaved
+A9	Role T16 Beneficiary
+T17	Person 1397 1405	slavinne
+A10	Gender T17 Woman
+A11	LegalStatus T17 Enslaved
+A12	Role T17 Other
+T19	Person 1524 1533	Kok Johan
+A13	Gender T19 Man
+A14	LegalStatus T19 Unspecified
+A15	Role T19 Other
+T20	ProperName 1528 1533	Johan
+T21	Person 1637 1648	H: Rijnnagh
+A16	Gender T21 Unspecified
+A17	LegalStatus T21 Unspecified
+A18	Role T21 Other
+T22	ProperName 1637 1648	H: Rijnnagh
+T24	ProperName 1004 1027;1028 1030;1031 1063	der Geoctroijeerde oost In Ee Compagnie ter Kamer Amsterdan

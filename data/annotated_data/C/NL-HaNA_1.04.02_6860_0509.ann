@@ -1,0 +1,13 @@
+T3	Person 0 16	Pieter Vrieswout
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 0 16	Pieter Vrieswout
+T5	Organization 287 295;296 341	de armen vaderloose weesen ten hoofd Comptoir samarang
+A4	Beneficiary T5 Yes
+T6	Place 333 341	samarang
+T7	ProperName 333 341	samarang
+T8	Organization 359 366	d’ kerk
+A5	Beneficiary T8 Yes
+T9	Place 688 695	batavia
+T10	ProperName 688 695	batavia

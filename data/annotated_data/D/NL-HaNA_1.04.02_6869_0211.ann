@@ -1,0 +1,24 @@
+T2	Place 159 165	huijse
+T3	Person 256 261;271 280	Moses Domingosz
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 256 261;271 280	Moses Domingosz
+T5	ProperName 265 270;271 280	Ionas Domingosz
+T6	Person 265 270;271 280	Ionas Domingosz
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Person 434 454	A: J: Ballé. notaris
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Notary
+T8	ProperName 434 445	A: J: Ballé
+T11	Person 716 722	Slaven
+A13	Gender T11 Group
+A14	LegalStatus T11 Enslaved
+A15	Role T11 Other
+T12	Person 726 734	Slaginom
+A16	Gender T12 Group
+A17	LegalStatus T12 Enslaved
+A18	Role T12 Other

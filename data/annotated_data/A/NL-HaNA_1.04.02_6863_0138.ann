@@ -1,0 +1,11 @@
+T2	ProperName 41 47	Comp„s
+T4	ProperName 80 92	de E: Comp„s
+T6	ProperName 144 158;159 190;191 210	de Edele Groot Achtbaare Heeren Bewindhebberen ter kamer Amsterdam
+T7	Place 191 210	ter kamer Amsterdam
+T8	ProperName 201 210	Amsterdam
+T9	Place 260 287	schip de Bovenkerker Polder
+T10	ProperName 266 287	de Bovenkerker Polder
+T11	Person 722 730;731 735	Lijfeigt „nen
+A1	Gender T11 Group
+A2	LegalStatus T11 Enslaved
+A3	Role T11 Beneficiary

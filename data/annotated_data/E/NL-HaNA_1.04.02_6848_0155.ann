@@ -1,0 +1,40 @@
+T1	Person 0 14	Dirk Reurekamp
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 0 14	Dirk Reurekamp
+T4	ProperName 132 161;162 168	Collegie van heeren weesmees„ „teren
+T5	Person 801 825	meester Pieter Straatman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+T6	ProperName 809 825	Pieter Straatman
+T7	Person 836 851;852 859	klerk Arnoldus„ Daniels
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+T8	ProperName 842 851;852 859	Arnoldus„ Daniels
+T9	Person 1046 1061	Greving Notaris
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+T10	ProperName 1046 1053	Greving
+T11	Person 1125 1140	Herman Scheltus
+A13	Gender T11 Unspecified
+A14	LegalStatus T11 Unspecified
+T12	ProperName 1125 1140	Herman Scheltus
+T14	Place 1188 1204	Nederlands India
+T15	ProperName 1188 1204	Nederlands India
+T16	Place 1228 1243	de stad Batavia
+T17	ProperName 1236 1243	Batavia
+T18	Person 1296 1314	E: Dirks Reurekamp
+A16	Gender T18 Man
+A17	LegalStatus T18 Unspecified
+T19	ProperName 1299 1314	Dirks Reurekamp
+T20	Person 1358 1381	Mejuff=r Margireta Boot
+A19	Gender T20 Woman
+A20	LegalStatus T20 Unspecified
+T21	ProperName 1367 1381	Margireta Boot
+A3	Role T1 Other
+A6	Role T5 Witness
+A9	Role T7 Witness
+A12	Role T9 Notary
+A15	Role T11 Notary
+A18	Role T18 Testator
+A21	Role T20 Testator

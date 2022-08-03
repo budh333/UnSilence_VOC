@@ -1,0 +1,38 @@
+T1	Person 194 204	G: W: Saek
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	Person 279 282;283 296	Ba„ „rend De Joot
+A4	Gender T2 Unspecified
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Testator_Beneficiary
+T3	ProperName 279 282;283 296	Ba„ „rend De Joot
+T4	Person 316 320;321 327	Sara Gilauw
+A7	Gender T4 Woman
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Testator_Beneficiary
+T5	ProperName 316 320;321 327	Sara Gilauw
+T6	Person 348 366	Pillis wouterstrek
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Acting_Notary
+T7	ProperName 348 366	Pillis wouterstrek
+T9	Place 470 475;476 488	raade van Justitie
+T10	Person 776 791	Arnoldus De Lij
+A13	Gender T10 Man
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 776 791	Arnoldus De Lij
+T13	Place 831 861	Raad van Justitie deser steede
+T14	Person 879 893	H: L: Martheze
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	Person 927 938	dJGS Kerste
+A19	Gender T15 Unspecified
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Other
+T16	Person 951 971	W Waan Fsend: Kroese
+A22	Gender T16 Unspecified
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Other

@@ -1,0 +1,31 @@
+T1	ProperName 22 29	Batavia
+T2	Place 22 29	Batavia
+T3	Place 64 74	sterfhuijs
+T4	Person 760 770;771 774	J: v: Bom„ mel
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Other
+T5	ProperName 760 770;771 774	J: v: Bom„ mel
+T7	ProperName 821 828;829 834	I=n V=n zeyst
+T9	Person 897 907	P=t Iacobs
+A10	Gender T9 Unspecified
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T11	ProperName 897 907	P=t Iacobs
+T6	Place 976 984	Cheribon
+T8	Place 691 713	ten comptoire cheribon
+T10	ProperName 705 713	cheribon
+T13	Person 882 884;885 894	L. Rulijgh s
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Other
+T14	Person 1338 1347	Kok Johan
+A7	Gender T14 Man
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other
+T15	ProperName 1342 1347	Johan
+T16	Person 1453 1464	H: Rijnnagh
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 1453 1464	H: Rijnnagh

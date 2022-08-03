@@ -1,0 +1,24 @@
+T3	ProperName 748 763	Ian Boudewinsz:
+T4	Place 791 803	Aijerbangies
+T5	ProperName 791 803	Aijerbangies
+T7	ProperName 807 820	Dirk Stolting
+T8	Place 839 845	padang
+T9	ProperName 839 845	padang
+T10	Person 854 862;863 870	Iuffrouw Chrisia
+A7	Gender T10 Woman
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 863 870	Chrisia
+T12	Person 959 965	gerrit
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 959 965	gerrit
+T2	Person 741 763	Heeren Ian Boudewinsz:
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T6	Person 807 820	Dirk Stolting
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other

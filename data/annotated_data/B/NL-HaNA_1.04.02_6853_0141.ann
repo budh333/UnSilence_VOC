@@ -1,0 +1,18 @@
+T1	Person 117 135	Abraham van Dinter
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 117 135	Abraham van Dinter
+T4	Place 177 184	Holland
+T5	ProperName 161 184	Edelen Hose van Holland
+T6	ProperName 177 184	Holland
+T8	Person 243 262	Jan Henderik Raneps
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 243 262	Jan Henderik Raneps
+T10	Person 337 353	Jan Iusius Kroon
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Other
+T11	ProperName 337 353	Jan Iusius Kroon

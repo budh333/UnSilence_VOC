@@ -1,0 +1,27 @@
+T1	Person 117 135	Abraham van Dinter
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 117 135	Abraham van Dinter
+T4	ProperName 161 184	Edelen Hose van Holland
+T5	Place 177 184	Holland
+T6	ProperName 177 184	Holland
+T8	Place 222 227	Bed„s
+T9	Person 231 252	Sijmon Thomas harelsz
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Witness
+T10	ProperName 231 252	Sijmon Thomas harelsz
+T11	Person 366 378	A: V: Dinter
+A7	Gender T11 Man
+A8	LegalStatus T11 Unspecified
+A9	Role T11 Notary
+T12	Person 400 410	Jn  Srumer
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	Person 487 503	Jan Iusius Kroon
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 487 503	Jan Iusius Kroon

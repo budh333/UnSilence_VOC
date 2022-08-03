@@ -1,0 +1,48 @@
+T2	Person 177 187	Jan La Pro
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Acting_Notary
+T3	ProperName 177 187	Jan La Pro
+T4	Place 220 229	Comptoirs
+T5	Place 263 272	Ten huize
+T6	ProperName 344 358	Jelles Mellema
+T7	Person 344 358	Jelles Mellema
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator_Beneficiary
+T8	Place 366 374	scheemda
+T9	ProperName 366 374	scheemda
+T10	Person 378 405	Dorothea Elisabeth Abrahams
+A7	Gender T10 Unspecified
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator_Beneficiary
+T11	ProperName 378 405	Dorothea Elisabeth Abrahams
+T12	ProperName 410 418	Samarang
+T13	Place 410 418	Samarang
+T14	Person 652 661	Jan Lapro
+A10	Gender T14 Man
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Acting_Notary
+T15	ProperName 652 661	Jan Lapro
+T16	Organization 707 713	EComp:
+A13	Beneficiary T16 No
+T17	ProperName 707 713	EComp:
+T18	Place 730 743	ten Comptoire
+T19	Place 868 878	Ten Huijse
+T20	Person 887 902;908 927	E. Heer Abraham Christoffel Coertsz
+A14	Gender T20 Man
+A15	LegalStatus T20 Unspecified
+A16	Role T20 Testator_Beneficiary
+T21	ProperName 895 902;908 927	Abraham Christoffel Coertsz
+T22	Place 933 938	Zelle
+T23	ProperName 933 938	Zelle
+T24	Place 969 984	Java's Oosthoek
+T25	ProperName 969 984	Java's Oosthoek
+T26	ProperName 28 42	Jelles Mellema
+T27	Person 28 42	Jelles Mellema
+A17	Gender T27 Unspecified
+A18	LegalStatus T27 Unspecified
+A19	Role T27 Testator_Beneficiary
+T28	ProperName 1016 1021	Tagal
+T29	Place 1016 1021	Tagal
+T31	ProperName 999 1011	Maria Oumond

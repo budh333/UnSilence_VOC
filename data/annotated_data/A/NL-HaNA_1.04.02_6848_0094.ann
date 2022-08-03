@@ -1,0 +1,39 @@
+T1	Person 17 31	Parchus Nyland
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+T2	ProperName 17 31	Parchus Nyland
+T3	Person 121 154;155 170	Nicolaas van Bergen van der Grijp Notaris publicq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+T4	ProperName 121 154	Nicolaas van Bergen van der Grijp
+T6	Place 205 215;216 221	Nederlands India
+T7	ProperName 205 215;216 221	Nederlands India
+T8	Place 235 258	binnen de staad Batavia
+T9	ProperName 251 258	Batavia
+T11	ProperName 312 318;319 326	Paulus Eijland
+T13	Place 379 385;386 395	Binnen dese stad
+T15	Person 958 987	Zoon Paulus Wilhelmus Nijland
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+T16	ProperName 963 987	Paulus Wilhelmus Nijland
+T23	Person 1384 1397;1398 1434	heer Arnoldus Constantijn Mom, tweede opperkoopman
+A34	Gender T23 Man
+A35	LegalStatus T23 Unspecified
+T24	ProperName 1389 1397;1398 1413	Arnoldus Constantijn Mom
+T26	ProperName 1479 1487;1488 1495	Johannes Nijland
+T27	Place 1511 1522	’t Inlandse
+A3	Role T1 Other
+A6	Role T3 Notary
+T28	ProperName 184 215;216 221	hooge Regeeringe van Nederlands India
+T10	Person 312 318;319 326;327 336	Paulus Eijland adsistent
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+A10	Role T15 Beneficiary
+A11	Role T23 Beneficiary
+T14	Place 1435 1439;1440 1453	dee„ „zes Castuels
+T17	Person 1463 1487;1488 1507	broeders den E„ Johannes Nijland, overdrager
+A12	Gender T17 Man
+A15	LegalStatus T17 Unspecified
+A16	Role T17 Beneficiary
+T18	ProperName 354 369	Edele Compagnie

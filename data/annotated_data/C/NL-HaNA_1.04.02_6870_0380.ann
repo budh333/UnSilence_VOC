@@ -1,0 +1,46 @@
+T3	Person 14 26	I„ D„ Knitke
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 14 26	I„ D„ Knitke
+T5	Person 181 191	C„s Greven
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 181 191	C„s Greven
+T7	Person 238 245	JBarael
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 238 245	JBarael
+T9	Person 319 322;323 335	Ian Hend„k Camps
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 319 322;323 335	Ian Hend„k Camps
+T11	Organization 733 771;772 797	de welEd„e groot Agtb: Heeren bevindhe „beren ter kaamer Zeeland
+A13	Beneficiary T11 No
+T12	Place 790 797	Zeeland
+T13	ProperName 790 797	Zeeland
+T14	Place 840 858	T Schip westerveld
+T15	ProperName 848 858	westerveld
+T16	Person 1554 1571	I„n H„k Dietertgh
+A14	Gender T16 Unspecified
+A15	LegalStatus T16 Unspecified
+A16	Role T16 Witness
+T17	ProperName 1554 1571	I„n H„k Dietertgh
+T18	Person 1576 1593	Joh:s Isack Claat
+A17	Gender T18 Unspecified
+A18	LegalStatus T18 Unspecified
+A19	Role T18 Witness
+T19	ProperName 1576 1593	Joh:s Isack Claat
+T20	Person 1805 1826	Bocco Sabinas D Jongh
+A20	Gender T20 Unspecified
+A21	LegalStatus T20 Unspecified
+A22	Role T20 Acting_Notary
+T21	ProperName 1805 1826	Bocco Sabinas D Jongh
+T22	Person 1846 1854	Sagemant
+A23	Gender T22 Unspecified
+A24	LegalStatus T22 Unspecified
+A25	Role T22 Other
+T23	ProperName 1846 1854	Sagemant

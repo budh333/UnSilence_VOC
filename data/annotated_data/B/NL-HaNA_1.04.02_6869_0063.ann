@@ -1,0 +1,23 @@
+T1	Person 0 16	Joh:s Adolpt Har
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Witness
+T2	ProperName 0 16	Joh:s Adolpt Har
+T4	Person 66 84	Theodorus Bloemers
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 66 84	Theodorus Bloemers
+T7	Place 123 142	ten dezen Comptoire
+T8	Place 228 245	ten huize van den
+T9	Place 268 292	t schip Willem de Vijfde
+T10	ProperName 276 292	Willem de Vijfde
+T11	Place 620 631	te samaring
+T12	ProperName 623 631	samaring
+T13	Place 1425 1440;1441 1461	ten Neederlands Comptoir DJokjokatta
+T14	ProperName 1450 1461	DJokjokatta
+T15	Person 1503 1534	Johannes Gerhardus Van den Berg
+A7	Gender T15 Unspecified
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Witness
+T16	ProperName 1503 1534	Johannes Gerhardus Van den Berg

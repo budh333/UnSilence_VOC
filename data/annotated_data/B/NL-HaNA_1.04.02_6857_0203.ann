@@ -1,0 +1,38 @@
+T1	Person 66 81;82 85	Johannes Garrel man
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 66 81;82 85	Johannes Garrel man
+T3	Person 174 192	Johannes Garrelman
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Testator
+T4	ProperName 174 192	Johannes Garrelman
+T5	Person 290 306	Ian van der Laer
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Witness
+T6	ProperName 290 306	Ian van der Laer
+T7	Place 341 356	dezen Comptoire
+T8	Person 443 467	D' E: Johannes Garrelman
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Testator
+T9	ProperName 449 467	Johannes Garrelman
+T11	Place 525 554;555 591	ten huijze van den alhier mi„ „literende sergeant Cornelis Fessers
+T12	Person 575 591	Cornelis Fessers
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 575 591	Cornelis Fessers
+T14	Person 1114 1121;1122 1143	Iuffrou Anna Margaretta Eleke
+A16	Gender T14 Woman
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Beneficiary
+T15	ProperName 1122 1143	Anna Margaretta Eleke
+T16	Person 1172 1189	Hendrik Garrelman
+A19	Gender T16 Man
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	Place 1194 1218	binnen de stad Amsterdam
+T18	ProperName 1209 1218	Amsterdam

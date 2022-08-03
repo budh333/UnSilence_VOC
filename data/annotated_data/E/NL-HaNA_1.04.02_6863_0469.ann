@@ -1,0 +1,59 @@
+T1	Person 95 113;114 117	Luijtenant Jnsinia ieg
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Person 120 140	vaer Jan Ernst Kiehr
+A4	Gender T2 Man
+A5	LegalStatus T2 Unspecified
+A6	Role T2 Other
+T3	ProperName 125 140	Jan Ernst Kiehr
+T4	Place 192 199	Kolombo
+T5	ProperName 192 199	Kolombo
+T6	Person 235 258	heer Dessave Jan Bauert
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 240 258	Dessave Jan Bauert
+T8	Person 288 292;293 317	zoon Julius vatentijn Bautert
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Beneficiary
+T9	ProperName 293 317	Julius vatentijn Bautert
+T10	ProperName 330 352	Johan Engelbert hugoms
+T11	Person 330 352	Johan Engelbert hugoms
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T12	Person 400 420	heer Joan hugonisz:r
+A16	Gender T12 Man
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 405 420	Joan hugonisz:r
+T14	Person 574 599	abraham maurits Fabviciur
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 574 599	abraham maurits Fabviciur
+T16	Person 650 675;676 692	adsistent Pieter Lodewijk van der straaten
+A22	Gender T16 Man
+A23	LegalStatus T16 Unspecified
+A24	Role T16 Beneficiary
+T17	ProperName 660 675;676 692	Pieter Lodewijk van der straaten
+T18	Person 770 775;776 804	vader Georg hendrik Sigmond muller
+A25	Gender T18 Man
+A26	LegalStatus T18 Unspecified
+A27	Role T18 Beneficiary
+T19	ProperName 776 804	Georg hendrik Sigmond muller
+T20	ProperName 842 852	Lauterbagh
+T21	Place 835 841;842 852	stadte Lauterbagh
+T22	Person 1041 1057	Jan Philip Stort
+A28	Gender T22 Man
+A29	LegalStatus T22 Unspecified
+A30	Role T22 Witness
+T23	ProperName 1041 1057	Jan Philip Stort
+T24	ProperName 1074 1089	Roeloff Beekman
+T25	Person 1074 1089	Roeloff Beekman
+A31	Gender T25 Man
+A32	LegalStatus T25 Unspecified
+A33	Role T25 Witness
+T26	ProperName 1311 1317	Muller

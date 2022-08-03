@@ -1,0 +1,60 @@
+T3	Person 5 21	Pieter Vrieswout
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 5 21	Pieter Vrieswout
+T5	ProperName 167 174	Batavia
+T6	Place 167 174	Batavia
+T7	Person 267 281	Albert Alberts
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Testator
+T8	ProperName 267 281	Albert Alberts
+T9	Person 360 393	dolph Plorentius van der niepoort
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 360 393	dolph Plorentius van der niepoort
+T11	Place 450 463	Javatoosthoek
+T12	Place 644 651	batavia
+T13	ProperName 644 651	batavia
+T14	Person 681 687	Mulder
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 681 687	Mulder
+T16	Person 744 748	Riem
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 744 748	Riem
+T18	Person 807 820	M„ Santsleber
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 807 820	M„ Santsleber
+T20	Person 863 869	Muller
+A19	Gender T20 Unspecified
+A20	LegalStatus T20 Unspecified
+A21	Role T20 Other
+T21	ProperName 863 869	Muller
+T22	Person 926 934	m„r Bach
+A22	Gender T22 Unspecified
+A23	LegalStatus T22 Unspecified
+A24	Role T22 Other
+T23	ProperName 926 934	m„r Bach
+T24	Person 996 1010	Matt schelhaas
+A25	Gender T24 Unspecified
+A26	LegalStatus T24 Unspecified
+A27	Role T24 Other
+T25	ProperName 996 1010	Matt schelhaas
+T26	Person 1053 1060	v„ Loon
+A28	Gender T26 Unspecified
+A29	LegalStatus T26 Unspecified
+A30	Role T26 Other
+T27	ProperName 1053 1060	v„ Loon
+T28	Person 1167 1176	Erentrijk
+A31	Gender T28 Unspecified
+A32	LegalStatus T28 Unspecified
+A33	Role T28 Other
+T29	ProperName 1167 1176	Erentrijk

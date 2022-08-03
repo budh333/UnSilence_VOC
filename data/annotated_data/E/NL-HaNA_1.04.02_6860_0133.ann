@@ -1,0 +1,30 @@
+T2	Person 128 134	slaven
+A1	Gender T2 Group
+A2	LegalStatus T2 Enslaved
+A3	Role T2 Other
+T3	Person 138 146	slavinne
+A4	Gender T3 Group
+A5	LegalStatus T3 Enslaved
+A6	Role T3 Other
+T4	ProperName 268 274	Europa
+T5	Place 268 274	Europa
+T6	ProperName 805 809;810 823	Heer weesmeesteren
+T8	Person 1141 1160	Heer Hendrik Breton
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 1146 1160	Hendrik Breton
+T10	ProperName 1372 1397	Chiaphas Augustijns Talls
+T11	Person 1372 1397	Chiaphas Augustijns Talls
+A10	Gender T11 Man
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T12	ProperName 1540 1549	Jan Lapro
+T13	Person 1540 1549	Jan Lapro
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	Person 1577 1591	E:V: E:H uroos
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other

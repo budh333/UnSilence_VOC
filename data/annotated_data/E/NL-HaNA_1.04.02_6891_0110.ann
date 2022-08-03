@@ -1,0 +1,15 @@
+T3	Person 67 94	Bwst en Leender de Gruijted
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	ProperName 249 259	Johan Tred
+T5	Person 249 259	Johan Tred
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	Person 289 297	PJ: Hilo
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 293 297	Hilo
+T8	ProperName 67 94	Bwst en Leender de Gruijted

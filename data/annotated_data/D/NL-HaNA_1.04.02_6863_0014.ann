@@ -1,0 +1,15 @@
+T2	Person 1106 1111;1112 1118	Iohan De vos
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 1106 1111;1112 1118	Iohan De vos
+T4	Person 1155 1161;1162 1168	Daniel De Bok
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 1155 1161;1162 1168	Daniel De Bok
+T6	Person 1209 1228	Iakobus Doebbratsz:
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 1209 1228	Iakobus Doebbratsz:

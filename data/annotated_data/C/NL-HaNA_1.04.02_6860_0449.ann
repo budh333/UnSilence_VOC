@@ -1,0 +1,27 @@
+T3	Person 37 42	Cawra
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 37 42	Cawra
+T5	Place 270 276	Europa
+T6	ProperName 270 276	Europa
+T7	Person 345 366	Geertruijderschophoff
+A4	Gender T7 Woman
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Beneficiary
+T8	ProperName 345 366	Geertruijderschophoff
+T9	Person 380 389	Schonhoff
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 380 389	Schonhoff
+T11	Person 393 408	Cristiman Schop
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Other
+T12	ProperName 393 408	Cristiman Schop
+T13	Person 427 431;432 449	Heer Henderik Schophof
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Testator
+T14	ProperName 432 449	Henderik Schophof

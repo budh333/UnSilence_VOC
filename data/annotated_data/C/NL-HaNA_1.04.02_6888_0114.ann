@@ -1,0 +1,34 @@
+T3	Person 159 174	Anthonij vietor
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 159 174	Anthonij vietor
+T5	Person 755 780;781 787	Juffvrouw Margaretha Mues weduwe
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 765 780	Margaretha Mues
+T8	ProperName 816 831	Lucas Hogendorp
+T9	Person 927 954	Juff:r Grietje Groes weduwe
+A10	Gender T9 Woman
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Beneficiary
+T10	ProperName 934 947	Grietje Groes
+T11	Person 962 982	D'E: Dirck Hogendorp
+A13	Gender T11 Man
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 967 982	Dirck Hogendorp
+T13	Place 997 1007	purmerende
+T14	ProperName 997 1007	purmerende
+T16	ProperName 1086 1093;1094 1099	Grietje Koels
+T17	Place 1104 1112	Jlpendam
+T18	ProperName 1104 1112	Jlpendam
+T7	Person 816 831	Lucas Hogendorp
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T15	Person 1086 1093;1094 1099	Grietje Koels
+A16	Gender T15 Woman
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Beneficiary

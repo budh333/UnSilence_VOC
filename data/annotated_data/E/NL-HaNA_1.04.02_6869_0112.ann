@@ -1,0 +1,37 @@
+T3	ProperName 99 118	Tolkert vonder Leij
+T4	Person 99 118	Tolkert vonder Leij
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 150 170	Egbert Arend Dewelde
+T6	Person 150 170	Egbert Arend Dewelde
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T8	ProperName 508 513	Looth
+T9	Person 508 513	Looth
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Testator
+T10	Person 619 624	Looth
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Testator
+T11	ProperName 619 624	Looth
+T12	ProperName 993 1015	Johan Christoffel Cunw
+T13	ProperName 1019 1040	Matthias Gerardus Ros
+T14	Person 993 1015	Johan Christoffel Cunw
+A13	Gender T14 Unspecified
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Witness
+T15	Person 1019 1040	Matthias Gerardus Ros
+A16	Gender T15 Unspecified
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Witness
+T16	ProperName 1158 1163	Tholt
+T17	Person 1158 1163	Tholt
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	Place 955 973	te Hoegle en Benge
+T19	ProperName 968 973	Benge

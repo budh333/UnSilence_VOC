@@ -1,0 +1,36 @@
+T1	ProperName 173 180	Bengale
+T2	Place 173 180	Bengale
+T3	ProperName 207 228	Albertus. Oostermijer
+T4	Person 207 228	Albertus. Oostermijer
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Witness
+T5	ProperName 232 237	Danie
+T6	Person 232 237	Danie
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Witness
+T7	Person 269 274	F: La
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 272 274	La
+T9	ProperName 314 328	van den Broeck
+T10	Person 314 328	van den Broeck
+A10	Gender T10 Unspecified
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Other
+T11	ProperName 369 380	Oostermijer
+T12	Person 369 380	Oostermijer
+A13	Gender T12 Unspecified
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Witness
+T13	Person 414 424;425 426	J„s van de V
+A16	Gender T13 Unspecified
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	Person 470 483	J: Van Hierop
+A19	Gender T14 Man
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Acting_Notary
+T15	ProperName 473 483	Van Hierop

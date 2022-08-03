@@ -1,0 +1,51 @@
+T2	Place 102 109	Settijn
+T3	ProperName 102 109	Settijn
+T4	ProperName 83 97	Jacob Sibleras
+T5	Person 83 97	Jacob Sibleras
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Other
+T6	Organization 250 259;260 277	E: Agtb=r Raad van Iustitie
+A4	Beneficiary T6 No
+T7	Place 285 297	Gouvernement
+T8	ProperName 388 403	Dirk Westerhoff
+T9	Person 388 403	Dirk Westerhoff
+A5	Gender T9 Unspecified
+A6	LegalStatus T9 Unspecified
+A7	Role T9 Other
+T10	Person 497 513	Jan Coenraad Gie
+A8	Gender T10 Unspecified
+A9	LegalStatus T10 Unspecified
+A10	Role T10 Other
+T11	ProperName 497 513	Jan Coenraad Gie
+T12	ProperName 564 569;570 579	Jacob Siebleras
+T13	Person 564 569;570 579	Jacob Siebleras
+A11	Gender T13 Unspecified
+A12	LegalStatus T13 Unspecified
+A13	Role T13 Other
+T14	Place 716 734	't Casteel Bavavia
+T15	ProperName 716 734	't Casteel Bavavia
+T16	ProperName 763 767;768 774	L:f: Badden
+T17	ProperName 775 789	A: M: freschel
+T18	Person 763 767;768 774	L:f: Badden
+A14	Gender T18 Unspecified
+A15	LegalStatus T18 Unspecified
+A16	Role T18 Other
+T19	Person 775 789	A: M: freschel
+A17	Gender T19 Unspecified
+A18	LegalStatus T19 Unspecified
+A19	Role T19 Other
+T20	ProperName 901 913	Jan Schouten
+T21	Person 901 913	Jan Schouten
+A20	Gender T21 Unspecified
+A21	LegalStatus T21 Unspecified
+A22	Role T21 Other
+T22	Person 1405 1411	slaven
+A23	Gender T22 Group
+A24	LegalStatus T22 Enslaved
+A25	Role T22 Other
+T23	Person 1347 1362	Agnita Schouten
+A26	Gender T23 Unspecified
+A27	LegalStatus T23 Unspecified
+A28	Role T23 Other
+T24	ProperName 1347 1362	Agnita Schouten

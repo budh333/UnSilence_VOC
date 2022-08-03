@@ -1,0 +1,24 @@
+T1	Person 29 34	Jacob
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	Place 497 507	Sourabaija
+T3	ProperName 497 507	Sourabaija
+T4	Person 549 566	Andries Hartsinck
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 549 566	Andries Hartsinck
+T6	Person 578 591	W Hranysseldr
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	Person 773 787	willem Kerkman
+A10	Gender T7 Unspecified
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 773 787	willem Kerkman
+T9	Person 807 816	JWvanisan
+A13	Gender T9 Unspecified
+A14	LegalStatus T9 Unspecified
+A15	Role T9 Other

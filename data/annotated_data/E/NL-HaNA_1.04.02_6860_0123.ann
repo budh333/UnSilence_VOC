@@ -1,0 +1,12 @@
+T2	Place 55 65	Sourabaija
+T3	ProperName 55 65	Sourabaija
+T4	ProperName 135 158	Christiaan Ernst Eckard
+T5	Person 135 158	Christiaan Ernst Eckard
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 196 222;223 232	Juffrouw Maria Johanna van Tongeren.
+A4	Gender T6 Woman
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Testator
+T7	ProperName 205 222;223 232	Maria Johanna van Tongeren.

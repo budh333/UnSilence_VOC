@@ -1,0 +1,28 @@
+T3	Place 121 141	’t schip Radermacher
+T4	ProperName 130 141	Radermacher
+T5	Place 1015 1040;1041 1045	in de pontjalling de wind houd
+T6	ProperName 1033 1040;1041 1045	de wind houd
+T7	Place 1059 1064	arouw
+T8	ProperName 1059 1064	arouw
+T9	Place 1068 1073	banda
+T10	ProperName 1068 1073	banda
+T11	Person 1237 1251	J=n D„k Beinon
+A1	Gender T11 Unspecified
+A2	LegalStatus T11 Unspecified
+A3	Role T11 Other
+T12	ProperName 1237 1251	J=n D„k Beinon
+T13	Person 1335 1355	Cornelies de vriesen
+A4	Gender T13 Unspecified
+A5	LegalStatus T13 Unspecified
+A6	Role T13 Other
+T14	ProperName 1335 1355	Cornelies de vriesen
+T15	Person 1356 1369	Hans Constans
+A7	Gender T15 Unspecified
+A8	LegalStatus T15 Unspecified
+A9	Role T15 Other
+T16	ProperName 1356 1369	Hans Constans
+T17	Person 1382 1391	D Haatorg
+A10	Gender T17 Unspecified
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Other
+T18	ProperName 1382 1391	D Haatorg

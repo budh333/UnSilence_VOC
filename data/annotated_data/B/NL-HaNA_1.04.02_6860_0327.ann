@@ -1,0 +1,25 @@
+T1	Person 97 117	Joan Adriaan dreijer
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Acting_Notary
+T2	ProperName 97 117	Joan Adriaan dreijer
+T3	Place 150 166	deesen Comptoire
+T4	Place 203 244;245 271	tenhuijse van den alhier bescheydene sol„ daat Christoffel Schelling
+T5	Person 250 271	Christoffel Schelling
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 250 271	Christoffel Schelling
+T7	Place 277 291	Pruijshollandt
+T8	ProperName 277 291	Pruijshollandt
+T9	Place 1142 1163	Samarangse Armenhuijs
+T12	Place 1281 1296	hier ter plaets
+T13	Person 1440 1453	Joseph mulder
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Other
+T14	ProperName 1440 1453	Joseph mulder
+T15	Person 1499 1510	mans-slaaff
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Enslaved
+A12	Role T15 Other

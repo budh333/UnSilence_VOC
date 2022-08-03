@@ -1,0 +1,38 @@
+T2	Person 14 31	Pieter De Lahayse
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 14 31	Pieter De Lahayse
+T4	Place 433 438;439 465	Heder lands Comptoire Sourabaija
+T5	ProperName 433 438;439 465	Heder lands Comptoire Sourabaija
+T6	ProperName 500 522	Jan Hendrik Leijdekker
+T7	Person 500 522	Jan Hendrik Leijdekker
+A4	Gender T7 Unspecified
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	ProperName 526 536	Jan Siffle
+T9	Person 526 536	Jan Siffle
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	Person 694 709	J„n Est Echardt
+A10	Gender T10 Man
+A11	LegalStatus T10 Unspecified
+A12	Role T10 Acting_Notary
+T11	ProperName 694 709	J„n Est Echardt
+T12	ProperName 765 781	C„n E=st Eckardt
+T13	Person 765 781	C„n E=st Eckardt
+A13	Gender T13 Man
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Acting_Notary
+T14	Organization 858 875	rade van Justitie
+A16	Beneficiary T14 No
+T15	Place 880 902	Gouvernemente Samarang
+T16	ProperName 880 902	Gouvernemente Samarang
+T17	Place 990 1000	Sourabaija
+T18	ProperName 990 1000	Sourabaija
+T19	ProperName 809 820	C= EEekardt
+T20	Person 809 820	C= EEekardt
+A17	Gender T20 Unspecified
+A18	LegalStatus T20 Unspecified
+A19	Role T20 Other

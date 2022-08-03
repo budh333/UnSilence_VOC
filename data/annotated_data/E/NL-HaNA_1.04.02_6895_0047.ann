@@ -1,0 +1,46 @@
+T4	ProperName 225 240	Iacobus Clacijs
+T5	Person 225 241	Iacobus Clacijs,
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Testator
+T6	Person 326 344	heer Simon Josephe
+A4	Gender T6 Man
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Beneficiary
+T7	ProperName 331 344	Simon Josephe
+T9	ProperName 437 452	Iacobus claeijs
+T10	Person 437 452	Iacobus claeijs
+A7	Gender T10 Man
+A8	LegalStatus T10 Unspecified
+A9	Role T10 Testator
+T11	ProperName 599 616	Andries Ian Zalle
+T12	Person 599 616	Andries Ian Zalle
+A10	Gender T12 Man
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Notary
+T14	ProperName 658 665	holland
+T15	Place 658 665	holland
+T17	ProperName 698 708;709 714	nederlands india
+T18	Place 698 708;709 714	nederlands india
+T19	Place 736 751	de stad batavia
+T20	ProperName 744 751	batavia
+T21	ProperName 1158 1175	Andries Jan Zalle
+T22	Person 1158 1175	Andries Jan Zalle
+A13	Gender T22 Man
+A14	LegalStatus T22 Unspecified
+A15	Role T22 Notary
+T24	ProperName 1216 1223	holland
+T25	Place 1216 1223	holland
+T27	Place 1257 1273	nederlands india
+T28	ProperName 1257 1273	nederlands india
+T29	Place 1298 1313	de stad batavia
+T30	ProperName 1306 1313	batavia
+T31	ProperName 1388 1403	Iacobus Claeijs
+T32	Person 1388 1403	Iacobus Claeijs
+A16	Gender T32 Man
+A17	LegalStatus T32 Unspecified
+A18	Role T32 Testator
+T34	Place 1465 1469	Loco
+T35	ProperName 1465 1469	Loco
+T37	Place 1851 1858	Batavia
+T38	ProperName 1851 1858	Batavia

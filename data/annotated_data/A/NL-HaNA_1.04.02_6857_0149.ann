@@ -1,0 +1,40 @@
+T1	Person 6 21	Johannus Ebelie
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 6 21	Johannus Ebelie
+T3	Person 112 132;145 153	Matthijs Kuijper As„ „sistent
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T4	ProperName 112 128	Matthijs Kuijper
+T6	ProperName 168 177	E: Comp:e
+T7	Person 303 342;343 351	Heer Jan de Vries, present de naten ge„ „tuijgen
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 308 320	Jan de Vries
+T9	Person 352 381	Johannes Ebelie J=o Assistent
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Other
+T10	ProperName 352 367	Johannes Ebelie
+T11	Person 442 482	Adriana van de Waele, beijde Egte lieden
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Other
+T12	ProperName 442 462	Adriana van de Waele
+T13	Person 1948 1986	dogter Cathari„
+A16	Gender T13 Woman
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Beneficiary
+T14	Person 1948 1963;1967 1986	dogter Cathari„ na Elisabeth Elling
+A19	Gender T14 Woman
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Beneficiary
+T15	ProperName 1955 1963;1967 1986	Cathari„ na Elisabeth Elling
+T17	ProperName 2145 2151	Comp:e
+T18	Person 2069 2077	der Wolt
+A22	Gender T18 Unspecified
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other

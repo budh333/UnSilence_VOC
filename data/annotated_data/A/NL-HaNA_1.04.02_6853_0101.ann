@@ -1,0 +1,51 @@
+T1	Person 14 34	Jan Christiaa Malsch
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 14 34	Jan Christiaa Malsch
+T3	Person 90 114	Iacobus Wijnand brengman
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 90 114	Iacobus Wijnand brengman
+T5	Person 115 135	Gosen van der Meulen
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	ProperName 115 135	Gosen van der Meulen
+T7	Person 188 215;216 223	M:r Joan van der voortnot=s publicq
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Notary
+T8	ProperName 192 210	Joan van der voort
+T10	ProperName 257 273	nnderlands Jndia
+T11	Place 298 305	batavia
+T12	ProperName 298 305	batavia
+T13	Person 318 333	Andrigs Linstel
+A13	Gender T13 Unspecified
+A14	LegalStatus T13 Unspecified
+A15	Role T13 Other
+T14	ProperName 318 333	Andrigs Linstel
+T15	Person 386 414;415 430	Guilliam Gerard Franchimont, notaris publicq
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Notary
+T16	ProperName 386 413	Guilliam Gerard Franchimont
+T18	ProperName 466 482	nederlands India
+T19	Place 496 515;516 519	binnen de stad bata via
+T20	ProperName 511 515;516 519	bata via
+T21	Place 466 482	nederlands India
+T22	Place 257 273	nnderlands Jndia
+T23	Person 569 598;599 620	Getuijgen Andries Linstel van stokholm, bosschieter
+A19	Gender T23 Man
+A20	LegalStatus T23 Unspecified
+A21	Role T23 Testator
+T24	ProperName 579 598;599 607	Andries Linstel van stokholm
+T26	ProperName 637 642	EComp
+T27	Person 1011 1044	vrind Ian Godfried Croese soldaat
+A22	Gender T27 Man
+A23	LegalStatus T27 Unspecified
+A24	Role T27 Beneficiary
+T28	ProperName 1017 1036	Ian Godfried Croese
+T31	Place 1280 1289	Amsterdam
+T33	ProperName 1232 1270;1271 1289	GeoctroijeerdD oost indische Compagnie tn namer Amsterdam

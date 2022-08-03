@@ -1,0 +1,36 @@
+T3	Person 708 725	heeren Cluysenaar
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 715 725	Cluysenaar
+T5	Person 729 738	reeverman
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 729 738	reeverman
+T7	Person 1019 1031	LijfEijgenen
+A7	Gender T7 Group
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Other
+T8	Person 1042 1059	Datis van batavia
+A10	Gender T8 Man
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Other
+T9	ProperName 1042 1059	Datis van batavia
+T10	Place 1052 1059	batavia
+T11	Person 1069 1081;1082 1094	wijf Poutjou van Mandhaar
+A13	Gender T11 Woman
+A14	LegalStatus T11 Enslaved
+A15	Role T11 Other
+T12	ProperName 1074 1081;1082 1094	Poutjou van Mandhaar
+T13	Place 1086 1094	Mandhaar
+T14	Person 1116 1122	Lijsje
+A16	Gender T14 Unspecified
+A17	LegalStatus T14 Unspecified
+A18	Role T14 Other
+T15	ProperName 1116 1122	Lijsje
+T16	Person 1126 1130	Arij
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Enslaved
+A21	Role T16 Other
+T17	ProperName 1126 1130	Arij

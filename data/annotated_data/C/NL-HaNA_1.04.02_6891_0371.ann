@@ -1,0 +1,46 @@
+T3	Person 85 104	George Fredrik Roth
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 85 104	George Fredrik Roth
+T5	Organization 125 148	der Oost Indsche Comp=e
+A4	Beneficiary T5 No
+T6	Place 149 177	op het schip Noord Nieuwland
+T7	ProperName 162 177	Noord Nieuwland
+T8	Person 327 346	Ioost van Steenland
+A5	Gender T8 Man
+A6	LegalStatus T8 Unspecified
+A7	Role T8 Testator
+T9	ProperName 327 346	Ioost van Steenland
+T10	Place 351 361	vlissingen
+T11	ProperName 351 361	vlissingen
+T12	Organization 380 391	der E Com=e
+A8	Beneficiary T12 No
+T13	Person 493 504	Pieter Boom
+A9	Gender T13 Unspecified
+A10	LegalStatus T13 Unspecified
+A11	Role T13 Acting_Notary
+T14	ProperName 493 504	Pieter Boom
+T15	Organization 525 535	der EComp:
+A12	Beneficiary T15 No
+T16	Person 636 670;671 683	Willem Jan Hendrik van Cattenburgh onderkoopman
+A13	Gender T16 Man
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Acting_Notary
+T17	ProperName 636 670	Willem Jan Hendrik van Cattenburgh
+T18	Organization 902 909	EComp:s
+A16	Beneficiary T18 No
+T19	Person 910 939	Johannes Bernhardus Scholtgen
+A17	Gender T19 Man
+A18	LegalStatus T19 Unspecified
+A19	Role T19 Testator
+T20	ProperName 910 939	Johannes Bernhardus Scholtgen
+T21	Place 944 952	solingen
+T22	ProperName 944 952	solingen
+T23	Person 1487 1505	Heer Carel Telkamp
+A20	Gender T23 Man
+A21	LegalStatus T23 Unspecified
+A22	Role T23 Beneficiary
+T24	ProperName 1492 1505	Carel Telkamp
+T25	Place 1979 1988	purmerent
+T26	ProperName 1979 1988	purmerent

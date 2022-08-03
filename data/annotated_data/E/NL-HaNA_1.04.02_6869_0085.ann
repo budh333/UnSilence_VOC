@@ -1,0 +1,37 @@
+T3	Person 2 21	Abraham van Leeuwen
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 2 21	Abraham van Leeuwen
+T5	Person 93 112	M:r Egbert blomhert
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Notary
+T6	ProperName 97 112	Egbert blomhert
+T8	ProperName 163 179	nederlands Jndia
+T9	Place 163 179	nederlands Jndia
+T10	Place 201 216	de stad batavia
+T11	ProperName 209 216	batavia
+T12	Person 265 290	D: E: Abraham van Leeuwen
+A7	Gender T12 Man
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Testator
+T13	ProperName 271 290	Abraham van Leeuwen
+T15	Person 410 428	DE:s Pieter Coster
+A10	Gender T15 Man
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Other
+T16	ProperName 415 428	Pieter Coster
+T17	Person 489 519	zoon m:r Iohannes martinus Sas
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Other
+T18	ProperName 498 519	Iohannes martinus Sas
+T21	Place 335 339	Loco
+T22	ProperName 335 339	Loco
+T23	Place 1980 1994;1995 2000	schip Crabben„ dijke
+T24	ProperName 1986 1994;1995 2000	Crabben„ dijke
+T25	Place 2149 2154;2155 2168	schip Kirietsheuvel
+T26	ProperName 2155 2168	Kirietsheuvel
+T27	Place 2299 2314	schip D' Gustaa
+T28	ProperName 2305 2315	D' Gustaaf

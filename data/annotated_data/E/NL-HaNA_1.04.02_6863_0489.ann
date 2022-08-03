@@ -1,0 +1,35 @@
+T1	ProperName 36 50;51 67	Rururgijn Ian„ hendrik Warnnkke
+T2	Person 36 50;51 67	Rururgijn Ian„ hendrik Warnnkke
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 89 105	Andries Andriesz
+T4	Person 89 105	Andries Andriesz
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T6	ProperName 243 263	heeren weesmeesteren
+T8	ProperName 547 568	heeren bewindhebberen
+T9	Place 580 589	amsterdam
+T10	ProperName 580 589	amsterdam
+T11	Place 631 650	schip Kiewitsheuvil
+T12	ProperName 637 650	Kiewitsheuvil
+T13	ProperName 895 915	Clausula Reservatoir
+T14	Person 895 915	Clausula Reservatoir
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Other
+T16	ProperName 1270 1292;1293 1299	Gerrardus Johannes van Sanden
+T17	Person 1270 1292;1293 1299	Gerrardus Johannes van Sanden
+A10	Gender T17 Man
+A11	LegalStatus T17 Unspecified
+A12	Role T17 Other
+T19	Place 1433 1442	weeskamer
+T20	ProperName 1447 1464	Engelbert de moor
+T21	Person 1447 1464	Engelbert de moor
+A13	Gender T21 Man
+A14	LegalStatus T21 Unspecified
+A15	Role T21 Other
+T22	Place 1469 1476	Colombo
+T23	ProperName 1469 1476	Colombo
+T24	ProperName 1645 1651	Muller

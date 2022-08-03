@@ -1,0 +1,36 @@
+T1	Place 642 661	het Casteel Colombe
+T3	ProperName 699 707	Peijneke
+T4	Person 726 744	Abraham Puschlever
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	ProperName 726 744	Abraham Puschlever
+T8	Person 990 1004;1005 1021	G: C: franchi„ mont Gesw: klerk
+A13	Gender T8 Unspecified
+A14	LegalStatus T8 Unspecified
+A15	Role T8 Other
+T9	ProperName 990 1004;1005 1009	G: C: franchi„ mont
+T10	Person 1034 1044	P: Kevnhar
+A16	Gender T10 Unspecified
+A17	LegalStatus T10 Unspecified
+A18	Role T10 Other
+T11	ProperName 1034 1044	P: Kevnhar
+T13	Person 1122 1137	Johannes Philip
+A19	Gender T13 Unspecified
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Other
+T14	ProperName 1122 1137	Johannes Philip
+T15	Person 1515 1533	Mejuffrouw Johanna
+A22	Gender T15 Woman
+A23	LegalStatus T15 Unspecified
+A24	Role T15 Other
+T16	ProperName 1526 1533	Johanna
+T2	Person 699 707	Peijneke
+A1	Gender T2 Man
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T6	Person 749 752;753 791	Ben gamin pieter Cornelis de Haart klerken
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Witness
+T7	ProperName 749 752;753 783	Ben gamin pieter Cornelis de Haart

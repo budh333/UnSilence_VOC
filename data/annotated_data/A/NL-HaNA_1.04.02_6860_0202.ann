@@ -1,0 +1,16 @@
+T2	ProperName 72 82	'S Ecomp:s
+T3	Person 325 351	Godfnee Helmike Secretaris
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 325 340	Godfnee Helmike
+T5	Person 415 442	: Ms van Rhijn gesw: Seciba
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 414 429	I: Ms van Rhijn
+T7	Person 452 467	D 1J„e Van hijn
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 452 467	D 1J„e Van hijn

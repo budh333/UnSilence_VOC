@@ -1,0 +1,15 @@
+T3	Person 2 12	Jan gedrge
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 2 12	Jan gedrge
+T5	Person 579 598	Christoffel Claasz:
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Other
+T6	ProperName 579 599	Christoffel Claasz:,
+T7	Person 632 652	Jan pieter scruijler
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other
+T8	ProperName 632 652	Jan pieter scruijler

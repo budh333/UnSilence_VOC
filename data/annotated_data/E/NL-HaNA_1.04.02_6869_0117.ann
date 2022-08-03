@@ -1,0 +1,15 @@
+T4	Person 228 243	Corporaal Looth
+A1	Gender T4 Man
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Testator
+T5	ProperName 238 243	Looth
+T6	Person 309 324	Jnlander Bagbot
+A4	Gender T6 Unspecified
+A5	LegalStatus T6 Unspecified
+A6	Role T6 Other
+T7	ProperName 318 324	Bagbot
+T8	ProperName 197 201	Reek
+T9	Person 197 201	Reek
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other

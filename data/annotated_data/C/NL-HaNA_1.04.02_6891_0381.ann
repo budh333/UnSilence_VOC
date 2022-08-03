@@ -1,0 +1,17 @@
+T3	Person 74 87	Duniel Pditel
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Acting_Notary
+T4	ProperName 74 87	Duniel Pditel
+T6	Place 151 157;158 172	op het schip Kerkwijk
+T7	ProperName 164 172	Kerkwijk
+T8	Person 186 202	Joannes schroden
+A4	Gender T8 Man
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Testator
+T9	ProperName 186 202	Joannes schroden
+T10	Place 217 229	fermersleben
+T11	ProperName 217 229	fermersleben
+T12	Place 237 243;244 249	op dit schep
+T13	Place 1492 1501	Purmerent
+T14	ProperName 1492 1501	Purmerent

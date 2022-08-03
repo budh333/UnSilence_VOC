@@ -1,0 +1,29 @@
+T2	Person 362 380	Jan Andries Wilker
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Testator
+T3	ProperName 362 380	Jan Andries Wilker
+T4	Person 472 491;492 493;494 516	Johannes Franciscus m Gratiaan gesto: klercq
+A4	Gender T4 Man
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Acting_Notary
+T5	ProperName 472 491;492 493;494 502	Johannes Franciscus m Gratiaan
+T6	Organization 522 536;542 549	Secretarij van Politie
+T7	Person 596 614	Jan Andries hilker
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	Place 632 651	kirchem in turingen
+T9	ProperName 643 651	turingen
+T10	ProperName 632 639	kirchem
+T11	Place 643 651	turingen
+T12	Place 632 639	kirchem
+T13	ProperName 596 614	Jan Andries hilker
+T14	Person 669 683	Christina Ioan
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Testator
+T15	ProperName 669 683	Christina Ioan
+T16	Place 2000 2011	Ameliswaerd
+T17	ProperName 2000 2011	Ameliswaerd
+A13	Beneficiary T6 No

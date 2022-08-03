@@ -1,0 +1,53 @@
+T2	Organization 64 98	g'octroijeerde Oost Indische Comp:
+T3	Place 64 98	g'octroijeerde Oost Indische Comp:
+T4	Place 109 113	Aind
+T5	ProperName 109 113	Aind
+T6	ProperName 294 298	Comp
+T7	Organization 294 298	Comp
+T8	ProperName 388 405	Olto Hendrik Hoek
+T9	Person 388 405	Olto Hendrik Hoek
+A1	Gender T9 Unspecified
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Acting_Notary
+T10	Person 437 453;454 476	Hendrik Schophot Van vallentijn Sondorp
+A4	Gender T10 Unspecified
+A5	LegalStatus T10 Unspecified
+A6	Role T10 Witness
+T11	ProperName 437 453;454 476	Hendrik Schophot Van vallentijn Sondorp
+T12	Person 596 622	V„n P„ Preier gesw: scriba
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	ProperName 596 609	V„n P„ Preier
+T14	Person 634 643	J: vKuler
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 634 643	J: vKuler
+T16	Organization 687 705	Raade van Iustitie
+T17	ProperName 687 705	Raade van Iustitie
+T18	Place 709 714	Laman
+T19	ProperName 709 714	Laman
+T20	Place 811 820	Soercasta
+T21	ProperName 811 820	Soercasta
+T22	Person 841 849;850 855	van Frar maart
+A13	Gender T22 Unspecified
+A14	LegalStatus T22 Unspecified
+A15	Role T22 Other
+T23	ProperName 841 849;850 855	van Frar maart
+T24	Person 907 940	gesw: Seriba Jhan Jadriaan Lreier
+A16	Gender T24 Unspecified
+A17	LegalStatus T24 Unspecified
+A18	Role T24 Other
+T25	ProperName 920 940	Jhan Jadriaan Lreier
+T26	Organization 1023 1032	’s Comp:s
+T27	ProperName 1024 1032	s Comp:s
+T28	Person 1259 1284	V„n g:s Selmke Secretaris
+A19	Gender T28 Unspecified
+A20	LegalStatus T28 Unspecified
+A21	Role T28 Other
+T29	ProperName 1259 1273	V„n g:s Selmke
+A22	Beneficiary T2 No
+A23	Beneficiary T7 No
+A24	Beneficiary T16 No
+A25	Beneficiary T26 No

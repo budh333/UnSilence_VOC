@@ -1,0 +1,30 @@
+T2	ProperName 254 264	Johan Tred
+T3	Person 254 264	Johan Tred
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	Person 295 303	P J Hilo
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T5	ProperName 299 303	Hilo
+T6	Place 425 435;436 443	huijse van de heer
+T8	ProperName 468 476;477 486	Cornelis Domingosz
+T9	Person 468 476;477 486	Cornelis Domingosz
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Witness
+T10	ProperName 488 503	moses pietersz:
+T11	Person 488 502	moses pietersz
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Witness
+T13	ProperName 666 671;672 685	Iokan van Viesvliet
+T14	Person 666 671;672 685	Iokan van Viesvliet
+A13	Gender T14 Man
+A14	LegalStatus T14 Unspecified
+A15	Role T14 Notary
+T15	Person 72 99	BmHt en Leender de Gruijted
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Witness

@@ -1,0 +1,32 @@
+T1	Person 121 139	Abraham van Dinter
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 121 139	Abraham van Dinter
+T4	ProperName 165 188	Edelen Hose van Holland
+T5	Place 181 188	Holland
+T6	ProperName 181 188	Holland
+T8	Place 226 231	Bed„s
+T9	Person 232 257	Johan Christoffel Swendel
+A4	Gender T9 Unspecified
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Testator
+T10	ProperName 232 257	Johan Christoffel Swendel
+T12	Place 777 793	Comp:s hospitaal
+T14	Person 822 841	Slephanus Cornelisz
+A7	Gender T14 Unspecified
+A8	LegalStatus T14 Unspecified
+A9	Role T14 Witness
+T15	ProperName 822 841	Slephanus Cornelisz
+T16	Person 845 860	Kloris Jacobsz:
+A10	Gender T16 Unspecified
+A11	LegalStatus T16 Unspecified
+A12	Role T16 Witness
+T17	Person 1006 1017	UWhooghamer
+A13	Gender T17 Man
+A14	LegalStatus T17 Unspecified
+A15	Role T17 Notary
+T18	Person 1037 1048	van Wenkink
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other

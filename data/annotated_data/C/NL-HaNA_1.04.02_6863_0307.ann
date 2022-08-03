@@ -1,0 +1,22 @@
+T3	Person 5 25	Diederik Kloppenburg
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 5 25	Diederik Kloppenburg
+T5	Person 55 71	Iurge Adam Kumfr
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 55 71	Iurge Adam Kumfr
+T7	Person 109 126	Iurgen Adam Kumff
+A7	Gender T7 Man
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Testator
+T8	ProperName 109 126	Iurgen Adam Kumff
+T9	Place 141 174	Asbach onder het Dilbergsche Ampt
+T10	ProperName 141 147	Asbach
+T11	Person 917 941	Isaac Huijbrech Guerinen
+A10	Gender T11 Unspecified
+A11	LegalStatus T11 Unspecified
+A12	Role T11 Acting_Notary
+T12	ProperName 917 941	Isaac Huijbrech Guerinen

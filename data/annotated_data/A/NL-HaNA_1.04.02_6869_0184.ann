@@ -1,0 +1,131 @@
+T1	Person 38 75	Bern, Ten Noordt Junior GesworeClercq
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 38 61	Bern, Ten Noordt Junior
+T3	Person 119 130	H„k Jannink
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Witness
+T4	Person 134 136;137 145	J„ Brengman
+A7	Gender T4 Man
+A8	LegalStatus T4 Unspecified
+A9	Role T4 Witness
+T5	ProperName 119 130	H„k Jannink
+T6	ProperName 134 136;137 145	J„ Brengman
+T7	Person 172 188;189 208	Bern„ Ten Noordt Junior Gesw: Clercq
+A10	Gender T7 Man
+A11	LegalStatus T7 Unspecified
+A12	Role T7 Other
+T8	ProperName 172 188;189 195	Bern„ Ten Noordt Junior
+T10	Place 277 294	desforts Gustavus
+T11	ProperName 277 293	desforts Gustavu
+T12	Person 381 415	Heer George Louis vernet President
+A13	Gender T12 Man
+A14	LegalStatus T12 Unspecified
+A15	Role T12 Other
+T13	ProperName 386 405	George Louis vernet
+T15	Person 482 502	Jan Hendrik Swenkele
+A16	Gender T15 Man
+A17	LegalStatus T15 Unspecified
+A18	Role T15 Other
+T16	ProperName 482 502	Jan Hendrik Swenkele
+T17	Person 503 521	Michiel Bastiaanse
+A19	Gender T17 Unspecified
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T18	ProperName 503 521	Michiel Bastiaanse
+T20	Person 523 551	Jacob Larwood van Scherichan
+A25	Gender T20 Unspecified
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Other
+T19	ProperName 523 551	Jacob Larwood van Scherichan
+T21	Person 552 566	Arend Hooreman
+A22	Gender T21 Unspecified
+A23	LegalStatus T21 Unspecified
+A24	Role T21 Other
+T22	ProperName 552 566	Arend Hooreman
+T23	Person 568 581	Simon de Hoog
+A28	Gender T23 Unspecified
+A29	LegalStatus T23 Unspecified
+A30	Role T23 Other
+T24	ProperName 568 581	Simon de Hoog
+T25	Person 583 600	Cornelis Rietvelt
+A31	Gender T25 Unspecified
+A32	LegalStatus T25 Unspecified
+A33	Role T25 Other
+T26	ProperName 583 600	Cornelis Rietvelt
+T27	Person 602 626	Anthonij Julius Bangeman
+A34	Gender T27 Unspecified
+A35	LegalStatus T27 Unspecified
+A36	Role T27 Other
+T28	ProperName 602 626	Anthonij Julius Bangeman
+T29	Person 660 695	„man Jacob van der Sleijden Simonsz
+A37	Gender T29 Man
+A38	LegalStatus T29 Unspecified
+A39	Role T29 Other
+T30	ProperName 665 695	Jacob van der Sleijden Simonsz
+T31	Person 726 759	E: Jacob van der Sleijden Simonsz
+A40	Gender T31 Man
+A41	LegalStatus T31 Unspecified
+A42	Role T31 Other
+T32	ProperName 726 759	E: Jacob van der Sleijden Simonsz
+T33	Person 761 783	C: S: als Codicillaire
+A43	Gender T33 Man
+A44	LegalStatus T33 Unspecified
+A45	Role T33 Other
+T34	ProperName 761 766	C: S:
+T35	Person 818 852;853 880	den opperchirurgijn dezes Comptoir Sochem Christiaan Walstapel
+A46	Gender T35 Man
+A47	LegalStatus T35 Unspecified
+A48	Role T35 Other
+T36	ProperName 853 879	Sochem Christiaan Walstape
+T37	Person 912 949	assistent Johannes Philippus Michault
+A49	Gender T37 Man
+A50	LegalStatus T37 Unspecified
+A51	Role T37 Other
+T38	ProperName 922 948	Johannes Philippus Michaul
+T39	Person 1006 1024	Hendrik van Maanen
+A52	Gender T39 Unspecified
+A53	LegalStatus T39 Unspecified
+A54	Role T39 Other
+T40	ProperName 1006 1024	Hendrik van Maanen
+T41	Person 1130 1168;1169 1186	Clercq ter dezer secretarije Bernardus Ten Noordt Junior
+A55	Gender T41 Man
+A56	LegalStatus T41 Unspecified
+A57	Role T41 Other
+T42	ProperName 1159 1168;1169 1186	Bernardus Ten Noordt Junior
+T44	Person 1505 1515	van Maanen
+A58	Gender T44 Man
+A59	LegalStatus T44 Unspecified
+A60	Role T44 Other
+T45	ProperName 1505 1515	van Maanen
+T47	ProperName 1604 1612	Michault
+T48	Person 1604 1612	Michault
+A64	Gender T48 Unspecified
+A65	LegalStatus T48 Unspecified
+A66	Role T48 Other
+T46	Person 1614 1647;1648 1649	den oppertimmerman Zacharias Serg e
+A61	Gender T46 Man
+A62	LegalStatus T46 Unspecified
+A63	Role T46 Other
+T49	ProperName 1633 1647;1648 1650	Zacharias Serg en
+T50	Person 1651 1674	baes Kuijper Jan Limmer
+A67	Gender T50 Man
+A68	LegalStatus T50 Unspecified
+A69	Role T50 Other
+T51	ProperName 1656 1674	Kuijper Jan Limmer
+T52	Person 1749 1768	M„s Koning secret„s
+A70	Gender T52 Man
+A71	LegalStatus T52 Unspecified
+A72	Role T52 Other
+T53	Person 1808 1827	M„s Koning Elfflerc
+A73	Gender T53 Man
+A74	LegalStatus T53 Unspecified
+A75	Role T53 Other
+T54	ProperName 1808 1818	M„s Koning
+T55	Person 1841 1857	M„s KoningEleren
+A76	Gender T55 Man
+A77	LegalStatus T55 Unspecified
+A78	Role T55 Other
+T56	ProperName 1841 1851	M„s Koning

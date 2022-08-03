@@ -1,0 +1,63 @@
+T3	ProperName 21 34	maarten zesje
+T5	ProperName 47 58	Jan Zeeusp:
+T6	Person 69 85	Arij vanderburgh
+A7	Gender T6 Unspecified
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T7	ProperName 69 85	Arij vanderburgh
+T8	Person 104 132	Willem willemsz: hagelsteijn
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 104 132	Willem willemsz: hagelsteijn
+T10	Person 141 158	klaas —
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T11	ProperName 141 148;149 158	klaas — sandertse
+T12	Person 167 175	Ian laek
+A16	Gender T12 Unspecified
+A17	LegalStatus T12 Unspecified
+A18	Role T12 Other
+T13	ProperName 167 175	Ian laek
+T14	Person 187 203	Coenraat
+A19	Gender T14 Unspecified
+A20	LegalStatus T14 Unspecified
+A21	Role T14 Other
+T15	ProperName 187 195;196 203	Coenraat oostman
+T16	Place 278 283	delff
+T17	ProperName 278 283	delff
+T19	ProperName 370 387	Hendrik westvalen
+T20	Person 548 574	den Testateur Casper graal
+A25	Gender T20 Man
+A26	LegalStatus T20 Unspecified
+A27	Role T20 Testator
+T21	ProperName 562 574	Casper graal
+T24	Person 852 859	Fredrik
+A31	Gender T24 Unspecified
+A32	LegalStatus T24 Unspecified
+A33	Role T24 Other
+T25	ProperName 852 859	Fredrik
+T26	Place 887 894	malacca
+T27	ProperName 887 894	malacca
+T28	Organization 908 913	EComp
+T22	Place 216 234;235 243	op het Retourschip Adrighem
+T23	Place 610 634	int retourschip Adrighem
+T2	Person 21 34	maarten zesje
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T4	Person 47 58	Jan Zeeusp:
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T30	Person 141 148;149 158	klaas — sandertse
+A28	Gender T30 Unspecified
+A29	LegalStatus T30 Unspecified
+A30	Role T30 Other
+T18	Person 370 387	Hendrik westvalen
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T31	ProperName 626 634	Adrighem
+A34	Beneficiary T28 No

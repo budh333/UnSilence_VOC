@@ -1,0 +1,19 @@
+T2	Place 123 135	deser landen
+T3	Person 418 428;429 454	Vrund, der Jan Klinkestein opsiender
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 429 444	Jan Klinkestein
+T5	Place 455 475	der vismaerkt alhier
+T7	ProperName 679 683	Comp
+T8	Person 1401 1415	E: Klinkestein
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Other
+T9	Person 1427 1473;1474 1488	Jan Erdman Pordens onder Coopman en adjunct ge „swoore Clercq
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 1404 1415	Klinkestein
+T11	ProperName 1427 1445	Jan Erdman Pordens
+T12	Place 1489 1504	ter secretarije

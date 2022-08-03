@@ -1,0 +1,9 @@
+T1	Person 796 812	Nicolaas Paulusz
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Beneficiary
+T2	ProperName 796 812	Nicolaas Paulusz
+T3	ProperName 1126 1133;1134 1156	sollego van heeren msmeesteren
+T6	ProperName 1757 1778;1779 1788	geactroijerde oost Jn Compagnie
+T7	Place 1799 1808	Amsterdam
+T8	ProperName 1799 1808	Amsterdam

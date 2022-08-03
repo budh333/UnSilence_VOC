@@ -1,0 +1,97 @@
+T1	Organization 30 39	d’ E Comp
+A1	Beneficiary T1 No
+T2	ProperName 30 39	d’ E Comp
+T4	ProperName 42 51	JMiepoort
+T5	Person 42 51	JMiepoort
+A2	Gender T5 Unspecified
+A3	LegalStatus T5 Unspecified
+A4	Role T5 Other
+T6	ProperName 141 153	Frans Langer
+T7	Person 141 153	Frans Langer
+A5	Gender T7 Unspecified
+A6	LegalStatus T7 Unspecified
+A7	Role T7 Other
+T8	ProperName 197 204;205 209	Hendrik Rogh
+T9	ProperName 211 226	Bernhard Leewen
+T10	ProperName 227 251;252 256	Jhan Jacob Hendrik Suur„ Kamp
+T11	ProperName 283 296	Paulus Philip
+T12	Place 405 417	Passourouang
+T13	ProperName 405 417	Passourouang
+T14	ProperName 459 467;468 476	Jan godj Loffkamp
+T15	ProperName 510 528;538 550	M„r Johan Everlard Cop. a groen
+T16	Place 583 593;594 598	Javas oost hoek
+T17	ProperName 583 593;594 598	Javas oost hoek
+T18	ProperName 771 778	Bruneel
+T19	Person 771 778	Bruneel
+A8	Gender T19 Unspecified
+A9	LegalStatus T19 Unspecified
+A10	Role T19 Other
+T20	Person 894 907	Burger Scheps
+A11	Gender T20 Unspecified
+A12	LegalStatus T20 Unspecified
+A13	Role T20 Other
+T21	ProperName 901 907	Scheps
+T22	ProperName 992 1000	Boogaard
+T23	Person 992 1000	Boogaard
+A14	Gender T23 Unspecified
+A15	LegalStatus T23 Unspecified
+A16	Role T23 Other
+T24	ProperName 1070 1085	Hend=k Cornelis
+T25	Person 1070 1085	Hend=k Cornelis
+A17	Gender T25 Unspecified
+A18	LegalStatus T25 Unspecified
+A19	Role T25 Other
+T26	ProperName 1143 1151	Boogaard
+T27	Person 1143 1151	Boogaard
+A20	Gender T27 Unspecified
+A21	LegalStatus T27 Unspecified
+A22	Role T27 Other
+T28	Person 1280 1287	keijser
+A23	Gender T28 Unspecified
+A24	LegalStatus T28 Unspecified
+A25	Role T28 Other
+T29	ProperName 1280 1287	keijser
+T30	ProperName 1468 1479	Juldernisse
+T31	Person 1468 1479	Juldernisse
+A26	Gender T31 Unspecified
+A27	LegalStatus T31 Enslaved
+A28	Role T31 Other
+T32	ProperName 1683 1693	Leijdekker
+T33	Person 1683 1693	Leijdekker
+A29	Gender T33 Unspecified
+A30	LegalStatus T33 Unspecified
+A31	Role T33 Other
+T34	ProperName 1764 1772	Boogaard
+T35	Person 1764 1772	Boogaard
+A32	Gender T35 Unspecified
+A33	LegalStatus T35 Unspecified
+A34	Role T35 Other
+T36	ProperName 1826 1834	Bruneels
+T37	Person 1826 1834	Bruneels
+A35	Gender T37 Unspecified
+A36	LegalStatus T37 Unspecified
+A37	Role T37 Other
+T38	Person 510 528;538 550	M„r Johan Everlard Cop. a groen
+A38	Gender T38 Unspecified
+A39	LegalStatus T38 Unspecified
+A40	Role T38 Other
+T39	Person 459 467;468 476	Jan godj Loffkamp
+A41	Gender T39 Unspecified
+A42	LegalStatus T39 Unspecified
+A43	Role T39 Other
+T40	Person 197 204;205 209	Hendrik Rogh
+A44	Gender T40 Unspecified
+A45	LegalStatus T40 Unspecified
+A46	Role T40 Other
+T41	Person 211 226	Bernhard Leewen
+A47	Gender T41 Unspecified
+A48	LegalStatus T41 Unspecified
+A49	Role T41 Other
+T42	Person 227 251;252 256	Jhan Jacob Hendrik Suur„ Kamp
+A50	Gender T42 Unspecified
+A51	LegalStatus T42 Unspecified
+A52	Role T42 Other
+T43	Person 283 296	Paulus Philip
+A53	Gender T43 Unspecified
+A54	LegalStatus T43 Unspecified
+A55	Role T43 Other

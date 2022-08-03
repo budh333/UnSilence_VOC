@@ -1,0 +1,37 @@
+T1	Organization 80 114	g'ootroijeerde Oost Indische Comp:
+T2	ProperName 80 114	g'ootroijeerde Oost Indische Comp:
+T3	Place 125 128	Amn
+T4	ProperName 125 128	Amn
+T6	ProperName 309 314	Comp:
+T7	Place 497 507	deeze stad
+T8	ProperName 403 420	Otto Hendrik Hoer
+T9	Person 403 420	Otto Hendrik Hoer
+A1	Gender T9 Unspecified
+A2	LegalStatus T9 Unspecified
+A3	Role T9 Acting_Notary
+T10	ProperName 424 439	Johannes Bleeke
+T11	Person 424 439	Johannes Bleeke
+A4	Gender T11 Unspecified
+A5	LegalStatus T11 Unspecified
+A6	Role T11 Acting_Notary
+T12	ProperName 658 660;661 673	Al ham Salomons
+T13	Person 658 660;661 673	Al ham Salomons
+A7	Gender T13 Unspecified
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Witness
+T14	ProperName 677 702	Anthony Martijn De Zilvat
+T15	Person 677 702	Anthony Martijn De Zilvat
+A10	Gender T15 Unspecified
+A11	LegalStatus T15 Unspecified
+A12	Role T15 Witness
+T16	Person 866 877;878 884	EGbert Blo„ „kert;
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 866 877;878 883	EGbert Blo„ „kert
+T18	Person 896 904	P„ N Sin
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 896 904	P„ N Sin
+A19	Beneficiary T1 No

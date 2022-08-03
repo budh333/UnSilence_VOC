@@ -1,0 +1,9 @@
+T2	Person 43 57	D: E„s Lrasmus
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T3	ProperName 50 57	Lrasmus
+T4	Place 70 81	Sterfhuijse
+T5	Place 150 157;158 163	Conijne gragt
+T6	ProperName 150 157;158 163	Conijne gragt
+T7	Place 176 195;196 213	SuijderEijnd binnen dese stads poorte

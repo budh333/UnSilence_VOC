@@ -1,0 +1,47 @@
+T1	Person 48 61;62 67	Carel Albregt Haupt
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 48 61;62 67	Carel Albregt Haupt
+T3	Person 70 93	Hendrik Pieter Warnecke
+A4	Gender T3 Unspecified
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Other
+T4	ProperName 70 93	Hendrik Pieter Warnecke
+T5	Place 141 146	China
+T6	ProperName 141 146	China
+T7	Place 165 186;187 199	de Factorij der China schen handel
+T8	Person 211 229;230 241	oppermeester Johan George Bode
+A7	Gender T8 Man
+A8	LegalStatus T8 Unspecified
+A9	Role T8 Other
+T9	ProperName 224 229;230 241	Johan George Bode
+T10	Place 469 474	China
+T11	ProperName 469 474	China
+T12	Place 826 844	Cabo de Goede Hoop
+T13	ProperName 826 844	Cabo de Goede Hoop
+T14	Person 879 890	C. A. Saupt
+A10	Gender T14 Unspecified
+A11	LegalStatus T14 Unspecified
+A12	Role T14 Other
+T15	ProperName 879 890	C. A. Saupt
+T16	Person 891 907	P H. P. Warnecke
+A13	Gender T16 Unspecified
+A14	LegalStatus T16 Unspecified
+A15	Role T16 Other
+T17	ProperName 891 907	P H. P. Warnecke
+T18	Person 958 969;970 977	M Nolthenuu Secret.
+A16	Gender T18 Unspecified
+A17	LegalStatus T18 Unspecified
+A18	Role T18 Other
+T19	ProperName 958 969	M Nolthenuu
+T21	ProperName 1002 1007	Johan
+T22	Person 1002 1007	Johan
+A19	Gender T22 Unspecified
+A20	LegalStatus T22 Unspecified
+A21	Role T22 Other
+T23	ProperName 1113 1124	C: Rijnnagh
+T24	Person 1113 1124	C: Rijnnagh
+A22	Gender T24 Unspecified
+A23	LegalStatus T24 Unspecified
+A24	Role T24 Other

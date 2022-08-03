@@ -1,0 +1,36 @@
+T1	Place 587 597	Palemboang
+T2	ProperName 587 597	Palemboang
+T3	Person 647 649;650 656	P: walter
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Witness
+T4	Person 660 682	C:s van den bieshauwel
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Witness
+T5	Person 762 771	E: Klaeke
+A7	Gender T5 Unspecified
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Other
+T6	Person 793 795;799 809	Jn van Rkhijn
+A10	Gender T6 Unspecified
+A11	LegalStatus T6 Unspecified
+A12	Role T6 Acting_Notary
+T7	Person 830 842	P„ W„ Vehijn
+A13	Gender T7 Unspecified
+A14	LegalStatus T7 Unspecified
+A15	Role T7 Acting_Notary
+T9	Place 916 924	Samarang
+T10	ProperName 916 924	Samarang
+T11	Person 1017 1043	Christiaan Fredrik Lochouw
+A16	Gender T11 Unspecified
+A17	LegalStatus T11 Unspecified
+A18	Role T11 Testator
+T12	ProperName 1017 1043	Christiaan Fredrik Lochouw
+T14	Place 1143 1147	Sara
+T15	ProperName 1143 1147	Sara
+T16	Person 1149 1164	Erowijn Blancke
+A19	Gender T16 Unspecified
+A20	LegalStatus T16 Unspecified
+A21	Role T16 Other
+T17	ProperName 1149 1164	Erowijn Blancke

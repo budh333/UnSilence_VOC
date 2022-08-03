@@ -1,0 +1,35 @@
+T1	Person 8 17	Thys Dirk
+A1	Gender T1 Unspecified
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Other
+T2	ProperName 8 17	Thys Dirk
+T3	Person 232 235;236 245	Ian Van Peets
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Acting_Notary
+T4	ProperName 232 235;236 245	Ian Van Peets
+T5	Person 246 286	Daniel Beijnon; boekhouder en Commissian
+A7	Gender T5 Man
+A8	LegalStatus T5 Unspecified
+A9	Role T5 Testator
+T6	ProperName 246 261	Daniel Beijnon;
+T8	Person 435 454	Lo dewijk disserjee
+A10	Gender T8 Man
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T9	ProperName 435 454	Lo dewijk disserjee
+T10	Place 456 471	van switserland
+T11	ProperName 460 471	switserland
+T13	ProperName 497 504	E: Comp
+T14	Organization 1511 1542	aan de diaconij armen tot banda
+A13	Beneficiary T14 Yes
+T15	Place 1537 1542	banda
+T16	ProperName 1537 1542	banda
+T17	Person 1800 1845	sergiant in dienst der E: Comp: Jurriaan sax,
+A14	Gender T17 Man
+A15	LegalStatus T17 Unspecified
+A16	Role T17 Beneficiary
+T18	ProperName 1832 1844	Jurriaan sax
+T20	ProperName 1819 1830	der E: Comp
+T22	Place 2550 2567	ter Camer zeeland
+T23	ProperName 2560 2567	zeeland

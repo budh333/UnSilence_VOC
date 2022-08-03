@@ -1,0 +1,44 @@
+T3	Person 83 100	Rutgerus van Ess:
+A1	Gender T3 Man
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Testator
+T4	ProperName 83 100	Rutgerus van Ess:
+T5	Person 123 146	C:l P:d V:n Redenbrecht
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Witness
+T6	ProperName 123 146	C:l P:d V:n Redenbrecht
+T7	Person 150 153;154 163	P:r Michielsz
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Witness
+T8	ProperName 150 153;154 163	P:r Michielsz
+T9	Person 174 187;188 195	P: W: Lammens notaris
+A10	Gender T9 Man
+A11	LegalStatus T9 Unspecified
+A12	Role T9 Notary
+T10	ProperName 174 187	P: W: Lammens
+T12	ProperName 514 523;524 526	Balta van Es
+T13	Place 555 564	Amsterdam
+T14	ProperName 555 564	Amsterdam
+T15	Person 930 943	flora Domingo
+A16	Gender T15 Woman
+A17	LegalStatus T15 Freed
+A18	Role T15 Beneficiary
+T16	ProperName 930 943	flora Domingo
+T18	ProperName 1243 1261	Lodewijk Dominicus
+T19	Person 1268 1306;1307 1312	vrije inlandse Christen vrouw Flora Do mingo
+A22	Gender T19 Woman
+A23	LegalStatus T19 Freed
+A24	Role T19 Beneficiary
+T20	ProperName 1298 1306;1307 1312	Flora Do mingo
+T21	Organization 1451 1463	der E. Comp:
+T11	Person 514 523;524 526	Balta van Es
+A13	Gender T11 Woman
+A14	LegalStatus T11 Unspecified
+A15	Role T11 Beneficiary
+T17	Person 1243 1261	Lodewijk Dominicus
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+A25	Beneficiary T21 No

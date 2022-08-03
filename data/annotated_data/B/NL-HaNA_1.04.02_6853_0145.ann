@@ -1,0 +1,27 @@
+T1	Person 117 135	Abraham van Dinter
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Notary
+T2	ProperName 117 135	Abraham van Dinter
+T4	ProperName 161 183	Belen Hose van Holland
+T5	Place 176 183	Holland
+T6	ProperName 176 183	Holland
+T8	Place 222 227	Bed„s
+T9	Person 262 277	andreas Ketting
+A4	Gender T9 Man
+A5	LegalStatus T9 Unspecified
+A6	Role T9 Other
+T10	ProperName 262 277	andreas Ketting
+T12	Person 824 844	jaost Hendrik Meijer
+A7	Gender T12 Unspecified
+A8	LegalStatus T12 Unspecified
+A9	Role T12 Other
+T13	ProperName 824 844	jaost Hendrik Meijer
+T15	Place 934 944	middelburg
+T16	ProperName 934 944	middelburg
+T18	ProperName 1137 1166;1167 1180	eerwaerde Collegie van heeven weesmeesteren
+T19	Person 1501 1517	Jan Iusius Kroon
+A10	Gender T19 Unspecified
+A11	LegalStatus T19 Unspecified
+A12	Role T19 Other
+T20	ProperName 1501 1517	Jan Iusius Kroon

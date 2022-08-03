@@ -1,0 +1,29 @@
+T1	Person 9 26	Jan Van Harrevelt
+A1	Gender T1 Man
+A2	LegalStatus T1 Unspecified
+A3	Role T1 Testator
+T2	ProperName 9 26	Jan Van Harrevelt
+T4	ProperName 143 161	Abraham van dinter
+T5	Organization 181 209	den Edelen hoove van holland
+T6	Place 202 209	holland
+T7	ProperName 202 209	holland
+T8	Organization 224 262;263 268	do Edele Korgeregeringe van nederlangf India
+T9	Place 252 262;263 268	nederlangf India
+T10	ProperName 252 262;263 268	nederlangf India
+T11	Place 282 303	binne de stad Batavia
+T12	ProperName 296 303	Batavia
+T14	Organization 395 403	E: Comp:
+T15	ProperName 355 358;359 372	van Van harrevelt
+T16	Place 416 442	op de buijte post Vaccatra
+T18	ProperName 434 442	Vaccatra
+T3	Person 143 167;168 175	Abraham van dinter nots: publicq
+A4	Gender T3 Man
+A5	LegalStatus T3 Unspecified
+A6	Role T3 Notary
+T13	Person 355 358;359 372	van Van harrevelt
+A7	Gender T13 Man
+A8	LegalStatus T13 Unspecified
+A9	Role T13 Testator
+A10	Beneficiary T5 No
+A11	Beneficiary T8 No
+A12	Beneficiary T14 No

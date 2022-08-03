@@ -1,0 +1,54 @@
+T2	Place 562 576;577 594	ten nederlands Comptoir Samarang
+T3	ProperName 586 594	Samarang
+T4	Place 586 594	Samarang
+T5	Person 641 656	Johannes Damius
+A1	Gender T5 Unspecified
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 641 656	Johannes Damius
+T7	ProperName 660 679	Willem Van Zoerszen
+T8	Person 660 679	Willem Van Zoerszen
+A4	Gender T8 Unspecified
+A5	LegalStatus T8 Unspecified
+A6	Role T8 Witness
+T9	Person 711 726	R: A: van Goens
+A7	Gender T9 Unspecified
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Other
+T10	ProperName 711 726	R: A: van Goens
+T11	ProperName 728 745	S„k A„o van Goens
+T12	Person 728 745	S„k A„o van Goens
+A10	Gender T12 Unspecified
+A11	LegalStatus T12 Unspecified
+A12	Role T12 Other
+T13	ProperName 2248 2253	Comp=
+T14	Organization 2248 2253	Comp=
+A13	Beneficiary T14 No
+T15	ProperName 1159 1166	Batavia
+T16	Place 1159 1166	Batavia
+T17	ProperName 1245 1255	Paswangers
+T18	Person 1245 1255	Paswangers
+A14	Gender T18 Unspecified
+A15	LegalStatus T18 Unspecified
+A16	Role T18 Other
+T19	Place 1052 1063;1064 1068	ter weeska„ „mer
+T20	ProperName 977 985	P: Schik
+T21	Person 977 985	P: Schik
+A17	Gender T21 Unspecified
+A18	LegalStatus T21 Unspecified
+A19	Role T21 Other
+T22	ProperName 916 932	W=m V=n Loerszen
+T23	ProperName 902 905;906 912	J:s Damius
+T24	ProperName 816 828	B=ms Lehmann
+T25	Person 816 828	B=ms Lehmann
+A20	Gender T25 Man
+A21	LegalStatus T25 Unspecified
+A22	Role T25 Acting_Notary
+T26	Person 916 932	W=m V=n Loerszen
+A23	Gender T26 Unspecified
+A24	LegalStatus T26 Unspecified
+A25	Role T26 Witness
+T27	Person 902 905;906 912	J:s Damius
+A26	Gender T27 Unspecified
+A27	LegalStatus T27 Unspecified
+A28	Role T27 Witness

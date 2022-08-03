@@ -1,0 +1,15 @@
+T2	ProperName 124 130;131 144	adrian van den geugt
+T3	Person 124 130;131 144	adrian van den geugt
+A1	Gender T3 Unspecified
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Other
+T4	ProperName 198 211	Jacobus Fries
+T5	Person 198 211	Jacobus Fries
+A4	Gender T5 Man
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Testator
+T6	ProperName 237 244	Meerman
+T7	Person 237 244	Meerman
+A7	Gender T7 Unspecified
+A8	LegalStatus T7 Unspecified
+A9	Role T7 Other

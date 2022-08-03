@@ -1,0 +1,33 @@
+T3	Person 987 1001	Johanna Sophia
+A1	Gender T3 Woman
+A2	LegalStatus T3 Unspecified
+A3	Role T3 Beneficiary
+T4	ProperName 987 1001	Johanna Sophia
+T5	Person 1005 1010;1011 1016	Babei Sarra
+A4	Gender T5 Woman
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T6	ProperName 1005 1010;1011 1016	Babei Sarra
+T7	Person 1582 1594	slave jonger
+A7	Gender T7 Man
+A8	LegalStatus T7 Enslaved
+A9	Role T7 Beneficiary
+T8	Person 1603 1607	Davt
+A10	Gender T8 Man
+A11	LegalStatus T8 Enslaved
+A12	Role T8 Beneficiary
+T9	ProperName 1603 1607	Davt
+T10	Person 1629 1642	slave meijsje
+A13	Gender T10 Woman
+A14	LegalStatus T10 Enslaved
+A15	Role T10 Beneficiary
+T11	Person 1651 1657	amelia
+A16	Gender T11 Woman
+A17	LegalStatus T11 Enslaved
+A18	Role T11 Beneficiary
+T12	ProperName 1651 1657	amelia
+T13	Person 1822 1849	Catharina Elisabeth Hugonis
+A19	Gender T13 Woman
+A20	LegalStatus T13 Unspecified
+A21	Role T13 Beneficiary
+T14	ProperName 1822 1849	Catharina Elisabeth Hugonis

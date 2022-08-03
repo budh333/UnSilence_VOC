@@ -1,0 +1,76 @@
+T3	Place 24 33	tot banda
+T4	ProperName 28 33	banda
+T5	Person 94 112	Iohannes de Leuwen
+A1	Gender T5 Man
+A2	LegalStatus T5 Unspecified
+A3	Role T5 Witness
+T6	ProperName 94 111	Iohannes de Leuwe
+T7	Person 113 146	hendrik martensz: beijde plercqen
+A4	Gender T7 Man
+A5	LegalStatus T7 Unspecified
+A6	Role T7 Witness
+T8	Place 147 174	ter secretarije van politie
+T9	Person 424 469	Jan hendriik Ciel p„r Eerst Gevrwoore Clercq:
+A7	Gender T9 Man
+A8	LegalStatus T9 Unspecified
+A9	Role T9 Acting_Notary
+T10	ProperName 424 441	Jan hendriik Ciel
+T11	Place 527 546	Banda ter weeskamer
+T12	ProperName 527 532	Banda
+T13	Person 583 616	Lanin Codewijk aschen secretariss
+A10	Gender T13 Man
+A11	LegalStatus T13 Unspecified
+A12	Role T13 Other
+T14	ProperName 583 604	Lanin Codewijk aschen
+T15	Person 732 762	de heeren hendrik vanden bring
+A13	Gender T15 Man
+A14	LegalStatus T15 Unspecified
+A15	Role T15 Other
+T16	Person 764 778;779 786	George Charles Guitton
+A16	Gender T16 Man
+A17	LegalStatus T16 Unspecified
+A18	Role T16 Other
+T18	Person 808 824	Pourcens kelmans
+A22	Gender T18 Man
+A23	LegalStatus T18 Unspecified
+A24	Role T18 Other
+T19	Person 825 838	heer Nicolaas
+A25	Gender T19 Man
+A26	LegalStatus T19 Unspecified
+A27	Role T19 Other
+T20	Person 842 868	Gerret matthij Epoondoerss
+A28	Gender T20 Man
+A29	LegalStatus T20 Unspecified
+A30	Role T20 Other
+T22	ProperName 764 778	George Charles
+T21	ProperName 742 761	hendrik vanden brin
+T23	ProperName 779 786	Guitton
+T17	Person 788 806	hermanus nieuwmark
+A19	Gender T17 Man
+A20	LegalStatus T17 Unspecified
+A21	Role T17 Other
+T24	ProperName 788 806	hermanus nieuwmark
+T25	ProperName 808 823	Pourcens kelman
+T26	ProperName 830 837	Nicolaa
+T27	ProperName 842 868	Gerret matthij Epoondoerss
+T28	Place 946 958	banda Nassaa
+T29	ProperName 946 959	banda Nassaav
+T30	Person 1005 1036	Jan hendrik Chiel p„l secretari
+A31	Gender T30 Man
+A32	LegalStatus T30 Unspecified
+A33	Role T30 Acting_Notary
+T31	ProperName 1005 1022	Jan hendrik Chiel
+T32	Person 1085 1091	Pieter
+A34	Gender T32 Unspecified
+A35	LegalStatus T32 Unspecified
+A36	Role T32 Other
+T33	ProperName 1085 1091	Pieter
+T34	Person 1274 1280;1281 1291	Pieter Lispencier
+A37	Gender T34 Unspecified
+A38	LegalStatus T34 Unspecified
+A39	Role T34 Other
+T35	ProperName 1274 1280;1281 1291	Pieter Lispencier
+T36	Place 1317 1324	batavia
+T37	ProperName 1317 1324	batavia
+T38	Place 1378 1386	op Banda
+T39	ProperName 1381 1386	Banda

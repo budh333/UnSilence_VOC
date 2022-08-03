@@ -1,0 +1,13 @@
+T2	Place 77 92	steede Samarang
+T3	ProperName 84 92	Samarang
+T4	Person 103 120	thien Prys„ holb„
+A1	Gender T4 Unspecified
+A2	LegalStatus T4 Unspecified
+A3	Role T4 Beneficiary
+T5	Person 756 768	Van de Vroos
+A4	Gender T5 Unspecified
+A5	LegalStatus T5 Unspecified
+A6	Role T5 Beneficiary
+T8	Place 1267 1276	amsterdam
+T9	ProperName 1267 1276	amsterdam
+T10	Place 1361 1373	deese landen

@@ -1,0 +1,60 @@
+T3	ProperName 56 75	Pr Scheijdszweegens
+T5	ProperName 148 153;154 166	Johan Adam Eenslen
+T7	ProperName 228 236	Hendriks
+T9	ProperName 353 366	Hend Memeling
+T11	ProperName 404 412;413 418	Martinus Fores
+T12	Place 522 526;527 540	baba de goede hoop
+T13	Person 574 584	van Wijlen
+A16	Gender T13 Man
+A17	LegalStatus T13 Unspecified
+A18	Role T13 Other
+T14	ProperName 574 584	van Wijlen
+T16	ProperName 637 641;642 654	ohan Hend Wilhoff
+T18	ProperName 901 915	Ian Boudewinsz
+T19	Place 944 956	Aijerbangies
+T20	ProperName 944 956	Aijerbangies
+T22	ProperName 960 973	Dirk Stolting
+T23	Place 992 998	padang
+T24	ProperName 992 998	padang
+T25	Person 1007 1015;1016 1024	Iuffrouw Chrissia
+A28	Gender T25 Woman
+A29	LegalStatus T25 Unspecified
+A30	Role T25 Other
+T26	ProperName 1016 1024	Chrissia
+T27	Person 1117 1123	gerrit
+A31	Gender T27 Unspecified
+A32	LegalStatus T27 Unspecified
+A33	Role T27 Other
+T28	ProperName 1117 1123	gerrit
+T2	Person 56 75	Pr Scheijdszweegens
+A1	Gender T2 Unspecified
+A2	LegalStatus T2 Unspecified
+A3	Role T2 Other
+T4	Person 148 153;154 166	Johan Adam Eenslen
+A4	Gender T4 Unspecified
+A5	LegalStatus T4 Unspecified
+A6	Role T4 Other
+T6	Person 228 236	Hendriks
+A7	Gender T6 Man
+A8	LegalStatus T6 Unspecified
+A9	Role T6 Other
+T8	Person 353 366	Hend Memeling
+A10	Gender T8 Unspecified
+A11	LegalStatus T8 Unspecified
+A12	Role T8 Other
+T10	Person 404 412;413 418	Martinus Fores
+A13	Gender T10 Unspecified
+A14	LegalStatus T10 Unspecified
+A15	Role T10 Other
+T15	Person 636 641;642 654	Johan Hend Wilhoff
+A19	Gender T15 Man
+A20	LegalStatus T15 Unspecified
+A21	Role T15 Testator
+T17	Person 894 916	Heeren Ian Boudewinsz:
+A22	Gender T17 Man
+A23	LegalStatus T17 Unspecified
+A24	Role T17 Other
+T21	Person 960 973	Dirk Stolting
+A25	Gender T21 Man
+A26	LegalStatus T21 Unspecified
+A27	Role T21 Other
