@@ -1,3 +1,12 @@
+# Description of the VOC Testaments
+
+The VOC wills in the National Archives are a small part of a much larger collection of wills that ever existed. Every VOC employee was obliged to have a will drawn up (this could be done in Amsterdam, on the ships or in the VOC establishments). This was a form of efficient personnel policy so that after the death of an employee it was clear what should be done with the bequest. 
+
+The collection in which we work is largely built up in the VOC establishments, in particular Batavia. A copy of each will was sent to the VOC headquarters in Amsterdam. After the disintegration of the VOC at the end of the 18th century, part of these copy wills have been preserved and probably only much later merged into volumes (in Dutch: banden) that are now in the custody of the National Archives. In the 19th century, archivists produced an index to these testaments indexing the name of the male testator. A few years ago these testaments were digitized and can be accessed online but the 19th century index was still the main tool to be used to access the wills.  
+
+This project is concerned with [testaments of those employed by the VOC](https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/voc-oost-indische-testamenten) now with the National Archives. These handwritten wills were recorded in Dutch in the XVII and XVIII century. These wills have been recently automatically transcribed using handwritten text recognition (HTR) technology, therefore the transcriptions might contain errors. 
+
+
 # Annotation Typology
 
 To 'unsilence' colonial archives by broadening access, more inclusive finding aids are required, encompassing all persons mentioned in the archive with emphasis on marginalized ones. Existing generic typologies for named entity recognition and classification tasks mainly focus on the high-level 'universal' or 'ubiquitous' triad *Person*, *Organization* and *Location*. **Our custom typology extends the universal triad to encompass all mentions of entities, both named and unnamed, and further qualifies them by gender, legal status, notarial roles and other relevant attributes**. 
@@ -176,3 +185,27 @@ Sometimes certain documents are scanned with overlaps, thus leading to incorrect
 
 ## DuplicatePage 
 Sometimes certain documents are scanned with overlaps or multiple times, thus leading to incorrect transcriptions and duplicate pages. All entities are annotated on such pages, and a single "DuplicatePage" entity is annotated on such pages. 
+
+# Data
+
+The corpus consists of 2183 unique pages, plus 307 duplicated ones (for calculating the Inter-Annotator Agreement), resulting in a total of 2490 pages.
+Total number of annotations is 68,416 of which 32,203 at the entity level (47%) and 36,213 at the attribute level (53%). 
+
+**Entity Type**|**Number of Annotations**|**Percentage over Total**|
+-------------- | ----------------------- | ----------------------- |
+Person         | 11,700                  | 36.3 %                  | 
+Place          | 4,522                   | 14.0 %                  |
+Organization   | 1,113                   | 3.5%                    |
+Proper Name    | 14,868                  | 46.2%                   |
+**Total**      | **33,203**              | **100%**                |
+
+
+Total number of annotated tokens is 79,715 more details given in table below:
+
+**Entity Type**|**Number of Tokens**     |**Average per Annotation**|
+-------------- | ----------------------- | ------------------------ |
+Person         | 32,517                  | 2.8                      | 
+Place          | 10,115                  | 2.2                      |
+Organization   | 4,775                   | 4.3                      |
+Proper Name    | 32,308                  | 2.2                      |
+**Total**      | **79,715**              | **2.7**                  |
