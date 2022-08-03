@@ -15,6 +15,30 @@ The dataset, that is the annotations are available in 2 formats:
 1) brat annotation output: [here](data/annotated_data)
 2) data in iob format: [here](processed_data)
 
+## How To Cite
+
+Chicago: 
+
+Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and Leon van Wissen. 2022. “Unsilencing Dutch Colonial Archives”. Zenodo. https://doi.org/10.5281/zenodo.6958431.
+
+Bibtex:
+
+@dataset{mrinalini_luthra_2022_6958431,
+  author       = {Mrinalini Luthra and
+                  Konstantin Todorov and
+                  Charles Jeurgens and
+                  Giovanni Colavizza and
+                  Leon van Wissen},
+  title        = {Unsilencing Dutch Colonial Archives},
+  month        = aug,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v0.9},
+  doi          = {10.5281/zenodo.6958431},
+  url          = {https://doi.org/10.5281/zenodo.6958431}
+}
+
+
 ## Annotation Schema
 Please refer to the documentation of the annotation typology [here](data/README.md)
 
