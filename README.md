@@ -19,17 +19,17 @@ The dataset, that is the annotations are available in 2 formats:
 
 Chicago: 
 
-Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and Leon van Wissen. 2022. “Unsilencing Dutch Colonial Archives”. Zenodo. https://doi.org/10.5281/zenodo.6958431.
+Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and Leon van Wissen. 2022. “Unsilencing Dutch Colonial Archives”. Zenodo. https://doi.org/10.5281/zenodo.6958430.
 
 Bibtex:
 
-@dataset{mrinalini_luthra_2022_6958431,
+@dataset{mrinalini_luthra_2022_6958430,
   author       = {Mrinalini Luthra and
                   Konstantin Todorov and
                   Charles Jeurgens and
                   Giovanni Colavizza and
-                  Leon van Wissen},
-  title        = {Unsilencing Dutch Colonial Archives},
+                  Leon van Wissen},\
+  title        = {Unsilencing Dutch Colonial Archives},\
   month        = aug,
   year         = 2022,
   publisher    = {Zenodo},
