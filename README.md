@@ -23,18 +23,18 @@ Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and 
 
 Bibtex:
 
-@dataset{mrinalini_luthra_2022_6958430,
+@dataset{mrinalini_luthra_2022_6958430,\
   author       = {Mrinalini Luthra and
                   Konstantin Todorov and
                   Charles Jeurgens and
                   Giovanni Colavizza and
                   Leon van Wissen},\
   title        = {Unsilencing Dutch Colonial Archives},\
-  month        = aug,
-  year         = 2022,
-  publisher    = {Zenodo},
-  version      = {v0.9},
-  doi          = {10.5281/zenodo.6958431},
+  month        = aug,\
+  year         = 2022,\
+  publisher    = {Zenodo},\
+  version      = {v0.9},\
+  doi          = {10.5281/zenodo.6958431},\
   url          = {https://doi.org/10.5281/zenodo.6958431}
 }
 
