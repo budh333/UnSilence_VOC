@@ -17,9 +17,7 @@ The dataset, that is the annotations are available in 2 formats:
 
 ## How To Cite
 
-Chicago: 
-
-Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and Leon van Wissen. 2022. “Unsilencing Dutch Colonial Archives”. Zenodo. https://doi.org/10.5281/zenodo.6958430.
+* Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and Leon van Wissen. 2022. “Unsilencing Dutch Colonial Archives”. Zenodo. https://doi.org/10.5281/zenodo.6958430.
 
 Bibtex:
 
