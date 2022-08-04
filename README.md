@@ -21,17 +21,17 @@ The dataset, that is the annotations are available in 2 formats:
 
 ```bibtex
 
-@dataset{mrinalini_luthra_2022_6958430,\
+@dataset{mrinalini_luthra_2022_6958430,
   author       = {Mrinalini Luthra and
                   Konstantin Todorov and
                   Charles Jeurgens and
                   Giovanni Colavizza and
                   Leon van Wissen},\
-  title        = {Unsilencing Dutch Colonial Archives},\
-  month        = aug,\
-  year         = 2022,\
-  publisher    = {Zenodo},\
-  doi          = {10.5281/zenodo.6958430},\
+  title        = {Unsilencing Dutch Colonial Archives},
+  month        = aug,
+  year         = 2022,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.6958430},
   url          = {https://doi.org/10.5281/zenodo.6958430}
 }
 
