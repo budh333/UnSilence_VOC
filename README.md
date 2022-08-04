@@ -19,7 +19,7 @@ The dataset, that is the annotations are available in 2 formats:
 
 * Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and Leon van Wissen. 2022. “Unsilencing Dutch Colonial Archives”. Zenodo. https://doi.org/10.5281/zenodo.6958430.
 
-Bibtex:
+```bibtex
 
 @dataset{mrinalini_luthra_2022_6958430,\
   author       = {Mrinalini Luthra and
@@ -35,7 +35,7 @@ Bibtex:
   url          = {https://doi.org/10.5281/zenodo.6958430}
 }
 
-
+```
 ## Annotation Schema
 Please refer to the documentation of the annotation typology [here](data/README.md)
 
