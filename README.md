@@ -36,7 +36,8 @@ The dataset, that is the annotations are available in 2 formats:
 }
 
 ```
-## Annotation Schema
+
+## Annotation Typology
 Please refer to the documentation of the annotation typology [here](data/README.md)
 
 ## Data Statement
