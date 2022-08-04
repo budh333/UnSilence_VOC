@@ -169,7 +169,7 @@ The entity *Proper Name* refers to names (proper nouns) of the other entities in
   </figcaption>
 </figure>
 
-[//]: # (## Noteworthy
+[//]: # (## Noteworthy)
  
 When annotators encounter a fragment of text that reveals some interesting information, it is tagged under this entity. Additionally a comment may be left under the “Note” section of any annotation. For instance the note left for the noteworthy annotation may state the correct spelling, and why the annotator found the phrase noteworthy.)
 
