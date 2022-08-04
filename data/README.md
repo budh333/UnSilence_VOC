@@ -21,7 +21,7 @@ To 'unsilence' colonial archives by broadening access, more inclusive finding ai
 
 Our custom typology separates the name of an entity (always tagged separately as Proper Name) from a generic reference to an entity type (Person, Place or Organization). We introduce this distinction primarily because marginalized persons are frequently mentioned in the VOC testaments, and in colonial archives more generally, without name. Instead they are referred to by a variety of terms such as “slaaf” [slave], “leiffeigenen” [serf] and “inlandse burger” [formerly enslaved persons or descendants of freed slaves]. 
 
-For more details on each entity and attributes in the proposed annotation typology, continue reading [here](..data/Annotation Typology.md).
+For more details on each entity and attributes in the proposed annotation typology, continue reading [here](../data/AnnotationTypology.md).
 
 
 ## Person
