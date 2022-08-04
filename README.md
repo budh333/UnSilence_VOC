@@ -63,4 +63,7 @@ This work is licensed under a
 
 # Contact
 
-For issues, suggestions and contributions please contact [Mrinalini Luthra](mrinalini.luthra@gmail.com) or [Giovanni Colavizza](g.colavizza@uva.nl).
+For issues, suggestions and contributions please contact 
+* [Mrinalini Luthra](mrinalini.luthra@gmail.com) 
+* [Giovanni Colavizza](g.colavizza@uva.nl)
+* [Charles Jeurgens](K.J.P.F.M.Jeurgens@uva.nl)
