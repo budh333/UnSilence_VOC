@@ -25,24 +25,24 @@ For more details on each entity and attributes in the proposed annotation typolo
 
 # Data
 
-The corpus consists of 2183 unique pages, plus 307 duplicated ones (for calculating the Inter-Annotator Agreement), resulting in a total of 2490 pages.
-Total number of annotations is 68,416 of which 32,203 at the entity level (47%) and 36,213 at the attribute level (53%). 
+The corpus consists of 2193 unique pages, plus 307 duplicated ones (for calculating the Inter-Annotator Agreement), resulting in a total of 2500 pages.
+Total number of annotations is 68,429 of which 32,203 at the entity level (47%) and 36,213 at the attribute level (53%). 
 
-**Entity Type**|**Number of Annotations**|**Percentage over Total**|
+**Entity Type**|**Number of Annotations**|**Percentage over Total (%)**|
 -------------- | ----------------------- | ----------------------- |
-Person         | 11,700                  | 36.3 %                  | 
-Place          | 4,522                   | 14.0 %                  |
-Organization   | 1,113                   | 3.5%                    |
-Proper Name    | 14,868                  | 46.2%                   |
-**Total**      | **33,203**              | **100%**                |
+Person         | 11,715                  | 36.4                    | 
+Place          | 4,510                   | 14.0                    |
+Organization   | 1,080                   | 3.4                     |
+Proper Name    | 14,898                  | 46.2                    |
+**Total**      | **33,203**              | **100**                 |
 
 
 Total number of annotated tokens is 79,715 more details given in table below:
 
 **Entity Type**|**Number of Tokens**     |**Average per Annotation**|
 -------------- | ----------------------- | ------------------------ |
-Person         | 32,517                  | 2.8                      | 
+Person         | 32,644                  | 2.8                      | 
 Place          | 10,115                  | 2.2                      |
-Organization   | 4,775                   | 4.3                      |
-Proper Name    | 32,308                  | 2.2                      |
+Organization   | 4,641                   | 4.3                      |
+Proper Name    | 32,397                  | 2.1                      |
 **Total**      | **79,715**              | **2.7**                  |
