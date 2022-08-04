@@ -26,7 +26,7 @@ The dataset, that is the annotations are available in 2 formats:
                   Konstantin Todorov and
                   Charles Jeurgens and
                   Giovanni Colavizza and
-                  Leon van Wissen},\
+                  Leon van Wissen},
   title        = {Unsilencing Dutch Colonial Archives},
   month        = aug,
   year         = 2022,
