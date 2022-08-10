@@ -38,10 +38,10 @@ The dataset, that is the annotations are available in 2 formats:
 ```
 
 ## Annotation Typology
-Please refer to the documentation of the annotation typology [here](data/README.md)
+Please refer to the documentation of the annotation typology [here](data/README.md).
 
 ## Data Statement
-Please refer to the data statement of the annotated dataset here (coming soon)
+Please refer to the data statement of the annotated dataset [here](DataCard.pdf).
 
 # Code
 
