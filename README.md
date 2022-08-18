@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/388462045.svg)](https://zenodo.org/badge/latestdoi/388462045)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6958524.svg)](https://doi.org/10.5281/zenodo.6958524)
 
 # Unsilencing Dutch Colonial Archives via Automated Entity Recognition 
