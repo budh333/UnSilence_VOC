@@ -42,6 +42,7 @@ Please refer to the documentation of the annotation typology [here](data/README.
 
 ## Data Statement
 Please refer to the data statement of the annotated dataset [here](DataCard.pdf).
+This document provides a synopsis of the dataset, motivations and uses.
 
 # Code
 
