@@ -17,17 +17,19 @@ The dataset, that is the annotations are available in 2 formats:
 
 ## How To Cite
 
-* Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens, Giovanni Colavizza, and Leon van Wissen. 2022. “Unsilencing Colonial Archives via Automated Entity Recognition”. Zenodo. https://doi.org/10.5281/zenodo.6958430.
+* Mrinalini Luthra, Konstantin Todorov, Leon van Wissen, Charles Jeurgens and Giovanni Colavizza. 2022. “Unsilencing Colonial Archives via Automated Entity Recognition”. Zenodo. https://doi.org/10.5281/zenodo.6958430.
 
 ```bibtex
 
 @dataset{mrinalini_luthra_2022_6958430,
   author       = {Mrinalini Luthra and
                   Konstantin Todorov and
+                  Leon van Wissen and
                   Charles Jeurgens and
-                  Giovanni Colavizza and
-                  Leon van Wissen},
-  title        = {Unsilencing Dutch Colonial Archives},
+                  Giovanni Colavizza
+                  },
+  title        = {{Unsilencing Colonial Archives via Automated Entity 
+                   Recognition}},
   month        = aug,
   year         = 2022,
   publisher    = {Zenodo},
