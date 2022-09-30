@@ -43,7 +43,7 @@ The dataset, that is the annotations are available in 2 formats:
 Please refer to the documentation of the annotation typology [here](data/README.md).
 
 ## Data Card
-Please refer to the data statement of the annotated dataset [here](Datacard.pdf).
+Please refer to the data card of the annotated dataset [here](Datacard.pdf).
 This document provides a synopsis of the dataset, motivations and uses.
 
 # Code
