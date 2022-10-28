@@ -6,7 +6,7 @@ Colonial archives are at the center of increased interest from a variety of pers
 
 # Paper
 
-The associated paper is currently under peer review.
+The associated paper will be published in the Journal of Documentation’s special issue on _Artificial Intelligence for Cultural Heritage Materials_.
 
 # Data
 
