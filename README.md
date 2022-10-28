@@ -6,7 +6,8 @@ Colonial archives are at the center of increased interest from a variety of pers
 
 # Paper
 
-The associated paper will be published in the Journal of Documentation’s special issue on _Artificial Intelligence for Cultural Heritage Materials_.
+The associated paper will appear in the Journal of Documentation’s special issue on _Artificial Intelligence for Cultural Heritage Materials_.
+The post print can be found [here](https://arxiv.org/abs/2210.02194)
 
 # Data
 
