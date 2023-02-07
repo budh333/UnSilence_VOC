@@ -9,6 +9,21 @@ Colonial archives are at the center of increased interest from a variety of pers
 The associated paper has been published in the Journal of Documentation’s special issue on _Artificial Intelligence for Cultural Heritage Materials_ [here](https://www.emerald.com/insight/content/doi/10.1108/JD-02-2022-0038/full/html).
 The post print can be found [here](https://arxiv.org/abs/2210.02194).
 
+## How To Cite
+* Luthra, Mrinalini, Konstantin Todorov, Charles Jeurgens, and Giovanni Colavizza. "Unsilencing colonial archives via automated entity recognition." Journal of Documentation (2023).
+
+```bibtex
+@article{luthra2023unsilencing,
+  title={Unsilencing colonial archives via automated entity recognition},
+  author={Luthra, Mrinalini and Todorov, Konstantin and Jeurgens, Charles and Colavizza, Giovanni},
+  journal={Journal of Documentation},
+  year={2023},
+  publisher={Emerald Publishing Limited}
+}
+
+```
+
+
 # Data
 
 The dataset, that is the annotations are available in 2 formats:
