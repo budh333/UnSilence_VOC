@@ -29,8 +29,6 @@ from services.log_service import LogService
 
 from utils.dict_utils import stringify_dictionary
 
-from transformers import BertTokenizer
-
 class TrainService:
     def __init__(
             self,
