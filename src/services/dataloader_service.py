@@ -6,8 +6,6 @@ from typing import Tuple
 import torch
 from torch.utils.data import DataLoader
 
-from transformers import BertTokenizer
-
 from enums.run_type import RunType
 
 from services.arguments.arguments_service_base import ArgumentsServiceBase
